@@ -1,5 +1,5 @@
 # Rhythmancy: The Magic of Music
-A new 5e school of magic based on musical performance, and a list of spells utilizing this magic.
+A 5e school of magic based on musical performance, and a list of spells utilizing this magic.
 
 ## Resources
 
