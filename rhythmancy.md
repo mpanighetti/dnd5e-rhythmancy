@@ -267,7 +267,7 @@ If a creature casts a spell with a range of touch, its link can deliver the spel
 
 A linked creature can sever this magical link at any time, which ends the spell.
 
-#### Death's Departure
+#### [Death's Departure](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/deaths-departure.md)
 
 _4th-level abjuration/rhythmancy_
 
@@ -293,7 +293,7 @@ You and a partner play an uplifting duet, targeting a shared location within ran
 
 **At Higher Levels.** When you and your partner both cast this spell using spell slots of 3rd-level or higher, all creatures that gained the benefits of a short rest from this spell also gain a number of temporary hit points equal to twice the spells' combined levels; for example, if both spells are cast at 3rd-level, a creature gains 12 temporary hit points, or (3 + 3) × 2.
 
-#### Earth God's Lyric
+#### [Earth God's Lyric](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/earth-gods-lyric.md)
 
 _4th-level evocation/rhythmancy_
 
@@ -410,7 +410,7 @@ When you cast this spell, and on each of your turns for the spell's duration if 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th-level or higher, creatures cursed by this spell take an additional 1d6 necrotic damage for each spell slot above 5th.
 
-#### Minute Minuet
+#### [Minute Minuet](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/minute-minuet.md)
 
 _4th-level transmutation/rhythmancy_
 
@@ -436,7 +436,7 @@ _3rd-level abjuration/rhythmancy_
 - **Components:** V (functions even if you are in an area affected by magical silence), S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
 
-Until the spell ends, you create a sphere of healing energy that negates the effects of magical silence, such as the _silence_ spell, and the effects of magical darkness. The sphere moves with you. Creatures within this sphere are immune to magical silence and magical darkness, and can speak, hear, see, and cast spells normally. Any spells or magical effects causing silence or darkness are not dispelled, but they cannot affect any creatures within the negating sphere. If the negating sphere is contained competely within an area of magical silence or magical darkness, any such magical sound or light stops at the edge of the sphere and cannot travel in or out of it.
+Until the spell ends, you create a sphere of healing energy that negates the effects of magical silence, such as the _silence_ spell, and the effects of magical darkness. The sphere moves with you. Creatures within this sphere are immune to magical silence and magical darkness, and can speak, hear, see, and cast spells normally. Any spells or magical effects causing silence or darkness are not dispelled, but they cannot affect any creatures within the negating sphere. If the negating sphere is contained completely within an area of magical silence or magical darkness, any such magical sound or light stops at the edge of the sphere and cannot travel in or out of it.
 
 #### Oath to Order
 
@@ -599,7 +599,7 @@ If desired, you can alter the performance of the Song of Time to a related compo
 
 **Inverted Song of Time (5th-level or higher).** By playing the Song of Time in reverse, you anchor yourself to a moment in time, allowing yourself to complete more tasks in a short time period. Until the spell ends, your speed is doubled, you gain +2 to your AC, you have advantage on Dexterity saving throws, and you gain an additional action on each of your turns.
 
-#### Space Warp
+#### [Space Warp](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/space-warp.md)
 
 _4th-level conjuration/rhythmancy (ritual)_
 
@@ -672,7 +672,7 @@ For the duration of the spell, the image plays out the selected moment in real t
 
 Any number of times before the spell ends, as an action, you can spend an additional spell slot of any level to extend the spell's duration by a number of minutes equal to ten times the slot level.
 
-#### Wind God's Aria
+#### [Wind God's Aria](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/wind-gods-aria.md)
 
 _4th-level evocation/rhythmancy_
 
