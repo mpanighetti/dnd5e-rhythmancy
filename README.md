@@ -9,8 +9,8 @@ A 5e school of magic based on musical performance, and a list of spells utilizin
 
 ### Feats
 
-- Rhythmancy Adept
-- Rhythmancy Initiate
+- [Rhythmancy Adept](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-adept.md)
+- [Rhythmancy Initiate](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-initiate.md)
 
 ### Spells
 

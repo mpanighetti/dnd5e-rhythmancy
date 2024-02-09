@@ -131,15 +131,15 @@ The feats are presented in alphabetical order. If a feat has a prerequisite, you
 ##### Rhythmancy Feats By Level
 | Minimum Level |         Feat          |
 |:-------------:|:---------------------:|
-|     1st       |  Rhythmancy Initiate  |
-|     4th       |   Rhythmancy Adept    |
+|     1st       |  [Rhythmancy Initiate](#rhythmancy-initiate)  |
+|     4th       |   [Rhythmancy Adept](#rhythmancy-adept)    |
 
-#### Rhythmancy Adept
+#### [Rhythmancy Adept](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-adept.md)
 
 _4th-Level Feat_
 
-**Prerequisite:** Rhythmancy Initiate feat  
-**Repeatable:** No
+- **Prerequisite:** Rhythmancy Initiate feat  
+- **Repeatable:** No
 
 Your extended practice in channeling rhythmantic energies has granted you additional control and power:
 
@@ -147,12 +147,12 @@ Your extended practice in channeling rhythmantic energies has granted you additi
 - You learn two rhythmancy spells of 1st-level or lower of your choice, or one 2nd-level rhythmancy spell of your choice. Charisma is your spellcasting ability for spells cast using this feat.
 - You gain expertise in Performance checks, doubling your proficiency bonus for any ability check you make that uses this skill.
 
-#### Rhythmancy Initiate
+#### [Rhythmancy Initiate](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-initiate.md)
 
 _1st-Level Feat_
 
-**Prerequisite:** None  
-**Repeatable:** No
+- **Prerequisite:** None  
+- **Repeatable:** No
 
 You’ve begun studying the magic of rhythmantic songs:
 
