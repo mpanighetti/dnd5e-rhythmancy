@@ -427,7 +427,7 @@ While reduced in this manner, the target's speed is halved; it has disadvantage 
 
 The spell ends if you are unable to see the target.
 
-#### New Wave Bossa Nova
+#### [New Wave Bossa Nova](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/new-wave-bossa-nova.md)
 
 _3rd-level abjuration/rhythmancy_
 
@@ -453,7 +453,7 @@ Until the spell ends, as an action, you can target a creature or object within 3
 
 Manipulating gravity and mass in this manner takes a physical toll on your body. Each time you attempt to repel a creature, at the end of your turn, you must succeed on a Constitution saving throw contested by your own spell save DC or suffer one level of exhaustion.
 
-#### Peaceful Lullaby
+#### [Peaceful Lullaby](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/peaceful-lullaby.md)
 
 _3rd-level enchantment/rhythmancy_
 
@@ -481,7 +481,7 @@ Each time the creature takes damage (except from this spell's effects), it can r
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th-level or higher, the duration increases to 1 day (7th-level), 30 days (8th-level), or 1 year (9th-level), and the psychic damage dealt when the creature can see you increases by 1d10 for each spell slot level above 6th. Additionally, when you cast this spell at 8th-level or higher, the creature can no longer repeat its saving throws when it takes damage.
 
-#### Royal Duet
+#### [Royal Duet](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/royal-duet.md)
 
 _3rd-level evocation/rhythmancy (duet)_
 
@@ -657,7 +657,7 @@ Any such spell with a spell level equal to or less than the level of the spell s
 
 For each spell of a level higher than the level of the spell slot you used with a temporal effect on the target, make an ability check using your spellcasting ability. The DC equals twice the spell's level. On a successful check, the spell's effect on the target ends.
 
-#### Tune of Echoes
+#### [Tune of Echoes](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/tune-of-echoes.md)
 
 _3rd-level divination/rhythmancy (ritual)_
 
@@ -689,7 +689,7 @@ As long as you are not touching the ground, the air pulses around your body, gra
 
 If you are successfully forced to the ground against your will for 1 minute or longer, the spell ends.
 
-#### Wind's Requiem
+#### [Wind's Requiem](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/winds-requiem.md)
 
 _3rd-level conjuration/rhythmancy (ritual)_
 
