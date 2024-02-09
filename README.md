@@ -5,7 +5,7 @@ A 5e school of magic based on musical performance, and a list of spells utilizin
 
 ### Full Text
 
-- TBD
+- [Rhythmancy: The Magic of Music](rhythmancy.md)
 
 ### Spells
 
