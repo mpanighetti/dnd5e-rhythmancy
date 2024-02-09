@@ -224,7 +224,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 
 The spells are presented in alphabetical order.
 
-#### Ballad of Gales
+#### [Ballad of Gales](https://github.com/mpanighetti/dnd5e-spells/blob/main/8th-level/ballad-of-gales.md)
 
 _8th-level conjuration/rhythmancy_
 
@@ -344,7 +344,7 @@ If your companion is mistreated or harmed by you or any of your allies, or at th
 
 **At Higher Levels.** When you cast this spell to summon your companion using a Spell Slot of 2nd-level or higher, they gain a number of Temporary Hit Points equal to five times the Spell Slot level.
 
-#### Frog's Song of Soul
+#### [Frog's Song of Soul](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/frogs-song-of-soul.md)
 
 _4th-level necromancy/rhythmancy_
 
@@ -395,7 +395,7 @@ You play a song to yourself that stirs old memories of a childhood friend. Until
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd-level or higher, the duration increases to a number of hours equal to the spell slot level. Additionally, until the spell ends, if magical effects cause you to become lost, as an action, you can attempt to identify a valid route to take for a specific intended destination on the same plane of existence as you. Make a spellcasting ability check contested by a DC equal to 10 + the other spell's level (or DC 15 if caused by another magical effect). On a success, the magical effects obfuscating your travel are suppressed for the duration of the spell, during which time the shortest and most direct route to your destination (but not necessarily the safest route) is drawn out as a spectral golden wire on the ground. On a failed check, the spell ends immediately.
 
-#### Melody of Darkness
+#### [Melody of Darkness](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/melody-of-darkness.md)
 
 _5th-level necromancy/rhythmancy_
 
@@ -438,7 +438,7 @@ _3rd-level abjuration/rhythmancy_
 
 Until the spell ends, you create a sphere of healing energy that negates the effects of magical silence, such as the _silence_ spell, and the effects of magical darkness. The sphere moves with you. Creatures within this sphere are immune to magical silence and magical darkness, and can speak, hear, see, and cast spells normally. Any spells or magical effects causing silence or darkness are not dispelled, but they cannot affect any creatures within the negating sphere. If the negating sphere is contained completely within an area of magical silence or magical darkness, any such magical sound or light stops at the edge of the sphere and cannot travel in or out of it.
 
-#### Oath to Order
+#### [Oath to Order](https://github.com/mpanighetti/dnd5e-spells/blob/main/8th-level/oath-to-order.md)
 
 _8th-level abjuration/rhythmancy_
 
@@ -466,7 +466,7 @@ You play a gentle melody in an attempt to lull a creature that can hear you in r
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, for each spell slot above 3rd, the duration increases by 1 hour, and you can target an additional creature.
 
-#### The River Devil's Lament
+#### [The River Devil's Lament](https://github.com/mpanighetti/dnd5e-spells/blob/main/6th-level/the-river-devils-lament.md)
 
 _6th-level enchantment/rhythmancy_
 
@@ -531,7 +531,7 @@ _2nd-level divination/rhythmancy (ritual)_
 
 You perform a tune that disrupts any concealing magic in the vicinity. Until the spell ends, as an action, you can attempt to reveal invisible creatures and objects within your spell's area of effect. Make a spellcasting ability check. If there is a spell causing invisibility in your spell's area of effect, the DC equals 10 + the most powerful such spell's level in the area, or if the only invisibility present is caused by another magical effect, the DC is 15. On a success, all magical invisibility in the area of effect is dispelled, and this spell ends immediately. On a failure, or if there is no such magical invisibility nearby, your spell continues, but you gain no special insight into whether this outcome occurred due to failing the check or no viable invisible creatures or objects being nearby.
 
-#### Song of Healing
+#### [Song of Healing](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/song-of-healing.md)
 
 _5th-level evocation/rhythmancy_
 
@@ -548,7 +548,7 @@ The healing energy attempts to soothe the restless undead and allow them to move
 
 When you cast this spell using a spell slot of 7th-level or higher, the spell also ends all curses affecting creatures healed by this spell. If any of those creatures are attuned to a cursed magic item, its curse remains, but the spell breaks its owner's attunement to the object so it can be removed or discarded.
 
-#### Song of Passing
+#### [Song of Passing](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/song-of-passing.md)
 
 _5th-level illusion/rhythmancy_
 
@@ -625,7 +625,7 @@ A Medium-sized inanimate scarecrow appears anchored to the ground in an unoccupi
 
 The scarecrow can act as a target for a thrown grappling hook or similar equipment, and it can support up to 500 pounds of weight. It disappears when you cast this spell again.
 
-#### Tune of Ages
+#### [Tune of Ages](https://github.com/mpanighetti/dnd5e-spells/blob/main/7th-level/tune-of-ages.md)
 
 _7th-level conjuration/rhythmancy_
 
@@ -638,7 +638,7 @@ You and up to eight willing creatures within range are removed from your current
 
 To cast this spell, you must either currently be holding a magic item or include a willing creature who exists in the time period you wish to reach in the spell's range, and you must be aware of the time period within one year of accuracy.
 
-#### Tune of Currents
+#### [Tune of Currents](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/tune-of-currents.md)
 
 _5th-level abjuration/rhythmancy_
 
