@@ -82,13 +82,13 @@ If you discover a new rhythmancy spell in your travels, you are eligible to lear
 
 ### Other Features and Traits
 
-When a rhythmancy spell of 1st level or higher is being cast in place of another spell granted by a feature or trait, you choose the spell you are replacing with a rhythmancy spell each time you cast it.
+When a rhythmancy spell of 1st-level or higher is being cast in place of another spell granted by a feature or trait, you choose the spell you are replacing with a rhythmancy spell each time you cast it.
 
 If the casting of a spell using such features is subject to special rules and limitations, apply these rules using the guidelines below:
 
 #### Discipline Points
 
-If a monk feature requires spending discipline points (sometimes called "ki points") to cast a spell of 1st level or higher, the cost of casting a rhythmancy spell is a number of discipline points equal to 1 + the spell's level. For example, casting _Song of Storms_ using the Empty Body feature would require spending 3 discipline points.
+If a monk feature requires spending discipline points (sometimes called "ki points") to cast a spell of 1st-level or higher, the cost of casting a rhythmancy spell is a number of discipline points equal to 1 + the spell's level. For example, casting _Song of Storms_ using the Empty Body feature would require spending 3 discipline points.
 
 Additional discipline points can be spent to cast the spell at a higher level at 1 discipline point per level increase, as long as you already have the ability to cast a spell at that level using discipline points.
 
@@ -96,9 +96,9 @@ Additional discipline points can be spent to cast the spell at a higher level at
 
 If the feature or trait requires spending from a limited number of charges to cast spells, casting a rhythmancy spell costs the same as another spell of the same level or higher.
 
-If the feature or trait allows casting spells of 1st level or higher once before requiring a rest to recharge (such as the Infernal Legacy trait), the rhythmancy spell can be selected in place of the existing spell options, expending the spell use as if it were the existing spell.
+If the feature or trait allows casting spells of 1st-level or higher once before requiring a rest to recharge (such as the Infernal Legacy trait), the rhythmancy spell can be selected in place of the existing spell options, expending the spell use as if it were the existing spell.
 
-If the feature or trait allows casting a spell of 1st level or higher an unlimited number of times, you can choose to cast a rhythmancy spell of the same spell level or lower once with this trait. Once you cast it, you can't do so again until you finish a long rest, but you can continue to use the default spell from this trait as normal.
+If the feature or trait allows casting a spell of 1st-level or higher an unlimited number of times, you can choose to cast a rhythmancy spell of the same spell level or lower once with this trait. Once you cast it, you can't do so again until you finish a long rest, but you can continue to use the default spell from this trait as normal.
 
 #### Spell Limitations
 
@@ -173,21 +173,21 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 - [The Hawk's Call](#the-hawks-call) (evocation/rhythmancy)
 - [Royal Lullaby](#royal-lullaby) (enchantment/rhythmancy)
 
-##### 1st Level
+##### 1st-level
 - Equine Tribute (conjuration/rhythmancy)
 - The Lost is Found (divination/rhythmancy, ritual)
 - Song of Storms (evocation/rhythmancy)
 - Song of Time[^†] (abjuration/rhythmancy)
 - Summoning of the Scarecrow (conjuration/rhythmancy)
 
-##### 2nd Level
+##### 2nd-level
 - Command Melody (conjuration/rhythmancy, ritual)
 - Duet of Restoration (evocation/rhythmancy, duet)
 - Elegy of Emptiness (conjuration/rhythmancy)
 - Sonata of Awakening (abjuration/rhythmancy)
 - Song of Discovery (divination/rhythmancy, ritual)
 
-##### 3rd Level
+##### 3rd-level
 - New Wave Bossa Nova (abjuration/rhythmancy)
 - Peaceful Lullaby (enchantment/rhythmancy)
 - Royal Duet (evocation/rhythmancy, duet)
@@ -195,7 +195,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 - Tune of Echoes (divination/rhythmancy, ritual)
 - Wind's Requiem (conjuration/rhythmancy, ritual)
 
-##### 4th Level
+##### 4th-level
 - Death's Departure (abjuration/rhythmancy)
 - Earth God's Lyric (evocation/rhythmancy)
 - Frog's Song of Soul (necromancy/rhythmancy)
@@ -203,20 +203,20 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 - Space Warp (conjuration/rhythmancy, ritual)
 - Wind God's Aria (evocation/rhythmancy)
 
-##### 5th Level
+##### 5th-level
 - Inverted Song of Time[^†] (abjuration/rhythmancy)
 - Melody of Darkness (necromancy/rhythmancy)
 - Song of Healing (evocation/rhythmancy)
 - Song of Passing (illusion/rhythmancy)
 - Tune of Currents (abjuration/rhythmancy)
 
-##### 6th Level
+##### 6th-level
 - The River Devil's Lament (enchantment/rhythmancy)
 
-##### 7th Level
+##### 7th-level
 - Tune of Ages (conjuration/rhythmancy)
 
-##### 8th Level
+##### 8th-level
 - Ballad of Gales (conjuration/rhythmancy)
 - Oath to Order (abjuration/rhythmancy)
 
@@ -291,7 +291,7 @@ _2nd-level evocation/rhythmancy (duet)_
 
 You and a partner play an uplifting duet, targeting a shared location within range. When the spell finishes casting, any creatures that remained within the spells' area of effect for the entire casting and were able to hear the entire composition gain the benefits of a short rest. A creature must complete a long rest before it can gain this benefit from this song again.
 
-**At Higher Levels.** When you and your partner both cast this spell using spell slots of 3rd level or higher, all creatures that gained the benefits of a short rest from this spell also gain a number of temporary hit points equal to twice the spells' combined levels; for example, if both spells are cast at 3rd level, a creature gains 12 temporary hit points, or (3 + 3) × 2.
+**At Higher Levels.** When you and your partner both cast this spell using spell slots of 3rd-level or higher, all creatures that gained the benefits of a short rest from this spell also gain a number of temporary hit points equal to twice the spells' combined levels; for example, if both spells are cast at 3rd-level, a creature gains 12 temporary hit points, or (3 + 3) × 2.
 
 #### Earth God's Lyric
 
@@ -342,7 +342,7 @@ When you cast this spell and already have a companion, instead of making a new c
 
 If your companion is mistreated or harmed by you or any of your allies, or at their own discretion, they can choose to end their companionship to you, and you can similarly end this companionship at any time. If you already have a companion and target a new creature with this spell, the previous companionship ends. Otherwise, the companionship lasts until you or your companion dies.
 
-**At Higher Levels.** When you cast this spell to summon your companion using a Spell Slot of 2nd level or higher, they gain a number of Temporary Hit Points equal to five times the Spell Slot level.
+**At Higher Levels.** When you cast this spell to summon your companion using a Spell Slot of 2nd-level or higher, they gain a number of Temporary Hit Points equal to five times the Spell Slot level.
 
 #### Frog's Song of Soul
 
@@ -380,7 +380,7 @@ _Evocation/rhythmancy cantrip_
 
 You play a series of sharp tones evoking the piercing cry of a bird of prey, summoning a spectral bird to slash its talons at a creature of your choice that you can see within range. The bird can take whatever form you choose, then makes a melee spell attack against the target. On a hit, the bird deals 1d4 piercing damage, and the target has disadvantage on Perception checks and Dexterity saving throws it makes before the end of its next turn as the bird flies in its face to distract it. On a miss, or at the start of your next turn, the bird disappears, ending the spell.
 
-The spell creates more than one bird when you reach higher levels: two birds at 5th level, three birds at 11th level, and four birds at 17th level. You can direct the birds at the same target or at different ones. Make a separate attack roll for each bird. The spell ends at the start of your next turn or if all the birds disappear.
+The spell creates more than one bird when you reach higher levels: two birds at 5th-level, three birds at 11th level, and four birds at 17th-level. You can direct the birds at the same target or at different ones. Make a separate attack roll for each bird. The spell ends at the start of your next turn or if all the birds disappear.
 
 #### The Lost is Found
 
@@ -393,7 +393,7 @@ _1st-level divination/rhythmancy (ritual)_
 
 You play a song to yourself that stirs old memories of a childhood friend. Until the spell ends, while you are traveling or exploring within the same environment you were in when casting the spell, you can’t become lost except by magical means.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the duration increases to a number of hours equal to the spell slot level. Additionally, until the spell ends, if magical effects cause you to become lost, as an action, you can attempt to identify a valid route to take for a specific intended destination on the same plane of existence as you. Make a spellcasting ability check contested by a DC equal to 10 + the other spell's level (or DC 15 if caused by another magical effect). On a success, the magical effects obfuscating your travel are suppressed for the duration of the spell, during which time the shortest and most direct route to your destination (but not necessarily the safest route) is drawn out as a spectral golden wire on the ground. On a failed check, the spell ends immediately.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd-level or higher, the duration increases to a number of hours equal to the spell slot level. Additionally, until the spell ends, if magical effects cause you to become lost, as an action, you can attempt to identify a valid route to take for a specific intended destination on the same plane of existence as you. Make a spellcasting ability check contested by a DC equal to 10 + the other spell's level (or DC 15 if caused by another magical effect). On a success, the magical effects obfuscating your travel are suppressed for the duration of the spell, during which time the shortest and most direct route to your destination (but not necessarily the safest route) is drawn out as a spectral golden wire on the ground. On a failed check, the spell ends immediately.
 
 #### Melody of Darkness
 
@@ -408,7 +408,7 @@ You play a disturbing tune that drains the life energy of its listeners. All cre
 
 When you cast this spell, and on each of your turns for the spell's duration if you use your action, all creatures cursed by this spell that can hear you take 5d6 necrotic damage.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, creatures cursed by this spell take an additional 1d6 necrotic damage for each spell slot above 5th.
+**At Higher Levels.** When you cast this spell using a spell slot of 6th-level or higher, creatures cursed by this spell take an additional 1d6 necrotic damage for each spell slot above 5th.
 
 #### Minute Minuet
 
@@ -464,7 +464,7 @@ _3rd-level enchantment/rhythmancy_
 
 You play a gentle melody in an attempt to lull a creature that can hear you in range. The target must succeed on a Wisdom saving throw or fall asleep and remain unconscious until the spell ends, it takes damage, or another creature takes an action to wake it. Constructs and undead automatically succeed on this saving throw.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, for each spell slot above 3rd, the duration increases by 1 hour, and you can target an additional creature.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, for each spell slot above 3rd, the duration increases by 1 hour, and you can target an additional creature.
 
 #### The River Devil's Lament
 
@@ -479,7 +479,7 @@ You recite the tale of an ancient hero who drove away a great evil, in order to 
 
 Each time the creature takes damage (except from this spell's effects), it can repeat its saving throw, ending its curse on a success. You can additionally choose to end the curse by using an action to dismiss the spell. Otherwise, the creature remains cursed for the duration of the spell.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the duration increases to 1 day (7th level), 30 days (8th level), or 1 year (9th level), and the psychic damage dealt when the creature can see you increases by 1d10 for each spell slot level above 6th. Additionally, when you cast this spell at 8th level or higher, the creature can no longer repeat its saving throws when it takes damage.
+**At Higher Levels.** When you cast this spell using a spell slot of 7th-level or higher, the duration increases to 1 day (7th-level), 30 days (8th-level), or 1 year (9th-level), and the psychic damage dealt when the creature can see you increases by 1d10 for each spell slot level above 6th. Additionally, when you cast this spell at 8th-level or higher, the creature can no longer repeat its saving throws when it takes damage.
 
 #### Royal Duet
 
@@ -492,7 +492,7 @@ _3rd-level evocation/rhythmancy (duet)_
 
 You and a partner play an empowering duet, targeting a shared location within range. When the spell finishes casting, any creatures who remained within the spells' area of effect for the entire casting and were able to hear the entire composition have advantage on a single d20 test of their choice that they make within the spells' duration.
 
-**At Higher Levels.** When you and your partner both cast this spell using spell slots of 4th level or higher, for each spell level above 3rd, all creatures who gained advantage on a d20 test also gain a +1 to the roll. If the spells are cast at different levels, use the lower of the two levels. For example, if the spell is cast using a 5th level and a 6th level spell slot, creatures would gain the bonus from the 5th level spell slot, which would be a +2 to their roll.
+**At Higher Levels.** When you and your partner both cast this spell using spell slots of 4th-level or higher, for each spell level above 3rd, all creatures who gained advantage on a d20 test also gain a +1 to the roll. If the spells are cast at different levels, use the lower of the two levels. For example, if the spell is cast using a 5th-level and a 6th-level spell slot, creatures would gain the bonus from the 5th-level spell slot, which would be a +2 to their roll.
 
 #### [Royal Lullaby](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/royal-lullaby.md)
 
@@ -505,7 +505,7 @@ _Enchantment/rhythmancy cantrip_
 
 Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to be proficient in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
 
-Your temporary proficiency in these Charisma checks is further strengthened when you reach higher levels: your proficiency bonus is doubled at 5th level, tripled at 11th level, and quadrupled at 17th level.
+Your temporary proficiency in these Charisma checks is further strengthened when you reach higher levels: your proficiency bonus is doubled at 5th-level, tripled at 11th level, and quadrupled at 17th-level.
 
 #### Sonata of Awakening
 
@@ -518,7 +518,7 @@ _2nd-level abjuration/rhythmancy_
 
 You stir slumbering creatures with rousing music. When you cast this spell, choose up to three creatures within range under the effect of magical sleep that can hear you. The targets, as well as all other naturally unconscious creatures within range that can hear you, immediately regain consciousness. Until the spell ends, magic can't put creatures within range to sleep, as long as they can still hear you.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd-level or higher, you can target one additional creature for each slot level above 2nd.
 
 #### Song of Discovery
 
@@ -544,9 +544,9 @@ You channel healing energies through soothing music. All creatures that remain w
 
 The healing energy attempts to soothe the restless undead and allow them to move on from this world. Each undead creature within the spell's area of effect when it is finished casting must make a Wisdom saving throw (it can choose to fail this save). On a failed save, the creature is reduced to 0 hit points, its spirit moves on to the afterlife, and its remains are destroyed in a burst of radiant fire. Creatures that are immune to being turned are not affected by this spell.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d10 for each slot level above 5th.
+**At Higher Levels.** When you cast this spell using a spell slot of 6th-level or higher, the healing increases by 1d10 for each slot level above 5th.
 
-When you cast this spell using a spell slot of 7th level or higher, the spell also ends all curses affecting creatures healed by this spell. If any of those creatures are attuned to a cursed magic item, its curse remains, but the spell breaks its owner's attunement to the object so it can be removed or discarded.
+When you cast this spell using a spell slot of 7th-level or higher, the spell also ends all curses affecting creatures healed by this spell. If any of those creatures are attuned to a cursed magic item, its curse remains, but the spell breaks its owner's attunement to the object so it can be removed or discarded.
 
 #### Song of Passing
 
@@ -591,13 +591,13 @@ _1st-level abjuration/rhythmancy_
 
 You adjust the flow of time around you, granting you the ability to correct a recent mistake. Until this spell ends, if you fail on an attack roll, ability check, or saving throw, as a reaction, you can immediately roll a d20 and take the greater of the two results. The first time you fail a check using this spell effect, the spell ends.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the duration increases to a number of hours equal to half the spell's level.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd-level or higher, the duration increases to a number of hours equal to half the spell's level.
 
-If desired, you can alter the performance of the Song of Time to a related composition to create one of the following effects, which replace the spell's normal 1st level effects:
+If desired, you can alter the performance of the Song of Time to a related composition to create one of the following effects, which replace the spell's normal 1st-level effects:
 
-**Song of Double Time (3rd level or higher).** By playing the Song of Time twice as fast, you move yourself to a moment in the near future, bypassing current events. Select any moment in time in the future up to the end of the spell's duration. You temporarily vanish from existence. At the moment in time you selected when casting the spell, you reappear in the same space from where you vanished, or in the nearest location if that space is occupied. From your perspective, no time has passed. When you reappear, the spell ends.
+**Song of Double Time (3rd-level or higher).** By playing the Song of Time twice as fast, you move yourself to a moment in the near future, bypassing current events. Select any moment in time in the future up to the end of the spell's duration. You temporarily vanish from existence. At the moment in time you selected when casting the spell, you reappear in the same space from where you vanished, or in the nearest location if that space is occupied. From your perspective, no time has passed. When you reappear, the spell ends.
 
-**Inverted Song of Time (5th level or higher).** By playing the Song of Time in reverse, you anchor yourself to a moment in time, allowing yourself to complete more tasks in a short time period. Until the spell ends, your speed is doubled, you gain +2 to your AC, you have advantage on Dexterity saving throws, and you gain an additional action on each of your turns.
+**Inverted Song of Time (5th-level or higher).** By playing the Song of Time in reverse, you anchor yourself to a moment in time, allowing yourself to complete more tasks in a short time period. Until the spell ends, your speed is doubled, you gain +2 to your AC, you have advantage on Dexterity saving throws, and you gain an additional action on each of your turns.
 
 #### Space Warp
 
@@ -610,7 +610,7 @@ _4th-level conjuration/rhythmancy (ritual)_
 
 You play a prolonged melody, targeting a willing creature you can see within range and concentrating on a location where the target creature previously was unconscious, including due to normal or magical sleep. Space then shifts around the target creature, causing it to teleport to a safe location on the outskirts or outside the entrance to your destination.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can teleport an additional willing creature you can see within range to the destination for each slot level above 5th level. When multiple creatures are targeted by this spell, you can choose a destination where any of the target creatures were unconscious, and the casting time increases by 10 minutes for each additional creature you target beyond the first.
+**At Higher Levels.** When you cast this spell using a spell slot of 5th-level or higher, you can teleport an additional willing creature you can see within range to the destination for each slot level above 5th-level. When multiple creatures are targeted by this spell, you can choose a destination where any of the target creatures were unconscious, and the casting time increases by 10 minutes for each additional creature you target beyond the first.
 
 #### Summoning of the Scarecrow
 
@@ -702,6 +702,6 @@ You create an unnatural strong wind at your back, overriding any existing wind d
 
 While concentrating on this spell, as an action, you can attempt to channel this magical wind to carry yourself and jump up to your jumping distance without using any movement. Make a Strength (Athletics) or Dexterity (Acrobatics) check and add your spellcasting ability modifier, contested by a DC equal to one-sixth the number of feet you are attempting to jump (minimum DC 10, maximum DC 25). On a success, if there is level ground with enough space to accommodate you, you land safely at your intended destination. If there is insufficient space to land safely at your intended jump distance, you fall short in a safe space of your choice. On a failure, or if there is no eligible space to land safely in your path, your jump falls short a number of feet equal to your Athletics or Acrobatics check, and you fall prone. Whether you succeed or fail, the spell ends immediately.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, your jumping distance is multiplied by the spell slot number. For example, casting this spell at 4th level would cause your jumping distance to be quadrupled.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, your jumping distance is multiplied by the spell slot number. For example, casting this spell at 4th-level would cause your jumping distance to be quadrupled.
 
 [^†]: The root composition is the Song of Time.
