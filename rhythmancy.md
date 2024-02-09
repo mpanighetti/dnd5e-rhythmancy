@@ -169,9 +169,9 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 ### Rhythmancy Spell List
 
 ##### Cantrips
-- Ballad of the Dreamer (abjuration/rhythmancy)
-- The Hawk's Call (evocation/rhythmancy)
-- Royal Lullaby (enchantment/rhythmancy)
+- [Ballad of the Dreamer](#ballad-of-the-dreamer) (abjuration/rhythmancy)
+- [The Hawk's Call](#the-hawks-call) (evocation/rhythmancy)
+- [Royal Lullaby](#royal-lullaby) (enchantment/rhythmancy)
 
 ##### 1st Level
 - Equine Tribute (conjuration/rhythmancy)
