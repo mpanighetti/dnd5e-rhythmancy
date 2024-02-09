@@ -250,7 +250,7 @@ _Abjuration/rhythmancy cantrip_
 
 You play a soothing melody that conjures strange memories of a dream-like world. Until the spell ends, magic can't put you to sleep.
 
-#### Command Melody
+#### [Command Melody](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/command-melody.md)
 
 _2nd-level conjuration/rhythmancy (ritual)_
 
@@ -280,7 +280,7 @@ You perform a melody that repels the walking dead from your immediate vicinity. 
 
 On each of your turns, you must use your action to continue playing the song. The spell ends if you use your action to do anything else.
 
-#### Duet of Restoration
+#### [Duet of Restoration](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/duet-of-restoration.md)
 
 _2nd-level evocation/rhythmancy (duet)_
 
@@ -312,7 +312,7 @@ If a creature attempts to teleport or planeshift you against your will and they 
 
 If you are moved, teleported, or planeshifted against your will, this spell's effects are suspended until the relocation is complete, after which you are once again tethered to whatever ground you are touching. If you are successfully separated from the ground against your will for 1 minute or longer, the spell ends.
 
-#### Elegy of Emptiness
+#### [Elegy of Emptiness](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/elegy-of-emptiness.md)
 
 _2nd-level conjuration/rhythmancy_
 
@@ -507,7 +507,7 @@ Playing this soothing melody historically indicated a connection to the royal fa
 
 Your temporary proficiency in these Charisma checks is further strengthened when you reach higher levels: your proficiency bonus is doubled at 5th-level, tripled at 11th level, and quadrupled at 17th-level.
 
-#### Sonata of Awakening
+#### [Sonata of Awakening](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/sonata-of-awakening.md)
 
 _2nd-level abjuration/rhythmancy_
 
@@ -520,7 +520,7 @@ You stir slumbering creatures with rousing music. When you cast this spell, choo
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd-level or higher, you can target one additional creature for each slot level above 2nd.
 
-#### Song of Discovery
+#### [Song of Discovery](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/song-of-discovery.md)
 
 _2nd-level divination/rhythmancy (ritual)_
 
