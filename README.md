@@ -7,6 +7,11 @@ A 5e school of magic based on musical performance, and a list of spells utilizin
 
 - [Rhythmancy: The Magic of Music](rhythmancy.md)
 
+### Feats
+
+- Rhythmancy Adept
+- Rhythmancy Initiate
+
 ### Spells
 
 #### Cantrips
@@ -17,39 +22,52 @@ A 5e school of magic based on musical performance, and a list of spells utilizin
 
 #### 1st-level
 
-- TBD
+- Equine Tribute (conjuration/rhythmancy)
+- The Lost is Found (diviniation/rhythmancy, ritual)
+- Song of Storms (evocation/rhythmancy)
+- Song of Time (abjuration/rhythmancy)
+- Summoning of the Scarecrow (conjuration/rhythmancy)
 
 #### 2nd-level
 
-- TBD
+- Command Melody (conjuration/rhythmancy, ritual)
+- Duet of Restoration (evocation/rhythmancy, duet)
+- Elegy of Emptiness (conjuration/rhythmancy)
+- Sonata of Awakening (abjuration/rhythmancy)
+- Song of Discovery (divination/rhythmancy, ritual)
 
 #### 3rd-level
-
-- TBD
+- New Wave Bossa Nova (abjuration/rhythmancy)
+- Peaceful Lullaby (enchantment/rhythmancy)
+- Royal Duet (evocation/rhythmancy, duet)
+- Song of Double Time (abjuration/rhythmancy)
+- Tune of Echoes (divination/rhythmancy, ritual)
+- Wind's Requiem (conjuration/rhythmancy, ritual)
 
 #### 4th-level
-
-- TBD
+- Death's Departure (abjuration/rhythmancy)
+- Earth God's Lyric (evocation/rhythmancy)
+- Frog's Song of Soul (necromancy/rhythmancy)
+- Minute Minuet (transmutation/rhythmancy)
+- Space Warp (conjuration/rhythmancy, ritual)
+- Wind God's Aria (evocation/rhythmancy)
 
 #### 5th-level
-
-- TBD
+- Inverted Song of Time (abjuration/rhythmancy)
+- Melody of Darkness (necromancy/rhythmancy)
+- Song of Healing (evocation/rhythmancy)
+- Song of Passing (illusion/rhythmancy)
+- Tune of Currents (abjuration/rhythmancy)
 
 #### 6th-level
-
-- TBD
+- The River Devil's Lament (enchantment/rhythmancy)
 
 #### 7th-level
+- Tune of Ages (conjuration/rhythmancy)
 
-- TBD
- 
 #### 8th-level
-
-- TBD
-
-#### 9th-level
-
-- TBD
+- Ballad of Gales (conjuration/rhythmancy)
+- Oath to Order (abjuration/rhythmancy)
 
 ## Credits
 

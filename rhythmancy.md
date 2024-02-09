@@ -78,7 +78,7 @@ When you cast a rhythmancy spell learned through the Spellcasting or Pact Magic 
 
 If you have rhythmancy points from any source, you can cast any rhythmancy spell you know by spending a number of rhythmancy points equal to the spell's level. Additional rhythmancy points can be spent to cast the spell at a higher level at a cost of 1 rhythmancy point per level increase. You regain all spent rhythmancy points from all sources when you finish a long rest.
 
-If you discover a new rhythmancy spell in your travels, you are eligible to learn the song if your total possible rhythmancy points are equal to or greater than the spell's level. For example, if you take both the Rhythmancy Initiate and Rhythmancy Adept feats, you have 3 rhythmancy points and thus are eligible to learn rhythmancy spells up to 3rd level.
+If you discover a new rhythmancy spell in your travels, you are eligible to learn the song if your total possible rhythmancy points are equal to or greater than the spell's level. For example, if you take both the Rhythmancy Initiate and Rhythmancy Adept feats, you have 3 rhythmancy points and thus are eligible to learn rhythmancy spells up to 3rd-level.
 
 ### Other Features and Traits
 
@@ -137,10 +137,10 @@ The feats are presented in alphabetical order. If a feat has a prerequisite, you
 #### Rhythmancy Adept
 
 _4th-Level Feat_
-:
+
 **Prerequisite:** Rhythmancy Initiate feat  
 **Repeatable:** No
-:
+
 Your extended practice in channeling rhythmantic energies has granted you additional control and power:
 
 - You gain 2 rhythmancy points to spend on casting rhythmancy spells. These points are added to any rhythmancy points you have from another source.
@@ -150,10 +150,10 @@ Your extended practice in channeling rhythmantic energies has granted you additi
 #### Rhythmancy Initiate
 
 _1st-Level Feat_
-:
+
 **Prerequisite:** None  
 **Repeatable:** No
-:
+
 You’ve begun studying the magic of rhythmantic songs:
 
 - You gain 1 rhythmancy point to spend on casting rhythmancy spells. This point is added to any rhythmancy points you have from another source.
@@ -177,7 +177,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 - Equine Tribute (conjuration/rhythmancy)
 - The Lost is Found (divination/rhythmancy, ritual)
 - Song of Storms (evocation/rhythmancy)
-- Song of Time † (abjuration/rhythmancy)
+- Song of Time[^†] (abjuration/rhythmancy)
 - Summoning of the Scarecrow (conjuration/rhythmancy)
 
 ##### 2nd Level
@@ -191,7 +191,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 - New Wave Bossa Nova (abjuration/rhythmancy)
 - Peaceful Lullaby (enchantment/rhythmancy)
 - Royal Duet (evocation/rhythmancy, duet)
-- Song of Double Time † (abjuration/rhythmancy)
+- Song of Double Time[^†] (abjuration/rhythmancy)
 - Tune of Echoes (divination/rhythmancy, ritual)
 - Wind's Requiem (conjuration/rhythmancy, ritual)
 
@@ -204,7 +204,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 - Wind God's Aria (evocation/rhythmancy)
 
 ##### 5th Level
-- Inverted Song of Time † (abjuration/rhythmancy)
+- Inverted Song of Time[^†] (abjuration/rhythmancy)
 - Melody of Darkness (necromancy/rhythmancy)
 - Song of Healing (evocation/rhythmancy)
 - Song of Passing (illusion/rhythmancy)
@@ -703,3 +703,5 @@ You create an unnatural strong wind at your back, overriding any existing wind d
 While concentrating on this spell, as an action, you can attempt to channel this magical wind to carry yourself and jump up to your jumping distance without using any movement. Make a Strength (Athletics) or Dexterity (Acrobatics) check and add your spellcasting ability modifier, contested by a DC equal to one-sixth the number of feet you are attempting to jump (minimum DC 10, maximum DC 25). On a success, if there is level ground with enough space to accommodate you, you land safely at your intended destination. If there is insufficient space to land safely at your intended jump distance, you fall short in a safe space of your choice. On a failure, or if there is no eligible space to land safely in your path, your jump falls short a number of feet equal to your Athletics or Acrobatics check, and you fall prone. Whether you succeed or fail, the spell ends immediately.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, your jumping distance is multiplied by the spell slot number. For example, casting this spell at 4th level would cause your jumping distance to be quadrupled.
+
+[^†]: The root composition is the Song of Time.
