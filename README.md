@@ -9,16 +9,16 @@ A 5e school of magic based on musical performance, and a list of spells utilizin
 
 ### Feats
 
-- [Rhythmancy Adept](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-adept.md)
-- [Rhythmancy Initiate](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-initiate.md)
+- [Rhythmancy Adept](rhythmancy.md#rhythmancy-adept)
+- [Rhythmancy Initiate](rhythmancy.md#rhythmancy-initiate)
 
 ### Spells
 
 #### Cantrips
 
-- [Ballad of the Dreamer](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/ballad-of-the-dreamer.md) (abjuration/rhythmancy)
-- [The Hawk's Call](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/the-hawks-call.md) (evocation/rhythmancy)
-- [Royal Lullaby](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/royal-lullaby.md) (enchantment/rhythmancy)
+- [Ballad of the Dreamer](rhythmancy.md#ballad-of-the-dreamer) (abjuration/rhythmancy)
+- [The Hawk's Call](rhythmancy.md#the-hawks-call) (evocation/rhythmancy)
+- [Royal Lullaby](rhythmancy.md#royal-lullaby) (enchantment/rhythmancy)
 
 #### 1st-level
 
