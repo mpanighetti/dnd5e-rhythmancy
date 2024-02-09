@@ -169,9 +169,9 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 ### Rhythmancy Spell List
 
 ##### Cantrips
-- [Ballad of the Dreamer](#ballad-of-the-dreamer) (abjuration/rhythmancy)
-- [The Hawk's Call](#the-hawks-call) (evocation/rhythmancy)
-- [Royal Lullaby](#royal-lullaby) (enchantment/rhythmancy)
+- Ballad of the Dreamer (abjuration/rhythmancy)
+- The Hawk's Call (evocation/rhythmancy)
+- Royal Lullaby (enchantment/rhythmancy)
 
 ##### 1st-level
 - Equine Tribute (conjuration/rhythmancy)
@@ -325,7 +325,7 @@ You create a duplicate of your body in the form of an empty shell in an unoccupi
 
 A shell based on your form vanishes the next time you cast this spell, unless your body is in a different form when casting the spell (such as being shapeshifted or polymorphed), in which case a unique shell is created based on your different form. If you create a new shell and a number of shells up to your proficiency bonus already exist, the oldest shell vanishes.
 
-#### Equine Tribute
+#### [Equine Tribute](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/equine-tribute.md)
 
 _1st-level conjuration/rhythmancy_
 
@@ -382,7 +382,7 @@ You play a series of sharp tones evoking the piercing cry of a bird of prey, sum
 
 The spell creates more than one bird when you reach higher levels: two birds at 5th-level, three birds at 11th level, and four birds at 17th-level. You can direct the birds at the same target or at different ones. Make a separate attack roll for each bird. The spell ends at the start of your next turn or if all the birds disappear.
 
-#### The Lost is Found
+#### [The Lost is Found](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/the-lost-is-found.md)
 
 _1st-level divination/rhythmancy (ritual)_
 
@@ -565,7 +565,7 @@ False memories are implanted in the creature's mind, such that it believes time 
 
 After the spell ends, the creature becomes aware that its senses and memories were altered by magic.
 
-#### Song of Storms
+#### [Song of Storms](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-storms.md)
 
 _1st-level evocation/rhythmancy_
 
@@ -580,7 +580,7 @@ Until the spell ends, light rain falls in the area underneath the cloud. Invisib
 
 If you are outdoors in a light rain when you cast this spell, the spell affects the existing storm instead of creating a new cloud. Under such conditions, the storm becomes a heavy rain, causing the area to be lightly obscured, extinguishing open flames, and imposing disadvantage on Wisdom (Perception) checks that rely on sight or hearing. When the spell ends, the weather gradually returns to normal.
 
-#### Song of Time
+#### [Song of Time](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-time.md)
 
 _1st-level abjuration/rhythmancy_
 
@@ -612,7 +612,7 @@ You play a prolonged melody, targeting a willing creature you can see within ran
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th-level or higher, you can teleport an additional willing creature you can see within range to the destination for each slot level above 5th-level. When multiple creatures are targeted by this spell, you can choose a destination where any of the target creatures were unconscious, and the casting time increases by 10 minutes for each additional creature you target beyond the first.
 
-#### Summoning of the Scarecrow
+#### [Summoning of the Scarecrow](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/summoning-of-the-scarecrow.md)
 
 _1st-level conjuration/rhythmancy_
 
