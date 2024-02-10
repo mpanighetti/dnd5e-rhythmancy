@@ -688,4 +688,4 @@ While concentrating on this spell, as an action, you can attempt to channel this
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, your jumping distance is multiplied by the spell slot number. For example, casting this spell at 4th-level would cause your jumping distance to be quadrupled.
 
-[^†]: The root composition is the Song of Time.
+[^†]: These rhythmancy songs are grouped as the Song of Time.
