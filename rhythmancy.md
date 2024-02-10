@@ -162,63 +162,47 @@ You’ve begun studying the magic of rhythmantic songs:
 
 ## Rhythmancy Spells
 
-This section presents a sampling of spells developed through the musical study of rhythmancy. All rhythmancy spells are available to the bard class, as well as other spellcasting classes with the Game Master’s consent (see "Rhythmancy Spells for Other Classes").
+This section presents a sampling of spells developed through the musical study of rhythmancy. All rhythmancy spells are available to the bard class, as well as other spellcasting classes with the Game Master’s consent (see "Rhythmancy Spells for Other Classes"). The Rhythmancy Spells table lists the new spells, ordering them by level. The table also notes the schools of magic of a spell, whether it requires concentration, whether it bears the ritual tag, and whether it bears the duet tag.
 
 In some cases, multiple rhythmancy spells are learned as a single song, existing as alternate versions of a composition and applying their unique effects only when cast at a higher level. Such spells are labeled with shared footnote markers on this list for reference; see the description for the lowest-level version of the spell for all the other spells' effects.
 
-### Rhythmancy Spell List
-
-##### Cantrips
-- Ballad of the Dreamer (abjuration/rhythmancy)
-- The Hawk's Call (evocation/rhythmancy)
-- Royal Lullaby (enchantment/rhythmancy)
-
-##### 1st-level
-- Equine Tribute (conjuration/rhythmancy)
-- The Lost is Found (divination/rhythmancy, ritual)
-- Song of Storms (evocation/rhythmancy)
-- Song of Time[^†] (abjuration/rhythmancy)
-- Summoning of the Scarecrow (conjuration/rhythmancy)
-
-##### 2nd-level
-- Command Melody (conjuration/rhythmancy, ritual)
-- Duet of Restoration (evocation/rhythmancy, duet)
-- Elegy of Emptiness (conjuration/rhythmancy)
-- Sonata of Awakening (abjuration/rhythmancy)
-- Song of Discovery (divination/rhythmancy, ritual)
-
-##### 3rd-level
-- New Wave Bossa Nova (abjuration/rhythmancy)
-- Peaceful Lullaby (enchantment/rhythmancy)
-- Royal Duet (evocation/rhythmancy, duet)
-- Song of Double Time[^†] (abjuration/rhythmancy)
-- Tune of Echoes (divination/rhythmancy, ritual)
-- Wind's Requiem (conjuration/rhythmancy, ritual)
-
-##### 4th-level
-- Death's Departure (abjuration/rhythmancy)
-- Earth God's Lyric (evocation/rhythmancy)
-- Frog's Song of Soul (necromancy/rhythmancy)
-- Minute Minuet (transmutation/rhythmancy)
-- Space Warp (conjuration/rhythmancy, ritual)
-- Wind God's Aria (evocation/rhythmancy)
-
-##### 5th-level
-- Inverted Song of Time[^†] (abjuration/rhythmancy)
-- Melody of Darkness (necromancy/rhythmancy)
-- Song of Healing (evocation/rhythmancy)
-- Song of Passing (illusion/rhythmancy)
-- Tune of Currents (abjuration/rhythmancy)
-
-##### 6th-level
-- The River Devil's Lament (enchantment/rhythmancy)
-
-##### 7th-level
-- Tune of Ages (conjuration/rhythmancy)
-
-##### 8th-level
-- Ballad of Gales (conjuration/rhythmancy)
-- Oath to Order (abjuration/rhythmancy)
+### Rhythmancy Spells
+| Level | Spell | School | Concentration | Ritual | Duet |
+|:-:|:-|:-|:-|:-|:-|
+| 0 | _Ballad of the Dreamer_ | Abjuration/Rhythmancy | no | no | no |
+| 0 | _The Hawk's Call_ | Evocation/Rhythmancy | no | no | no |
+| 0 | _Royal Lullaby_ | Enchantment/Rhythmancy | no | no | no |
+| 1 | _Equine Tribute_ | Conjuration/Rhythmancy | no | no | no |
+| 1 | _The Lost is Found_ | Divination/Rhythmancy | yes | yes | no |
+| 1 | _Song of Storms_ | Evocation/Rhythmancy | yes | no | no |
+| 1 | _Song of Time_[^†] | Abjuration/Rhythmancy | no | no | no |
+| 1 | _Summoning of the Scarecrow_ | Conjuration/Rhythmancy | no | no | no |
+| 2 | _Command Melody_ | Conjuration/Rhythmancy | yes | yes | no |
+| 2 | _Duet of Restoration_ | Evocation/Rhythmancy | no | no | yes |
+| 2 | _Elegy of Emptiness_ | Conjuration/Rhythmancy | no | no | no |
+| 2 | _Sonata of Awakening_ | Abjuration/Rhythmancy | yes | no | no |
+| 2 | _Song of Discovery_ | Divination/Rhythmancy | yes | yes | no |
+| 3 | _New Wave Bossa Nova_ | Abjuration/Rhythmancy | yes | no | no |
+| 3 | _Peaceful Lullaby_ | Enchantment/Rhythmancy | yes | no | no |
+| 3 | _Royal Duet_ | Evocation/Rhythmancy | no | no | yes |
+| 3 | _Song of Double Time_[^†] | Abjuration/Rhythmancy | no | no | no |
+| 3 | _Tune of Echoes_ | Divination/Rhythmancy | yes | yes | no |
+| 3 | _Wind's Requiem_ | Conjuration/Rhythmancy | yes | yes | no |
+| 4 | _Death's Departure_ | Abjuration/Rhythmancy | yes | no | no |
+| 4 | _Earth God's Lyric_ | Evocation/Rhythmancy |  | no | no |
+| 4 | Frog's Song of Soul (necromancy/rhythmancy |  | no | no |
+| 4 | Minute Minuet (transmutation/rhythmancy |  | no | no |
+| 4 | Space Warp (conjuration/rhythmancy |  | yes | no |
+| 4 | Wind God's Aria (evocation/rhythmancy |  |  | no |
+| 5 | _Inverted Song of Time_[^†] | Abjuration/Rhythmancy | no | no | no |
+| 5 | _Melody of Darkness_ | Necromancy/Rhythmancy | yes | no | no |
+| 5 | _Song of Healing_ | (Evocation/Rhythmancy | no | no | no |
+| 5 | _Song of Passing_ | Illusion/Rhythmancy | yes | no | no |
+| 5 | _Tune of Currents_ | Abjuration/Rhythmancy | no | no | no |
+| 6 | _The River Devil's Lament_ | Enchantment/Rhythmancy | no | no | no |
+| 7 | _Tune of Ages_ | Conjuration/Rhythmancy | no | no | no |
+| 8 | _Ballad of Gales_ | Conjuration/Rhythmancy | no | no | no |
+| 8 | _Oath to Order_ | Abjuration/Rhythmancy | no | no | no |
 
 ### Spell Descriptions
 
