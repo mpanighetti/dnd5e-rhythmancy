@@ -38,7 +38,7 @@ If a rhythmancy spell is written out on a spell scroll or as sheet music, anyone
 | d6 | Issue |
 |:--:|:------|
 | 1  | The rhythmantic song's magic accidentally activates, targeting a random patron with the spell's effects. |
-| 2  | A drunken brawl breaks out during your performance and you're blamed for inciting a public disturbnce. The venue demands 50 gp payment for damages before allowing you to continue practicing there. |
+| 2  | A drunken brawl breaks out during your performance and you're blamed for inciting a public disturbance. The venue demands 50 gp payment for damages before allowing you to continue practicing there. |
 | 3  | The rhythmantic song's magic manifests as a destructive thunderous burst of energy. You cast _thunderwave_ toward the audience. |
 | 4  | Your underwhelming performance has resulted in reduced attendance, giving you disadvantage on Charisma (Performance) checks used in the next 1d4 attempts to remove training costs. |
 | 5  | A regular attendee of your shows appears to be taking detailed notes of your rhythmantic composition in an attempt to copy it. |
