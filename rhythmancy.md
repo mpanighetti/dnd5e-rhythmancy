@@ -189,11 +189,11 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 3 | _Tune of Echoes_ | Divination/Rhythmancy | yes | yes | no |
 | 3 | _Wind's Requiem_ | Conjuration/Rhythmancy | yes | yes | no |
 | 4 | _Death's Departure_ | Abjuration/Rhythmancy | yes | no | no |
-| 4 | _Earth God's Lyric_ | Evocation/Rhythmancy |  | no | no |
-| 4 | Frog's Song of Soul (necromancy/rhythmancy |  | no | no |
-| 4 | Minute Minuet (transmutation/rhythmancy |  | no | no |
-| 4 | Space Warp (conjuration/rhythmancy |  | yes | no |
-| 4 | Wind God's Aria (evocation/rhythmancy |  |  | no |
+| 4 | _Earth God's Lyric_ | Evocation/Rhythmancy | no | no | no |
+| 4 | Frog's Song of Soul | Necromancy/Rhythmancy | no | no | no |
+| 4 | Minute Minuet | Transmutation/Rhythmancy | yes | no | no |
+| 4 | Space Warp | conjuration/Rhythmancy | no | yes | no |
+| 4 | Wind God's Aria | Evocation/Rhythmancy | no | no | no |
 | 5 | _Inverted Song of Time_[^†] | Abjuration/Rhythmancy | no | no | no |
 | 5 | _Melody of Darkness_ | Necromancy/Rhythmancy | yes | no | no |
 | 5 | _Song of Healing_ | (Evocation/Rhythmancy | no | no | no |
