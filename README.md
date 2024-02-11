@@ -41,7 +41,7 @@ A 5e homebrew school of magic based on musical performance, and a list of spells
 - [New Wave Bossa Nova](rhythmancy.md#new-wave-bossa-nova) (abjuration/rhythmancy)
 - [Peaceful Lullaby](rhythmancy.md#peaceful-lullaby) (enchantment/rhythmancy)
 - [Royal Duet](rhythmancy.md#royal-duet) (evocation/rhythmancy, duet)
-- [Song of Double Time](rhythmancy.md#song-of-time) (abjuration/rhythmancy)
+- [Song of Double Time](rhythmancy.md#song-of-double-time) (abjuration/rhythmancy)
 - [Tune of Echoes](rhythmancy.md#tune-of-echoes) (divination/rhythmancy, ritual)
 - [Wind's Requiem](rhythmancy.md#winds-requiem) (conjuration/rhythmancy, ritual)
 
@@ -54,7 +54,7 @@ A 5e homebrew school of magic based on musical performance, and a list of spells
 - [Wind God's Aria](rhythmancy.md#wind-gods-aria) (evocation/rhythmancy)
 
 #### 5th-level
-- [Inverted Song of Time](rhythmancy.md#song-of-time) (abjuration/rhythmancy)
+- [Inverted Song of Time](rhythmancy.md#inverted-song-of-time) (abjuration/rhythmancy)
 - [Melody of Darkness](rhythmancy.md#melody-of-darkness) (necromancy/rhythmancy)
 - [Song of Healing](rhythmancy.md#song-of-healing) (evocation/rhythmancy)
 - [Song of Passing](rhythmancy.md#song-of-passing) (illusion/rhythmancy)
