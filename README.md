@@ -19,40 +19,40 @@ A 5e homebrew school of magic based on musical performance, and a list of spells
 
 | Level | Spell | School | Class | Tags |
 |:-:|:-|:-|:-|:-|
-| 0 | _[Ballad of the Dreamer](rhythmancy.md#ballad-of-the-dreamer)_ | Abjuration/Rhythmancy | Bard | |
-| 0 | _[The Hawk's Call](rhythmancy.md#the-hawks-call)_ | Evocation/Rhythmancy | Bard | |
-| 0 | _[Royal Lullaby](rhythmancy.md#royal-lullaby)_ | Enchantment/Rhythmancy | Bard | |
-| 1 | _[Equine Tribute](rhythmancy.md#equine-tribute)_ | Conjuration/Rhythmancy | Bard | |
-| 1 | _[The Lost is Found](rhythmancy.md#the-lost-is-found)_ | Divination/Rhythmancy | Bard | concentration, ritual |
-| 1 | _[Song of Storms](rhythmancy.md#song-of-storms)_ | Evocation/Rhythmancy | Bard | concentration |
-| 1 | _[Song of Time](rhythmancy.md#song-of-time)_[^†] | Abjuration/Rhythmancy | Bard | |
-| 1 | _[Summoning of the Scarecrow](rhythmancy.md#summoning-of-the-scarecrow)_ | Conjuration/Rhythmancy | Bard | |
-| 2 | _[Command Melody](rhythmancy.md#command-melody)_ | Conjuration/Rhythmancy | Bard | concentration, ritual |
-| 2 | _[Duet of Restoration](rhythmancy.md#duet-of-restoration)_ | Evocation/Rhythmancy | Bard | duet |
-| 2 | _[Elegy of Emptiness](rhythmancy.md#elegy-of-emptiness)_ | Conjuration/Rhythmancy | Bard | |
-| 2 | _[Sonata of Awakening](rhythmancy.md#sonata-of-awakening)_ | Abjuration/Rhythmancy | Bard | concentration |
-| 2 | _[Song of Discovery](rhythmancy.md#song-of-discovery)_ | Divination/Rhythmancy | Bard | concentration, ritual |
-| 3 | _[New Wave Bossa Nova](rhythmancy.md#new-wave-bossa-nova)_ | Abjuration/Rhythmancy | Bard | concentration |
-| 3 | _[Peaceful Lullaby](rhythmancy.md#peaceful-lullaby)_ | Enchantment/Rhythmancy | Bard | concentration |
-| 3 | _[Royal Duet](rhythmancy.md#royal-duet)_ | Evocation/Rhythmancy | Bard | duet |
-| 3 | _[Song of Double Time](rhythmancy.md#song-of-double-time)_[^†] | Abjuration/Rhythmancy | Bard | |
-| 3 | _[Tune of Echoes](rhythmancy.md#tune-of-echoes)_ | Divination/Rhythmancy | Bard | concentration, ritual |
-| 3 | _[Wind's Requiem](rhythmancy.md#winds-requiem)_ | Conjuration/Rhythmancy | Bard | concentration, ritual |
-| 4 | _[Death's Departure](rhythmancy.md#deaths-departure)_ | Abjuration/Rhythmancy | Bard | concentration |
-| 4 | _[Earth God's Lyric](rhythmancy.md#earth-gods-lyric)_ | Evocation/Rhythmancy | Bard | |
-| 4 | _[Frog's Song of Soul](rhythmancy.md#frogs-song-of-soul)_ | Necromancy/Rhythmancy | Bard | |
-| 4 | _[Minute Minuet](rhythmancy.md#minute-minuet)_ | Transmutation/Rhythmancy | Bard | concentration |
-| 4 | _[Space Warp](rhythmancy.md#space-warp)_ | Conjuration/Rhythmancy | Bard | ritual |
-| 4 | _[Wind God's Aria](rhythmancy.md#wind-gods-aria)_ | Evocation/Rhythmancy | Bard | |
-| 5 | _[Inverted Song of Time](rhythmancy.md#inverted-song-of-time)_[^†] | Abjuration/Rhythmancy | Bard | |
-| 5 | _[Melody of Darkness](rhythmancy.md#melody-of-darkness)_ | Necromancy/Rhythmancy | Bard | concentration |
-| 5 | _[Song of Healing](rhythmancy.md#song-of-healing)_ | Evocation/Rhythmancy | Bard | |
-| 5 | _[Song of Passing](rhythmancy.md#song-of-passing)_ | Illusion/Rhythmancy | Bard | concentration |
-| 5 | _[Tune of Currents](rhythmancy.md#tune-of-currents)_ | Abjuration/Rhythmancy | Bard | |
-| 6 | _[The River Devil's Lament](rhythmancy.md#the-river-devils-lament)_ | Enchantment/Rhythmancy | Bard | |
-| 7 | _[Tune of Ages](rhythmancy.md#tune-of-ages)_ | Conjuration/Rhythmancy | Bard | |
-| 8 | _[Ballad of Gales](rhythmancy.md#ballad-of-gales)_ | Conjuration/Rhythmancy | Bard | |
-| 8 | _[Oath to Order](rhythmancy.md#oath-to-order)_ | Abjuration/Rhythmancy | Bard | |
+| cantrip | _[Ballad of the Dreamer](rhythmancy.md#ballad-of-the-dreamer)_ | Abjuration/Rhythmancy | Bard | |
+| cantrip | _[The Hawk's Call](rhythmancy.md#the-hawks-call)_ | Evocation/Rhythmancy | Bard | |
+| cantrip | _[Royal Lullaby](rhythmancy.md#royal-lullaby)_ | Enchantment/Rhythmancy | Bard | |
+| 1st | _[Equine Tribute](rhythmancy.md#equine-tribute)_ | Conjuration/Rhythmancy | Bard | |
+| 1st | _[The Lost is Found](rhythmancy.md#the-lost-is-found)_ | Divination/Rhythmancy | Bard | concentration, ritual |
+| 1st | _[Song of Storms](rhythmancy.md#song-of-storms)_ | Evocation/Rhythmancy | Bard | concentration |
+| 1st | _[Song of Time](rhythmancy.md#song-of-time)_[^†] | Abjuration/Rhythmancy | Bard | |
+| 1st | _[Summoning of the Scarecrow](rhythmancy.md#summoning-of-the-scarecrow)_ | Conjuration/Rhythmancy | Bard | |
+| 2nd | _[Command Melody](rhythmancy.md#command-melody)_ | Conjuration/Rhythmancy | Bard | concentration, ritual |
+| 2nd | _[Duet of Restoration](rhythmancy.md#duet-of-restoration)_ | Evocation/Rhythmancy | Bard | duet |
+| 2nd | _[Elegy of Emptiness](rhythmancy.md#elegy-of-emptiness)_ | Conjuration/Rhythmancy | Bard | |
+| 2nd | _[Sonata of Awakening](rhythmancy.md#sonata-of-awakening)_ | Abjuration/Rhythmancy | Bard | concentration |
+| 2nd | _[Song of Discovery](rhythmancy.md#song-of-discovery)_ | Divination/Rhythmancy | Bard | concentration, ritual |
+| 3rd | _[New Wave Bossa Nova](rhythmancy.md#new-wave-bossa-nova)_ | Abjuration/Rhythmancy | Bard | concentration |
+| 3rd | _[Peaceful Lullaby](rhythmancy.md#peaceful-lullaby)_ | Enchantment/Rhythmancy | Bard | concentration |
+| 3rd | _[Royal Duet](rhythmancy.md#royal-duet)_ | Evocation/Rhythmancy | Bard | duet |
+| 3rd | _[Song of Double Time](rhythmancy.md#song-of-double-time)_[^†] | Abjuration/Rhythmancy | Bard | |
+| 3rd | _[Tune of Echoes](rhythmancy.md#tune-of-echoes)_ | Divination/Rhythmancy | Bard | concentration, ritual |
+| 3rd | _[Wind's Requiem](rhythmancy.md#winds-requiem)_ | Conjuration/Rhythmancy | Bard | concentration, ritual |
+| 4th | _[Death's Departure](rhythmancy.md#deaths-departure)_ | Abjuration/Rhythmancy | Bard | concentration |
+| 4th | _[Earth God's Lyric](rhythmancy.md#earth-gods-lyric)_ | Evocation/Rhythmancy | Bard | |
+| 4th | _[Frog's Song of Soul](rhythmancy.md#frogs-song-of-soul)_ | Necromancy/Rhythmancy | Bard | |
+| 4th | _[Minute Minuet](rhythmancy.md#minute-minuet)_ | Transmutation/Rhythmancy | Bard | concentration |
+| 4th | _[Space Warp](rhythmancy.md#space-warp)_ | Conjuration/Rhythmancy | Bard | ritual |
+| 4th | _[Wind God's Aria](rhythmancy.md#wind-gods-aria)_ | Evocation/Rhythmancy | Bard | |
+| 5th | _[Inverted Song of Time](rhythmancy.md#inverted-song-of-time)_[^†] | Abjuration/Rhythmancy | Bard | |
+| 5th | _[Melody of Darkness](rhythmancy.md#melody-of-darkness)_ | Necromancy/Rhythmancy | Bard | concentration |
+| 5th | _[Song of Healing](rhythmancy.md#song-of-healing)_ | Evocation/Rhythmancy | Bard | |
+| 5th | _[Song of Passing](rhythmancy.md#song-of-passing)_ | Illusion/Rhythmancy | Bard | concentration |
+| 5th | _[Tune of Currents](rhythmancy.md#tune-of-currents)_ | Abjuration/Rhythmancy | Bard | |
+| 6th | _[The River Devil's Lament](rhythmancy.md#the-river-devils-lament)_ | Enchantment/Rhythmancy | Bard | |
+| 7th | _[Tune of Ages](rhythmancy.md#tune-of-ages)_ | Conjuration/Rhythmancy | Bard | |
+| 8th | _[Ballad of Gales](rhythmancy.md#ballad-of-gales)_ | Conjuration/Rhythmancy | Bard | |
+| 8th | _[Oath to Order](rhythmancy.md#oath-to-order)_ | Abjuration/Rhythmancy | Bard | |
 
 ## Credits
 

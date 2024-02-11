@@ -169,40 +169,40 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 ### Rhythmancy Spells
 | Level | Spell | School | Concentration | Ritual | Duet |
 |:-:|:-|:-|:-|:-|:-|
-| 0 | _Ballad of the Dreamer_ | Abjuration/Rhythmancy | no | no | no |
-| 0 | _The Hawk's Call_ | Evocation/Rhythmancy | no | no | no |
-| 0 | _Royal Lullaby_ | Enchantment/Rhythmancy | no | no | no |
-| 1 | _Equine Tribute_ | Conjuration/Rhythmancy | no | no | no |
-| 1 | _The Lost is Found_ | Divination/Rhythmancy | yes | yes | no |
-| 1 | _Song of Storms_ | Evocation/Rhythmancy | yes | no | no |
-| 1 | _Song of Time_[^†] | Abjuration/Rhythmancy | no | no | no |
-| 1 | _Summoning of the Scarecrow_ | Conjuration/Rhythmancy | no | no | no |
-| 2 | _Command Melody_ | Conjuration/Rhythmancy | yes | yes | no |
-| 2 | _Duet of Restoration_ | Evocation/Rhythmancy | no | no | yes |
-| 2 | _Elegy of Emptiness_ | Conjuration/Rhythmancy | no | no | no |
-| 2 | _Sonata of Awakening_ | Abjuration/Rhythmancy | yes | no | no |
-| 2 | _Song of Discovery_ | Divination/Rhythmancy | yes | yes | no |
-| 3 | _New Wave Bossa Nova_ | Abjuration/Rhythmancy | yes | no | no |
-| 3 | _Peaceful Lullaby_ | Enchantment/Rhythmancy | yes | no | no |
-| 3 | _Royal Duet_ | Evocation/Rhythmancy | no | no | yes |
-| 3 | _Song of Double Time_[^†] | Abjuration/Rhythmancy | no | no | no |
-| 3 | _Tune of Echoes_ | Divination/Rhythmancy | yes | yes | no |
-| 3 | _Wind's Requiem_ | Conjuration/Rhythmancy | yes | yes | no |
-| 4 | _Death's Departure_ | Abjuration/Rhythmancy | yes | no | no |
-| 4 | _Earth God's Lyric_ | Evocation/Rhythmancy | no | no | no |
-| 4 | Frog's Song of Soul | Necromancy/Rhythmancy | no | no | no |
-| 4 | Minute Minuet | Transmutation/Rhythmancy | yes | no | no |
-| 4 | Space Warp | Conjuration/Rhythmancy | no | yes | no |
-| 4 | Wind God's Aria | Evocation/Rhythmancy | no | no | no |
-| 5 | _Inverted Song of Time_[^†] | Abjuration/Rhythmancy | no | no | no |
-| 5 | _Melody of Darkness_ | Necromancy/Rhythmancy | yes | no | no |
-| 5 | _Song of Healing_ | Evocation/Rhythmancy | no | no | no |
-| 5 | _Song of Passing_ | Illusion/Rhythmancy | yes | no | no |
-| 5 | _Tune of Currents_ | Abjuration/Rhythmancy | no | no | no |
-| 6 | _The River Devil's Lament_ | Enchantment/Rhythmancy | no | no | no |
-| 7 | _Tune of Ages_ | Conjuration/Rhythmancy | no | no | no |
-| 8 | _Ballad of Gales_ | Conjuration/Rhythmancy | no | no | no |
-| 8 | _Oath to Order_ | Abjuration/Rhythmancy | no | no | no |
+| cantrip | _Ballad of the Dreamer_ | Abjuration/Rhythmancy | no | no | no |
+| cantrip | _The Hawk's Call_ | Evocation/Rhythmancy | no | no | no |
+| cantrip | _Royal Lullaby_ | Enchantment/Rhythmancy | no | no | no |
+| 1st | _Equine Tribute_ | Conjuration/Rhythmancy | no | no | no |
+| 1st | _The Lost is Found_ | Divination/Rhythmancy | yes | yes | no |
+| 1st | _Song of Storms_ | Evocation/Rhythmancy | yes | no | no |
+| 1st | _Song of Time_[^†] | Abjuration/Rhythmancy | no | no | no |
+| 1st | _Summoning of the Scarecrow_ | Conjuration/Rhythmancy | no | no | no |
+| 2nd | _Command Melody_ | Conjuration/Rhythmancy | yes | yes | no |
+| 2nd | _Duet of Restoration_ | Evocation/Rhythmancy | no | no | yes |
+| 2nd | _Elegy of Emptiness_ | Conjuration/Rhythmancy | no | no | no |
+| 2nd | _Sonata of Awakening_ | Abjuration/Rhythmancy | yes | no | no |
+| 2nd | _Song of Discovery_ | Divination/Rhythmancy | yes | yes | no |
+| 3rd | _New Wave Bossa Nova_ | Abjuration/Rhythmancy | yes | no | no |
+| 3rd | _Peaceful Lullaby_ | Enchantment/Rhythmancy | yes | no | no |
+| 3rd | _Royal Duet_ | Evocation/Rhythmancy | no | no | yes |
+| 3rd | _Song of Double Time_[^†] | Abjuration/Rhythmancy | no | no | no |
+| 3rd | _Tune of Echoes_ | Divination/Rhythmancy | yes | yes | no |
+| 3rd | _Wind's Requiem_ | Conjuration/Rhythmancy | yes | yes | no |
+| 4th | _Death's Departure_ | Abjuration/Rhythmancy | yes | no | no |
+| 4th | _Earth God's Lyric_ | Evocation/Rhythmancy | no | no | no |
+| 4th | Frog's Song of Soul | Necromancy/Rhythmancy | no | no | no |
+| 4th | Minute Minuet | Transmutation/Rhythmancy | yes | no | no |
+| 4th | Space Warp | Conjuration/Rhythmancy | no | yes | no |
+| 4th | Wind God's Aria | Evocation/Rhythmancy | no | no | no |
+| 5th | _Inverted Song of Time_[^†] | Abjuration/Rhythmancy | no | no | no |
+| 5th | _Melody of Darkness_ | Necromancy/Rhythmancy | yes | no | no |
+| 5th | _Song of Healing_ | Evocation/Rhythmancy | no | no | no |
+| 5th | _Song of Passing_ | Illusion/Rhythmancy | yes | no | no |
+| 5th | _Tune of Currents_ | Abjuration/Rhythmancy | no | no | no |
+| 6th | _The River Devil's Lament_ | Enchantment/Rhythmancy | no | no | no |
+| 7th | _Tune of Ages_ | Conjuration/Rhythmancy | no | no | no |
+| 8th | _Ballad of Gales_ | Conjuration/Rhythmancy | no | no | no |
+| 8th | _Oath to Order_ | Abjuration/Rhythmancy | no | no | no |
 
 ### Spell Descriptions
 
