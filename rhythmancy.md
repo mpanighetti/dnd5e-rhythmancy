@@ -122,23 +122,23 @@ If a duet is targeted by an effect or check that requires knowing the spellcasti
 
 ## Rhythmancy Feats
 
-The following feats are appropriate for a campaign featuring rhythmancy magic.
+This section presents a sampling of feats appropriate for a campaign featuring rhythmancy magic. If a feat has a prerequisite, you must meet that prerequisite to gain the feat. The **Rhythmancy Feats** table lists the feats in this section along with the level at which they're available.
+
+### Rhythmancy Feats
+| Level | Feat | Category | Prerequisite | Repeatable |
+|:-:|:-|:-|:-|:-:|
+| 1st | [Rhythmancy Initiate](#rhythmancy-initiate) | Background | | no |
+| 4th | [Rhythmancy Adept](#rhythmancy-adept) | General | Rhythmancy Initiate feat | no |
 
 ### Feat Descriptions
 
-The feats are presented in alphabetical order. If a feat has a prerequisite, you must meet that prerequisite to gain the feat. The **Rhythmancy Feats By Level** table lists the feats in this section along with the level at which they're available.
-
-##### Rhythmancy Feats By Level
-| Minimum Level |         Feat          |
-|:-------------:|:---------------------:|
-|     1st       |  [Rhythmancy Initiate](#rhythmancy-initiate)  |
-|     4th       |   [Rhythmancy Adept](#rhythmancy-adept)    |
+The feats are presented in alphabetical order. 
 
 #### [Rhythmancy Adept](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-adept.md)
 
-_4th-Level Feat_
+_4th-Level General Feat_
 
-- **Prerequisite:** Rhythmancy Initiate feat  
+- **Prerequisite:** Rhythmancy Initiate feat
 - **Repeatable:** No
 
 Your extended practice in channeling rhythmantic energies has granted you additional control and power:
@@ -149,9 +149,9 @@ Your extended practice in channeling rhythmantic energies has granted you additi
 
 #### [Rhythmancy Initiate](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-initiate.md)
 
-_1st-Level Feat_
+_1st-Level Background Feat_
 
-- **Prerequisite:** None  
+- **Prerequisite:** None
 - **Repeatable:** No
 
 You’ve begun studying the magic of rhythmantic songs:
