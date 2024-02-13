@@ -25,7 +25,7 @@ A 5e homebrew school of magic based on musical performance, and a list of spells
 | 1st | _[Equine Tribute](main.md#equine-tribute)_ | Conjuration/Rhythmancy | Bard | |
 | 1st | _[The Lost is Found](main.md#the-lost-is-found)_ | Divination/Rhythmancy | Bard | concentration, ritual |
 | 1st | _[Song of Storms](main.md#song-of-storms)_ | Evocation/Rhythmancy | Bard | concentration |
-| 1st | _[Song of Time](main.md#song-of-time)_[^†] | Abjuration/Rhythmancy | Bard | |
+| 1st | _[Song of Time](main.md#song-of-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
 | 1st | _[Summoning of the Scarecrow](main.md#summoning-of-the-scarecrow)_ | Conjuration/Rhythmancy | Bard | |
 | 2nd | _[Command Melody](main.md#command-melody)_ | Conjuration/Rhythmancy | Bard | concentration, ritual |
 | 2nd | _[Duet of Restoration](main.md#duet-of-restoration)_ | Evocation/Rhythmancy | Bard | duet |
@@ -35,7 +35,7 @@ A 5e homebrew school of magic based on musical performance, and a list of spells
 | 3rd | _[New Wave Bossa Nova](main.md#new-wave-bossa-nova)_ | Abjuration/Rhythmancy | Bard | concentration |
 | 3rd | _[Peaceful Lullaby](main.md#peaceful-lullaby)_ | Enchantment/Rhythmancy | Bard | concentration |
 | 3rd | _[Royal Duet](main.md#royal-duet)_ | Evocation/Rhythmancy | Bard | duet |
-| 3rd | _[Song of Double Time](main.md#song-of-double-time)_[^†] | Abjuration/Rhythmancy | Bard | |
+| 3rd | _[Song of Double Time](main.md#song-of-double-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
 | 3rd | _[Tune of Echoes](main.md#tune-of-echoes)_ | Divination/Rhythmancy | Bard | concentration, ritual |
 | 3rd | _[Wind's Requiem](main.md#winds-requiem)_ | Conjuration/Rhythmancy | Bard | concentration, ritual |
 | 4th | _[Death's Departure](main.md#deaths-departure)_ | Abjuration/Rhythmancy | Bard | concentration |
@@ -44,7 +44,7 @@ A 5e homebrew school of magic based on musical performance, and a list of spells
 | 4th | _[Minute Minuet](main.md#minute-minuet)_ | Transmutation/Rhythmancy | Bard | concentration |
 | 4th | _[Space Warp](main.md#space-warp)_ | Conjuration/Rhythmancy | Bard | ritual |
 | 4th | _[Wind God's Aria](main.md#wind-gods-aria)_ | Evocation/Rhythmancy | Bard | |
-| 5th | _[Inverted Song of Time](main.md#inverted-song-of-time)_[^†] | Abjuration/Rhythmancy | Bard | |
+| 5th | _[Inverted Song of Time](main.md#inverted-song-of-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
 | 5th | _[Melody of Darkness](main.md#melody-of-darkness)_ | Necromancy/Rhythmancy | Bard | concentration |
 | 5th | _[Song of Healing](main.md#song-of-healing)_ | Evocation/Rhythmancy | Bard | |
 | 5th | _[Song of Passing](main.md#song-of-passing)_ | Illusion/Rhythmancy | Bard | concentration |
@@ -74,4 +74,4 @@ Certain materials are included under fair use exemption of the U.S. Copyright La
 
 _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-[^†]: These rhythmancy songs are grouped as the Song of Time.
+[^🪈]: These rhythmancy songs are grouped as the Song of Time.

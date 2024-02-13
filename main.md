@@ -175,7 +175,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 1st | _Equine Tribute_ | Conjuration/Rhythmancy | no | no | no |
 | 1st | _The Lost is Found_ | Divination/Rhythmancy | yes | yes | no |
 | 1st | _Song of Storms_ | Evocation/Rhythmancy | yes | no | no |
-| 1st | _Song of Time_[^†] | Abjuration/Rhythmancy | no | no | no |
+| 1st | _Song of Time_[^🪈] | Abjuration/Rhythmancy | no | no | no |
 | 1st | _Summoning of the Scarecrow_ | Conjuration/Rhythmancy | no | no | no |
 | 2nd | _Command Melody_ | Conjuration/Rhythmancy | yes | yes | no |
 | 2nd | _Duet of Restoration_ | Evocation/Rhythmancy | no | no | yes |
@@ -185,7 +185,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 3rd | _New Wave Bossa Nova_ | Abjuration/Rhythmancy | yes | no | no |
 | 3rd | _Peaceful Lullaby_ | Enchantment/Rhythmancy | yes | no | no |
 | 3rd | _Royal Duet_ | Evocation/Rhythmancy | no | no | yes |
-| 3rd | _Song of Double Time_[^†] | Abjuration/Rhythmancy | no | no | no |
+| 3rd | _Song of Double Time_[^🪈] | Abjuration/Rhythmancy | no | no | no |
 | 3rd | _Tune of Echoes_ | Divination/Rhythmancy | yes | yes | no |
 | 3rd | _Wind's Requiem_ | Conjuration/Rhythmancy | yes | yes | no |
 | 4th | _Death's Departure_ | Abjuration/Rhythmancy | yes | no | no |
@@ -194,7 +194,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 4th | Minute Minuet | Transmutation/Rhythmancy | yes | no | no |
 | 4th | Space Warp | Conjuration/Rhythmancy | no | yes | no |
 | 4th | Wind God's Aria | Evocation/Rhythmancy | no | no | no |
-| 5th | _Inverted Song of Time_[^†] | Abjuration/Rhythmancy | no | no | no |
+| 5th | _Inverted Song of Time_[^🪈] | Abjuration/Rhythmancy | no | no | no |
 | 5th | _Melody of Darkness_ | Necromancy/Rhythmancy | yes | no | no |
 | 5th | _Song of Healing_ | Evocation/Rhythmancy | no | no | no |
 | 5th | _Song of Passing_ | Illusion/Rhythmancy | yes | no | no |
@@ -692,4 +692,4 @@ While concentrating on this spell, as an action, you can attempt to channel this
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, your jumping distance is multiplied by the spell slot number. For example, casting this spell at 4th-level would cause your jumping distance to be quadrupled.
 
-[^†]: These rhythmancy songs are grouped as the Song of Time.
+[^🪈]: These rhythmancy songs are grouped as the Song of Time.
