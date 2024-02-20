@@ -6,7 +6,7 @@ A 5e homebrew school of magic based on musical performance, and a list of spells
 
 ### Full Text
 
-- [Rhythmancy: The Magic of Music](main.md)
+[Rhythmancy: The Magic of Music](main.md)
 
 ### Feats
 
