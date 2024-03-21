@@ -50,9 +50,9 @@ Depending on how they use magic normally, a student can add rhythmantic songs th
 
 1. **If you have the Spellcasting or Pact Magic feature and have spell slots of the same level or higher:** The rhythmancy spell is added to your list of known class spells. If you have Spellcasting or Pact Magic from multiple classes, pick one class under which you learn all rhythmantic magic. You can change this selection any time you gain a level, as long as the class you choose is also able to cast spells at a level equal to or higher than the highest-level rhythmancy spell you know.
 
-2. **If you have another feature that grants the ability to cast a spell of the same level or higher:** The rhythmancy spell is made available as an alternative spell using this feature.
+2. **If you have another class feature or feat that grants the ability to cast a spell of the same level or higher:** The rhythmancy spell is made available as an alternative spell using this feature.
 
-3. **If you have a trait that grants the ability to cast a spell of the same level or higher:** The rhythmancy spell is made available as an alternative spell using this trait.
+3. **If you have a species trait that grants the ability to cast a spell of the same level or higher:** The rhythmancy spell is made available as an alternative spell using this trait.
 
 You must use the first option available to you based on your class levels, features, traits, and the rhythmancy spell's level and casting requirements. If the spell is added under option 2 or 3 and a higher option is made available later (such as gaining the Spellcasting feature), all your compatible rhythmancy spells immediately move to the highest-available option. If none of these options are available, you cannot learn the spell. If you lose access to all your options later (such as the _reincarnate_ spell changing you into a creature lacking the ability to cast spells), you retain the knowledge of your rhythmancy spells but are unable to cast them unless you regain compatible spellcasting options later.
 
@@ -132,7 +132,7 @@ This section presents a sampling of feats appropriate for a campaign featuring r
 
 ### Feat Descriptions
 
-The feats are presented in alphabetical order. 
+The feats are presented in alphabetical order.
 
 #### [Rhythmancy Adept](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-adept.md)
 
