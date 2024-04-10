@@ -76,9 +76,9 @@ When you cast a rhythmancy spell learned through the Spellcasting or Pact Magic 
 
 ### Rhythmancy Points
 
-If you have rhythmancy points from any source, you can cast any rhythmancy spell you know by spending a number of rhythmancy points equal to the spell's level. Additional rhythmancy points can be spent to cast the spell at a higher level at a cost of 1 rhythmancy point per level increase. You regain all spent rhythmancy points from all sources when you finish a long rest.
+If you have rhythmancy points, you can cast a rhythmancy spell you know by spending a number of rhythmancy points equal to the spell's level. Additional rhythmancy points can be spent to cast the spell at a higher level at a cost of 1 rhythmancy point per level increase. Charisma is your spellcasting ability for spells cast using rhythmancy points. You regain all spent rhythmancy points when you finish a Long Rest.
 
-If you discover a new rhythmancy spell in your travels, you are eligible to learn the song if your total possible rhythmancy points are equal to or greater than the spell's level. For example, if you take both the Rhythmancy Initiate and Rhythmancy Adept feats, you have 3 rhythmancy points and thus are eligible to learn rhythmancy spells up to 3rd-level.
+If you discover a new rhythmancy spell in your travels, you are eligible to learn the song if your total possible rhythmancy points are equal to or greater than the spell's level. For example, if you are a College of Legends bard with a Charisma of 17 and you take the Rhythmancy Initiate feat, you have a total of 4 rhythmancy points and thus are eligible to learn rhythmancy spells up to 4th-level.
 
 ### Other Features and Traits
 
@@ -119,6 +119,45 @@ Some rhythmancy songs are written to be performed by two musicians working toget
 If any of the above conditions are not met, both castings of the duet spell fail. Otherwise, the spells grant their shared effect after both casters complete the required casting time.
 
 If a duet is targeted by an effect or check that requires knowing the spellcasting ability, spell save DC, or spell attack modifier of the caster, use the higher of the two attributes from the duet's performers. If the effect or check requires knowing the spell slot level (such as _dispel magic_) and the performers used two different level spell slots, use the lower of the two spell slot levels.
+
+## [Bard Subclass: College of Legends](https://github.com/mpanighetti/dnd5e-classes/blob/main/bard/college-of-legends.md)
+
+At 3rd level, a bard gains the choice of a subclass. The following option is made available to you when making that choice: the College of Legends.
+
+### College of Legends Features
+
+Though all bards have the ability to learn rhythmancy spells, practitioners of the College of Legends have built entire careers out of unlocking the magic sealed within these songs. These bards are often sought out as teachers to aid new students in their rhythmantic studies, passing on what they learned from their own masters of the craft.
+
+#### Legendary Recall
+
+_3rd-level College of Legends feature_
+
+You have extensively pored through history books and sought out hidden knowledge of ancient heroes. You gain proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you make an Intelligence check, you can expend one use of Bardic Inspiration to add twice your proficiency bonus to the check, even if you do not normally have proficiency or expertise in the related skill.
+
+#### Rhythmantic Savant
+
+_3rd-level College of Legends feature_
+
+You have an innate understanding of the magic of music and how to wield it, granting you the following benefits.
+
+- You have a number of rhythmancy points equal to your bard level divided by 3 (round down).
+- You can use rhythmancy points to cast spells you know from any source as if they were rhythmancy spells.
+- Whenever you learn a new song through rhythmantic training, you bypass all training requirements, including finding a teacher, all training costs and issues, and any time requirements. Instead, you learn the rhythmancy spell as an action and by spending a number of rhythmancy points equal to the spell's level (minimum 1 rhythmancy point). You cannot learn a rhythmancy song in this manner if you do not have a sufficient number of rhythmancy points available to spend.
+- When you cast a spell of 1st-level or higher targeting a creature using rhythmancy points, in addition to the spell's normal effects, you can choose to grant the target a number of Temporary Hit Points equal to the number of rhythmancy points spent.
+
+#### Inner Song
+
+_6th-level College of Legends feature_
+
+You can channel your bard song to temporarily boost the power of your rhythmancy magic. At the end of a Long Rest, you can expend one of your uses of Bardic Inspiration to roll a Bardic Inspiration die and gain a number of temporary rhythmancy points equal to the number rolled. While you have these temporary rhythmancy points, they can be spent to cast rhythmancy spells as if they were normal rhythmancy points, but they do not count toward your maximum number of rhythmancy points when determining whether you can learn a new rhythmancy song. Any temporary rhythmancy points gained in this manner disappear after you finish your next Long Rest.
+
+Starting at 11th level, you can choose to expend two uses of Bardic Inspiration and roll two Bardic Inspiration dice when gaining temporary rhythmancy points at the end of a Long Rest.
+
+#### Legendary Secrets
+
+_14th-level College of Legends feature_
+
+You have mastered unlocking hidden or lost ancient secrets. You learn the _legend lore_ spell, or another bard spell of your choice from the divination school for which you are eligible if you already know _legend lore_. This spell doesn't count against the number of bard spells you know. When you cast _legend lore_ using rhythmancy points, the casting time is 1 action, and you replace its material component requirements with a musical instrument worth at least 1 gp.
 
 ## Rhythmancy Feats
 
