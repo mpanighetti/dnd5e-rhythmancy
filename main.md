@@ -76,9 +76,9 @@ When you cast a rhythmancy spell learned through the Spellcasting or Pact Magic 
 
 ### Rhythmancy Points
 
-If you have rhythmancy points from any source, you can cast any rhythmancy spell you know by spending a number of rhythmancy points equal to the spell's level. Additional rhythmancy points can be spent to cast the spell at a higher level at a cost of 1 rhythmancy point per level increase. You regain all spent rhythmancy points from all sources when you finish a long rest.
+If you have rhythmancy points, you can cast a rhythmancy spell you know by spending a number of rhythmancy points equal to the spell's level. Additional rhythmancy points can be spent to cast the spell at a higher level at a cost of 1 rhythmancy point per level increase. Charisma is your spellcasting ability for spells cast using rhythmancy points. You regain all spent rhythmancy points when you finish a Long Rest.
 
-If you discover a new rhythmancy spell in your travels, you are eligible to learn the song if your total possible rhythmancy points are equal to or greater than the spell's level. For example, if you take both the Rhythmancy Initiate and Rhythmancy Adept feats, you have 3 rhythmancy points and thus are eligible to learn rhythmancy spells up to 3rd-level.
+If you discover a new rhythmancy spell in your travels, you are eligible to learn the song if your total possible rhythmancy points are equal to or greater than the spell's level. Rhythmancy points from multiple sources are pooled together when determining your point total. For example, if you take both the Rhythmancy Initiate and Rhythmancy Adept feats, you have 3 rhythmancy points and thus are eligible to learn rhythmancy spells up to 3rd-level.
 
 ### Other Features and Traits
 
@@ -124,7 +124,7 @@ If a duet is targeted by an effect or check that requires knowing the spellcasti
 
 This section presents a sampling of feats appropriate for a campaign featuring rhythmancy magic. If a feat has a prerequisite, you must meet that prerequisite to gain the feat. The **Rhythmancy Feats** table lists the feats in this section along with the level at which they're available.
 
-### Rhythmancy Feats
+##### Rhythmancy Feats
 | Level | Feat | Category | Prerequisite | Repeatable |
 |:-:|:-|:-|:-|:-:|
 | 1st | [Rhythmancy Initiate](#rhythmancy-initiate) | Background | | no |
@@ -143,9 +143,9 @@ _4th-Level General Feat_
 
 Your extended practice in channeling rhythmantic energies has granted you additional control and power:
 
-- You gain 2 rhythmancy points to spend on casting rhythmancy spells. These points are added to any rhythmancy points you have from another source.
-- You learn two rhythmancy spells of 1st-level or lower of your choice, or one 2nd-level rhythmancy spell of your choice. Charisma is your spellcasting ability for spells cast using this feat.
-- You gain expertise in Performance checks, doubling your proficiency bonus for any ability check you make that uses this skill.
+- You gain 2 rhythmancy points to spend on casting rhythmancy spells.
+- You learn two rhythmancy spells of 1st-level or lower of your choice, or one 2nd-level rhythmancy spell of your choice.
+- You gain expertise in the skill you chose for the Rhythmancy Initiate feat, doubling your proficiency bonus for any ability check you make that uses this skill.
 
 #### [Rhythmancy Initiate](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-initiate.md)
 
@@ -154,11 +154,12 @@ _1st-Level Background Feat_
 - **Prerequisite:** None
 - **Repeatable:** No
 
-You’ve begun studying the magic of rhythmantic songs:
+You've begun studying the magic of rhythmantic songs, granting you the following features:
 
-- You gain 1 rhythmancy point to spend on casting rhythmancy spells. This point is added to any rhythmancy points you have from another source.
-- You learn a rhythmancy cantrip and a 1st-level rhythmancy spell of your choice. Charisma is your spellcasting ability for spells cast using this feat.
-- You gain proficiency in Performance checks and with a musical instrument of your choice. You can use such an instrument as a spellcasting focus for any rhythmancy spell you cast.
+- You gain 1 rhythmancy point to spend on casting rhythmancy spells.
+- You learn a rhythmancy cantrip and a 1st-level rhythmancy spell of your choice.
+- You gain proficiency in a skill of your choice from the following list: Deception, Intimidation, Performance, Persuasion.
+- You gain proficiency with a musical instrument of your choice. You can use such an instrument as a spellcasting focus for any spell you cast using rhythmancy points.
 
 ## Rhythmancy Spells
 
