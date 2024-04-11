@@ -15,12 +15,12 @@ Bards are naturally suited for learning rhythmancy magic and can learn any such 
 Any other magically inclined student can potentially learn rhythmantic magic they come upon if they meet the following requirements:
 
 - They must already be able to cast a spell of the same level or higher using a feature or trait.
-- They must have proficiency in a musical instrument.
+- They must have Proficiency in a musical instrument.
 - They must either be taught by someone else who knows rhythmantic songs, or they must find a written copy of the spell and teach themself.
 
 #### Optional: Rhythmancy Spells for Other Classes
 
-By default, rhythmantic magic is only available on the bard spell list, through rhythmancy feats, or through training or self-teaching when a rhythmancy spell is discovered. However, the Game Master can optionally make any or all rhythmancy spells available for spellcasters if they wish. If the GM allows, anyone with the Spellcasting or Pact Magic feature, or a feat that allowing learning a spell, could potentially learn rhythmancy as a spell option using these features, as long as they also have proficiency in a musical instrument. With this option, the rhythmancy spell is learned in place of the existing spell when the feature is gained.
+By default, rhythmantic magic is only available on the bard spell list, through rhythmancy feats, or through training or self-teaching when a rhythmancy spell is discovered. However, the Game Master can optionally make any or all rhythmancy spells available for spellcasters if they wish. If the GM allows, anyone with the Spellcasting or Pact Magic feature, or a feat that allowing learning a spell, could potentially learn rhythmancy as a spell option using these features, as long as they also have Proficiency in a musical instrument. With this option, the rhythmancy spell is learned in place of the existing spell when the feature is gained.
 
 ### Rhythmantic Training
 
@@ -145,7 +145,7 @@ Your extended practice in channeling rhythmantic energies has granted you additi
 
 - You gain 2 rhythmancy points to spend on casting rhythmancy spells. These points are added to any rhythmancy points you have from another source.
 - You learn two rhythmancy spells of 1st-level or lower of your choice, or one 2nd-level rhythmancy spell of your choice. Charisma is your spellcasting ability for spells cast using this feat.
-- You gain expertise in Performance checks, doubling your proficiency bonus for any ability check you make that uses this skill.
+- You gain Expertise in Performance checks, doubling your Proficiency Bonus for any ability check you make that uses this skill.
 
 #### [Rhythmancy Initiate](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-initiate.md)
 
@@ -158,7 +158,7 @@ You've begun studying the magic of rhythmantic songs:
 
 - You gain 1 rhythmancy point to spend on casting rhythmancy spells. This point is added to any rhythmancy points you have from another source.
 - You learn a rhythmancy cantrip and a 1st-level rhythmancy spell of your choice. Charisma is your spellcasting ability for spells cast using this feat.
-- You gain proficiency in Performance checks and with a musical instrument of your choice. You can use such an instrument as a spellcasting focus for any rhythmancy spell you cast.
+- You gain Proficiency in Performance checks and with a musical instrument of your choice. You can use such an instrument as a spellcasting focus for any rhythmancy spell you cast.
 
 ## Rhythmancy Spells
 
@@ -307,7 +307,7 @@ _2nd-level conjuration/rhythmancy_
 
 You create a duplicate of your body in the form of an empty shell in an unoccupied space within range. This shell is an inanimate object exactly your height, weight, physical size, and body shape. Its appearance is superficially similar to that of your body and facial appearance, as well as any clothing you were wearing and any equipment you were carrying when casting the spell, though this false equipment is part of the shell's form and is not removable. The shell appears to be made of a hard stone-like material when touched. Its false body is fixed in a rigid standing position with its appendages resting at its sides. The shell is indestructible.
 
-A shell based on your form vanishes the next time you cast this spell, unless your body is in a different form when casting the spell (such as being shapeshifted or polymorphed), in which case a unique shell is created based on your different form. If you create a new shell and a number of shells up to your proficiency bonus already exist, the oldest shell vanishes.
+A shell based on your form vanishes the next time you cast this spell, unless your body is in a different form when casting the spell (such as being shapeshifted or polymorphed), in which case a unique shell is created based on your different form. If you create a new shell and a number of shells up to your Proficiency Bonus already exist, the oldest shell vanishes.
 
 #### [Equine Tribute](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/equine-tribute.md)
 
@@ -487,9 +487,9 @@ _Enchantment/rhythmancy cantrip_
 - **Components:** V, M (a petal from a silent princess flower; a musical instrument worth at least 1 gp)
 - **Duration:** 1 minute
 
-Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to be proficient in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
+Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to have Proficiency in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
 
-Your temporary proficiency in these Charisma checks is further strengthened when you reach higher levels: your proficiency bonus is doubled at 5th level, tripled at 11th level, and quadrupled at 17th level.
+Your temporary Proficiency in these Charisma checks is further strengthened when you reach higher levels: your Proficiency Bonus is doubled at 5th level, tripled at 11th level, and quadrupled at 17th level.
 
 #### [Sonata of Awakening](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/sonata-of-awakening.md)
 
