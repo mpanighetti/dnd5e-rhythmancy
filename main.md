@@ -132,7 +132,7 @@ Though all bards have the ability to learn rhythmancy spells, practitioners of t
 
 _3rd-level College of Legends feature_
 
-You have extensively pored through history books and sought out hidden knowledge of ancient heroes. You gain proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you make an Intelligence check, you can expend one use of Bardic Inspiration to add twice your proficiency bonus to the check, even if you do not normally have proficiency or expertise in the related skill.
+You have extensively pored through history books and sought out hidden knowledge of ancient heroes. You gain Proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you make an Intelligence check, you can expend one use of Bardic Inspiration to add twice your Proficiency Bonus to the check, even if you do not normally have Proficiency or Expertise in the related skill.
 
 #### Rhythmantic Savant
 
