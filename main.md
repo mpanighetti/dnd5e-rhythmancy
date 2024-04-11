@@ -149,9 +149,9 @@ You have an innate understanding of the magic of music and how to wield it, gran
 
 _6th-level College of Legends feature_
 
-You can channel your bard song to temporarily boost the power of your rhythmancy magic. At the end of a Long Rest, you can expend one of your uses of Bardic Inspiration to roll a Bardic Inspiration die and gain a number of temporary rhythmancy points equal to the number rolled. While you have these temporary rhythmancy points, they can be spent to cast rhythmancy spells as if they were normal rhythmancy points, but they do not count toward your maximum number of rhythmancy points when determining whether you can learn a new rhythmancy song. Any temporary rhythmancy points gained in this manner disappear after you finish your next Long Rest.
+You can channel your bard song to temporarily boost the power of your rhythmancy magic. At the end of a Long Rest, you can expend one of your uses of Bardic Inspiration to roll a Bardic Inspiration die and gain a number of temporary rhythmancy points equal to the number rolled. While you have these temporary rhythmancy points, they can be used to cast and learn spells as if they were normal rhythmancy points, but any spent temporary points cease to count toward your maximum number of rhythmancy points when determining whether you can learn a new song. Any temporary rhythmancy points gained in this manner disappear after you finish your next Long Rest.
 
-Starting at 11th level, you can choose to expend two uses of Bardic Inspiration and roll two Bardic Inspiration dice when gaining temporary rhythmancy points at the end of a Long Rest.
+Starting at 11th level, when gaining temporary rhythmancy points using this feature, you roll two Bardic Inspiration dice and take the higher of the two results.
 
 #### Legendary Secrets
 
