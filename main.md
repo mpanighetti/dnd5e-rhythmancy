@@ -145,7 +145,7 @@ Your extended practice in channeling rhythmantic energies has granted you additi
 
 - You gain 2 rhythmancy points to spend on casting rhythmancy spells.
 - You learn two rhythmancy spells of 1st-level or lower of your choice, or one 2nd-level rhythmancy spell of your choice.
-- You gain expertise in the skill you chose for the Rhythmancy Initiate feat, doubling your proficiency bonus for any ability check you make that uses this skill.
+- You gain Expertise in the skill you chose for the Rhythmancy Initiate feat, doubling your Proficiency Bonus for any ability check you make that uses this skill.
 
 #### [Rhythmancy Initiate](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-initiate.md)
 
@@ -158,8 +158,8 @@ You've begun studying the magic of rhythmantic songs, granting you the following
 
 - You gain 1 rhythmancy point to spend on casting rhythmancy spells.
 - You learn a rhythmancy cantrip and a 1st-level rhythmancy spell of your choice.
-- You gain proficiency in a skill of your choice from the following list: Deception, Intimidation, Performance, Persuasion.
-- You gain proficiency with a musical instrument of your choice. You can use such an instrument as a spellcasting focus for any spell you cast using rhythmancy points.
+- You gain Proficiency in a skill of your choice from the following list: Deception, Intimidation, Performance, Persuasion.
+- You gain Proficiency with a musical instrument of your choice. You can use such an instrument as a spellcasting focus for any spell you cast using rhythmancy points.
 
 ## Rhythmancy Spells
 
