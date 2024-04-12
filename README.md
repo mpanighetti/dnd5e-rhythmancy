@@ -34,13 +34,13 @@ A 5e homebrew school of magic based on musical performance, and a list of spells
 | 1st | _[Song of Time](main.md#song-of-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
 | 1st | _[Summoning of the Scarecrow](main.md#summoning-of-the-scarecrow)_ | Conjuration/Rhythmancy | Bard | |
 | 2nd | _[Command Melody](main.md#command-melody)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
-| 2nd | _[Duet of Restoration](main.md#duet-of-restoration)_ | Evocation/Rhythmancy | Bard | duet |
+| 2nd | _[Duet of Restoration](main.md#duet-of-restoration)_ | Evocation/Rhythmancy | Bard | Duet |
 | 2nd | _[Elegy of Emptiness](main.md#elegy-of-emptiness)_ | Conjuration/Rhythmancy | Bard | |
 | 2nd | _[Sonata of Awakening](main.md#sonata-of-awakening)_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 2nd | _[Song of Discovery](main.md#song-of-discovery)_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
 | 3rd | _[New Wave Bossa Nova](main.md#new-wave-bossa-nova)_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 3rd | _[Peaceful Lullaby](main.md#peaceful-lullaby)_ | Enchantment/Rhythmancy | Bard | Concentration |
-| 3rd | _[Royal Duet](main.md#royal-duet)_ | Evocation/Rhythmancy | Bard | duet |
+| 3rd | _[Royal Duet](main.md#royal-duet)_ | Evocation/Rhythmancy | Bard | Duet |
 | 3rd | _[Song of Double Time](main.md#song-of-double-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
 | 3rd | _[Tune of Echoes](main.md#tune-of-echoes)_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
 | 3rd | _[Wind's Requiem](main.md#winds-requiem)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
