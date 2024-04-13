@@ -1,6 +1,6 @@
 # Rhythmancy: The Magic of Music
 
-Rhythmancy is a fundamental magical force that is summoned through the performance of music. Though it is sometimes considered an independent school of magical study, rhythmancy spells all align with various existing schools and can potentially be learned by any arcane practitioners — if they know where to look.
+Rhythmancy is a fundamental aspect of magic that is summoned through the performance of music. Though it is sometimes considered an independent school of magical study, rhythmancy spells all align with various existing schools and can potentially be learned by any arcane practitioners — if they know where to look.
 
 ## Learning Rhythmancy Spells
 
@@ -402,7 +402,7 @@ _Evocation/rhythmancy cantrip_
 - **Components:** V, S, M (a sprig of hawk grass; a musical instrument worth at least 1 gp)
 - **Duration:** 1 round
 
-You play a series of sharp tones evoking the piercing cry of a bird of prey, summoning a spectral bird to slash its talons at a creature of your choice that you can see within range. The bird can take whatever form you choose, then makes a melee spell attack against the target. On a hit, the bird deals 1d4 Piercing damage, and the target has disadvantage on Perception checks and Dexterity Saving Throws they make before the end of their next turn as the bird flies in their face to distract them. On a miss, or at the start of your next turn, the bird disappears, ending the spell.
+You play a series of sharp tones evoking the Piercing cry of a bird of prey, summoning a spectral bird to slash its talons at a creature of your choice that you can see within range. The bird can take whatever form you choose, then makes a melee spell attack against the target. On a hit, the bird deals 1d4 Piercing damage, and the target has disadvantage on Perception checks and Dexterity Saving Throws they make before the end of their next turn as the bird flies in their face to distract them. On a miss, or at the start of your next turn, the bird disappears, ending the spell.
 
 The spell creates more than one bird when you reach higher levels: two birds at 5th level, three birds at 11th level, and four birds at 17th level. You can direct the birds at the same target or at different ones. Make a separate attack roll for each bird. The spell ends at the start of your next turn or if all the birds disappear.
 
@@ -570,7 +570,7 @@ The healing energy attempts to soothe the restless undead and allow them to move
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th-level or higher, the healing increases by 1d10 for each slot level above 5th.
 
-When you cast this spell using a spell slot of 7th-level or higher, the spell also ends the Cursed condition for all creatures healed by this spell. If any of those creatures are attuned to a cursed magic item, the spell breaks its owner's attunement to the object so it can be removed or discarded.
+When you cast this spell using a spell slot of 7th-level or higher, the spell also ends the Cursed condition for all creatures healed by this spell. If any of those creatures are Attuned to a cursed magic item, the spell breaks its owner's Attunement to the object so it can be removed or discarded.
 
 #### [Song of Passing](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/song-of-passing.md)
 
