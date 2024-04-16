@@ -1,6 +1,6 @@
 # Rhythmancy: The Magic of Music
 
-Rhythmancy is a fundamental magical force that is summoned through the performance of music. Though it is sometimes considered an independent school of magical study, rhythmancy spells all align with various existing schools and can potentially be learned by any arcane practitioners — if they know where to look.
+Rhythmancy is a fundamental aspect of magic that is summoned through the performance of music. Though it is sometimes considered an independent school of magical study, rhythmancy spells all align with various existing schools and can potentially be learned by any arcane practitioners — if they know where to look.
 
 ## Learning Rhythmancy Spells
 
@@ -116,9 +116,9 @@ Some rhythmancy songs are written to be performed by two musicians working toget
 - After the first spellcasting is begun, the partner's spell must begin before the first caster's next turn. To ensure synchrony, one partner could use the Ready action so that their spell begins casting as a Reaction to the other partner starting their song.
 - Both casters must be able to hear each other during the entire casting times of the spells to ensure their performances remain in sync.
 
-If any of the above conditions are not met, both castings of the duet spell fail. Otherwise, the spells grant their shared effect after both casters complete the required casting time.
+If any of the above conditions are not met, both castings of the Duet spell fail. Otherwise, the spells grant their shared effect after both casters complete the required casting time.
 
-If a duet is targeted by an effect or check that requires knowing the spellcasting ability, spell save DC, or spell attack modifier of the caster, use the higher of the two attributes from the duet's performers. If the effect or check requires knowing the spell slot level (such as _dispel magic_) and the performers used two different level spell slots, use the lower of the two spell slot levels.
+If a Duet is targeted by an effect or check that requires knowing the spellcasting ability, Spell Save DC, or spell attack modifier of the caster, use the higher of the two attributes from the Duet's performers. If the effect or check requires knowing the spell slot level (such as _dispel magic_) and the performers used two different level spell slots, use the lower of the two spell slot levels.
 
 ## Rhythmancy Feats
 
@@ -163,47 +163,47 @@ You've begun studying the magic of rhythmantic songs, granting you the following
 
 ## Rhythmancy Spells
 
-This section presents a sampling of spells developed through the musical study of rhythmancy. All rhythmancy spells are available to the bard class, as well as other spellcasting classes with the Game Master's consent (see "Rhythmancy Spells for Other Classes"). The Rhythmancy Spells table lists the new spells, ordering them by level. The table also notes the schools of magic of a spell, whether it requires concentration, whether it bears the ritual tag, and whether it bears the duet tag.
+This section contains spells developed through the musical study of rhythmancy. These spells are available to the bard class, as well as other spellcasting classes with the Game Master's consent (see "Rhythmancy Spells for Other Classes"). The Rhythmancy Spells table lists the new spells, ordering them by level. The table also notes the schools of magic of a spell, whether it bears any tags, and which classes have access to it.
 
 In some cases, multiple rhythmancy spells are learned as a single song, existing as alternate versions of a composition and applying their unique effects only when cast at a higher level. Such spells are labeled with shared footnote markers on this list for reference; see the description for the lowest-level version of the spell for all the other spells' effects.
 
 ##### Rhythmancy Spells
-| Level | Spell | School | Concentration | Ritual | Duet |
-|:-:|:-|:-|:-|:-|:-|
-| cantrip | _Ballad of the Dreamer_ | Abjuration/Rhythmancy | no | no | no |
-| cantrip | _The Hawk's Call_ | Evocation/Rhythmancy | no | no | no |
-| cantrip | _Royal Lullaby_ | Enchantment/Rhythmancy | no | no | no |
-| 1st | _Equine Tribute_ | Conjuration/Rhythmancy | no | no | no |
-| 1st | _The Lost is Found_ | Divination/Rhythmancy | yes | yes | no |
-| 1st | _Song of Storms_ | Evocation/Rhythmancy | yes | no | no |
-| 1st | _Song of Time_[^🪈] | Abjuration/Rhythmancy | no | no | no |
-| 1st | _Summoning of the Scarecrow_ | Conjuration/Rhythmancy | no | no | no |
-| 2nd | _Command Melody_ | Conjuration/Rhythmancy | yes | yes | no |
-| 2nd | _Duet of Restoration_ | Evocation/Rhythmancy | no | no | yes |
-| 2nd | _Elegy of Emptiness_ | Conjuration/Rhythmancy | no | no | no |
-| 2nd | _Sonata of Awakening_ | Abjuration/Rhythmancy | yes | no | no |
-| 2nd | _Song of Discovery_ | Divination/Rhythmancy | yes | yes | no |
-| 3rd | _New Wave Bossa Nova_ | Abjuration/Rhythmancy | yes | no | no |
-| 3rd | _Peaceful Lullaby_ | Enchantment/Rhythmancy | yes | no | no |
-| 3rd | _Royal Duet_ | Evocation/Rhythmancy | no | no | yes |
-| 3rd | _Song of Double Time_[^🪈] | Abjuration/Rhythmancy | no | no | no |
-| 3rd | _Tune of Echoes_ | Divination/Rhythmancy | yes | yes | no |
-| 3rd | _Wind's Requiem_ | Conjuration/Rhythmancy | yes | yes | no |
-| 4th | _Death's Departure_ | Abjuration/Rhythmancy | yes | no | no |
-| 4th | _Earth God's Lyric_ | Evocation/Rhythmancy | no | no | no |
-| 4th | Frog's Song of Soul | Necromancy/Rhythmancy | no | no | no |
-| 4th | Minute Minuet | Transmutation/Rhythmancy | yes | no | no |
-| 4th | Space Warp | Conjuration/Rhythmancy | no | yes | no |
-| 4th | Wind God's Aria | Evocation/Rhythmancy | no | no | no |
-| 5th | _Inverted Song of Time_[^🪈] | Abjuration/Rhythmancy | no | no | no |
-| 5th | _Melody of Darkness_ | Necromancy/Rhythmancy | yes | no | no |
-| 5th | _Song of Healing_ | Evocation/Rhythmancy | no | no | no |
-| 5th | _Song of Passing_ | Illusion/Rhythmancy | yes | no | no |
-| 5th | _Tune of Currents_ | Abjuration/Rhythmancy | no | no | no |
-| 6th | _The River Devil's Lament_ | Enchantment/Rhythmancy | no | no | no |
-| 7th | _Tune of Ages_ | Conjuration/Rhythmancy | no | no | no |
-| 8th | _Ballad of Gales_ | Conjuration/Rhythmancy | no | no | no |
-| 8th | _Oath to Order_ | Abjuration/Rhythmancy | no | no | no |
+| Level | Spell | School | Class | Tags |
+|:-:|:-|:-|:-|:-|
+| cantrip | _Ballad of the Dreamer_ | Abjuration/Rhythmancy | Bard | |
+| cantrip | _The Hawk's Call_ | Evocation/Rhythmancy | Bard | |
+| cantrip | _Royal Lullaby_ | Enchantment/Rhythmancy | Bard | |
+| 1st | _Equine Tribute_ | Conjuration/Rhythmancy | Bard | |
+| 1st | _The Lost is Found_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
+| 1st | _Song of Storms_ | Evocation/Rhythmancy | Bard | Concentration |
+| 1st | _Song of Time_[^🪈] | Abjuration/Rhythmancy | Bard | |
+| 1st | _Summoning of the Scarecrow_ | Conjuration/Rhythmancy | Bard | |
+| 2nd | _Command Melody_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
+| 2nd | _Duet of Restoration_ | Evocation/Rhythmancy | Bard | Duet |
+| 2nd | _Elegy of Emptiness_ | Conjuration/Rhythmancy | Bard | |
+| 2nd | _Sonata of Awakening_ | Abjuration/Rhythmancy | Bard | Concentration |
+| 2nd | _Song of Discovery_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
+| 3rd | _New Wave Bossa Nova_ | Abjuration/Rhythmancy | Bard | Concentration |
+| 3rd | _Peaceful Lullaby_ | Enchantment/Rhythmancy | Bard | Concentration |
+| 3rd | _Royal Duet_ | Evocation/Rhythmancy | Bard | Duet |
+| 3rd | _Song of Double Time_[^🪈] | Abjuration/Rhythmancy | Bard | |
+| 3rd | _Tune of Echoes_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
+| 3rd | _Wind's Requiem_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
+| 4th | _Death's Departure_ | Abjuration/Rhythmancy | Bard | Concentration |
+| 4th | _Earth God's Lyric_ | Evocation/Rhythmancy | Bard | |
+| 4th | _Frog's Song of Soul_ | Necromancy/Rhythmancy | Bard | |
+| 4th | _Minute Minuet_ | Transmutation/Rhythmancy | Bard | Concentration |
+| 4th | _Space Warp_ | Conjuration/Rhythmancy | Bard | Ritual |
+| 4th | _Wind God's Aria_ | Evocation/Rhythmancy | Bard | |
+| 5th | _Inverted Song of Time_[^🪈] | Abjuration/Rhythmancy | Bard | |
+| 5th | _Melody of Darkness_ | Necromancy/Rhythmancy | Bard | Concentration |
+| 5th | _Song of Healing_ | Evocation/Rhythmancy | Bard | |
+| 5th | _Song of Passing_ | Illusion/Rhythmancy | Bard | Concentration |
+| 5th | _Tune of Currents_ | Abjuration/Rhythmancy | Bard | |
+| 6th | _The River Devil's Lament_ | Enchantment/Rhythmancy | Bard | |
+| 7th | _Tune of Ages_ | Conjuration/Rhythmancy | Bard | |
+| 8th | _Ballad of Gales_ | Conjuration/Rhythmancy | Bard | |
+| 8th | _Oath to Order_ | Abjuration/Rhythmancy | Bard | |
 
 ### Spell Descriptions
 
@@ -237,7 +237,7 @@ You play a soothing melody that conjures strange memories of a dream-like world.
 
 #### [Command Melody](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/command-melody.md)
 
-_2nd-level conjuration/rhythmancy (ritual)_
+_2nd-level conjuration/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet
@@ -267,14 +267,14 @@ On each of your turns, you must use your action to continue playing the song. Th
 
 #### [Duet of Restoration](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/duet-of-restoration.md)
 
-_2nd-level evocation/rhythmancy (duet)_
+_2nd-level evocation/rhythmancy (Duet)_
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet (30-foot sphere)
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Instantaneous
 
-You and a partner play an uplifting duet, targeting a shared location within range. When the spell finishes casting, any creatures that remained within the spells' area of effect for the entire casting and were able to hear the entire composition gain the benefits of a Short Rest. A creature must complete a Long Rest before they can gain this benefit from this song again.
+You and a partner play an uplifting Duet, targeting a shared location within range. When the spell finishes casting, any creatures that remained within the spells' area of effect for the entire casting and were able to hear the entire composition gain the benefits of a Short Rest. A creature must complete a Long Rest before they can gain this benefit from this song again.
 
 **At Higher Levels.** When you and your partner both cast this spell using spell slots of 3rd-level or higher, all creatures that gained the benefits of a Short Rest from this spell also gain a number of Temporary Hit Points equal to twice the spells' combined levels; for example, if both spells are cast at 3rd-level, a creature gains 12 Temporary Hit Points, or (3 + 3) × 2.
 
@@ -293,7 +293,7 @@ Once you finish casting, until the spell ends, as long as you touch the ground, 
 
 Magical effects that would lift or relocate you as forced movement, such as the _levitate_ spell, end immediately and cannot target you, unless they are cast as spells at a higher level than you cast this spell. Magical effects that manipulate you into moving yourself, such as being Charmed and compelled to use your own movement, function normally.
 
-If a creature attempts to teleport or planeshift you against your will and they are not using a spell cast at a higher level than this spell, they must first succeed on a spellcasting ability check (or a Wisdom check if they do not have the ability to cast spells) contested by your spell save DC, or the teleport or planeshift fails to include you as a target.
+If a creature attempts to teleport or planeshift you against your will and they are not using a spell cast at a higher level than this spell, they must first succeed on a spellcasting ability check (or a Wisdom check if they do not have the ability to cast spells) contested by your Spell Save DC, or the teleport or planeshift fails to include you as a target.
 
 If you are moved, teleported, or planeshifted against your will, this spell's effects are suspended until the relocation is complete, after which you are once again tethered to whatever ground you are touching. If you are successfully separated from the ground against your will for 1 minute or longer, the spell ends.
 
@@ -350,7 +350,7 @@ You attempt to influence the life energy of a corpse or undead creature you can 
 
 - **If the target is an undead creature, either when you initially cast this spell or when they died:** the target gains a number of Temporary Hit Points equal to your spellcasting ability check.
 
-An undead creature targeted or raised by this spell must succeed on a Wisdom Saving Throw against your spell save DC or they are Charmed by you. On each of your turns, you can use a Bonus Action to mentally command any creature you Charmed with this spell within 60 feet of you; if you control any combination of creatures using this spell, _animate dead_, or similar spells, you can command any or all of them at the same time, issuing the same or different commands to each one. You decide what action the creature will take and where they will move during their next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature defends you and themself against hostile creatures and moves as needed to remain within at least 30 feet of you. Once given an order, the creature continues to follow it until the task is complete.
+An undead creature targeted or raised by this spell must succeed on a Wisdom Saving Throw against your Spell Save DC or they are Charmed by you. On each of your turns, you can use a Bonus Action to mentally command any creature you Charmed with this spell within 60 feet of you; if you control any combination of creatures using this spell, _animate dead_, or similar spells, you can command any or all of them at the same time, issuing the same or different commands to each one. You decide what action the creature will take and where they will move during their next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature defends you and themself against hostile creatures and moves as needed to remain within at least 30 feet of you. Once given an order, the creature continues to follow it until the task is complete.
 
 On a successful save, or if the Charmed condition on the undead creature ends, the creature stops obeying any command you've given them and cannot be targeted by this spell again for the next 30 days.
 
@@ -363,13 +363,13 @@ _Evocation/rhythmancy cantrip_
 - **Components:** V, S, M (a sprig of hawk grass; a musical instrument worth at least 1 gp)
 - **Duration:** 1 round
 
-You play a series of sharp tones evoking the piercing cry of a bird of prey, summoning a spectral bird to slash its talons at a creature of your choice that you can see within range. The bird can take whatever form you choose, then makes a melee spell attack against the target. On a hit, the bird deals 1d4 Piercing damage, and the target has disadvantage on Perception checks and Dexterity Saving Throws they make before the end of their next turn as the bird flies in their face to distract them. On a miss, or at the start of your next turn, the bird disappears, ending the spell.
+You play a series of sharp tones evoking the Piercing cry of a bird of prey, summoning a spectral bird to slash its talons at a creature of your choice that you can see within range. The bird can take whatever form you choose, then makes a melee spell attack against the target. On a hit, the bird deals 1d4 Piercing damage, and the target has disadvantage on Perception checks and Dexterity Saving Throws they make before the end of their next turn as the bird flies in their face to distract them. On a miss, or at the start of your next turn, the bird disappears, ending the spell.
 
 The spell creates more than one bird when you reach higher levels: two birds at 5th level, three birds at 11th level, and four birds at 17th level. You can direct the birds at the same target or at different ones. Make a separate attack roll for each bird. The spell ends at the start of your next turn or if all the birds disappear.
 
 #### [The Lost is Found](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/the-lost-is-found.md)
 
-_1st-level divination/rhythmancy (ritual)_
+_1st-level divination/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 minute
 - **Range:** Self
@@ -436,7 +436,7 @@ You call upon the spirits of ancient giants to grant you the ability to repel ma
 
 Until the spell ends, as an action, you can target a creature or object within 30 feet of you and attempt to repel them. The target must succeed on a Strength Saving Throw or they are forcibly shoved a distance of your choice up to 100 feet away from you in a straight line and knocked Prone. If the target is a creature that is already Prone, they are additionally Stunned until the end of your next turn.
 
-Manipulating gravity and mass in this manner takes a physical toll on your body. Each time you attempt to repel a creature, at the end of your turn, you must succeed on a Constitution Saving Throw contested by your own spell save DC or suffer one level of Exhaustion.
+Manipulating gravity and mass in this manner takes a physical toll on your body. Each time you attempt to repel a creature, at the end of your turn, you must succeed on a Constitution Saving Throw contested by your own Spell Save DC or suffer one level of Exhaustion.
 
 #### [Peaceful Lullaby](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/peaceful-lullaby.md)
 
@@ -468,14 +468,14 @@ Each time the creature takes damage (except from this spell's effects), they can
 
 #### [Royal Duet](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/royal-duet.md)
 
-_3rd-level evocation/rhythmancy (duet)_
+_3rd-level evocation/rhythmancy (Duet)_
 
 - **Casting Time:** 10 minutes
 - **Range:** 10 feet (30-foot sphere)
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** 8 hours
 
-You and a partner play an empowering duet, targeting a shared location within range. When the spell finishes casting, any creatures who remained within the spells' area of effect for the entire casting and were able to hear the entire composition have advantage on a single d20 test of their choice that they make within the spells' duration.
+You and a partner play an empowering Duet, targeting a shared location within range. When the spell finishes casting, any creatures who remained within the spells' area of effect for the entire casting and were able to hear the entire composition have advantage on a single d20 test of their choice that they make within the spells' duration.
 
 **At Higher Levels.** When you and your partner both cast this spell using spell slots of 4th-level or higher, for each spell level above 3rd, all creatures who gained advantage on a d20 test also gain a +1 to the roll. If the spells are cast at different levels, use the lower of the two levels. For example, if the spell is cast using a 5th-level and a 6th-level spell slot, creatures would gain the bonus from the 5th-level spell slot, which would be a +2 to their roll.
 
@@ -507,7 +507,7 @@ You stir slumbering creatures with rousing music. When you cast this spell, choo
 
 #### [Song of Discovery](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/song-of-discovery.md)
 
-_2nd-level divination/rhythmancy (ritual)_
+_2nd-level divination/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 minute
 - **Range:** Self (20-foot sphere)
@@ -531,7 +531,7 @@ The healing energy attempts to soothe the restless undead and allow them to move
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th-level or higher, the healing increases by 1d10 for each slot level above 5th.
 
-When you cast this spell using a spell slot of 7th-level or higher, the spell also ends the Cursed condition for all creatures healed by this spell. If any of those creatures are attuned to a cursed magic item, the spell breaks its owner's attunement to the object so it can be removed or discarded.
+When you cast this spell using a spell slot of 7th-level or higher, the spell also ends the Cursed condition for all creatures healed by this spell. If any of those creatures are Attuned to a cursed magic item, the spell breaks its owner's Attunement to the object so it can be removed or discarded.
 
 #### [Song of Passing](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/song-of-passing.md)
 
@@ -590,7 +590,7 @@ If desired, you can alter the performance of the Song of Time to a related compo
 
 #### [Space Warp](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/space-warp.md)
 
-_4th-level conjuration/rhythmancy (ritual)_
+_4th-level conjuration/rhythmancy (Ritual)_
 
 - **Casting Time:** 10 minutes
 - **Range:** 10 feet
@@ -648,7 +648,7 @@ For each spell of a level higher than the level of the spell slot you used with 
 
 #### [Tune of Echoes](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/tune-of-echoes.md)
 
-_3rd-level divination/rhythmancy (ritual)_
+_3rd-level divination/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 minute
 - **Range:** Self
@@ -674,13 +674,13 @@ The notes you play resonate with the air around you, lifting you upward and gran
 
 Until the spell ends, you gain a flying speed equal to your movement speed, or if you already have a flying speed, it is increased by 30 feet. You hover in place when you are not flying.
 
-As long as you are not touching the ground, the air pulses around your body, granting you advantage on checks you make to resist being Grappled or to escape the Grappled condition. If you succeed on such a check, as a Reaction, you can immediately move up to half your flying speed away with a burst of wind, and the creature that was Grappling you must succeed on a Strength Saving Throw against your spell save DC or they are knocked Prone. This movement doesn't provoke opportunity attacks.
+As long as you are not touching the ground, the air pulses around your body, granting you advantage on checks you make to resist being Grappled or to escape the Grappled condition. If you succeed on such a check, as a Reaction, you can immediately move up to half your flying speed away with a burst of wind, and the creature that was Grappling you must succeed on a Strength Saving Throw against your Spell Save DC or they are knocked Prone. This movement doesn't provoke opportunity attacks.
 
 If you are successfully forced to the ground against your will for 1 minute or longer, the spell ends.
 
 #### [Wind's Requiem](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/winds-requiem.md)
 
-_3rd-level conjuration/rhythmancy (ritual)_
+_3rd-level conjuration/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 action
 - **Range:** Self
