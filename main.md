@@ -88,9 +88,9 @@ If the casting of a spell using such features is subject to special rules and li
 
 #### Discipline Points
 
-If a monk feature requires spending discipline points (sometimes called "ki points") to cast a spell of 1st-level or higher, the cost of casting a rhythmancy spell is a number of discipline points equal to 1 + the spell's level. For example, casting _Song of Storms_ using the Empty Body feature would require spending 3 discipline points.
+If a monk feature requires spending Discipline Points to cast a spell of 1st-level or higher, the cost of casting a rhythmancy spell is a number of Discipline Points equal to 1 + the spell's level. For example, casting _Song of Storms_ using the Empty Body feature would require spending 3 Discipline Points.
 
-Additional discipline points can be spent to cast the spell at a higher level at 1 discipline point per level increase, as long as you already have the ability to cast a spell at that level using discipline points.
+Additional Discipline Points can be spent to cast the spell at a higher level at 1 Discipline Point per level increase, as long as you already have the ability to cast a spell at that level using Discipline Points.
 
 #### Limited Uses
 
