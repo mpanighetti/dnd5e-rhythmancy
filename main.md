@@ -465,7 +465,7 @@ You summon the cleansing power of sunlight, causing creatures of the night to co
 
 For the spell's duration, you shed bright light in a 15-foot radius and dim light for an additional 15 feet. This light is sunlight.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd-level or higher, any creatures forced to make a Constitution Saving Throw by this spell automatically fail their Saving Throw if their Challenge Rating is less than the spell's level.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd-level or higher, any creatures forced to make a Constitution Saving Throw by this spell make their Saving Throw with Disadvantage if their Challenge Rating is less than the spell's level.
 
 #### [The River Devil's Lament](https://github.com/mpanighetti/dnd5e-spells/blob/main/6th-level/the-river-devils-lament.md)
 
