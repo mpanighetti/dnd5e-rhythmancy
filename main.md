@@ -20,7 +20,7 @@ Any other magically inclined student can potentially learn rhythmantic magic the
 
 #### Optional: Rhythmancy Spells for Other Classes
 
-By default, rhythmantic magic is only available on the bard spell list, through rhythmancy feats, or through training or self-teaching when a rhythmancy spell is discovered. However, the Game Master can optionally make any or all rhythmancy spells available for spellcasters if they wish. If the GM allows, anyone with the Spellcasting or Pact Magic feature, or a feat that allowing learning a spell, could potentially learn rhythmancy as a spell option using these features, as long as they also have Proficiency in a musical instrument. With this option, the rhythmancy spell is learned in place of the existing spell when the feature is gained.
+By default, rhythmantic magic is only available on the bard spell list, through rhythmancy feats, or through training or self-teaching when a rhythmancy spell is discovered. However, the Dungeon Master can optionally make any or all rhythmancy spells available for spellcasters if they wish. If the DM allows, anyone with the Spellcasting or Pact Magic feature, or a feat that allowing learning a spell, could potentially learn rhythmancy as a spell option using these features, as long as they also have Proficiency in a musical instrument. With this option, the rhythmancy spell is learned in place of the existing spell when the feature is gained.
 
 ### Rhythmantic Training
 
@@ -202,7 +202,7 @@ You've begun studying the magic of rhythmantic songs, granting you the following
 
 ## Rhythmancy Spells
 
-This section contains spells developed through the musical study of rhythmancy. These spells are available to the bard class, as well as other spellcasting classes with the Game Master's consent (see "Rhythmancy Spells for Other Classes"). The Rhythmancy Spells table lists the new spells, ordering them by level. The table also notes the schools of magic of a spell, whether it bears any tags, and which classes have access to it.
+This section contains spells developed through the musical study of rhythmancy. These spells are available to the bard class, as well as other spellcasting classes with the Dungeon Master's consent (see "Rhythmancy Spells for Other Classes"). The Rhythmancy Spells table lists the new spells, ordering them by level. The table also notes the schools of magic of a spell, whether it bears any tags, and which classes have access to it.
 
 In some cases, multiple rhythmancy spells are learned as a single song, existing as alternate versions of a composition and applying their unique effects only when cast at a higher level. Such spells are labeled with shared footnote markers on this list for reference; see the description for the lowest-level version of the spell for all the other spells' effects.
 
@@ -358,7 +358,7 @@ _1st-level conjuration/rhythmancy_
 - **Components:** V, S, M (a sprig of horse grass; a musical instrument worth at least 1 gp)
 - **Duration:** Instantaneous
 
-You recant the tale of a great hero's beloved horse companion to endear yourself to a horse with an Intelligence score less than 10 within range; at the Game Master's discretion, you can target a creature other than a horse, as long as they are at least one size category larger than you and have an appropriate anatomy to serve as your mount. If the target is willing, is able to hear you, and remains within range for the entire casting of the spell, they are considered to be your companion.
+You recant the tale of a great hero's beloved horse companion to endear yourself to a horse with an Intelligence score less than 10 within range; at the Dungeon Master's discretion, you can target a creature other than a horse, as long as they are at least one size category larger than you and have an appropriate anatomy to serve as your mount. If the target is willing, is able to hear you, and remains within range for the entire casting of the spell, they are considered to be your companion.
 
 A companion is your ally. In combat, they share your initiative count, and they function as a controlled mount (as defined in the rules on mounted combat). If you are Incapacitated, your companion takes their turn immediately after yours and acts independently, focusing on protecting you. A creature can only be a companion to one other creature at a time.
 
@@ -694,7 +694,7 @@ _3rd-level divination/rhythmancy (Ritual)_
 - **Components:** V, S, M (a musical instrument worth at least 1 gp, a harp string spun from gold worth 25 gp)
 - **Duration:** Concentration, up to 10 minutes
 
-You create an image in the air 10 feet in front of you depicting your current general location from a previous point in time. When you cast the spell, you decide whether the spell depicts a moment of historical significance, or a more specific moment in time you specify. If a moment of historical significance is selected, the Game Master picks the moment to depict, and if no historically significant moment has occurred in this location, the GM can depict any other moment in the past for the same location. If you pick a specific moment, you can be as vague or concrete as you like in your description of the moment, and the spell will attempt to reasonably carry out your request.
+You create an image in the air 10 feet in front of you depicting your current general location from a previous point in time. When you cast the spell, you decide whether the spell depicts a moment of historical significance, or a more specific moment in time you specify. If a moment of historical significance is selected, the Dungeon Master picks the moment to depict, and if no historically significant moment has occurred in this location, the DM can depict any other moment in the past for the same location. If you pick a specific moment, you can be as vague or concrete as you like in your description of the moment, and the spell will attempt to reasonably carry out your request.
 
 For the duration of the spell, the image plays out the selected moment in real time. The image can display any location within 100 feet of where the spell was cast, switching focus as needed to depict the selected moment as fully as possible. You can see and hear through the image as if you were present at that point in time. If, at any point during the playback of the selected moment, a magical effect was present which blocked detection through divination magic or being perceived through magical scrying sensors (such as with the _nondetection_ spell), the image becomes unfocused and the sound becomes distorted until such a time that the magical effect ended or was not present.
 
