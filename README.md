@@ -21,7 +21,7 @@ A 5e homebrew school of magic based on musical performance, and a list of spells
 |:-:|:-|:-|:-|:-|
 | cantrip | _[Ballad of the Dreamer](main.md#ballad-of-the-dreamer)_ | Abjuration/Rhythmancy | Bard | |
 | cantrip | _[The Hawk's Call](main.md#the-hawks-call)_ | Evocation/Rhythmancy | Bard | |
-| cantrip | _[Royal Lullaby](main.md#royal-lullaby)_ | Enchantment/Rhythmancy | Bard | |
+| cantrip | _[The Royal Decree](main.md#the-royal-decree)_ | Enchantment/Rhythmancy | Bard | |
 | 1st | _[Equine Tribute](main.md#equine-tribute)_ | Conjuration/Rhythmancy | Bard | |
 | 1st | _[The Lost is Found](main.md#the-lost-is-found)_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
 | 1st | _[Song of Storms](main.md#song-of-storms)_ | Evocation/Rhythmancy | Bard | Concentration |

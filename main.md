@@ -172,7 +172,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 |:-:|:-|:-|:-|:-|
 | cantrip | _Ballad of the Dreamer_ | Abjuration/Rhythmancy | Bard | |
 | cantrip | _The Hawk's Call_ | Evocation/Rhythmancy | Bard | |
-| cantrip | _Royal Lullaby_ | Enchantment/Rhythmancy | Bard | |
+| cantrip | _The Royal Decree_ | Enchantment/Rhythmancy | Bard | |
 | 1st | _Equine Tribute_ | Conjuration/Rhythmancy | Bard | |
 | 1st | _The Lost is Found_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
 | 1st | _Song of Storms_ | Evocation/Rhythmancy | Bard | Concentration |
@@ -466,6 +466,19 @@ Each time the creature takes damage (except from this spell's effects), they can
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th-level or higher, the duration increases to 1 day (7th-level), 30 days (8th-level), or 1 year (9th-level), and the Psychic damage dealt when the creature can see you increases by 1d10 for each spell slot level above 6th. Additionally, when you cast this spell at 8th-level or higher, the creature can no longer repeat their Saving Throws when they take damage.
 
+#### [The Royal Decree](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/the-royal-decree.md)
+
+_Enchantment/rhythmancy cantrip_
+
+- **Casting Time:** 1 action
+- **Range:** 10 feet
+- **Components:** V, M (a petal from a silent princess flower; a musical instrument worth at least 1 gp)
+- **Duration:** 1 minute
+
+Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to have Proficiency in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
+
+Your temporary Proficiency in these Charisma checks is further strengthened when you reach higher levels: your Proficiency Bonus is doubled at 5th level, tripled at 11th level, and quadrupled at 17th level.
+
 #### [Royal Duet](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/royal-duet.md)
 
 _3rd-level evocation/rhythmancy (Duet)_
@@ -478,19 +491,6 @@ _3rd-level evocation/rhythmancy (Duet)_
 You and a partner play an empowering Duet, targeting a shared location within range. When the spell finishes casting, any creatures who remained within the spells' area of effect for the entire casting and were able to hear the entire composition have advantage on a single d20 test of their choice that they make within the spells' duration.
 
 **At Higher Levels.** When you and your partner both cast this spell using spell slots of 4th-level or higher, for each spell level above 3rd, all creatures who gained advantage on a d20 test also gain a +1 to the roll. If the spells are cast at different levels, use the lower of the two levels. For example, if the spell is cast using a 5th-level and a 6th-level spell slot, creatures would gain the bonus from the 5th-level spell slot, which would be a +2 to their roll.
-
-#### [Royal Lullaby](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/royal-lullaby.md)
-
-_Enchantment/rhythmancy cantrip_
-
-- **Casting Time:** 1 action
-- **Range:** 10 feet
-- **Components:** V, M (a petal from a silent princess flower; a musical instrument worth at least 1 gp)
-- **Duration:** 1 minute
-
-Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to have Proficiency in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
-
-Your temporary Proficiency in these Charisma checks is further strengthened when you reach higher levels: your Proficiency Bonus is doubled at 5th level, tripled at 11th level, and quadrupled at 17th level.
 
 #### [Sonata of Awakening](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/sonata-of-awakening.md)
 
