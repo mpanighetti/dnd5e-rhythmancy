@@ -30,6 +30,7 @@ A 5e homebrew school of magic based on musical performance, and a list of spells
 | 2nd | _[Command Melody](main.md#command-melody)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
 | 2nd | _[Duet of Restoration](main.md#duet-of-restoration)_ | Evocation/Rhythmancy | Bard | Duet |
 | 2nd | _[Elegy of Emptiness](main.md#elegy-of-emptiness)_ | Conjuration/Rhythmancy | Bard | |
+| 2nd | _[Repel the Dark](main.md#repel-the-dark)_ | Evocation/Rhythmancy | Bard | Concentration |
 | 2nd | _[Sonata of Awakening](main.md#sonata-of-awakening)_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 2nd | _[Song of Discovery](main.md#song-of-discovery)_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
 | 3rd | _[New Wave Bossa Nova](main.md#new-wave-bossa-nova)_ | Abjuration/Rhythmancy | Bard | Concentration |

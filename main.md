@@ -181,6 +181,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 2nd | _Command Melody_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
 | 2nd | _Duet of Restoration_ | Evocation/Rhythmancy | Bard | Duet |
 | 2nd | _Elegy of Emptiness_ | Conjuration/Rhythmancy | Bard | |
+| 2nd | _Repel the Dark_ | Evocation/Rhythmancy | Bard | Concentration |
 | 2nd | _Sonata of Awakening_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 2nd | _Song of Discovery_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
 | 3rd | _New Wave Bossa Nova_ | Abjuration/Rhythmancy | Bard | Concentration |
@@ -450,6 +451,21 @@ _3rd-level enchantment/rhythmancy_
 You play a gentle melody in an attempt to lull a creature that can hear you in range. The target must succeed on a Wisdom Saving Throw or fall asleep and remain Unconscious until the spell ends, the target takes damage, or another creature takes an action to wake them. Constructs and undead automatically succeed on this Saving Throw.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, for each spell slot above 3rd, the duration increases by 1 hour, and you can target an additional creature.
+
+#### [Repel the Dark](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/repel-the-dark.md)
+
+_2nd-level evocation/rhythmancy_
+
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Duration:** Concentration, up to 1 minute
+
+You summon the cleansing power of sunlight, causing creatures of the night to cower in fear. When you cast this spell, all Undead creatures and all creatures with sunlight sensitivity within range that can see you must succeed on a Constitution Saving Throw or become Stunned for the spell's duration. At the end of each of their turns, a creature Stunned by this spell can repeat the Saving Throw, ending the condition on a success.
+
+For the spell's duration, you shed bright light in a 15-foot radius and dim light for an additional 15 feet. This light is sunlight.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd-level or higher, any creatures forced to make a Constitution Saving Throw by this spell automatically fail their Saving Throw if their Challenge Rating is less than the spell's level.
 
 #### [The River Devil's Lament](https://github.com/mpanighetti/dnd5e-spells/blob/main/6th-level/the-river-devils-lament.md)
 
