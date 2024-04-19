@@ -184,6 +184,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 2nd | _Repel the Dark_ | Evocation/Rhythmancy | Bard | Concentration |
 | 2nd | _Sonata of Awakening_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 2nd | _Song of Discovery_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
+| 3rd | _Mambo Marino_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
 | 3rd | _New Wave Bossa Nova_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 3rd | _Peaceful Lullaby_ | Enchantment/Rhythmancy | Bard | Concentration |
 | 3rd | _Royal Duet_ | Evocation/Rhythmancy | Bard | Duet |
@@ -355,6 +356,19 @@ _1st-level divination/rhythmancy (Ritual)_
 You play a song to yourself that stirs old memories of a childhood friend. Until the spell ends, while you are traveling or exploring within the same environment you were in when casting the spell, you can't become lost except by magical means.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd-level or higher, the duration increases to a number of hours equal to the spell slot level. Additionally, until the spell ends, if magical effects cause you to become lost, as an action, you can attempt to identify a valid route to take for a specific intended destination on the same plane of existence as you. Make a spellcasting ability check contested by a DC equal to 10 + the other spell's level (or DC 15 if caused by another magical effect). On a success, the magical effects obfuscating your travel are suppressed for the duration of the spell, during which time the shortest and most direct route to your destination (but not necessarily the safest route) is drawn out as a spectral golden wire on the ground. On a failed check, the spell ends immediately.
+
+#### [Mambo Marino](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/mambo-marino.md)
+
+_3rd-level conjuration/rhythmancy (Ritual)_
+
+- **Casting Time:** 1 minute
+- **Range:** 10 feet
+- **Components:** V, M (a mola scale; a musical instrument worth at least 1 gp)
+- **Duration:** Concentration, up to 24 hours
+
+You create a glowing 10-foot-diameter circle in a body of water you can see within range. The circle lasts for the spell's duration. At any time before the spell ends, as an action, you and any willing creatures you can see within 30 feet of you can attempt to teleport to the circle. If the space is occupied or cannot accommodate all the creatures you specify, the teleportation fails. Otherwise, any creatures teleported by this spell instantly appear within the circle, and the spell ends.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, concentration is no longer required to maintain the spell, and for each spell level above 3rd, the diameter of the glowing circle you create increases by 10 feet and the duration is doubled. Additionally, if any circles exist from your previous castings of the spell, they continue to function and inherit the new spell duration.
 
 #### [Melody of Darkness](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/melody-of-darkness.md)
 
