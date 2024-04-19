@@ -33,6 +33,7 @@ A 5e homebrew school of magic based on musical performance, and a list of spells
 | 2nd | _[Repel the Dark](main.md#repel-the-dark)_ | Evocation/Rhythmancy | Bard | Concentration |
 | 2nd | _[Sonata of Awakening](main.md#sonata-of-awakening)_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 2nd | _[Song of Discovery](main.md#song-of-discovery)_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
+| 3rd | _[Mambo Marino](main.md#mambo-marino)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
 | 3rd | _[New Wave Bossa Nova](main.md#new-wave-bossa-nova)_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 3rd | _[Peaceful Lullaby](main.md#peaceful-lullaby)_ | Enchantment/Rhythmancy | Bard | Concentration |
 | 3rd | _[Royal Duet](main.md#royal-duet)_ | Evocation/Rhythmancy | Bard | Duet |
