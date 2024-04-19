@@ -762,4 +762,36 @@ While concentrating on this spell, as an action, you can attempt to channel this
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, your jumping distance is multiplied by the spell slot number. For example, casting this spell at 4th-level would cause your jumping distance to be quadrupled.
 
+## Magic Items
+
+This section provides an assortment of magic items with ties to rhythmancy. The **Rhythmancy Magic Items** table lists the magic items in this section along with their rarity and whether they require Attunement.
+
+### Rhythmancy Magic Items
+| Magic Item | Category | Rarity | Requires Attunement |
+|:-|:-|:-|:-|
+| [Instrument of the Wild](rhythmancy.md#instrument-of-the-wild) | Wondrous item | Varies | Yes (by someone able to cast rhythmancy spells) |
+
+### Magic Item Descriptions
+
+The magic items are presented in alphabetical order.
+
+#### [Instrument of the Wild](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/instrument-of-the-wild.md)
+
+_Wondrous item (any instrument), rarity varies (requires Attunement by someone able to cast rhythmancy spells)_
+
+This instrument was lovingly crafted by an artist with a profound connection to the rhythm of the natural world, and they have imbued some of their own magic into the craft and design. The instrument manifests the magical gift of its creation as one or more rhythmancy spells and charges that can be spent on the instrument's properties; the number of charges is equal to the spell slot level that was used to create the instrument, which also determines its rarity. The instrument regains 1d4 expended charges at dawn.
+
+When you use an _instrument of the wild_ as a material component to cast a rhythmancy spell of 1st-level or higher, you can expend a charge to cast the spell at one level higher than the original spell level; for example, casting a 1st-level spell and expending a charge would cast that spell at 2nd-level. The _instrument of the wild_ cannot be used to increase a spell's level beyond your normal spellcasting abilities.
+
+Additionally, you can cast rhythmancy spells imbued in an _instrument of the wild_ by expending a number of charges equal to the spell's level. The rarity determines the spells the instrument possesses, and an _instrument of the wild_ of a higher rarity also includes the spells from all rarities below it (for example, an uncommon _instrument of the wild_ includes both _The Lost is Found_ and _Song of Discovery_).
+
+##### Instrument of the Wild Rarity
+| Spell Slot Level | Rhythmancy Spell | Rarity |
+|:-:|:-|:-|
+| 1st | _The Lost is Found_ | Common |
+| 2nd | _Song of Discovery_ | Uncommon |
+| 3rd | _Wind's Requiem_ | Rare |
+| 4th | _Earth God's Lyric_ | Very rare |
+| 5th | _Song of Healing_ | Legendary |
+
 [^🪈]: These rhythmancy songs are grouped as the Song of Time.

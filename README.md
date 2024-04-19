@@ -1,6 +1,6 @@
 # Rhythmancy: The Magic of Music
 
-A 5e homebrew school of magic based on musical performance, and a list of spells utilizing this magic.
+A 5e homebrew school of magic based on musical performance. Includes a list of class options, feats, spells, and magic items utilizing rhythmancy.
 
 ## Resources
 
@@ -61,6 +61,12 @@ A 5e homebrew school of magic based on musical performance, and a list of spells
 | 7th | _[Tune of Ages](rhythmancy.md#tune-of-ages)_ | Conjuration/Rhythmancy | Bard | |
 | 8th | _[Ballad of Gales](rhythmancy.md#ballad-of-gales)_ | Conjuration/Rhythmancy | Bard | |
 | 8th | _[Oath to Order](rhythmancy.md#oath-to-order)_ | Abjuration/Rhythmancy | Bard | |
+
+### Magic Items
+
+| Magic Item | Category | Rarity | Requires Attunement |
+|:-|:-|:-|:-|
+| [Instrument of the Wild](rhythmancy.md#instrument-of-the-wild) | Wondrous item | Varies | Yes (by someone able to cast rhythmancy spells) |
 
 ## Credits
 
