@@ -8,6 +8,12 @@ A 5e homebrew school of magic based on musical performance, and a list of spells
 
 [Rhythmancy: The Magic of Music](main.md)
 
+### Classes
+
+#### Bard
+
+- [College of Legends](main.md#bard-subclass-college-of-legends)
+
 ### Feats
 
 | Level | Feat | Category | Prerequisite | Repeatable |
