@@ -159,7 +159,7 @@ _14th-level College of Legends feature_
 
 You have mastered unlocking hidden or lost ancient secrets. You learn the _legend lore_ spell, or another bard spell of your choice from the divination school for which you are eligible if you already know _legend lore_. This spell doesn't count against the number of bard spells you know. When you cast _legend lore_ using rhythmancy points, the casting time is 1 action, and you replace its material component requirements with a musical instrument worth at least 1 gp.
 
-## Rhythmancy Feats
+## Feats
 
 This section presents a sampling of feats appropriate for a campaign featuring rhythmancy magic. If a feat has a prerequisite, you must meet that prerequisite to gain the feat. The **Rhythmancy Feats** table lists the feats in this section along with the level at which they're available.
 
@@ -200,7 +200,7 @@ You've begun studying the magic of rhythmantic songs, granting you the following
 - You gain Proficiency in a skill of your choice from the following list: Deception, Intimidation, Performance, Persuasion.
 - You gain Proficiency with a musical instrument of your choice. You can use such an instrument as a spellcasting focus for any spell you cast using rhythmancy points.
 
-## Rhythmancy Spells
+## Spells
 
 This section contains spells developed through the musical study of rhythmancy. These spells are available to the bard class, as well as other spellcasting classes with the Dungeon Master's consent (see "Rhythmancy Spells for Other Classes"). The Rhythmancy Spells table lists the new spells, ordering them by level. The table also notes the schools of magic of a spell, whether it bears any tags, and which classes have access to it.
 
