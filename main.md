@@ -124,9 +124,9 @@ If a Duet is targeted by an effect or check that requires knowing the spellcasti
 
 At 3rd level, a bard gains the choice of a subclass. The following option is made available to you when making that choice: the College of Legends.
 
-### College of Legends Features
-
 Though all bards have the ability to learn rhythmancy spells, practitioners of the College of Legends have built entire careers out of unlocking the magic sealed within these songs. These bards are often sought out as teachers to aid new students in their rhythmantic studies, passing on what they learned from their own masters of the craft.
+
+### College of Legends Features
 
 #### Legendary Recall
 
