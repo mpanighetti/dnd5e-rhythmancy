@@ -192,8 +192,8 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 3rd | _Wind's Requiem_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
 | 4th | _Death's Departure_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 4th | _Earth God's Lyric_ | Evocation/Rhythmancy | Bard | |
-| 4th | _Frog's Song of Soul_ | Necromancy/Rhythmancy | Bard | |
 | 4th | _Minute Minuet_ | Transmutation/Rhythmancy | Bard | Concentration |
+| 4th | _Soulful Croak_ | Necromancy/Rhythmancy | Bard | |
 | 4th | _Space Warp_ | Conjuration/Rhythmancy | Bard | Ritual |
 | 4th | _Wind God's Aria_ | Evocation/Rhythmancy | Bard | |
 | 5th | _Inverted Song of Time_[^🪈] | Abjuration/Rhythmancy | Bard | |
@@ -329,31 +329,6 @@ When you cast this spell and already have a companion, instead of making a new c
 If your companion is mistreated or harmed by you or any of your allies, or at their own discretion, they can choose to end their companionship to you, and you can similarly end this companionship at any time. If you already have a companion and target a new creature with this spell, the previous companionship ends. Otherwise, the companionship lasts until you or your companion dies.
 
 **At Higher Levels.** When you cast this spell to summon your companion using a Spell Slot of 2nd-level or higher, they gain a number of Temporary Hit Points equal to five times the Spell Slot level.
-
-#### [Frog's Song of Soul](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/frogs-song-of-soul.md)
-
-_4th-level necromancy/rhythmancy_
-
-- **Casting Time:** 1 hour
-- **Range:** 20 feet
-- **Components:** V, S, M (a musical instrument worth at least 1 gp; a gold crown worth at least 300 gp which the spell consumes unless the spell targeted or raised an undead creature)
-- **Duration:** Instantaneous
-
-You attempt to influence the life energy of a corpse or undead creature you can see within range. Make a spellcasting ability check. The target regains all of their Hit Points, then undergoes additional effects depending on the target and the result of your check:
-
-- **If the target is a corpse that has been dead up to 1 year; the creature's soul is willing and able to rejoin the body; and the creature is not undead:** your spellcasting ability check is contested by a DC equal to the target creature's Challenge or Level (minimum DC 10). If the check succeeds, the creature returns to life, they are no longer Diseased or Poisoned by nonmagical effects, and their mortal wounds are closed (but missing body parts are not restored).
-
-   If the creature was magically Cursed, Diseased, or Poisoned when they died, and these conditions weren't removed prior to casting this spell, they take effect when the creature returns to life. Furthermore, the target takes a −4 penalty to all attack rolls, Saving Throws, and ability checks. This penalty is reduced by 1 every time the target finishes a Long Rest, after which the penalty disappears.
-
-   Until you finish a Long Rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and Saving Throws.
-
-- **If the target is a corpse that has been dead for longer than 1 year; the soul was not returned to the body; the corpse is lacking body parts or organs integral for the creature's survival; or you fail on your spellcasting ability check (you can choose to fail this check):** the spell imbues the target with a foul mimicry of life, rejecting the corpse's original soul. A corpse targeted by this spell is raised using all of their original statistics except for the following changes: their creature type becomes Undead; their alignment changes to evil; they gain immunity to Exhaustion, Frightened, Necrotic, Paralyzed, and Poison. The spell magically substitutes any missing senses and abilities due to lacking body parts or organs, providing spectral replacements.
-
-- **If the target is an undead creature, either when you initially cast this spell or when they died:** the target gains a number of Temporary Hit Points equal to your spellcasting ability check.
-
-An undead creature targeted or raised by this spell must succeed on a Wisdom Saving Throw against your Spell Save DC or they are Charmed by you. On each of your turns, you can use a Bonus Action to mentally command any creature you Charmed with this spell within 60 feet of you; if you control any combination of creatures using this spell, _animate dead_, or similar spells, you can command any or all of them at the same time, issuing the same or different commands to each one. You decide what action the creature will take and where they will move during their next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature defends you and themself against hostile creatures and moves as needed to remain within at least 30 feet of you. Once given an order, the creature continues to follow it until the task is complete.
-
-On a successful save, or if the Charmed condition on the undead creature ends, the creature stops obeying any command you've given them and cannot be targeted by this spell again for the next 30 days.
 
 #### [The Hawk's Call](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/the-hawks-call.md)
 
@@ -616,6 +591,31 @@ _4th-level conjuration/rhythmancy (Ritual)_
 You play a prolonged melody, targeting a willing creature you can see within range and concentrating on a location where the target creature previously was Unconscious, including due to normal or magical sleep. Space then shifts around the target creature, causing them to teleport to a safe location on the outskirts or outside the entrance to your destination.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th-level or higher, you can teleport an additional willing creature you can see within range to the destination for each slot level above 5th-level. When multiple creatures are targeted by this spell, you can choose a destination where any of the target creatures were Unconscious, and the casting time increases by 10 minutes for each additional creature you target beyond the first.
+
+#### [Soulful Croak](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/soulful-croak.md)
+
+_4th-level necromancy/rhythmancy_
+
+- **Casting Time:** 1 hour
+- **Range:** 20 feet
+- **Components:** V, S, M (a recently deceased frog; a musical instrument worth at least 1 gp; a gold crown worth at least 300 gp which the spell consumes unless the spell targeted or raised an undead creature)
+- **Duration:** Instantaneous
+
+You attempt to influence the life energy of a corpse or undead creature you can see within range. Make a spellcasting ability check. The target regains all of their Hit Points, then undergoes additional effects depending on the nature of the target and the result of your check:
+
+- **If the target is a corpse that has been dead up to 1 year; the creature's soul is willing and able to rejoin the body; and the creature is not undead:** your spellcasting ability check is contested by a DC equal to the target creature's Challenge or Level (minimum DC 10). If the check succeeds, the creature returns to life, they are no longer Diseased or Poisoned by nonmagical effects, and their mortal wounds are closed (but missing body parts are not restored).
+
+   If the creature was magically Cursed, Diseased, or Poisoned when they died, and these conditions weren't removed prior to casting this spell, they take effect when the creature returns to life. Furthermore, the target takes a −4 penalty to all attack rolls, Saving Throws, and ability checks. This penalty is reduced by 1 every time the target finishes a Long Rest, after which the penalty disappears.
+
+   Until you finish a Long Rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and Saving Throws.
+
+- **If the target is a corpse that has been dead for longer than 1 year; the soul was not returned to the body; the corpse is lacking body parts or organs integral for the creature's survival; or you fail on your spellcasting ability check (you can choose to fail this check):** the spell imbues the target with a foul mimicry of life, rejecting the corpse's original soul. A corpse targeted by this spell is raised using all of their original statistics except for the following changes: their creature type becomes Undead; their alignment changes to evil; they gain immunity to Exhaustion, Frightened, Necrotic, Paralyzed, and Poison. The spell magically substitutes any missing senses and abilities due to lacking body parts or organs, providing spectral replacements.
+
+- **If the target is an undead creature, either when you initially cast this spell or when they died:** the target gains a number of Temporary Hit Points equal to your spellcasting ability check.
+
+An undead creature targeted or raised by this spell must succeed on a Wisdom Saving Throw against your Spell Save DC or they are Charmed by you. On each of your turns, you can use a Bonus Action to mentally command any creature you Charmed with this spell within 60 feet of you; if you control any combination of creatures using this spell, _animate dead_, or similar spells, you can command any or all of them at the same time, issuing the same or different commands to each one. You decide what action the creature will take and where they will move during their next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature defends you and themself against hostile creatures and moves as needed to remain within at least 30 feet of you. Once given an order, the creature continues to follow it until the task is complete.
+
+On a successful save, or if the Charmed condition on the undead creature ends, the creature stops obeying any command you've given them and cannot be targeted by this spell again for the next 30 days.
 
 #### [Summoning of the Scarecrow](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/summoning-of-the-scarecrow.md)
 
