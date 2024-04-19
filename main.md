@@ -172,7 +172,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 |:-:|:-|:-|:-|:-|
 | cantrip | _Ballad of the Dreamer_ | Abjuration/Rhythmancy | Bard | |
 | cantrip | _The Hawk's Call_ | Evocation/Rhythmancy | Bard | |
-| cantrip | _Royal Lullaby_ | Enchantment/Rhythmancy | Bard | |
+| cantrip | _The Royal Decree_ | Enchantment/Rhythmancy | Bard | |
 | 1st | _Equine Tribute_ | Conjuration/Rhythmancy | Bard | |
 | 1st | _The Lost is Found_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
 | 1st | _Song of Storms_ | Evocation/Rhythmancy | Bard | Concentration |
@@ -181,8 +181,10 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 2nd | _Command Melody_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
 | 2nd | _Duet of Restoration_ | Evocation/Rhythmancy | Bard | Duet |
 | 2nd | _Elegy of Emptiness_ | Conjuration/Rhythmancy | Bard | |
+| 2nd | _Repel the Dark_ | Evocation/Rhythmancy | Bard | Concentration |
 | 2nd | _Sonata of Awakening_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 2nd | _Song of Discovery_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
+| 3rd | _Mambo Marino_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
 | 3rd | _New Wave Bossa Nova_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 3rd | _Peaceful Lullaby_ | Enchantment/Rhythmancy | Bard | Concentration |
 | 3rd | _Royal Duet_ | Evocation/Rhythmancy | Bard | Duet |
@@ -191,8 +193,8 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 3rd | _Wind's Requiem_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
 | 4th | _Death's Departure_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 4th | _Earth God's Lyric_ | Evocation/Rhythmancy | Bard | |
-| 4th | _Frog's Song of Soul_ | Necromancy/Rhythmancy | Bard | |
 | 4th | _Minute Minuet_ | Transmutation/Rhythmancy | Bard | Concentration |
+| 4th | _Soulful Croak_ | Necromancy/Rhythmancy | Bard | |
 | 4th | _Space Warp_ | Conjuration/Rhythmancy | Bard | Ritual |
 | 4th | _Wind God's Aria_ | Evocation/Rhythmancy | Bard | |
 | 5th | _Inverted Song of Time_[^🪈] | Abjuration/Rhythmancy | Bard | |
@@ -329,31 +331,6 @@ If your companion is mistreated or harmed by you or any of your allies, or at th
 
 **At Higher Levels.** When you cast this spell to summon your companion using a Spell Slot of 2nd-level or higher, they gain a number of Temporary Hit Points equal to five times the Spell Slot level.
 
-#### [Frog's Song of Soul](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/frogs-song-of-soul.md)
-
-_4th-level necromancy/rhythmancy_
-
-- **Casting Time:** 1 hour
-- **Range:** 20 feet
-- **Components:** V, S, M (a musical instrument worth at least 1 gp; a gold crown worth at least 300 gp which the spell consumes unless the spell targeted or raised an undead creature)
-- **Duration:** Instantaneous
-
-You attempt to influence the life energy of a corpse or undead creature you can see within range. Make a spellcasting ability check. The target regains all of their Hit Points, then undergoes additional effects depending on the target and the result of your check:
-
-- **If the target is a corpse that has been dead up to 1 year; the creature's soul is willing and able to rejoin the body; and the creature is not undead:** your spellcasting ability check is contested by a DC equal to the target creature's Challenge or Level (minimum DC 10). If the check succeeds, the creature returns to life, they are no longer Diseased or Poisoned by nonmagical effects, and their mortal wounds are closed (but missing body parts are not restored).
-
-   If the creature was magically Cursed, Diseased, or Poisoned when they died, and these conditions weren't removed prior to casting this spell, they take effect when the creature returns to life. Furthermore, the target takes a −4 penalty to all attack rolls, Saving Throws, and ability checks. This penalty is reduced by 1 every time the target finishes a Long Rest, after which the penalty disappears.
-
-   Until you finish a Long Rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and Saving Throws.
-
-- **If the target is a corpse that has been dead for longer than 1 year; the soul was not returned to the body; the corpse is lacking body parts or organs integral for the creature's survival; or you fail on your spellcasting ability check (you can choose to fail this check):** the spell imbues the target with a foul mimicry of life, rejecting the corpse's original soul. A corpse targeted by this spell is raised using all of their original statistics except for the following changes: their creature type becomes Undead; their alignment changes to evil; they gain immunity to Exhaustion, Frightened, Necrotic, Paralyzed, and Poison. The spell magically substitutes any missing senses and abilities due to lacking body parts or organs, providing spectral replacements.
-
-- **If the target is an undead creature, either when you initially cast this spell or when they died:** the target gains a number of Temporary Hit Points equal to your spellcasting ability check.
-
-An undead creature targeted or raised by this spell must succeed on a Wisdom Saving Throw against your Spell Save DC or they are Charmed by you. On each of your turns, you can use a Bonus Action to mentally command any creature you Charmed with this spell within 60 feet of you; if you control any combination of creatures using this spell, _animate dead_, or similar spells, you can command any or all of them at the same time, issuing the same or different commands to each one. You decide what action the creature will take and where they will move during their next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature defends you and themself against hostile creatures and moves as needed to remain within at least 30 feet of you. Once given an order, the creature continues to follow it until the task is complete.
-
-On a successful save, or if the Charmed condition on the undead creature ends, the creature stops obeying any command you've given them and cannot be targeted by this spell again for the next 30 days.
-
 #### [The Hawk's Call](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/the-hawks-call.md)
 
 _Evocation/rhythmancy cantrip_
@@ -379,6 +356,19 @@ _1st-level divination/rhythmancy (Ritual)_
 You play a song to yourself that stirs old memories of a childhood friend. Until the spell ends, while you are traveling or exploring within the same environment you were in when casting the spell, you can't become lost except by magical means.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd-level or higher, the duration increases to a number of hours equal to the spell slot level. Additionally, until the spell ends, if magical effects cause you to become lost, as an action, you can attempt to identify a valid route to take for a specific intended destination on the same plane of existence as you. Make a spellcasting ability check contested by a DC equal to 10 + the other spell's level (or DC 15 if caused by another magical effect). On a success, the magical effects obfuscating your travel are suppressed for the duration of the spell, during which time the shortest and most direct route to your destination (but not necessarily the safest route) is drawn out as a spectral golden wire on the ground. On a failed check, the spell ends immediately.
+
+#### [Mambo Marino](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/mambo-marino.md)
+
+_3rd-level conjuration/rhythmancy (Ritual)_
+
+- **Casting Time:** 1 minute
+- **Range:** 10 feet
+- **Components:** V, M (a mola scale; a musical instrument worth at least 1 gp)
+- **Duration:** Concentration, up to 24 hours
+
+You create a glowing 10-foot-diameter circle in a body of water you can see within range. The circle lasts for the spell's duration. At any time before the spell ends, as an action, you and any willing creatures you can see within 30 feet of you can attempt to teleport to the circle. If the space is occupied or cannot accommodate all the creatures you specify, the teleportation fails. Otherwise, any creatures teleported by this spell instantly appear within the circle, and the spell ends.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, concentration is no longer required to maintain the spell, and for each spell level above 3rd, the diameter of the glowing circle you create increases by 10 feet and the duration is doubled. Additionally, if any circles exist from your previous castings of the spell, they continue to function and inherit the new spell duration.
 
 #### [Melody of Darkness](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/melody-of-darkness.md)
 
@@ -451,6 +441,21 @@ You play a gentle melody in an attempt to lull a creature that can hear you in r
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, for each spell slot above 3rd, the duration increases by 1 hour, and you can target an additional creature.
 
+#### [Repel the Dark](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/repel-the-dark.md)
+
+_2nd-level evocation/rhythmancy_
+
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Duration:** Concentration, up to 1 minute
+
+You summon the cleansing power of sunlight, causing creatures of the night to cower in fear. When you cast this spell, all Undead creatures and all creatures with sunlight sensitivity within range that can see you must succeed on a Constitution Saving Throw or become Stunned for the spell's duration. At the end of each of their turns, a creature Stunned by this spell can repeat the Saving Throw, ending the condition on a success.
+
+For the spell's duration, you shed bright light in a 15-foot radius and dim light for an additional 15 feet. This light is sunlight.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd-level or higher, any creatures forced to make a Constitution Saving Throw by this spell make their Saving Throw with Disadvantage if their Challenge Rating is less than the spell's level.
+
 #### [The River Devil's Lament](https://github.com/mpanighetti/dnd5e-spells/blob/main/6th-level/the-river-devils-lament.md)
 
 _6th-level enchantment/rhythmancy_
@@ -466,6 +471,19 @@ Each time the creature takes damage (except from this spell's effects), they can
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th-level or higher, the duration increases to 1 day (7th-level), 30 days (8th-level), or 1 year (9th-level), and the Psychic damage dealt when the creature can see you increases by 1d10 for each spell slot level above 6th. Additionally, when you cast this spell at 8th-level or higher, the creature can no longer repeat their Saving Throws when they take damage.
 
+#### [The Royal Decree](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/the-royal-decree.md)
+
+_Enchantment/rhythmancy cantrip_
+
+- **Casting Time:** 1 action
+- **Range:** 10 feet
+- **Components:** V, M (a petal from a silent princess flower; a musical instrument worth at least 1 gp)
+- **Duration:** 1 minute
+
+Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to have Proficiency in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
+
+Your temporary Proficiency in these Charisma checks is further strengthened when you reach higher levels: your Proficiency Bonus is doubled at 5th level, tripled at 11th level, and quadrupled at 17th level.
+
 #### [Royal Duet](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/royal-duet.md)
 
 _3rd-level evocation/rhythmancy (Duet)_
@@ -478,19 +496,6 @@ _3rd-level evocation/rhythmancy (Duet)_
 You and a partner play an empowering Duet, targeting a shared location within range. When the spell finishes casting, any creatures who remained within the spells' area of effect for the entire casting and were able to hear the entire composition have advantage on a single d20 test of their choice that they make within the spells' duration.
 
 **At Higher Levels.** When you and your partner both cast this spell using spell slots of 4th-level or higher, for each spell level above 3rd, all creatures who gained advantage on a d20 test also gain a +1 to the roll. If the spells are cast at different levels, use the lower of the two levels. For example, if the spell is cast using a 5th-level and a 6th-level spell slot, creatures would gain the bonus from the 5th-level spell slot, which would be a +2 to their roll.
-
-#### [Royal Lullaby](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/royal-lullaby.md)
-
-_Enchantment/rhythmancy cantrip_
-
-- **Casting Time:** 1 action
-- **Range:** 10 feet
-- **Components:** V, M (a petal from a silent princess flower; a musical instrument worth at least 1 gp)
-- **Duration:** 1 minute
-
-Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to have Proficiency in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
-
-Your temporary Proficiency in these Charisma checks is further strengthened when you reach higher levels: your Proficiency Bonus is doubled at 5th level, tripled at 11th level, and quadrupled at 17th level.
 
 #### [Sonata of Awakening](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/sonata-of-awakening.md)
 
@@ -600,6 +605,31 @@ _4th-level conjuration/rhythmancy (Ritual)_
 You play a prolonged melody, targeting a willing creature you can see within range and concentrating on a location where the target creature previously was Unconscious, including due to normal or magical sleep. Space then shifts around the target creature, causing them to teleport to a safe location on the outskirts or outside the entrance to your destination.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th-level or higher, you can teleport an additional willing creature you can see within range to the destination for each slot level above 5th-level. When multiple creatures are targeted by this spell, you can choose a destination where any of the target creatures were Unconscious, and the casting time increases by 10 minutes for each additional creature you target beyond the first.
+
+#### [Soulful Croak](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/soulful-croak.md)
+
+_4th-level necromancy/rhythmancy_
+
+- **Casting Time:** 1 hour
+- **Range:** 20 feet
+- **Components:** V, S, M (a recently deceased frog; a musical instrument worth at least 1 gp; a gold crown worth at least 300 gp which the spell consumes unless the spell targeted or raised an undead creature)
+- **Duration:** Instantaneous
+
+You attempt to influence the life energy of a corpse or undead creature you can see within range. Make a spellcasting ability check. The target regains all of their Hit Points, then undergoes additional effects depending on the nature of the target and the result of your check:
+
+- **If the target is a corpse that has been dead up to 1 year; the creature's soul is willing and able to rejoin the body; and the creature is not undead:** your spellcasting ability check is contested by a DC equal to the target creature's Challenge or Level (minimum DC 10). If the check succeeds, the creature returns to life, they are no longer Diseased or Poisoned by nonmagical effects, and their mortal wounds are closed (but missing body parts are not restored).
+
+   If the creature was magically Cursed, Diseased, or Poisoned when they died, and these conditions weren't removed prior to casting this spell, they take effect when the creature returns to life. Furthermore, the target takes a −4 penalty to all attack rolls, Saving Throws, and ability checks. This penalty is reduced by 1 every time the target finishes a Long Rest, after which the penalty disappears.
+
+   Until you finish a Long Rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and Saving Throws.
+
+- **If the target is a corpse that has been dead for longer than 1 year; the soul was not returned to the body; the corpse is lacking body parts or organs integral for the creature's survival; or you fail on your spellcasting ability check (you can choose to fail this check):** the spell imbues the target with a foul mimicry of life, rejecting the corpse's original soul. A corpse targeted by this spell is raised using all of their original statistics except for the following changes: their creature type becomes Undead; their alignment changes to evil; they gain immunity to Exhaustion, Frightened, Necrotic, Paralyzed, and Poison. The spell magically substitutes any missing senses and abilities due to lacking body parts or organs, providing spectral replacements.
+
+- **If the target is an undead creature, either when you initially cast this spell or when they died:** the target gains a number of Temporary Hit Points equal to your spellcasting ability check.
+
+An undead creature targeted or raised by this spell must succeed on a Wisdom Saving Throw against your Spell Save DC or they are Charmed by you. On each of your turns, you can use a Bonus Action to mentally command any creature you Charmed with this spell within 60 feet of you; if you control any combination of creatures using this spell, _animate dead_, or similar spells, you can command any or all of them at the same time, issuing the same or different commands to each one. You decide what action the creature will take and where they will move during their next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature defends you and themself against hostile creatures and moves as needed to remain within at least 30 feet of you. Once given an order, the creature continues to follow it until the task is complete.
+
+On a successful save, or if the Charmed condition on the undead creature ends, the creature stops obeying any command you've given them and cannot be targeted by this spell again for the next 30 days.
 
 #### [Summoning of the Scarecrow](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/summoning-of-the-scarecrow.md)
 
