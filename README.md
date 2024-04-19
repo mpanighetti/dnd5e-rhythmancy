@@ -41,8 +41,8 @@ A 5e homebrew school of magic based on musical performance, and a list of spells
 | 3rd | _[Wind's Requiem](main.md#winds-requiem)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
 | 4th | _[Death's Departure](main.md#deaths-departure)_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 4th | _[Earth God's Lyric](main.md#earth-gods-lyric)_ | Evocation/Rhythmancy | Bard | |
-| 4th | _[Frog's Song of Soul](main.md#frogs-song-of-soul)_ | Necromancy/Rhythmancy | Bard | |
 | 4th | _[Minute Minuet](main.md#minute-minuet)_ | Transmutation/Rhythmancy | Bard | Concentration |
+| 4th | _[Soulful Croak](main.md#soulful-croak)_ | Necromancy/Rhythmancy | Bard | |
 | 4th | _[Space Warp](main.md#space-warp)_ | Conjuration/Rhythmancy | Bard | Ritual |
 | 4th | _[Wind God's Aria](main.md#wind-gods-aria)_ | Evocation/Rhythmancy | Bard | |
 | 5th | _[Inverted Song of Time](main.md#inverted-song-of-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
