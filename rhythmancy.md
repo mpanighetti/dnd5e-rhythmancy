@@ -769,7 +769,7 @@ This section provides an assortment of magic items with ties to rhythmancy. The 
 ### Rhythmancy Magic Items
 | Magic Item | Category | Rarity | Requires Attunement |
 |:-|:-|:-|:-|
-| [Instrument of the Wild](rhythmancy.md#instrument-of-the-wild) | Wondrous item | Varies | Yes (by someone able to cast rhythmancy spells) |
+| Instrument of the Wild | Wondrous item | Varies | Yes (by someone able to cast rhythmancy spells) |
 
 ### Magic Item Descriptions
 
