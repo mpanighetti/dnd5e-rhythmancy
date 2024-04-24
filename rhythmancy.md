@@ -2,11 +2,11 @@
 
 Rhythmancy is a fundamental aspect of magic that is summoned through the performance of music. Though it is sometimes considered an independent school of magical study, rhythmancy spells all align with various existing schools and can potentially be learned by any arcane practitioners — if they know where to look.
 
-## Learning Rhythmancy Spells
+# Chapter 1: Learning Rhythmancy Spells
 
 Rhythmancy songs are primarily passed down from teacher to student, or are sometimes buried with their creators and forgotten for centuries before being rediscovered by later explorers. The discovery of a composition infused with rhythmantic magic is often a world-changing event, unlocking access to long-forgotten secrets. On some worlds, rhythmancy is a completely unknown school of study.
 
-### Who Can Learn Rythmancy
+## Who Can Learn Rythmancy
 
 What separates rhythmancy spells from others is an intrinsic attachment to musical composition and performance as a channeling force.
 
@@ -18,11 +18,11 @@ Any other magically inclined student can potentially learn rhythmantic magic the
 - They must have Proficiency in a musical instrument.
 - They must either be taught by someone else who knows rhythmantic songs, or they must find a written copy of the spell and teach themself.
 
-#### Optional: Rhythmancy Spells for Other Classes
+### Optional: Rhythmancy Spells for Other Classes
 
 By default, rhythmantic magic is only available on the bard spell list, through rhythmancy feats, or through training or self-teaching when a rhythmancy spell is discovered. However, the Dungeon Master can optionally make any or all rhythmancy spells available for spellcasters if they wish. If the DM allows, anyone with the Spellcasting or Pact Magic feature, or a feat that allowing learning a spell, could potentially learn rhythmancy as a spell option using these features, as long as they also have Proficiency in a musical instrument. With this option, the rhythmancy spell is learned in place of the existing spell when the feature is gained.
 
-### Rhythmantic Training
+## Rhythmantic Training
 
 If a student is able to find a willing teacher who knows rhythmancy spells, and they meet all the requirements for learning the rhythmantic song, they can be taught the spell with time and practice.
 
@@ -30,7 +30,7 @@ Learning a rhythmancy spell from a teacher involves 2 workweeks of training per 
 
 At the end of the training period, the song is added to the student's known spells as a rhythmancy spell.
 
-#### Self-Teaching
+### Self-Teaching
 
 If a rhythmancy spell is written out on a spell scroll or as sheet music, anyone who meets all the requirements to learn the rhythmantic song can do so by practicing the composition and teaching themself. This bypasses the requirement for an instructor, but as a tradeoff for not having the guidance of a teacher, the number of workweeks required is doubled. Once per workweek, the student can attempt to remove that week's training costs by succeeding on a DC 15 Charisma (Performance) check. This check represents practicing the rhythmantic composition in front of crowds in local taverns as you perfect your understanding of the performative magic. On a failed check, in addition to the normal costs of learning your rhythmantic spell, roll on the **Rhythmantic Training Issues** table.
 
@@ -44,7 +44,7 @@ If a rhythmancy spell is written out on a spell scroll or as sheet music, anyone
 | 5  | A regular attendee of your shows appears to be taking detailed notes of your rhythmantic composition in an attempt to copy it. |
 | 6  | A drink stain on your songbook has smeared your notes, making them illegible. Add 1 workweek to the total required for learning the rhythmancy song as you recreate your notes. |
 
-### Adding Rhythmancy Spells
+## Adding Rhythmancy Spells
 
 Depending on how they use magic normally, a student can add rhythmantic songs they have successfully learned to their known spells using one of three options: as a class spell using the Spellcasting or Pact Magic feature (**option 1**); through another feature that allows casting spells (**option 2**); or through a trait that grants the ability to cast a spell (**option 3**).
 
@@ -56,43 +56,43 @@ Depending on how they use magic normally, a student can add rhythmantic songs th
 
 You must use the first option available to you based on your class levels, features, traits, and the rhythmancy spell's level and casting requirements. If the spell is added under option 2 or 3 and a higher option is made available later (such as gaining the Spellcasting feature), all your compatible rhythmancy spells immediately move to the highest-available option. If none of these options are available, you cannot learn the spell. If you lose access to all your options later (such as the _reincarnate_ spell changing you into a creature lacking the ability to cast spells), you retain the knowledge of your rhythmancy spells but are unable to cast them unless you regain compatible spellcasting options later.
 
-## Casting Rhythmancy Spells
+# Chapter 2: Casting Rhythmancy Spells
 
 Rhythmancy spells mostly follow existing rules for spellcasting, with several notable exceptions.
 
-### Cantrips
+## Cantrips
 
 Rhythmantic cantrips can be cast an unlimited number of times, regardless of feature or trait restrictions on casting spells.
 
-### Component Requirements
+## Component Requirements
 
 All rhythmancy spells, in addition to normal spell slot usage and component requirements, include both a verbal component and a specific material component requirement of a musical instrument with a value of at least 1 gp. This instrument substitutes as your spellcasting focus when using rhythmantic magic.
 
 Due to the inherently performative nature of rhythmancy, the requirements for both a verbal component and musical instrument cannot be bypassed with any class feature (such as a sorcerer's Subtle Spell metamagic option), trait, or any other ability, unless it specifically allows ignoring component requirements for rhythmancy magic.
 
-### Spellcasting and Pact Magic
+## Spellcasting and Pact Magic
 
 When you cast a rhythmancy spell learned through the Spellcasting or Pact Magic feature, it is considered to be a spell of that feature's class for the purpose of casting it, and it expends spell slots of the appropriate level normally.
 
-### Rhythmancy Points
+## Rhythmancy Points
 
 If you have rhythmancy points, you can cast a rhythmancy spell you know by spending a number of rhythmancy points equal to the spell's level. Additional rhythmancy points can be spent to cast the spell at a higher level at a cost of 1 rhythmancy point per level increase. Charisma is your spellcasting ability for spells cast using rhythmancy points. You regain all spent rhythmancy points when you finish a Long Rest.
 
 If you discover a new rhythmancy spell in your travels, you are eligible to learn the song if your total possible rhythmancy points are equal to or greater than the spell's level. Rhythmancy points from multiple sources are pooled together when determining your point total. For example, if you are a 3rd level College of Legends bard and you take the Rhythmancy Initiate feat, you have a total of 2 rhythmancy points and thus are eligible to learn rhythmancy spells up to 2nd-level.
 
-### Other Features and Traits
+## Other Features and Traits
 
 When a rhythmancy spell of 1st-level or higher is being cast in place of another spell granted by a feature or trait, you choose the spell you are replacing with a rhythmancy spell each time you cast it.
 
 If the casting of a spell using such features is subject to special rules and limitations, apply these rules using the guidelines below:
 
-#### Discipline Points
+### Discipline Points
 
 If a monk feature requires spending Discipline Points to cast a spell of 1st-level or higher, the cost of casting a rhythmancy spell is a number of Discipline Points equal to 1 + the spell's level. For example, casting _Song of Storms_ using the Empty Body feature would require spending 3 Discipline Points.
 
 Additional Discipline Points can be spent to cast the spell at a higher level at 1 Discipline Point per level increase, as long as you already have the ability to cast a spell at that level using Discipline Points.
 
-#### Limited Uses
+### Limited Uses
 
 If the feature or trait requires spending from a limited number of charges to cast spells, casting a rhythmancy spell costs the same as another spell of the same level or higher.
 
@@ -100,13 +100,13 @@ If the feature or trait allows casting spells of 1st-level or higher once before
 
 If the feature or trait allows casting a spell of 1st-level or higher an unlimited number of times, you can choose to cast a rhythmancy spell of the same spell level or lower once with this trait. Once you cast it, you can't do so again until you finish a Long Rest, but you can continue to use the default spell from this trait as normal.
 
-#### Spell Limitations
+### Spell Limitations
 
 If a feature or trait imposes any other limitations on casting its existing spells, the rhythmancy spell must follow those same limitations. For example, the Empty Body feature doesn't allow taking creatures with you when casting _astral projection_, so a rhythmancy spell cast in this manner also cannot take creatures with you if it normally has this ability.
 
 If the spell cannot be used with the feature's limitations, it cannot be learned in this manner. For example, the Ascendant Step eldritch invocation only allows casting _levitate_ on yourself, so if a rhythmancy spell is unable to target yourself, you cannot learn it using Ascendant Step.
 
-### Duets
+## Duets
 
 Some rhythmancy songs are written to be performed by two musicians working together to create more powerful magic than they could accomplish on their own. Duets function like normal spells but come with additional requirements for the magic to be successfully linked between the two casters:
 
@@ -120,13 +120,17 @@ If any of the above conditions are not met, both castings of the Duet spell fail
 
 If a Duet is targeted by an effect or check that requires knowing the spellcasting ability, Spell Save DC, or spell attack modifier of the caster, use the higher of the two attributes from the Duet's performers. If the effect or check requires knowing the spell slot level (such as _dispel magic_) and the performers used two different level spell slots, use the lower of the two spell slot levels.
 
-## [Bard Subclass: College of Legends](https://github.com/mpanighetti/dnd5e-classes/blob/main/bard/college-of-legends.md)
+# Chapter 3: Classes
+
+This section includes new subclass options with abilities centered around the use of rhythmancy magic.
+
+## Bard
 
 At 3rd level, a bard gains the choice of a subclass. The following option is made available to you when making that choice: the College of Legends.
 
-Though all bards have the ability to learn rhythmancy spells, practitioners of the College of Legends have built entire careers out of unlocking the magic sealed within these songs. These bards are often sought out as teachers to aid new students in their rhythmantic studies, passing on what they learned from their own masters of the craft.
+### [College of Legends](https://github.com/mpanighetti/dnd5e-classes/blob/main/bard/college-of-legends.md)
 
-### College of Legends Features
+Though all bards have the ability to learn rhythmancy spells, practitioners of the College of Legends have built entire careers out of unlocking the magic sealed within these songs. These bards are often sought out as teachers to aid new students in their rhythmantic studies, passing on what they learned from their own masters of the craft.
 
 #### Legendary Recall
 
@@ -159,7 +163,7 @@ _14th-level College of Legends feature_
 
 You have mastered unlocking hidden or lost ancient secrets. You learn the _legend lore_ spell, or another bard spell of your choice from the divination school for which you are eligible if you already know _legend lore_. This spell doesn't count against the number of bard spells you know. When you cast _legend lore_ using rhythmancy points, the casting time is 1 action, and you replace its material component requirements with a musical instrument worth at least 1 gp.
 
-## Feats
+# Chapter 4: Feats
 
 This section presents a sampling of feats appropriate for a campaign featuring rhythmancy magic. If a feat has a prerequisite, you must meet that prerequisite to gain the feat. The **Rhythmancy Feats** table lists the feats in this section along with the level at which they're available.
 
@@ -169,11 +173,11 @@ This section presents a sampling of feats appropriate for a campaign featuring r
 | 1st | [Rhythmancy Initiate](#rhythmancy-initiate) | Background | | no |
 | 4th | [Rhythmancy Adept](#rhythmancy-adept) | General | Rhythmancy Initiate feat | no |
 
-### Feat Descriptions
+## Feat Descriptions
 
 The feats are presented in alphabetical order.
 
-#### [Rhythmancy Adept](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-adept.md)
+### [Rhythmancy Adept](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-adept.md)
 
 _4th-Level General Feat_
 
@@ -186,7 +190,7 @@ Your extended practice in channeling rhythmantic energies has granted you additi
 - You learn two rhythmancy spells of 1st-level or lower of your choice, or one 2nd-level rhythmancy spell of your choice.
 - You gain Expertise in the skill you chose for the Rhythmancy Initiate feat, doubling your Proficiency Bonus for any ability check you make that uses this skill.
 
-#### [Rhythmancy Initiate](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-initiate.md)
+### [Rhythmancy Initiate](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-initiate.md)
 
 _1st-Level Background Feat_
 
@@ -200,7 +204,7 @@ You've begun studying the magic of rhythmantic songs, granting you the following
 - You gain Proficiency in a skill of your choice from the following list: Deception, Intimidation, Performance, Persuasion.
 - You gain Proficiency with a musical instrument of your choice. You can use such an instrument as a spellcasting focus for any spell you cast using rhythmancy points.
 
-## Spells
+# Chapter 5: Spells
 
 This section contains new spells developed through the musical study of rhythmancy. These spells are available to the bard class, as well as other spellcasting classes with the Dungeon Master's consent (see "Rhythmancy Spells for Other Classes"). The **Rhythmancy Spells** table lists the new spells, ordering them by level. The table also notes the schools of magic of a spell, whether it bears any tags, and which classes have access to it.
 
@@ -246,11 +250,11 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 8th | _Ballad of Gales_ | Conjuration/Rhythmancy | Bard | |
 | 8th | _Oath to Order_ | Abjuration/Rhythmancy | Bard | |
 
-### Spell Descriptions
+## Spell Descriptions
 
 The spells are presented in alphabetical order.
 
-#### [Ballad of Gales](https://github.com/mpanighetti/dnd5e-spells/blob/main/8th-level/ballad-of-gales.md)
+### [Ballad of Gales](https://github.com/mpanighetti/dnd5e-spells/blob/main/8th-level/ballad-of-gales.md)
 
 _8th-level conjuration/rhythmancy_
 
@@ -266,7 +270,7 @@ You must have seen or been physically present at the destination at least once b
 
 The act of teleporting the vehicle deals it 8d6 Force damage, ignoring damage thresholds.
 
-#### [Ballad of the Dreamer](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/ballad-of-the-dreamer.md)
+### [Ballad of the Dreamer](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/ballad-of-the-dreamer.md)
 
 _Abjuration/rhythmancy cantrip_
 
@@ -278,7 +282,7 @@ _Abjuration/rhythmancy cantrip_
 
 You play a soothing melody that conjures strange memories of a dream-like world. Until the spell ends, magic can't put you to sleep.
 
-#### [Command Melody](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/command-melody.md)
+### [Command Melody](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/command-melody.md)
 
 _2nd-level conjuration/rhythmancy (Ritual)_
 
@@ -296,7 +300,7 @@ If a creature casts a spell with a range of touch, their link can deliver the sp
 
 A linked creature can sever this magical link at any time, which ends the spell.
 
-#### [Death's Departure](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/deaths-departure.md)
+### [Death's Departure](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/deaths-departure.md)
 
 _4th-level abjuration/rhythmancy_
 
@@ -310,7 +314,7 @@ You perform a melody that repels the walking dead from your immediate vicinity. 
 
 On each of your turns, you must use your action to continue playing the song. The spell ends if you use your action to do anything else.
 
-#### [Duet of Restoration](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/duet-of-restoration.md)
+### [Duet of Restoration](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/duet-of-restoration.md)
 
 _2nd-level evocation/rhythmancy (Duet)_
 
@@ -324,7 +328,7 @@ You and a partner play an uplifting Duet, targeting a shared location within ran
 
 **At Higher Levels.** When you and your partner both cast this spell using spell slots of 3rd-level or higher, all creatures that gained the benefits of a Short Rest from this spell also gain a number of Temporary Hit Points equal to twice the spells' combined levels; for example, if both spells are cast at 3rd-level, a creature gains 12 Temporary Hit Points, or (3 + 3) × 2.
 
-#### [Earth God's Lyric](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/earth-gods-lyric.md)
+### [Earth God's Lyric](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/earth-gods-lyric.md)
 
 _4th-level evocation/rhythmancy_
 
@@ -344,7 +348,7 @@ If a creature attempts to teleport or planeshift you against your will and they 
 
 If you are moved, teleported, or planeshifted against your will, this spell's effects are suspended until the relocation is complete, after which you are once again tethered to whatever ground you are touching. If you are successfully separated from the ground against your will for 1 minute or longer, the spell ends.
 
-#### [Elegy of Emptiness](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/elegy-of-emptiness.md)
+### [Elegy of Emptiness](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/elegy-of-emptiness.md)
 
 _2nd-level conjuration/rhythmancy_
 
@@ -358,7 +362,7 @@ You create a duplicate of your body in the form of an empty shell in an unoccupi
 
 A shell based on your form vanishes the next time you cast this spell, unless your body is in a different form when casting the spell (such as being shapeshifted or polymorphed), in which case a unique shell is created based on your different form. If you create a new shell and a number of shells up to your Proficiency Bonus already exist, the oldest shell vanishes.
 
-#### [Equine Tribute](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/equine-tribute.md)
+### [Equine Tribute](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/equine-tribute.md)
 
 _1st-level conjuration/rhythmancy_
 
@@ -378,7 +382,7 @@ If your companion is mistreated or harmed by you or any of your allies, or at th
 
 **At Higher Levels.** When you cast this spell to summon your companion using a Spell Slot of 2nd-level or higher, they gain a number of Temporary Hit Points equal to five times the Spell Slot level.
 
-#### [The Hawk's Call](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/the-hawks-call.md)
+### [The Hawk's Call](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/the-hawks-call.md)
 
 _Evocation/rhythmancy cantrip_
 
@@ -392,7 +396,7 @@ You play a series of sharp tones evoking the Piercing cry of a bird of prey, sum
 
 The spell creates more than one bird when you reach higher levels: two birds at 5th level, three birds at 11th level, and four birds at 17th level. You can direct the birds at the same target or at different ones. Make a separate attack roll for each bird. The spell ends at the start of your next turn or if all the birds disappear.
 
-#### [The Lost is Found](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/the-lost-is-found.md)
+### [The Lost is Found](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/the-lost-is-found.md)
 
 _1st-level divination/rhythmancy (Ritual)_
 
@@ -406,7 +410,7 @@ You play a song to yourself that stirs old memories of a childhood friend. Until
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd-level or higher, the duration increases to a number of hours equal to the spell slot level. Additionally, until the spell ends, if magical effects cause you to become lost, as an action, you can attempt to identify a valid route to take for a specific intended destination on the same plane of existence as you. Make a spellcasting ability check contested by a DC equal to 10 + the other spell's level (or DC 15 if caused by another magical effect). On a success, the magical effects obfuscating your travel are suppressed for the duration of the spell, during which time the shortest and most direct route to your destination (but not necessarily the safest route) is drawn out as a spectral golden wire on the ground. On a failed check, the spell ends immediately.
 
-#### [Mambo Marino](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/mambo-marino.md)
+### [Mambo Marino](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/mambo-marino.md)
 
 _3rd-level conjuration/rhythmancy (Ritual)_
 
@@ -420,7 +424,7 @@ You create a glowing 10-foot-diameter circle in the surface of a body of water y
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, for each spell level above 3rd: the diameter of the glowing circle you create increases by 10 feet; the spell's duration increases to 1 day (5th-level), 1 week (7th-level), or 1 month (9th-level); and when you cast this spell using a spell slot of 7th-level or higher, it lasts for the full duration. Additionally, if you cast this spell again before the duration ends, any circles that existed from your previous casting of the spell continue to function and inherit the new duration, unless you are more than 1 mile away from an existing circle, in which case all such circles disappear. While multiple circles exist, you can choose any of them as a destination when teleporting using this spell.
 
-#### [Melody of Darkness](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/melody-of-darkness.md)
+### [Melody of Darkness](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/melody-of-darkness.md)
 
 _5th-level necromancy/rhythmancy_
 
@@ -436,7 +440,7 @@ When you cast this spell, and on each of your turns for the spell's duration if 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th-level or higher, creatures Cursed by this spell take an additional 1d6 Necrotic damage for each spell slot above 5th.
 
-#### [Minute Minuet](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/minute-minuet.md)
+### [Minute Minuet](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/minute-minuet.md)
 
 _4th-level transmutation/rhythmancy_
 
@@ -454,7 +458,7 @@ While reduced in this manner, the target's speed is halved; they have disadvanta
 
 The spell ends if you are unable to see the target.
 
-#### [New Wave Bossa Nova](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/new-wave-bossa-nova.md)
+### [New Wave Bossa Nova](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/new-wave-bossa-nova.md)
 
 _3rd-level abjuration/rhythmancy_
 
@@ -466,7 +470,7 @@ _3rd-level abjuration/rhythmancy_
 
 Until the spell ends, you create a sphere of healing energy that negates the effects of magical silence, such as the _silence_ spell, and the effects of magical darkness, such as the _darkness_ spell. The sphere moves with you. Creatures within this sphere hear normally in magical silence and see normally in magical darkness, and can speak, hear, see, and cast spells normally. Any spells or magical effects causing silence or darkness are not dispelled, but they cannot affect any creatures within the negating sphere. If the negating sphere is contained completely within an area of magical silence or magical darkness, any such magical sound or light stops at the edge of the sphere and cannot travel in or out of it.
 
-#### [Oath to Order](https://github.com/mpanighetti/dnd5e-spells/blob/main/8th-level/oath-to-order.md)
+### [Oath to Order](https://github.com/mpanighetti/dnd5e-spells/blob/main/8th-level/oath-to-order.md)
 
 _8th-level abjuration/rhythmancy_
 
@@ -482,7 +486,7 @@ Until the spell ends, as an action, you can target a creature or object within 3
 
 Manipulating gravity and mass in this manner takes a physical toll on your body. Each time you attempt to repel a creature, at the end of your turn, you must succeed on a Constitution Saving Throw contested by your own Spell Save DC or suffer one level of Exhaustion.
 
-#### [Peaceful Lullaby](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/peaceful-lullaby.md)
+### [Peaceful Lullaby](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/peaceful-lullaby.md)
 
 _3rd-level enchantment/rhythmancy_
 
@@ -496,7 +500,7 @@ You play a gentle melody in an attempt to lull a creature that can hear you in r
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, for each spell slot above 3rd, the duration increases by 1 hour, and you can target an additional creature.
 
-#### [Repel the Dark](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/repel-the-dark.md)
+### [Repel the Dark](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/repel-the-dark.md)
 
 _2nd-level evocation/rhythmancy_
 
@@ -512,7 +516,7 @@ For the spell's duration, you shed bright light in a 15-foot radius and dim ligh
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd-level or higher, any creatures forced to make a Constitution Saving Throw by this spell make their Saving Throw with Disadvantage if their Challenge Rating is less than the spell's level.
 
-#### [The River Devil's Lament](https://github.com/mpanighetti/dnd5e-spells/blob/main/6th-level/the-river-devils-lament.md)
+### [The River Devil's Lament](https://github.com/mpanighetti/dnd5e-spells/blob/main/6th-level/the-river-devils-lament.md)
 
 _6th-level enchantment/rhythmancy_
 
@@ -528,7 +532,7 @@ Each time the creature takes damage (except from this spell's effects), they can
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th-level or higher, the duration increases to 1 day (7th-level), 30 days (8th-level), or 1 year (9th-level), and the Psychic damage dealt when the creature can see you increases by 1d10 for each spell slot level above 6th. Additionally, when you cast this spell at 8th-level or higher, the creature can no longer repeat their Saving Throws when they take damage.
 
-#### [The Royal Decree](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/the-royal-decree.md)
+### [The Royal Decree](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/the-royal-decree.md)
 
 _Enchantment/rhythmancy cantrip_
 
@@ -542,7 +546,7 @@ Playing this soothing melody historically indicated a connection to the royal fa
 
 Your temporary Proficiency in these Charisma checks is further strengthened when you reach higher levels: your Proficiency Bonus is doubled at 5th level, tripled at 11th level, and quadrupled at 17th level.
 
-#### [Royal Duet](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/royal-duet.md)
+### [Royal Duet](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/royal-duet.md)
 
 _3rd-level evocation/rhythmancy (Duet)_
 
@@ -556,7 +560,7 @@ You and a partner play an empowering Duet, targeting a shared location within ra
 
 **At Higher Levels.** When you and your partner both cast this spell using spell slots of 4th-level or higher, for each spell level above 3rd, all creatures who gained advantage on a d20 test also gain a +1 to the roll. If the spells are cast at different levels, use the lower of the two levels. For example, if the spell is cast using a 5th-level and a 6th-level spell slot, creatures would gain the bonus from the 5th-level spell slot, which would be a +2 to their roll.
 
-#### [Sonata of Awakening](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/sonata-of-awakening.md)
+### [Sonata of Awakening](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/sonata-of-awakening.md)
 
 _2nd-level abjuration/rhythmancy_
 
@@ -570,7 +574,7 @@ You stir slumbering creatures with rousing music. When you cast this spell, choo
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd-level or higher, you can target one additional creature for each slot level above 2nd.
 
-#### [Song of Discovery](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/song-of-discovery.md)
+### [Song of Discovery](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/song-of-discovery.md)
 
 _2nd-level divination/rhythmancy (Ritual)_
 
@@ -582,7 +586,7 @@ _2nd-level divination/rhythmancy (Ritual)_
 
 You perform a tune that disrupts any concealing magic in the vicinity. Until the spell ends, as an action, you can attempt to reveal Invisible creatures and objects within your spell's area of effect. Make a spellcasting ability check. If there is a spell causing invisibility in your spell's area of effect, the DC equals 10 + the most powerful such spell's level in the area, or if the only invisibility present is caused by another magical effect, the DC is 15. On a success, all magical invisibility in the area of effect is dispelled, and this spell ends immediately. On a failure, or if there is no such magical invisibility nearby, your spell continues, but you gain no special insight into whether this outcome occurred due to failing the check or no viable Invisible creatures or objects being nearby.
 
-#### [Song of Healing](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/song-of-healing.md)
+### [Song of Healing](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/song-of-healing.md)
 
 _5th-level evocation/rhythmancy_
 
@@ -600,7 +604,7 @@ The healing energy attempts to soothe the restless undead and allow them to move
 
 When you cast this spell using a spell slot of 7th-level or higher, the spell also ends the Cursed condition for all creatures healed by this spell. If any of those creatures are Attuned to a cursed magic item, the spell breaks its owner's Attunement to the object so it can be removed or discarded.
 
-#### [Song of Passing](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/song-of-passing.md)
+### [Song of Passing](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/song-of-passing.md)
 
 _5th-level illusion/rhythmancy_
 
@@ -618,7 +622,7 @@ False memories are implanted in the creature's mind, such that they believe time
 
 After the spell ends, the creature becomes aware that their senses and memories were altered by magic.
 
-#### [Song of Storms](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-storms.md)
+### [Song of Storms](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-storms.md)
 
 _1st-level evocation/rhythmancy_
 
@@ -634,7 +638,7 @@ Until the spell ends, light rain falls in the area underneath the cloud. Invisib
 
 If you are outdoors in a light rain when you cast this spell, the spell affects the existing storm instead of creating a new cloud. Under such conditions, the storm becomes a heavy rain, causing the area to be lightly obscured, extinguishing open flames, and imposing disadvantage on Wisdom (Perception) checks that rely on sight or hearing. When the spell ends, the weather gradually returns to normal.
 
-#### [Song of Time](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-time.md)
+### [Song of Time](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-time.md)
 
 _1st-level abjuration/rhythmancy_
 
@@ -650,15 +654,15 @@ You adjust the flow of time around you, granting you the ability to correct a re
 
 If desired, you can alter the performance of the Song of Time to a related composition to create one of the following effects, which replace the spell's normal 1st-level effects:
 
-##### [Song of Double Time](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-time.md#song-of-double-time)
+#### [Song of Double Time](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-time.md#song-of-double-time)
 
 **Song of Double Time (3rd-level or higher).** By playing the Song of Time twice as fast, you move yourself to a moment in the near future, bypassing current events. Select any moment in time in the future up to the end of the spell's duration. You temporarily vanish from existence. At the moment in time you selected when casting the spell, you reappear in the same space from where you vanished, or in the nearest location if that space is occupied. From your perspective, no time has passed. When you reappear, the spell ends.
 
-##### [Inverted Song of Time](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-time.md#inverted-song-of-time)
+#### [Inverted Song of Time](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-time.md#inverted-song-of-time)
 
 **Inverted Song of Time (5th-level or higher).** By playing the Song of Time in reverse, you anchor yourself to a moment in time, allowing yourself to complete more tasks in a short time period. Until the spell ends, your speed is doubled, you gain +2 to your AC, you have advantage on Dexterity Saving Throws, and you gain an additional action on each of your turns.
 
-#### [Space Warp](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/space-warp.md)
+### [Space Warp](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/space-warp.md)
 
 _4th-level conjuration/rhythmancy (Ritual)_
 
@@ -672,7 +676,7 @@ You play a prolonged melody, targeting a willing creature you can see within ran
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th-level or higher, you can teleport an additional willing creature you can see within range to the destination for each slot level above 5th-level. When multiple creatures are targeted by this spell, you can choose a destination where any of the target creatures were Unconscious, and the casting time increases by 10 minutes for each additional creature you target beyond the first.
 
-#### [Soulful Croak](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/soulful-croak.md)
+### [Soulful Croak](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/soulful-croak.md)
 
 _4th-level necromancy/rhythmancy_
 
@@ -698,7 +702,7 @@ An undead creature targeted or raised by this spell must succeed on a Wisdom Sav
 
 On a successful save, or if the Charmed condition on the undead creature ends, the creature stops obeying any command you've given them and cannot be targeted by this spell again for the next 30 days.
 
-#### [Summoning of the Scarecrow](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/summoning-of-the-scarecrow.md)
+### [Summoning of the Scarecrow](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/summoning-of-the-scarecrow.md)
 
 _1st-level conjuration/rhythmancy_
 
@@ -712,7 +716,7 @@ A Medium-sized inanimate scarecrow appears anchored to the ground in an unoccupi
 
 The scarecrow can act as a target for a thrown grappling hook or similar equipment, and it can support up to 500 pounds of weight. It disappears when you cast this spell again.
 
-#### [Tune of Ages](https://github.com/mpanighetti/dnd5e-spells/blob/main/7th-level/tune-of-ages.md)
+### [Tune of Ages](https://github.com/mpanighetti/dnd5e-spells/blob/main/7th-level/tune-of-ages.md)
 
 _7th-level conjuration/rhythmancy_
 
@@ -726,7 +730,7 @@ You and up to eight willing creatures within range are removed from your current
 
 The selected time period must at least specify the destination year, but can be more specific if desired. Additionally, the magic item or willing creature specified in the spell's material components must have existed in the time period you specify and must accompany you in the time travel. If any of these conditions are not met, the spell fails.
 
-#### [Tune of Currents](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/tune-of-currents.md)
+### [Tune of Currents](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/tune-of-currents.md)
 
 _5th-level abjuration/rhythmancy_
 
@@ -746,7 +750,7 @@ Any such spell with a spell level equal to or less than the level of the spell s
 
 For each spell of a level higher than the level of the spell slot you used with a temporal effect on the target, make an ability check using your spellcasting ability. The DC equals twice the spell's level. On a successful check, the spell's effect on the target ends.
 
-#### [Tune of Echoes](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/tune-of-echoes.md)
+### [Tune of Echoes](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/tune-of-echoes.md)
 
 _3rd-level divination/rhythmancy (Ritual)_
 
@@ -762,7 +766,7 @@ For the duration of the spell, the image plays out the selected moment in real t
 
 Any number of times before the spell ends, as an action, you can spend an additional spell slot of any level to extend the spell's duration by a number of minutes equal to ten times the slot level.
 
-#### [Wind God's Aria](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/wind-gods-aria.md)
+### [Wind God's Aria](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/wind-gods-aria.md)
 
 _4th-level evocation/rhythmancy_
 
@@ -780,7 +784,7 @@ As long as you are not touching the ground, the air pulses around your body, gra
 
 If you are successfully forced to the ground against your will for 1 minute or longer, the spell ends.
 
-#### [Wind's Requiem](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/winds-requiem.md)
+### [Wind's Requiem](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/winds-requiem.md)
 
 _3rd-level conjuration/rhythmancy (Ritual)_
 
