@@ -210,19 +210,19 @@ _7th-level Wild Composer feature_
 
 As a Magic Action, you can expend one ranger spell slot of any level to tap into the music of an unfamiliar environment and learn its underlying structure. For 1 hour per level of the spell slot you expend, or until you end concentration or leave this environment, the environment is considered to be your favored terrain, or if you do not have a ranger feature that grants benefits while in your favored terrain, you instead gain temporary Proficiency and Expertise in Intelligence and Wisdom checks you make related to the terrain.
 
-#### Pitch Perfect
+#### Song of Leaf and Claw
 
 _11th-level Wild Composer feature_
 
-Your ear for the songs of the natural world allows you to channel your magic through that musical structure. While you are Attuned to an _instrument of the wild_ and use it as your spellcasting focus, you can expend the instrument's charges to cast any ranger spell you know as if it is a rhythmancy spell.
+Your ear for the songs of the natural world allows you to channel your magic through that musical structure. While you are Attuned to an _instrument of the wild_, you can expend the instrument's charges to cast any ranger spell you know as if it is a rhythmancy spell.
 
 Additionally, when you cast _animal friendship_, _beast bond_, _locate animals or plants_, _speak with animals_, or _speak with plants_ in this manner, the charge cost is reduced by 1.
 
-#### Arboreal Strider
+#### World Strider
 
 _15th-level Wild Composer feature_
 
-You recall every tree you have encountered, and can travel through the world's root systems to be reunited with them at a moment's notice. You learn the _transport via plants_ spell as a ranger spell, which doesn't count against the number of ranger spells you know. You can cast this spell without expending a spell slot, and you regain the ability to do so after you finish a Long Rest. You can also cast this spell while Attuned to an _instrument of the wild_ and using it as your spellcasting focus by expending 5 of the instrument's charges.
+You recall every tree you have encountered, and can travel through the world's root systems to be reunited with them at a moment's notice. You learn the _transport via plants_ spell as a ranger spell, which doesn't count against the number of ranger spells you know. You can cast this spell without expending a spell slot, and you regain the ability to do so after you finish a Long Rest. You can also cast this spell while Attuned to an _instrument of the wild_ by expending 5 of the instrument's charges.
 
 # Chapter 4: Feats
 
