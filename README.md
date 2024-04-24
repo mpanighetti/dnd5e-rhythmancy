@@ -12,7 +12,7 @@ A 5e homebrew school of magic based on musical performance. Includes a list of c
 
 #### Bard
 
-- [College of Legends](rhythmancy.md#bard-subclass-college-of-legends)
+- [College of Legends](rhythmancy.md#college-of-legends)
 
 ### Feats
 
