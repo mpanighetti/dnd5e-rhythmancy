@@ -28,8 +28,8 @@ A 5e homebrew school of magic based on musical performance. Includes a list of c
 | cantrip | _[Ballad of the Dreamer](rhythmancy.md#ballad-of-the-dreamer)_ | Abjuration/Rhythmancy | Bard | |
 | cantrip | _[The Hawk's Call](rhythmancy.md#the-hawks-call)_ | Evocation/Rhythmancy | Bard | |
 | cantrip | _[The Royal Decree](rhythmancy.md#the-royal-decree)_ | Enchantment/Rhythmancy | Bard | |
-| 1st | _[Equine Tribute](rhythmancy.md#equine-tribute)_ | Conjuration/Rhythmancy | Bard | |
-| 1st | _[The Lost is Found](rhythmancy.md#the-lost-is-found)_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
+| 1st | _[Equine Tribute](rhythmancy.md#equine-tribute)_ | Conjuration/Rhythmancy | Bard, Wild Composer Ranger | |
+| 1st | _[The Lost is Found](rhythmancy.md#the-lost-is-found)_ | Divination/Rhythmancy | Bard, Wild Composer Ranger | Concentration, Ritual |
 | 1st | _[Song of Storms](rhythmancy.md#song-of-storms)_ | Evocation/Rhythmancy | Bard | Concentration |
 | 1st | _[Song of Time](rhythmancy.md#song-of-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
 | 1st | _[Summoning of the Scarecrow](rhythmancy.md#summoning-of-the-scarecrow)_ | Conjuration/Rhythmancy | Bard | |
@@ -37,24 +37,24 @@ A 5e homebrew school of magic based on musical performance. Includes a list of c
 | 2nd | _[Duet of Restoration](rhythmancy.md#duet-of-restoration)_ | Evocation/Rhythmancy | Bard | Duet |
 | 2nd | _[Elegy of Emptiness](rhythmancy.md#elegy-of-emptiness)_ | Conjuration/Rhythmancy | Bard | |
 | 2nd | _[Repel the Dark](rhythmancy.md#repel-the-dark)_ | Evocation/Rhythmancy | Bard | Concentration |
-| 2nd | _[Sonata of Awakening](rhythmancy.md#sonata-of-awakening)_ | Abjuration/Rhythmancy | Bard | Concentration |
-| 2nd | _[Song of Discovery](rhythmancy.md#song-of-discovery)_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
+| 2nd | _[Sonata of Awakening](rhythmancy.md#sonata-of-awakening)_ | Abjuration/Rhythmancy | Bard, Wild Composer Ranger | Concentration |
+| 2nd | _[Song of Discovery](rhythmancy.md#song-of-discovery)_ | Divination/Rhythmancy | Bard, Wild Composer Ranger | Concentration, Ritual |
 | 3rd | _[Mambo Marino](rhythmancy.md#mambo-marino)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
-| 3rd | _[New Wave Bossa Nova](rhythmancy.md#new-wave-bossa-nova)_ | Abjuration/Rhythmancy | Bard | Concentration |
+| 3rd | _[New Wave Bossa Nova](rhythmancy.md#new-wave-bossa-nova)_ | Abjuration/Rhythmancy | Bard, Wild Composer Ranger | Concentration |
 | 3rd | _[Peaceful Lullaby](rhythmancy.md#peaceful-lullaby)_ | Enchantment/Rhythmancy | Bard | Concentration |
 | 3rd | _[Royal Duet](rhythmancy.md#royal-duet)_ | Evocation/Rhythmancy | Bard | Duet |
 | 3rd | _[Song of Double Time](rhythmancy.md#song-of-double-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
 | 3rd | _[Tune of Echoes](rhythmancy.md#tune-of-echoes)_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
-| 3rd | _[Wind's Requiem](rhythmancy.md#winds-requiem)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
+| 3rd | _[Wind's Requiem](rhythmancy.md#winds-requiem)_ | Conjuration/Rhythmancy | Bard, Wild Composer Ranger | Concentration, Ritual |
 | 4th | _[Death's Departure](rhythmancy.md#deaths-departure)_ | Abjuration/Rhythmancy | Bard | Concentration |
-| 4th | _[Earth God's Lyric](rhythmancy.md#earth-gods-lyric)_ | Evocation/Rhythmancy | Bard | |
+| 4th | _[Earth God's Lyric](rhythmancy.md#earth-gods-lyric)_ | Evocation/Rhythmancy | Bard, Wild Composer Ranger | |
 | 4th | _[Minute Minuet](rhythmancy.md#minute-minuet)_ | Transmutation/Rhythmancy | Bard | Concentration |
 | 4th | _[Soulful Croak](rhythmancy.md#soulful-croak)_ | Necromancy/Rhythmancy | Bard | |
 | 4th | _[Space Warp](rhythmancy.md#space-warp)_ | Conjuration/Rhythmancy | Bard | Ritual |
-| 4th | _[Wind God's Aria](rhythmancy.md#wind-gods-aria)_ | Evocation/Rhythmancy | Bard | |
+| 4th | _[Wind God's Aria](rhythmancy.md#wind-gods-aria)_ | Evocation/Rhythmancy | Bard, Wild Composer Ranger | |
 | 5th | _[Inverted Song of Time](rhythmancy.md#inverted-song-of-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
-| 5th | _[Melody of Darkness](rhythmancy.md#melody-of-darkness)_ | Necromancy/Rhythmancy | Bard | Concentration |
-| 5th | _[Song of Healing](rhythmancy.md#song-of-healing)_ | Evocation/Rhythmancy | Bard | |
+| 5th | _[Melody of Darkness](rhythmancy.md#melody-of-darkness)_ | Necromancy/Rhythmancy | Bard, Wild Composer Ranger | Concentration |
+| 5th | _[Song of Healing](rhythmancy.md#song-of-healing)_ | Evocation/Rhythmancy | Bard, Wild Composer Ranger | |
 | 5th | _[Song of Passing](rhythmancy.md#song-of-passing)_ | Illusion/Rhythmancy | Bard | Concentration |
 | 5th | _[Tune of Currents](rhythmancy.md#tune-of-currents)_ | Abjuration/Rhythmancy | Bard | |
 | 6th | _[The River Devil's Lament](rhythmancy.md#the-river-devils-lament)_ | Enchantment/Rhythmancy | Bard | |

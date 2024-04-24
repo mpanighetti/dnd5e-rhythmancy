@@ -122,7 +122,7 @@ If a Duet is targeted by an effect or check that requires knowing the spellcasti
 
 # Chapter 3: Classes
 
-This section includes two new subclass options: the College of Legends for the bard and the Wild Composer for the ranger.
+This section includes two new subclass options with abilities centered around the use of rhythmancy magic: the College of Legends for the bard and the Wild Composer for the ranger.
 
 ## Bard
 
@@ -162,6 +162,65 @@ Starting at 11th level, when gaining temporary rhythmancy points using this feat
 _14th-level College of Legends feature_
 
 You have mastered unlocking hidden or lost ancient secrets. You learn the _legend lore_ spell, or another bard spell of your choice from the divination school for which you are eligible if you already know _legend lore_. This spell doesn't count against the number of bard spells you know. When you cast _legend lore_ using rhythmancy points, the casting time is 1 action, and you replace its material component requirements with a musical instrument worth at least 1 gp.
+
+## Ranger
+
+At 3rd level, a ranger gains the choice of a subclass. The following option is made available to you when making that choice: the Wild Composer.
+
+### Wild Composer
+
+> You know there's rhythm all around us: the waves break in rhythm, people walk in rhythm, people breathe in rhythm, too. People work in rhythm! The whole world is made up of rhythm.
+>
+> — Victor Brady, [Let's Go Play to the Rhythm of the World](https://youtu.be/g1zNAbrU1zM)
+
+Rangers who walk the path of the Wild Composer are drawn to the innate music present in the natural world. They revel in the melody of leaves rustling in the wind like chimes, and play along as woodpeckers drum a steady beat on tall steadfast trees. To these adventurers, the wild itself has a breath and cadence that grants those who can hear it great wisdom.
+
+#### Wild Composer Magic
+
+_3rd-level Wild Composer feature_
+
+You are in sync with the music of the wilds. You learn _The Hawk's Call_ cantrip if you don't already know it. Additionally, when you reach certain levels in this class, you pick an additional rhythmancy spell of 1st-level or higher to learn from the **Wild Composer Spells** table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+
+##### Wild Composer Spells
+| Ranger Level | Spells |
+|:-:|:-|
+| 3rd  | _Equine Tribute_, _The Lost is Found_ |
+| 5th  | _Sonata of Awakening_, _Song of Discovery_ |
+| 9th  | _New Wave Bossa Nova_, _Wind's Requiem_ |
+| 13th | _Earth God's Lyric_, _Wind God's Aria_ |
+| 17th | _Melody of Darkness_, _Song of Healing_ |
+
+When you gain a level in this class, you can choose one of the ranger spells you know and replace it with a spell from the **Wild Composer Spells** table, which must be of a level for which you have spell slots.
+
+#### Music-Maker
+
+_3rd-level Wild Composer feature_
+
+You gain Proficiency with a musical instrument and a tool of your choice capable of crafting that instrument (leatherworker's tools, potter's tools, or woodworker's tools might be suitable choices). You can use instruments in which you are Proficient as a spellcasting focus for your ranger spells, as long as they are either magic items or are worth at least 1 gp.
+
+Additionally, as part of a Short Rest, you can use the above tools and cast a ranger spell of 1st-level or higher to craft a special magic item known as an _[instrument of the wild](#instrument-of-the-wild)_. You can make any type of instrument you like using this feature, as long as your tools are capable of crafting the instrument. The design of the instrument is up to you; for example, you might carve a bone from an animal you hunted to make an ocarina. The instrument's rarity and capabilities are determined by the spell slot level used in its crafting, it is worth a number of gold pieces equal to 20 × the spell slot level, and the spell you cast to craft the instrument is added to its list of stored spells. Rhythmancy spells you cast with an _instrument of the wild_ gain a +1 to their attack rolls and total damage rolls.
+
+You can maintain the magical properties in a number of _instruments of the wild_ equal to your Wisdom modifier (minimum 1). If you craft an _instrument of the wild_ beyond this limit, the oldest one loses all of its magical properties, becoming a mundane version of that musical instrument worth 1 gp.
+
+#### Rhythm of the World
+
+_7th-level Wild Composer feature_
+
+As a Magic Action, you can expend one ranger spell slot of any level to tap into the music of an unfamiliar environment and learn its underlying structure. For 1 hour per level of the spell slot you expend, or until you end concentration or leave this environment, the environment is considered to be your favored terrain, or if you do not have a ranger feature that grants benefits while in your favored terrain, you instead gain temporary Proficiency and Expertise in Intelligence and Wisdom checks you make related to the terrain.
+
+#### Pitch Perfect
+
+_11th-level Wild Composer feature_
+
+Your ear for the songs of the natural world allows you to channel your magic through that musical structure. When you use an _instrument of the wild_ as your spellcasting focus, you can expend the instrument's charges to cast any ranger spell you know as if it is a rhythmancy spell.
+
+Additionally, when you cast _animal friendship_, _beast bond_, _locate animals or plants_, _speak with animals_, or _speak with plants_ in this manner, the charge cost is reduced by 1.
+
+#### Arboreal Strider
+
+_15th-level Wild Composer feature_
+
+You recall every tree you have encountered, and can travel through the world's root systems to be reunited with them at a moment's notice. You learn the _transport via plants_ spell as a ranger spell, which doesn't count against the number of ranger spells you know. You can cast this spell without expending a spell slot, and you regain the ability to do so after you finish a Long Rest. You can also cast this spell while using an _instrument of the wild_ as your spellcasting focus by expending 5 charges.
 
 # Chapter 4: Feats
 
@@ -216,8 +275,8 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | cantrip | _Ballad of the Dreamer_ | Abjuration/Rhythmancy | Bard | |
 | cantrip | _The Hawk's Call_ | Evocation/Rhythmancy | Bard | |
 | cantrip | _The Royal Decree_ | Enchantment/Rhythmancy | Bard | |
-| 1st | _Equine Tribute_ | Conjuration/Rhythmancy | Bard | |
-| 1st | _The Lost is Found_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
+| 1st | _Equine Tribute_ | Conjuration/Rhythmancy | Bard, Wild Composer Ranger | |
+| 1st | _The Lost is Found_ | Divination/Rhythmancy | Bard, Wild Composer Ranger | Concentration, Ritual |
 | 1st | _Song of Storms_ | Evocation/Rhythmancy | Bard | Concentration |
 | 1st | _Song of Time_[^🪈] | Abjuration/Rhythmancy | Bard | |
 | 1st | _Summoning of the Scarecrow_ | Conjuration/Rhythmancy | Bard | |
@@ -225,24 +284,24 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 2nd | _Duet of Restoration_ | Evocation/Rhythmancy | Bard | Duet |
 | 2nd | _Elegy of Emptiness_ | Conjuration/Rhythmancy | Bard | |
 | 2nd | _Repel the Dark_ | Evocation/Rhythmancy | Bard | Concentration |
-| 2nd | _Sonata of Awakening_ | Abjuration/Rhythmancy | Bard | Concentration |
-| 2nd | _Song of Discovery_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
+| 2nd | _Sonata of Awakening_ | Abjuration/Rhythmancy | Bard, Wild Composer Ranger | Concentration |
+| 2nd | _Song of Discovery_ | Divination/Rhythmancy | Bard, Wild Composer Ranger | Concentration, Ritual |
 | 3rd | _Mambo Marino_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
-| 3rd | _New Wave Bossa Nova_ | Abjuration/Rhythmancy | Bard | Concentration |
+| 3rd | _New Wave Bossa Nova_ | Abjuration/Rhythmancy | Bard, Wild Composer Ranger | Concentration |
 | 3rd | _Peaceful Lullaby_ | Enchantment/Rhythmancy | Bard | Concentration |
 | 3rd | _Royal Duet_ | Evocation/Rhythmancy | Bard | Duet |
 | 3rd | _Song of Double Time_[^🪈] | Abjuration/Rhythmancy | Bard | |
 | 3rd | _Tune of Echoes_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
-| 3rd | _Wind's Requiem_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
+| 3rd | _Wind's Requiem_ | Conjuration/Rhythmancy | Bard, Wild Composer Ranger | Concentration, Ritual |
 | 4th | _Death's Departure_ | Abjuration/Rhythmancy | Bard | Concentration |
-| 4th | _Earth God's Lyric_ | Evocation/Rhythmancy | Bard | |
+| 4th | _Earth God's Lyric_ | Evocation/Rhythmancy | Bard, Wild Composer Ranger | |
 | 4th | _Minute Minuet_ | Transmutation/Rhythmancy | Bard | Concentration |
 | 4th | _Soulful Croak_ | Necromancy/Rhythmancy | Bard | |
 | 4th | _Space Warp_ | Conjuration/Rhythmancy | Bard | Ritual |
-| 4th | _Wind God's Aria_ | Evocation/Rhythmancy | Bard | |
+| 4th | _Wind God's Aria_ | Evocation/Rhythmancy | Bard, Wild Composer Ranger | |
 | 5th | _Inverted Song of Time_[^🪈] | Abjuration/Rhythmancy | Bard | |
-| 5th | _Melody of Darkness_ | Necromancy/Rhythmancy | Bard | Concentration |
-| 5th | _Song of Healing_ | Evocation/Rhythmancy | Bard | |
+| 5th | _Melody of Darkness_ | Necromancy/Rhythmancy | Bard, Wild Composer Ranger | Concentration |
+| 5th | _Song of Healing_ | Evocation/Rhythmancy | Bard, Wild Composer Ranger | |
 | 5th | _Song of Passing_ | Illusion/Rhythmancy | Bard | Concentration |
 | 5th | _Tune of Currents_ | Abjuration/Rhythmancy | Bard | |
 | 6th | _The River Devil's Lament_ | Enchantment/Rhythmancy | Bard | |
@@ -336,7 +395,7 @@ _4th-level evocation/rhythmancy_
 - **Range:** Self
 - **Components:** V, S, M (a musical instrument worth at least 1 gp; a handful of soil from the Elemental Plane of Earth which the spell consumes)
 - **Duration:** 8 hours
-- **Classes:** Bard
+- **Classes:** Bard, Wild Composer Ranger
 
 The notes you play resonate with the world under your feet, strengthening your bond to the earth. The spell can only take effect if you maintain contact with the ground the entire time you cast the spell, otherwise it fails.
 
@@ -370,7 +429,7 @@ _1st-level conjuration/rhythmancy_
 - **Range:** 30 feet
 - **Components:** V, S, M (a sprig of horse grass; a musical instrument worth at least 1 gp)
 - **Duration:** Instantaneous
-- **Classes:** Bard
+- **Classes:** Bard, Wild Composer Ranger
 
 You recant the tale of a great hero's beloved horse companion to endear yourself to a horse with an Intelligence score less than 10 within range; at the Dungeon Master's discretion, you can target a creature other than a horse, as long as they are at least one size category larger than you and have an appropriate anatomy to serve as your mount. If the target is willing, is able to hear you, and remains within range for the entire casting of the spell, they are considered to be your companion.
 
@@ -404,7 +463,7 @@ _1st-level divination/rhythmancy (Ritual)_
 - **Range:** Self
 - **Components:** V, S, M (a branch or leaf from a tree you've climbed; a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
-- **Classes:** Bard
+- **Classes:** Bard, Wild Composer Ranger
 
 You play a song to yourself that stirs old memories of a childhood friend. Until the spell ends, while you are traveling or exploring within the same environment you were in when casting the spell, you can't become lost except by magical means.
 
@@ -432,7 +491,7 @@ _5th-level necromancy/rhythmancy_
 - **Range:** Self (30 foot sphere)
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
-- **Classes:** Bard
+- **Classes:** Bard, Wild Composer Ranger
 
 You play a disturbing tune that drains the life energy of its listeners. All creatures other than yourself within 30 feet of you that can hear you must succeed on a Wisdom Saving Throw or become Cursed for the duration of the spell. This spell has no effect on undead or constructs.
 
@@ -466,7 +525,7 @@ _3rd-level abjuration/rhythmancy_
 - **Range:** Self (10-foot sphere)
 - **Components:** V (functions even if you are in an area affected by magical silence), S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
-- **Classes:** Bard
+- **Classes:** Bard, Wild Composer Ranger
 
 Until the spell ends, you create a sphere of healing energy that negates the effects of magical silence, such as the _silence_ spell, and the effects of magical darkness, such as the _darkness_ spell. The sphere moves with you. Creatures within this sphere hear normally in magical silence and see normally in magical darkness, and can speak, hear, see, and cast spells normally. Any spells or magical effects causing silence or darkness are not dispelled, but they cannot affect any creatures within the negating sphere. If the negating sphere is contained completely within an area of magical silence or magical darkness, any such magical sound or light stops at the edge of the sphere and cannot travel in or out of it.
 
@@ -568,7 +627,7 @@ _2nd-level abjuration/rhythmancy_
 - **Range:** 30 feet
 - **Components:** V, M (a musical instrument worth at least 1 gp, a bell worth at least 5 gp)
 - **Duration:** Concentration, up to 1 minute
-- **Classes:** Bard
+- **Classes:** Bard, Wild Composer Ranger
 
 You stir slumbering creatures with rousing music. When you cast this spell, choose up to three creatures within range under the effect of magical sleep that can hear you. The targets, as well as all other naturally Unconscious creatures within range that can hear you, immediately regain consciousness. Until the spell ends, magic can't put creatures within range to sleep, as long as they can still hear you.
 
@@ -582,7 +641,7 @@ _2nd-level divination/rhythmancy (Ritual)_
 - **Range:** Self (20-foot sphere)
 - **Components:** V, S, M (a musical instrument worth at least 1 gp, a magnifying glass worth at least 10 gp)
 - **Duration:** Concentration, up to 10 minutes
-- **Classes:** Bard
+- **Classes:** Bard, Wild Composer Ranger
 
 You perform a tune that disrupts any concealing magic in the vicinity. Until the spell ends, as an action, you can attempt to reveal Invisible creatures and objects within your spell's area of effect. Make a spellcasting ability check. If there is a spell causing invisibility in your spell's area of effect, the DC equals 10 + the most powerful such spell's level in the area, or if the only invisibility present is caused by another magical effect, the DC is 15. On a success, all magical invisibility in the area of effect is dispelled, and this spell ends immediately. On a failure, or if there is no such magical invisibility nearby, your spell continues, but you gain no special insight into whether this outcome occurred due to failing the check or no viable Invisible creatures or objects being nearby.
 
@@ -594,7 +653,7 @@ _5th-level evocation/rhythmancy_
 - **Range:** Self (30-foot sphere)
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Instantaneous
-- **Classes:** Bard
+- **Classes:** Bard, Wild Composer Ranger
 
 You channel healing energies through soothing music. All creatures that remain within 30 feet of you for the entire casting time, except for undead or constructs, regain 5d10 Hit Points and are cured of being Blinded, Deafened, and Diseased.
 
@@ -774,7 +833,7 @@ _4th-level evocation/rhythmancy_
 - **Range:** Self
 - **Components:** V, S, M (a musical instrument worth at least 1 gp; a vial of air from the Elemental Plane of Air which the spell consumes)
 - **Duration:** 8 hours
-- **Classes:** Bard
+- **Classes:** Bard, Wild Composer Ranger
 
 The notes you play resonate with the air around you, lifting you upward and granting you free movement.
 
@@ -792,7 +851,7 @@ _3rd-level conjuration/rhythmancy (Ritual)_
 - **Range:** Self
 - **Components:** V, M (a musical instrument worth at least 1 gp; a piece of cloth from a ship's sail which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
-- **Classes:** Bard
+- **Classes:** Bard, Wild Composer Ranger
 
 You create an unnatural strong wind at your back, overriding any existing wind direction affecting you. Until the spell ends, your jumping distance is tripled, and while you are on the deck of a sailing ship, it moves as if it is sailing with the wind. While concentrating on this spell, at the end of each of your turns, you can select a new direction for the winds around you to blow.
 
