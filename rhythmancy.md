@@ -800,20 +800,20 @@ While concentrating on this spell, as an action, you can attempt to channel this
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, your jumping distance is multiplied by the spell slot number. For example, casting this spell at 4th-level would cause your jumping distance to be quadrupled.
 
-## Magic Items
+# Chapter 6: Magic Items
 
 This section provides an assortment of magic items with ties to rhythmancy. The **Rhythmancy Magic Items** table lists the magic items in this section along with their rarity and whether they require Attunement.
 
-### Rhythmancy Magic Items
+##### Rhythmancy Magic Items
 | Magic Item | Category | Rarity | Requires Attunement |
 |:-|:-|:-|:-|
 | Instrument of the Wild | Wondrous item | Varies | No |
 
-### Magic Item Descriptions
+## Magic Item Descriptions
 
 The magic items are presented in alphabetical order.
 
-#### [Instrument of the Wild](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/instrument-of-the-wild.md)
+### [Instrument of the Wild](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/instrument-of-the-wild.md)
 
 _Wondrous item (any instrument), rarity varies_
 
