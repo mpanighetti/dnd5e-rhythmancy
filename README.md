@@ -66,7 +66,7 @@ A 5e homebrew school of magic based on musical performance. Includes a list of c
 
 | Magic Item | Category | Rarity | Requires Attunement |
 |:-|:-|:-|:-|
-| [Instrument of the Wild](rhythmancy.md#instrument-of-the-wild) | Wondrous item | Varies | No |
+| [Instrument of the Wild](rhythmancy.md#instrument-of-the-wild) | Wondrous item | Varies | Yes (by someone able to cast rhythmancy spells) |
 
 ## Credits
 

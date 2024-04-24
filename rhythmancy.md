@@ -198,7 +198,7 @@ _3rd-level Wild Composer feature_
 
 You gain Proficiency with a musical instrument and a tool of your choice capable of crafting that instrument (leatherworker's tools, potter's tools, or woodworker's tools might be suitable choices). You can use instruments in which you are Proficient as a spellcasting focus for your ranger spells, as long as they are either magic items or are worth at least 1 gp.
 
-Additionally, as part of a Short Rest, you can use the above tools and cast a ranger spell of 1st-level or higher to craft a special magic item known as an _[instrument of the wild](#instrument-of-the-wild)_. You can make any type of instrument you like using this feature, as long as your tools are capable of crafting the instrument. The design of the instrument is up to you; for example, you might carve a bone from an animal you hunted to make an ocarina. The instrument's rarity and capabilities are determined by the spell slot level used in its crafting, it is worth a number of gold pieces equal to 20 × the spell slot level, and the spell you cast to craft the instrument is added to its list of stored spells. Rhythmancy spells you cast with an _instrument of the wild_ gain a +1 to their attack rolls and total damage rolls.
+Additionally, as part of a Short Rest, you can use the above tools and cast a ranger spell of 1st-level or higher to craft a special magic item known as an _[instrument of the wild](#instrument-of-the-wild)_. You can make any type of instrument you like using this feature, as long as your tools are capable of crafting the instrument. The design of the instrument is up to you; for example, you might carve a bone from an animal you hunted to make an ocarina. When you finish crafting the instrument, you can optionally immediately Attune to it, which doesn't count against the number of magic items you can be Attuned to at once. The instrument's rarity and capabilities are determined by the spell slot level used in its crafting, it is worth a number of gold pieces equal to 20 × the spell slot level, and the spell you cast to craft the instrument is added to its list of stored spells. Rhythmancy spells you cast with an _instrument of the wild_ gain a +1 to their attack rolls and total damage rolls.
 
 You can maintain the magical properties in a number of _instruments of the wild_ equal to your Wisdom modifier (minimum 1). If you craft an _instrument of the wild_ beyond this limit, the oldest one loses all of its magical properties, becoming a mundane version of that musical instrument worth 1 gp.
 
@@ -212,7 +212,7 @@ As a Magic Action, you can expend one ranger spell slot of any level to tap into
 
 _11th-level Wild Composer feature_
 
-Your ear for the songs of the natural world allows you to channel your magic through that musical structure. When you use an _instrument of the wild_ as your spellcasting focus, you can expend the instrument's charges to cast any ranger spell you know as if it is a rhythmancy spell.
+Your ear for the songs of the natural world allows you to channel your magic through that musical structure. While you are Attuned to an _instrument of the wild_ and use it as your spellcasting focus, you can expend the instrument's charges to cast any ranger spell you know as if it is a rhythmancy spell.
 
 Additionally, when you cast _animal friendship_, _beast bond_, _locate animals or plants_, _speak with animals_, or _speak with plants_ in this manner, the charge cost is reduced by 1.
 
@@ -220,7 +220,7 @@ Additionally, when you cast _animal friendship_, _beast bond_, _locate animals o
 
 _15th-level Wild Composer feature_
 
-You recall every tree you have encountered, and can travel through the world's root systems to be reunited with them at a moment's notice. You learn the _transport via plants_ spell as a ranger spell, which doesn't count against the number of ranger spells you know. You can cast this spell without expending a spell slot, and you regain the ability to do so after you finish a Long Rest. You can also cast this spell while using an _instrument of the wild_ as your spellcasting focus by expending 5 charges.
+You recall every tree you have encountered, and can travel through the world's root systems to be reunited with them at a moment's notice. You learn the _transport via plants_ spell as a ranger spell, which doesn't count against the number of ranger spells you know. You can cast this spell without expending a spell slot, and you regain the ability to do so after you finish a Long Rest. You can also cast this spell while Attuned to an _instrument of the wild_ and using it as your spellcasting focus by expending 5 of the instrument's charges.
 
 # Chapter 4: Feats
 
@@ -866,7 +866,7 @@ This section provides an assortment of magic items with ties to rhythmancy. The 
 ##### Rhythmancy Magic Items
 | Magic Item | Category | Rarity | Requires Attunement |
 |:-|:-|:-|:-|
-| Instrument of the Wild | Wondrous item | Varies | No |
+| Instrument of the Wild | Wondrous item | Varies | Yes (by someone able to cast rhythmancy spells) |
 
 ## Magic Item Descriptions
 
@@ -874,7 +874,7 @@ The magic items are presented in alphabetical order.
 
 ### [Instrument of the Wild](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/instrument-of-the-wild.md)
 
-_Wondrous item (any instrument), rarity varies_
+_Wondrous item (any instrument), rarity varies (requires Attunement by someone able to cast rhythmancy spells)_
 
 This instrument was lovingly crafted by an artist with a profound connection to the rhythm of the natural world, and they have imbued some of their own magic into the craft and design. The instrument manifests the magical gift of its creation as one or more rhythmancy spells and charges that can be spent on the instrument's properties; the number of charges is equal to the spell slot level that was used to create the instrument, which also determines its rarity. The instrument regains 1d4 expended charges at dawn.
 
