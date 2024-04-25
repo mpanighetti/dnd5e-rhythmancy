@@ -171,7 +171,7 @@ At 3rd level, a ranger gains the choice of a subclass. The following option is m
 
 > You know there's rhythm all around us: the waves break in rhythm, people walk in rhythm, people breathe in rhythm, too. People work in rhythm! The whole world is made up of rhythm.
 >
-> — Victor Brady, [Let's Go Play to the Rhythm of the World](https://youtu.be/g1zNAbrU1zM)
+> — Victor Brady, _[Let's Go Play to the Rhythm of the World](https://youtu.be/g1zNAbrU1zM)_
 
 Rangers who walk the path of the Wild Composer are drawn to the innate music present in the natural world. They revel in the melody of leaves rustling in the wind like chimes, and play along as woodpeckers drum a steady beat on tall steadfast trees. To these adventurers, the wild itself has a breath and cadence that grants those who can hear it great wisdom.
 
