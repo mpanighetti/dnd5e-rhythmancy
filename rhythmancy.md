@@ -167,7 +167,7 @@ You have mastered unlocking hidden or lost ancient secrets. You learn the _legen
 
 At 3rd level, a ranger gains the choice of a subclass. The following option is made available to you when making that choice: the Wild Composer.
 
-### Wild Composer
+### [Wild Composer](https://github.com/mpanighetti/dnd5e-classes/blob/main/ranger/wild-composer.md)
 
 > You know there's rhythm all around us: the waves break in rhythm, people walk in rhythm, people breathe in rhythm, too. People work in rhythm! The whole world is made up of rhythm.
 >

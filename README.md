@@ -14,6 +14,10 @@ A 5e homebrew school of magic based on musical performance. Includes a list of c
 
 - [College of Legends](rhythmancy.md#college-of-legends)
 
+#### Ranger
+
+- [Wild Composer](rhythmancy.md#wild-composer)
+
 ### Feats
 
 | Level | Feat | Category | Prerequisite | Repeatable |
