@@ -1,271 +1,4 @@
-# Rhythmancy: The Magic of Music
-
-Rhythmancy is a fundamental aspect of magic that is summoned through the performance of music. Though it is sometimes considered an independent school of magical study, rhythmancy spells all align with various existing schools and can potentially be learned by any arcane practitioners — if they know where to look.
-
-# Chapter 1: Learning Rhythmancy Spells
-
-Rhythmancy songs are primarily passed down from teacher to student, or are sometimes buried with their creators and forgotten for centuries before being rediscovered by later explorers. The discovery of a composition infused with rhythmantic magic is often a world-changing event, unlocking access to long-forgotten secrets. On some worlds, rhythmancy is a completely unknown school of study.
-
-## Who Can Learn Rythmancy
-
-What separates rhythmancy spells from others is an intrinsic attachment to musical composition and performance as a channeling force.
-
-Bards are naturally suited for learning rhythmancy magic and can learn any such spells through their normal spellcasting options, as they carry on a long tradition of passing secret songs of power down through the ages from their tutors to their future apprentices. Additionally, feats are available in this document that provide direct access to some low-level rhythmancy spells.
-
-Any other magically inclined student can potentially learn rhythmantic magic they come upon if they meet the following requirements:
-
-- They must already be able to cast a spell of the same level or higher using a feature or trait.
-- They must have Proficiency in a musical instrument.
-- They must either be taught by someone else who knows rhythmantic songs, or they must find a written copy of the spell and teach themself.
-
-### Optional: Rhythmancy Spells for Other Classes
-
-By default, rhythmantic magic is only available on the bard spell list, through rhythmancy feats, or through training or self-teaching when a rhythmancy spell is discovered. However, the Dungeon Master can optionally make any or all rhythmancy spells available for spellcasters if they wish. If the DM allows, anyone with the Spellcasting or Pact Magic feature, or a feat that allowing learning a spell, could potentially learn rhythmancy as a spell option using these features, as long as they also have Proficiency in a musical instrument. With this option, the rhythmancy spell is learned in place of the existing spell when the feature is gained.
-
-## Rhythmantic Training
-
-If a student is able to find a willing teacher who knows rhythmancy spells, and they meet all the requirements for learning the rhythmantic song, they can be taught the spell with time and practice.
-
-Learning a rhythmancy spell from a teacher involves 2 workweeks of training per spell level or for a cantrip, and costs 25 gp per workweek. The time and gold represents the cost of materials involved in writing liner notes, copying the spell to the student's songbook, and maintaining and repairing their instrument as they learn to channel the raw musical power.
-
-At the end of the training period, the song is added to the student's known spells as a rhythmancy spell.
-
-### Self-Teaching
-
-If a rhythmancy spell is written out on a spell scroll or as sheet music, anyone who meets all the requirements to learn the rhythmantic song can do so by practicing the composition and teaching themself. This bypasses the requirement for an instructor, but as a tradeoff for not having the guidance of a teacher, the number of workweeks required is doubled. Once per workweek, the student can attempt to remove that week's training costs by succeeding on a DC 15 Charisma (Performance) check. This check represents practicing the rhythmantic composition in front of crowds in local taverns as you perfect your understanding of the performative magic. On a failed check, in addition to the normal costs of learning your rhythmantic spell, roll on the **Rhythmantic Training Issues** table.
-
-##### Rhythmantic Training Issues
-| d6 | Issue |
-|:--:|:------|
-| 1  | The rhythmantic song's magic accidentally activates, targeting a random patron with the spell's effects. |
-| 2  | A drunken brawl breaks out during your performance and you're blamed for inciting a public disturbance. The venue demands 50 gp payment for damages before allowing you to continue practicing there. |
-| 3  | The rhythmantic song's magic manifests as a destructive thunderous burst of energy. You cast _thunderwave_ toward the audience. |
-| 4  | Your underwhelming performance has resulted in reduced attendance, giving you disadvantage on Charisma (Performance) checks used in the next 1d4 attempts to remove training costs. |
-| 5  | A regular attendee of your shows appears to be taking detailed notes of your rhythmantic composition in an attempt to copy it. |
-| 6  | A drink stain on your songbook has smeared your notes, making them illegible. Add 1 workweek to the total required for learning the rhythmancy song as you recreate your notes. |
-
-## Adding Rhythmancy Spells
-
-Depending on how they use magic normally, a student can add rhythmantic songs they have successfully learned to their known spells using one of three options: as a class spell using the Spellcasting or Pact Magic feature (**option 1**); through another feature that allows casting spells (**option 2**); or through a trait that grants the ability to cast a spell (**option 3**).
-
-1. **If you have the Spellcasting or Pact Magic feature and have spell slots of the same level or higher:** The rhythmancy spell is added to your list of known class spells. If you have Spellcasting or Pact Magic from multiple classes, pick one class under which you learn all rhythmantic magic. You can change this selection any time you gain a level, as long as the class you choose is also able to cast spells at a level equal to or higher than the highest-level rhythmancy spell you know.
-
-2. **If you have another class feature or feat that grants the ability to cast a spell of the same level or higher:** The rhythmancy spell is made available as an alternative spell using this feature.
-
-3. **If you have a species trait that grants the ability to cast a spell of the same level or higher:** The rhythmancy spell is made available as an alternative spell using this trait.
-
-You must use the first option available to you based on your class levels, features, traits, and the rhythmancy spell's level and casting requirements. If the spell is added under option 2 or 3 and a higher option is made available later (such as gaining the Spellcasting feature), all your compatible rhythmancy spells immediately move to the highest-available option. If none of these options are available, you cannot learn the spell. If you lose access to all your options later (such as the _reincarnate_ spell changing you into a creature lacking the ability to cast spells), you retain the knowledge of your rhythmancy spells but are unable to cast them unless you regain compatible spellcasting options later.
-
-# Chapter 2: Casting Rhythmancy Spells
-
-Rhythmancy spells mostly follow existing rules for spellcasting, with several notable exceptions.
-
-## Cantrips
-
-Rhythmantic cantrips can be cast an unlimited number of times, regardless of feature or trait restrictions on casting spells.
-
-## Component Requirements
-
-All rhythmancy spells, in addition to normal spell slot usage and component requirements, include both a verbal component and a specific material component requirement of a musical instrument with a value of at least 1 gp. This instrument substitutes as your spellcasting focus when using rhythmantic magic.
-
-Due to the inherently performative nature of rhythmancy, the requirements for both a verbal component and musical instrument cannot be bypassed with any class feature (such as a sorcerer's Subtle Spell metamagic option), trait, or any other ability, unless it specifically allows ignoring component requirements for rhythmancy magic.
-
-## Spellcasting and Pact Magic
-
-When you cast a rhythmancy spell learned through the Spellcasting or Pact Magic feature, it is considered to be a spell of that feature's class for the purpose of casting it, and it expends spell slots of the appropriate level normally.
-
-## Rhythmancy Points
-
-If you have rhythmancy points, you can cast a rhythmancy spell you know by spending a number of rhythmancy points equal to the spell's level. Additional rhythmancy points can be spent to cast the spell at a higher level at a cost of 1 rhythmancy point per level increase. Charisma is your spellcasting ability for spells cast using rhythmancy points. You regain all spent rhythmancy points when you finish a Long Rest.
-
-If you discover a new rhythmancy spell in your travels, you are eligible to learn the song if your total possible rhythmancy points are equal to or greater than the spell's level. Rhythmancy points from multiple sources are pooled together when determining your point total. For example, if you are a 3rd level College of Legends bard and you take the Rhythmancy Initiate feat, you have a total of 2 rhythmancy points and thus are eligible to learn rhythmancy spells up to 2nd-level.
-
-## Other Features and Traits
-
-When a rhythmancy spell of 1st-level or higher is being cast in place of another spell granted by a feature or trait, you choose the spell you are replacing with a rhythmancy spell each time you cast it.
-
-If the casting of a spell using such features is subject to special rules and limitations, apply these rules using the guidelines below:
-
-### Discipline Points
-
-If a monk feature requires spending Discipline Points to cast a spell of 1st-level or higher, the cost of casting a rhythmancy spell is a number of Discipline Points equal to 1 + the spell's level. For example, casting _Song of Storms_ using the Empty Body feature would require spending 3 Discipline Points.
-
-Additional Discipline Points can be spent to cast the spell at a higher level at 1 Discipline Point per level increase, as long as you already have the ability to cast a spell at that level using Discipline Points.
-
-### Limited Uses
-
-If the feature or trait requires spending from a limited number of charges to cast spells, casting a rhythmancy spell costs the same as another spell of the same level or higher.
-
-If the feature or trait allows casting spells of 1st-level or higher once before requiring a rest to recharge (such as the Infernal Legacy trait), the rhythmancy spell can be selected in place of the existing spell options, expending the spell use as if it were the existing spell.
-
-If the feature or trait allows casting a spell of 1st-level or higher an unlimited number of times, you can choose to cast a rhythmancy spell of the same spell level or lower once with this trait. Once you cast it, you can't do so again until you finish a Long Rest, but you can continue to use the default spell from this trait as normal.
-
-### Spell Limitations
-
-If a feature or trait imposes any other limitations on casting its existing spells, the rhythmancy spell must follow those same limitations. For example, the Empty Body feature doesn't allow taking creatures with you when casting _astral projection_, so a rhythmancy spell cast in this manner also cannot take creatures with you if it normally has this ability.
-
-If the spell cannot be used with the feature's limitations, it cannot be learned in this manner. For example, the Ascendant Step eldritch invocation only allows casting _levitate_ on yourself, so if a rhythmancy spell is unable to target yourself, you cannot learn it using Ascendant Step.
-
-## Duets
-
-Some rhythmancy songs are written to be performed by two musicians working together to create more powerful magic than they could accomplish on their own. Duets function like normal spells but come with additional requirements for the magic to be successfully linked between the two casters:
-
-- The rhythmancy spell performed by both casters must be the same.
-- Both performers must choose the same target when casting their spells.
-- Both casters must provide all required components and spell slots.
-- After the first spellcasting is begun, the partner's spell must begin before the first caster's next turn. To ensure synchrony, one partner could use the Ready action so that their spell begins casting as a Reaction to the other partner starting their song.
-- Both casters must be able to hear each other during the entire casting times of the spells to ensure their performances remain in sync.
-
-If any of the above conditions are not met, both castings of the Duet spell fail. Otherwise, the spells grant their shared effect after both casters complete the required casting time.
-
-If a Duet is targeted by an effect or check that requires knowing the spellcasting ability, Spell Save DC, or spell attack modifier of the caster, use the higher of the two attributes from the Duet's performers. If the effect or check requires knowing the spell slot level (such as _dispel magic_) and the performers used two different level spell slots, use the lower of the two spell slot levels.
-
-# Chapter 3: Classes
-
-This section includes two new subclass options with abilities centered around the use of rhythmancy magic: the College of Legends for the bard and the Wild Composer for the ranger.
-
-## Bard
-
-At 3rd level, a bard gains the choice of a subclass. The following option is made available to you when making that choice: the College of Legends.
-
-### [College of Legends](https://github.com/mpanighetti/dnd5e-classes/blob/main/bard/college-of-legends.md)
-
-Though all bards have the ability to learn rhythmancy spells, practitioners of the College of Legends have built entire careers out of unlocking the magic sealed within these songs. These bards are often sought out as teachers to aid new students in their rhythmantic studies, passing on what they learned from their own masters of the craft.
-
-#### Legendary Recall
-
-_3rd-level College of Legends feature_
-
-You have extensively pored through history books and sought out hidden knowledge of ancient heroes. You gain Proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you make an Intelligence check, you can expend one use of Bardic Inspiration to add twice your Proficiency Bonus to the check, even if you do not normally have Proficiency or Expertise in the related skill.
-
-#### Rhythmantic Savant
-
-_3rd-level College of Legends feature_
-
-You have an innate understanding of the magic of music and how to wield it, granting you the following benefits.
-
-- You have a number of rhythmancy points equal to your bard level divided by 3 (round down).
-- You can use rhythmancy points to cast spells you know from any source as if they were rhythmancy spells.
-- Whenever you learn a new song through rhythmantic training, you bypass all training requirements, including finding a teacher, all training costs and issues, and any time requirements. Instead, you learn the rhythmancy spell as an action and by spending a number of rhythmancy points equal to the spell's level (minimum 1 rhythmancy point). You cannot learn a rhythmancy song in this manner if you do not have a sufficient number of rhythmancy points available to spend.
-- When you cast a spell of 1st-level or higher targeting a creature using rhythmancy points, in addition to the spell's normal effects, you can choose to grant the target a number of Temporary Hit Points equal to the number of rhythmancy points spent.
-
-#### Inner Song
-
-_6th-level College of Legends feature_
-
-You can channel your bard song to temporarily boost the power of your rhythmancy magic. At the end of a Long Rest, you can expend one of your uses of Bardic Inspiration to roll a Bardic Inspiration die and gain a number of temporary rhythmancy points equal to the number rolled. While you have these temporary rhythmancy points, they can be used to cast and learn spells as if they were normal rhythmancy points, but any spent temporary points cease to count toward your maximum number of rhythmancy points when determining whether you can learn a new song. Any temporary rhythmancy points gained in this manner disappear after you finish your next Long Rest.
-
-Starting at 11th level, when gaining temporary rhythmancy points using this feature, you roll two Bardic Inspiration dice and take the higher of the two results.
-
-#### Legendary Secrets
-
-_14th-level College of Legends feature_
-
-You have mastered unlocking hidden or lost ancient secrets. You learn the _legend lore_ spell, or another bard spell of your choice from the divination school for which you are eligible if you already know _legend lore_. This spell doesn't count against the number of bard spells you know. When you cast _legend lore_ using rhythmancy points, the casting time is 1 action, and you replace its material component requirements with a musical instrument worth at least 1 gp.
-
-## Ranger
-
-At 3rd level, a ranger gains the choice of a subclass. The following option is made available to you when making that choice: the Wild Composer.
-
-### [Wild Composer](https://github.com/mpanighetti/dnd5e-classes/blob/main/ranger/wild-composer.md)
-
-> You know there's rhythm all around us: the waves break in rhythm, people walk in rhythm, people breathe in rhythm, too. People work in rhythm! The whole world is made up of rhythm.
->
-> — Victor Brady, _[Let's Go Play to the Rhythm of the World](https://youtu.be/g1zNAbrU1zM)_
-
-Rangers who walk the path of the Wild Composer are drawn to the innate music present in the natural world. They revel in the melody of leaves rustling in the wind like chimes, and play along as woodpeckers drum a steady beat on tall steadfast trees. To these adventurers, the wild itself has a breath and cadence that grants those who can hear it great wisdom.
-
-#### Wild Composer Magic
-
-_3rd-level Wild Composer feature_
-
-You are in sync with the music of the wilds. You learn _The Hawk's Call_ cantrip if you don't already know it. Additionally, when you reach certain levels in this class, you pick an additional rhythmancy spell of 1st-level or higher to learn from the **Wild Composer Spells** table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
-
-##### Wild Composer Spells
-| Ranger Level | Spells |
-|:-:|:-|
-| 3rd  | _Equine Tribute_, _The Lost is Found_ |
-| 5th  | _Sonata of Awakening_, _Song of Discovery_ |
-| 9th  | _New Wave Bossa Nova_, _Wind's Requiem_ |
-| 13th | _Earth God's Lyric_, _Wind God's Aria_ |
-| 17th | _Melody of Darkness_, _Song of Healing_ |
-
-When you gain a level in this class, you can choose one of the ranger spells you know and replace it with a spell from the **Wild Composer Spells** table, which must be of a level for which you have spell slots.
-
-#### Music-Maker
-
-_3rd-level Wild Composer feature_
-
-You gain Proficiency with a musical instrument and a tool of your choice capable of crafting that instrument (leatherworker's tools, potter's tools, or woodworker's tools might be suitable choices). You can use instruments in which you are Proficient as a spellcasting focus for your ranger spells, as long as they are either magic items or are worth at least 1 gp.
-
-Additionally, as part of a Short Rest, you can use the above tools and cast a ranger spell of 1st-level or higher to craft a special magic item known as an _[instrument of the wild](#instrument-of-the-wild)_. You can make any type of instrument you like using this feature, as long as your tools are capable of crafting the instrument. The design of the instrument is up to you; for example, you might carve a bone from an animal you hunted to make an ocarina. When you finish crafting the instrument, you can optionally immediately Attune to it, which doesn't count against the number of magic items you can be Attuned to at once. The instrument's rarity and capabilities are determined by the spell slot level used in its crafting, and the spell you cast to craft the instrument is added to its list of stored spells.
-
-While Attuned to an _instrument of the wild_, your rhythmancy spells gain a +1 to their attack rolls and total damage rolls, and when you cast a rhythmancy spell of 1st-level or higher, you can expend one of the instrument's charges to cast the spell at one level higher than the original spell level; for example, casting a 1st-level spell and expending a charge would cast that spell at 2nd-level.
-
-You can maintain the magical properties in a number of _instruments of the wild_ equal to your Wisdom modifier (minimum 1). If you craft an _instrument of the wild_ beyond this limit, the oldest one loses all of its magical properties, becoming a mundane version of that musical instrument.
-
-#### Rhythm of the World
-
-_7th-level Wild Composer feature_
-
-As a Magic Action, you can expend one ranger spell slot of any level to tap into the music of an unfamiliar environment and learn its underlying structure. For 1 hour per level of the spell slot you expend, or until you end concentration or leave this environment, the environment is considered to be your favored terrain, or if you do not have a ranger feature that grants benefits while in your favored terrain, you instead gain temporary Proficiency and Expertise in Intelligence and Wisdom checks you make related to the terrain.
-
-#### Song of Leaf and Claw
-
-_11th-level Wild Composer feature_
-
-Your ear for the songs of the natural world allows you to channel your magic through that musical structure. While you are Attuned to an _instrument of the wild_, you can expend the instrument's charges to cast any ranger spell you know as if it is a rhythmancy spell.
-
-Additionally, when you cast _animal friendship_, _beast bond_, _locate animals or plants_, _speak with animals_, or _speak with plants_ in this manner, the charge cost is reduced by 1.
-
-#### World Strider
-
-_15th-level Wild Composer feature_
-
-You recall every tree you have encountered, and can travel through the world's root systems to be reunited with them at a moment's notice. You learn the _transport via plants_ spell as a ranger spell, which doesn't count against the number of ranger spells you know. You can cast this spell without expending a spell slot, and you regain the ability to do so after you finish a Long Rest. You can also cast this spell while Attuned to an _instrument of the wild_ by expending 5 of the instrument's charges.
-
-# Chapter 4: Feats
-
-This section presents a sampling of feats appropriate for a campaign featuring rhythmancy magic. If a feat has a prerequisite, you must meet that prerequisite to gain the feat. The **Rhythmancy Feats** table lists the feats in this section along with the level at which they're available.
-
-##### Rhythmancy Feats
-| Level | Feat | Category | Prerequisite | Repeatable |
-|:-:|:-|:-|:-|:-:|
-| 1st | [Rhythmancy Initiate](#rhythmancy-initiate) | Background | | no |
-| 4th | [Rhythmancy Adept](#rhythmancy-adept) | General | Rhythmancy Initiate feat | no |
-
-## Feat Descriptions
-
-The feats are presented in alphabetical order.
-
-### [Rhythmancy Adept](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-adept.md)
-
-_4th-Level General Feat_
-
-- **Prerequisite:** Rhythmancy Initiate feat
-- **Repeatable:** No
-
-Your extended practice in channeling rhythmantic energies has granted you additional control and power:
-
-- You gain 2 rhythmancy points to spend on casting rhythmancy spells.
-- You learn two rhythmancy spells of 1st-level or lower of your choice, or one 2nd-level rhythmancy spell of your choice.
-- You gain Expertise in the skill you chose for the Rhythmancy Initiate feat, doubling your Proficiency Bonus for any ability check you make that uses this skill.
-
-### [Rhythmancy Initiate](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-initiate.md)
-
-_1st-Level Background Feat_
-
-- **Prerequisite:** None
-- **Repeatable:** No
-
-You've begun studying the magic of rhythmantic songs, granting you the following features:
-
-- You gain 1 rhythmancy point to spend on casting rhythmancy spells.
-- You learn a rhythmancy cantrip and a 1st-level rhythmancy spell of your choice.
-- You gain Proficiency in a skill of your choice from the following list: Deception, Intimidation, Performance, Persuasion.
-- You gain Proficiency with a musical instrument of your choice. You can use such an instrument as a spellcasting focus for any spell you cast using rhythmancy points.
-
-# Chapter 5: Spells
+# Chapter 5: Rhythmancy Spells
 
 This section contains new spells developed through the musical study of rhythmancy. These spells are available to the bard class, as well as other spellcasting classes with the Dungeon Master's consent (see "Rhythmancy Spells for Other Classes"). The **Rhythmancy Spells** table lists the new spells, ordering them by level. The table also notes the schools of magic of a spell, whether it bears any tags, and which classes have access to it.
 
@@ -274,42 +7,44 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 ##### Rhythmancy Spells
 | Level | Spell | School | Class | Tags |
 |:-:|:-|:-|:-|:-|
-| cantrip | _Ballad of the Dreamer_ | Abjuration/Rhythmancy | Bard | |
-| cantrip | _The Hawk's Call_ | Evocation/Rhythmancy | Bard | |
-| cantrip | _The Royal Decree_ | Enchantment/Rhythmancy | Bard | |
-| 1st | _Equine Tribute_ | Conjuration/Rhythmancy | Bard, Ranger (Wild Composer) | |
-| 1st | _The Lost is Found_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual |
-| 1st | _Song of Storms_ | Evocation/Rhythmancy | Bard | Concentration |
-| 1st | _Song of Time_[^🪈] | Abjuration/Rhythmancy | Bard | |
-| 1st | _Summoning of the Scarecrow_ | Conjuration/Rhythmancy | Bard | |
-| 2nd | _Command Melody_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
-| 2nd | _Duet of Restoration_ | Evocation/Rhythmancy | Bard | Duet |
-| 2nd | _Elegy of Emptiness_ | Conjuration/Rhythmancy | Bard | |
-| 2nd | _Repel the Dark_ | Evocation/Rhythmancy | Bard | Concentration |
-| 2nd | _Sonata of Awakening_ | Abjuration/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration |
-| 2nd | _Song of Discovery_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual |
-| 3rd | _Mambo Marino_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
-| 3rd | _New Wave Bossa Nova_ | Abjuration/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration |
-| 3rd | _Peaceful Lullaby_ | Enchantment/Rhythmancy | Bard | Concentration |
-| 3rd | _Royal Duet_ | Evocation/Rhythmancy | Bard | Duet |
-| 3rd | _Song of Double Time_[^🪈] | Abjuration/Rhythmancy | Bard | |
-| 3rd | _Tune of Echoes_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
-| 3rd | _Wind's Requiem_ | Conjuration/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual |
-| 4th | _Death's Departure_ | Abjuration/Rhythmancy | Bard | Concentration |
-| 4th | _Earth God's Lyric_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | |
-| 4th | _Minute Minuet_ | Transmutation/Rhythmancy | Bard | Concentration |
-| 4th | _Soulful Croak_ | Necromancy/Rhythmancy | Bard | |
-| 4th | _Space Warp_ | Conjuration/Rhythmancy | Bard | Ritual |
-| 4th | _Wind God's Aria_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | |
-| 5th | _Inverted Song of Time_[^🪈] | Abjuration/Rhythmancy | Bard | |
-| 5th | _Melody of Darkness_ | Necromancy/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration |
-| 5th | _Song of Healing_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | |
-| 5th | _Song of Passing_ | Illusion/Rhythmancy | Bard | Concentration |
-| 5th | _Tune of Currents_ | Abjuration/Rhythmancy | Bard | |
-| 6th | _The River Devil's Lament_ | Enchantment/Rhythmancy | Bard | |
-| 7th | _Tune of Ages_ | Conjuration/Rhythmancy | Bard | |
-| 8th | _Ballad of Gales_ | Conjuration/Rhythmancy | Bard | |
-| 8th | _Oath to Order_ | Abjuration/Rhythmancy | Bard | |
+| cantrip | _[Ballad of the Dreamer](#ballad-of-the-dreamer)_ | Abjuration/Rhythmancy | Bard | |
+| cantrip | _[The Hawk's Call](#the-hawks-call)_ | Evocation/Rhythmancy | Bard | |
+| cantrip | _[The Royal Decree](#the-royal-decree)_ | Enchantment/Rhythmancy | Bard | |
+| 1st | _[Equine Tribute](#equine-tribute)_ | Conjuration/Rhythmancy | Bard, Ranger (Wild Composer) | |
+| 1st | _[The Lost is Found](#the-lost-is-found)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual |
+| 1st | _[Song of Storms](#song-of-storms)_ | Evocation/Rhythmancy | Bard | Concentration |
+| 1st | _[Song of Time](#song-of-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
+| 1st | _[Summoning of the Scarecrow](#summoning-of-the-scarecrow)_ | Conjuration/Rhythmancy | Bard | |
+| 2nd | _[Command Melody](#command-melody)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
+| 2nd | _[Duet of Restoration](#duet-of-restoration)_ | Evocation/Rhythmancy | Bard | Duet |
+| 2nd | _[Elegy of Emptiness](#elegy-of-emptiness)_ | Conjuration/Rhythmancy | Bard | |
+| 2nd | _[Repel the Dark](#repel-the-dark)_ | Evocation/Rhythmancy | Bard | Concentration |
+| 2nd | _[Sonata of Awakening](#sonata-of-awakening)_ | Abjuration/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration |
+| 2nd | _[Song of Discovery](#song-of-discovery)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual |
+| 3rd | _[Mambo Marino](#mambo-marino)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
+| 3rd | _[New Wave Bossa Nova](#new-wave-bossa-nova)_ | Abjuration/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration |
+| 3rd | _[Peaceful Lullaby](#peaceful-lullaby)_ | Enchantment/Rhythmancy | Bard | Concentration |
+| 3rd | _[Royal Duet](#royal-duet)_ | Evocation/Rhythmancy | Bard | Duet |
+| 3rd | _[Song of Double Time](#song-of-double-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
+| 3rd | _[Tune of Echoes](#tune-of-echoes)_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
+| 3rd | _[Wind's Requiem](#winds-requiem)_ | Conjuration/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual |
+| 4th | _[Death's Departure](#deaths-departure)_ | Abjuration/Rhythmancy | Bard | Concentration |
+| 4th | _[Earth God's Lyric](#earth-gods-lyric)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | |
+| 4th | _[Minute Minuet](#minute-minuet)_ | Transmutation/Rhythmancy | Bard | Concentration |
+| 4th | _[Soulful Croak](#soulful-croak)_ | Necromancy/Rhythmancy | Bard | |
+| 4th | _[Space Warp](#space-warp)_ | Conjuration/Rhythmancy | Bard | Ritual |
+| 4th | _[Wind God's Aria](#wind-gods-aria)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | |
+| 5th | _[Inverted Song of Time](#inverted-song-of-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
+| 5th | _[Melody of Darkness](#melody-of-darkness)_ | Necromancy/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration |
+| 5th | _[Song of Healing](#song-of-healing)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | |
+| 5th | _[Song of Passing](#song-of-passing)_ | Illusion/Rhythmancy | Bard | Concentration |
+| 5th | _[Tune of Currents](#tune-of-currents)_ | Abjuration/Rhythmancy | Bard | |
+| 6th | _[The River Devil's Lament](#the-river-devils-lament)_ | Enchantment/Rhythmancy | Bard | |
+| 7th | _[Tune of Ages](#tune-of-ages)_ | Conjuration/Rhythmancy | Bard | |
+| 8th | _[Ballad of Gales](#ballad-of-gales)_ | Conjuration/Rhythmancy | Bard | |
+| 8th | _[Oath to Order](#oath-to-order)_ | Abjuration/Rhythmancy | Bard | |
+
+[^🪈]: These rhythmancy songs are grouped as the Song of Time.
 
 ## Spell Descriptions
 
@@ -860,35 +595,3 @@ You create an unnatural strong wind at your back, overriding any existing wind d
 While concentrating on this spell, as an action, you can attempt to channel this magical wind to carry yourself and jump up to your jumping distance without using any movement. Make a Strength (Athletics) or Dexterity (Acrobatics) check and add your spellcasting ability modifier, contested by a DC equal to one-sixth the number of feet you are attempting to jump (minimum DC 10, maximum DC 25). On a success, if there is level ground with enough space to accommodate you, you land safely at your intended destination. If there is insufficient space to land safely at your intended jump distance, you fall short in a safe space of your choice. On a failure, or if there is no eligible space to land safely in your path, your jump falls short a number of feet equal to your Athletics or Acrobatics check, and you fall Prone. Whether you succeed or fail, the spell ends immediately.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, your jumping distance is multiplied by the spell slot number. For example, casting this spell at 4th-level would cause your jumping distance to be quadrupled.
-
-# Chapter 6: Magic Items
-
-This section provides an assortment of magic items with ties to rhythmancy. The **Rhythmancy Magic Items** table lists the magic items in this section along with their rarity and whether they require Attunement.
-
-##### Rhythmancy Magic Items
-| Magic Item | Category | Rarity | Requires Attunement |
-|:-|:-|:-|:-|
-| Instrument of the Wild | Wondrous item | Varies | Yes (by someone able to cast rhythmancy spells) |
-
-## Magic Item Descriptions
-
-The magic items are presented in alphabetical order.
-
-### [Instrument of the Wild](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/instrument-of-the-wild.md)
-
-_Wondrous item (any instrument), rarity varies (requires Attunement by someone able to cast rhythmancy spells)_
-
-This instrument was lovingly crafted by an artist with a profound connection to the rhythm of the natural world, and they have imbued some of their own magic into the craft and design. The instrument manifests the magical gift of its creation as one or more rhythmancy spells and charges that can be spent on the instrument's properties; the number of charges is equal to the spell slot level that was used to create the instrument, which also determines its rarity. The instrument regains 1d4 expended charges at dawn.
-
-You can cast rhythmancy spells imbued in an _instrument of the wild_ by expending a number of charges equal to the spell's level. The rarity determines the spells the instrument possesses, and an _instrument of the wild_ of a higher rarity also includes the spells from all rarities below it (for example, an uncommon _instrument of the wild_ includes both _The Lost is Found_ and _Song of Discovery_). Some of these instruments can be found with additional stored spells at the Dungeon Master's discretion; such spells are a reflection of the person who crafted the instrument and the magical properties they imparted to it, and they are considered rhythmancy spells for the purpose of casting by expending charges.
-
-##### Instrument of the Wild Rarity
-| Spell Slot Level | Rhythmancy Spell | Rarity |
-|:-:|:-|:-|
-| 1st | _The Lost is Found_ | Common |
-| 2nd | _Song of Discovery_ | Uncommon |
-| 3rd | _Wind's Requiem_ | Rare |
-| 4th | _Earth God's Lyric_ | Very rare |
-| 5th | _Song of Healing_ | Legendary |
-
-[^🪈]: These rhythmancy songs are grouped as the Song of Time.
