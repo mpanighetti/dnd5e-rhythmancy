@@ -10,7 +10,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | cantrip | _[Ballad of the Dreamer](#ballad-of-the-dreamer)_ | Abjuration/Rhythmancy | Bard | |
 | cantrip | _[The Hawk's Call](#the-hawks-call)_ | Evocation/Rhythmancy | Bard | |
 | cantrip | _[The Royal Decree](#the-royal-decree)_ | Enchantment/Rhythmancy | Bard | |
-| 1st | _[Equine Tribute](#equine-tribute)_ | Conjuration/Rhythmancy | Bard, Ranger (Wild Composer) | |
+| 1st | _[Equine Tribute](#equine-tribute)_ | Conjuration/Rhythmancy | Bard | |
 | 1st | _[The Lost is Found](#the-lost-is-found)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual |
 | 1st | _[Song of Storms](#song-of-storms)_ | Evocation/Rhythmancy | Bard | Concentration |
 | 1st | _[Song of Time](#song-of-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
@@ -19,10 +19,10 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 2nd | _[Duet of Restoration](#duet-of-restoration)_ | Evocation/Rhythmancy | Bard | Duet |
 | 2nd | _[Elegy of Emptiness](#elegy-of-emptiness)_ | Conjuration/Rhythmancy | Bard | |
 | 2nd | _[Repel the Dark](#repel-the-dark)_ | Evocation/Rhythmancy | Bard | Concentration |
-| 2nd | _[Sonata of Awakening](#sonata-of-awakening)_ | Abjuration/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration |
+| 2nd | _[Sonata of Awakening](#sonata-of-awakening)_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 2nd | _[Song of Discovery](#song-of-discovery)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual |
 | 3rd | _[Mambo Marino](#mambo-marino)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
-| 3rd | _[New Wave Bossa Nova](#new-wave-bossa-nova)_ | Abjuration/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration |
+| 3rd | _[New Wave Bossa Nova](#new-wave-bossa-nova)_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 3rd | _[Peaceful Lullaby](#peaceful-lullaby)_ | Enchantment/Rhythmancy | Bard | Concentration |
 | 3rd | _[Royal Duet](#royal-duet)_ | Evocation/Rhythmancy | Bard | Duet |
 | 3rd | _[Song of Double Time](#song-of-double-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
@@ -33,9 +33,9 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 4th | _[Minute Minuet](#minute-minuet)_ | Transmutation/Rhythmancy | Bard | Concentration |
 | 4th | _[Soulful Croak](#soulful-croak)_ | Necromancy/Rhythmancy | Bard | |
 | 4th | _[Space Warp](#space-warp)_ | Conjuration/Rhythmancy | Bard | Ritual |
-| 4th | _[Wind God's Aria](#wind-gods-aria)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | |
+| 4th | _[Wind God's Aria](#wind-gods-aria)_ | Evocation/Rhythmancy | Bard | |
 | 5th | _[Inverted Song of Time](#inverted-song-of-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
-| 5th | _[Melody of Darkness](#melody-of-darkness)_ | Necromancy/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration |
+| 5th | _[Melody of Darkness](#melody-of-darkness)_ | Necromancy/Rhythmancy | Bard | Concentration |
 | 5th | _[Song of Healing](#song-of-healing)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | |
 | 5th | _[Song of Passing](#song-of-passing)_ | Illusion/Rhythmancy | Bard | Concentration |
 | 5th | _[Tune of Currents](#tune-of-currents)_ | Abjuration/Rhythmancy | Bard | |
@@ -166,7 +166,7 @@ _1st-level conjuration/rhythmancy_
 - **Range:** 30 feet
 - **Components:** V, S, M (a sprig of horse grass; a musical instrument worth at least 1 gp)
 - **Duration:** Instantaneous
-- **Classes:** Bard, Ranger (Wild Composer)
+- **Classes:** Bard
 
 You recant the tale of a great hero's beloved horse companion to endear yourself to a horse with an Intelligence score less than 10 within range; at the Dungeon Master's discretion, you can target a creature other than a horse, as long as they are at least one size category larger than you and have an appropriate anatomy to serve as your mount. If the target is willing, is able to hear you, and remains within range for the entire casting of the spell, they are considered to be your companion.
 
@@ -228,7 +228,7 @@ _5th-level necromancy/rhythmancy_
 - **Range:** Self (30 foot sphere)
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
-- **Classes:** Bard, Ranger (Wild Composer)
+- **Classes:** Bard
 
 You play a disturbing tune that drains the life energy of its listeners. All creatures other than yourself within 30 feet of you that can hear you must succeed on a Wisdom Saving Throw or become Cursed for the duration of the spell. This spell has no effect on undead or constructs.
 
@@ -262,7 +262,7 @@ _3rd-level abjuration/rhythmancy_
 - **Range:** Self (10-foot sphere)
 - **Components:** V (functions even if you are in an area affected by magical silence), S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
-- **Classes:** Bard, Ranger (Wild Composer)
+- **Classes:** Bard
 
 Until the spell ends, you create a sphere of healing energy that negates the effects of magical silence, such as the _silence_ spell, and the effects of magical darkness, such as the _darkness_ spell. The sphere moves with you. Creatures within this sphere hear normally in magical silence and see normally in magical darkness, and can speak, hear, see, and cast spells normally. Any spells or magical effects causing silence or darkness are not dispelled, but they cannot affect any creatures within the negating sphere. If the negating sphere is contained completely within an area of magical silence or magical darkness, any such magical sound or light stops at the edge of the sphere and cannot travel in or out of it.
 
@@ -364,7 +364,7 @@ _2nd-level abjuration/rhythmancy_
 - **Range:** 30 feet
 - **Components:** V, M (a musical instrument worth at least 1 gp, a bell worth at least 5 gp)
 - **Duration:** Concentration, up to 1 minute
-- **Classes:** Bard, Ranger (Wild Composer)
+- **Classes:** Bard
 
 You stir slumbering creatures with rousing music. When you cast this spell, choose up to three creatures within range under the effect of magical sleep that can hear you. The targets, as well as all other naturally Unconscious creatures within range that can hear you, immediately regain consciousness. Until the spell ends, magic can't put creatures within range to sleep, as long as they can still hear you.
 
@@ -570,7 +570,7 @@ _4th-level evocation/rhythmancy_
 - **Range:** Self
 - **Components:** V, S, M (a musical instrument worth at least 1 gp; a vial of air from the Elemental Plane of Air which the spell consumes)
 - **Duration:** 8 hours
-- **Classes:** Bard, Ranger (Wild Composer)
+- **Classes:** Bard
 
 The notes you play resonate with the air around you, lifting you upward and granting you free movement.
 

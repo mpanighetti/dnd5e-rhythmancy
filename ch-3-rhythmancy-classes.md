@@ -57,18 +57,16 @@ Rangers who walk the path of the Wild Composer are drawn to the innate music pre
 
 _3rd-level Wild Composer feature_
 
-You are in sync with the music of the wilds. You learn _The Hawk's Call_ cantrip if you don't already know it. Additionally, when you reach certain levels in this class, you pick an additional rhythmancy spell of 1st-level or higher to learn from the **Wild Composer Spells** table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+You are in sync with the music of the wilds. You learn _The Hawk's Call_ cantrip if you don't already know it. You also learn an additional spell of 1st level or higher when you reach certain levels in this class, as shown on the **Wild Composer Spells** table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
 
 ##### Wild Composer Spells
 | Ranger Level | Spells |
 |:-:|:-|
-| 3rd  | _Equine Tribute_, _The Lost is Found_ |
-| 5th  | _Sonata of Awakening_, _Song of Discovery_ |
-| 9th  | _New Wave Bossa Nova_, _Wind's Requiem_ |
-| 13th | _Earth God's Lyric_, _Wind God's Aria_ |
-| 17th | _Melody of Darkness_, _Song of Healing_ |
-
-When you gain a level in this class, you can choose one of the ranger spells you know and replace it with a spell from the **Wild Composer Spells** table, which must be of a level for which you have spell slots.
+| 3rd  | _The Hawk's Call_, _The Lost is Found_ |
+| 5th  | _Song of Discovery_ |
+| 9th  | _Wind's Requiem_ |
+| 13th | _Earth God's Lyric_ |
+| 17th | _Song of Healing_ |
 
 #### Music-Maker
 
@@ -92,7 +90,7 @@ As a Magic Action, you can expend one ranger spell slot of any level to tap into
 
 _11th-level Wild Composer feature_
 
-Your ear for the songs of the natural world allows you to channel your magic through that musical structure. While you are Attuned to an _instrument of the wild_, you can expend the instrument's charges to cast any ranger spell you know as if it is a rhythmancy spell.
+Your ear for the songs of the natural world allows you to channel your magic through that musical structure. While you are Attuned to an _instrument of the wild_, you can expend the instrument's charges to cast ranger spells you know as if they are rhythmancy spells.
 
 Additionally, when you cast _animal friendship_, _beast bond_, _locate animals or plants_, _speak with animals_, or _speak with plants_ in this manner, the charge cost is reduced by 1.
 
