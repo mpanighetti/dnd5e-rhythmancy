@@ -8,7 +8,7 @@ Rhythmantic cantrips can be cast an unlimited number of times, regardless of fea
 
 ## Component Requirements
 
-All rhythmancy spells, in addition to normal spell slot usage and component requirements, include both a verbal component and a specific material component requirement of a musical instrument with a value of at least 1 gp. This instrument substitutes as your spellcasting focus when using rhythmantic magic.
+All rhythmancy spells, in addition to normal spell slot usage and component requirements, include both a verbal component and a specific material component requirement of a musical instrument with a value of at least 1 gp. This instrument substitutes as your spellcasting focus when using rhythmantic magic. Instruments that are magic items also satisfy this material component requirement.
 
 Due to the inherently performative nature of rhythmancy, the requirements for both a verbal component and musical instrument cannot be bypassed with any class feature (such as a sorcerer's Subtle Spell metamagic option), trait, or any other ability, unless it specifically allows ignoring component requirements for rhythmancy magic.
 

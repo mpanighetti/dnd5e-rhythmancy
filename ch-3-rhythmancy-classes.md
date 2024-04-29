@@ -72,7 +72,7 @@ You are in sync with the music of the wilds. You learn _The Hawk's Call_ cantrip
 
 _3rd-level Wild Composer feature_
 
-You gain Proficiency with a musical instrument and a tool of your choice capable of crafting that instrument (leatherworker's tools, potter's tools, or woodworker's tools might be suitable choices). You can use instruments in which you are Proficient as a spellcasting focus for your ranger spells, as long as they are either magic items or are worth at least 1 gp.
+You gain Proficiency with a musical instrument and a tool of your choice capable of crafting that instrument (leatherworker's tools, potter's tools, or woodworker's tools might be suitable choices). You can use instruments in which you are Proficient as a spellcasting focus for your ranger spells.
 
 Additionally, as part of a Short Rest, you can use the above tools and cast a ranger spell of 1st-level or higher to craft a special magic item known as an _[instrument of the wild](#instrument-of-the-wild)_. You can make any type of instrument you like using this feature, as long as your tools are capable of crafting the instrument. The design of the instrument is up to you; for example, you might carve a bone from an animal you hunted to make an ocarina. When you finish crafting the instrument, you can optionally immediately Attune to it, which doesn't count against the number of magic items you can be Attuned to at once. The instrument's rarity and capabilities are determined by the spell slot level used in its crafting, and the spell you cast to craft the instrument is added to its list of stored spells.
 
