@@ -92,9 +92,9 @@ Additionally, as a Magic Action, you can expend one ranger spell slot of any lev
 
 _11th-level Wild Composer feature_
 
-Your ear for the songs of the natural world allows you to channel your magic through that musical structure. While you are Attuned to an _instrument of the wild_, you can expend the instrument's charges to cast ranger spells you know as if they are rhythmancy spells.
+Your ear for the songs of the natural world allows you to channel your magic through that musical structure. While you are Attuned to an _instrument of the wild_, you can expend the instrument's charges to cast ranger spells you know as if they are rhythmancy spells. When you cast _animal friendship_, _beast bond_, _locate animals or plants_, _speak with animals_, or _speak with plants_ in this manner, the charge cost is reduced by 1.
 
-Additionally, when you cast _animal friendship_, _beast bond_, _locate animals or plants_, _speak with animals_, or _speak with plants_ in this manner, the charge cost is reduced by 1.
+In addition, when you cast a rhythmancy spell with a casting time of 1 action, you can make a melee or ranged weapon attack as a bonus action.
 
 #### World Strider
 
