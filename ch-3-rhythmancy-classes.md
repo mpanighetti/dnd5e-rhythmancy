@@ -14,7 +14,7 @@ Though all bards have the ability to learn rhythmancy spells, practitioners of t
 
 _3rd-level College of Legends feature_
 
-You have extensively pored through history books and sought out hidden knowledge of ancient heroes. You gain Proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you make an Intelligence check, you can expend one use of Bardic Inspiration to add twice your Proficiency Bonus to the check, even if you do not normally have Proficiency or Expertise in the related skill.
+You have extensively pored through history books and sought out hidden knowledge of ancient heroes. You gain Proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you make an Intelligence check, you can expend one use of Bardic Inspiration to temporarily gain Expertise for the check, even if you do not normally have Proficiency or Expertise in the related skill.
 
 #### Rhythmantic Savant
 
@@ -23,15 +23,15 @@ _3rd-level College of Legends feature_
 You have an innate understanding of the magic of music and how to wield it, granting you the following benefits.
 
 - You have a number of rhythmancy points equal to your bard level divided by 3 (round down).
-- You can use rhythmancy points to cast spells you know from any source as if they were rhythmancy spells.
+- You can use rhythmancy points to cast bard spells you know as if they are rhythmancy spells.
 - Whenever you learn a new song through rhythmantic training, you bypass all training requirements, including finding a teacher, all training costs and issues, and any time requirements. Instead, you learn the rhythmancy spell as an action and by spending a number of rhythmancy points equal to the spell's level (minimum 1 rhythmancy point). You cannot learn a rhythmancy song in this manner if you do not have a sufficient number of rhythmancy points available to spend.
-- When you cast a spell of 1st-level or higher targeting a creature using rhythmancy points, in addition to the spell's normal effects, you can choose to grant the target a number of Temporary Hit Points equal to the number of rhythmancy points spent.
+- When you cast a spell of 1st-level or higher targeting one or more creatures using rhythmancy points, in addition to the spell's normal effects, you can choose to grant any such targets a number of Temporary Hit Points equal to the number of rhythmancy points spent.
 
 #### Inner Song
 
 _6th-level College of Legends feature_
 
-You can channel your bard song to temporarily boost the power of your rhythmancy magic. At the end of a Long Rest, you can expend one of your uses of Bardic Inspiration to roll a Bardic Inspiration die and gain a number of temporary rhythmancy points equal to the number rolled. While you have these temporary rhythmancy points, they can be used to cast and learn spells as if they were normal rhythmancy points, but any spent temporary points cease to count toward your maximum number of rhythmancy points when determining whether you can learn a new song. Any temporary rhythmancy points gained in this manner disappear after you finish your next Long Rest.
+You can channel your bard song to temporarily boost the power of your rhythmancy magic. At the end of a Long Rest, you can expend one of your uses of Bardic Inspiration to roll a Bardic Inspiration die and gain a number of temporary rhythmancy points equal to the number rolled. While you have these temporary rhythmancy points, they can be used to cast and learn spells as if they were normal rhythmancy points. Any spent temporary points cease to count toward your maximum number of rhythmancy points when determining whether you can learn a new song, and any such points you don't spend disappear after you finish your next Long Rest.
 
 Starting at 11th level, when gaining temporary rhythmancy points using this feature, you roll two Bardic Inspiration dice and take the higher of the two results.
 
