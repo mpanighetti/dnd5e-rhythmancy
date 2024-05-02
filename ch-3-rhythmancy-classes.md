@@ -24,7 +24,7 @@ You have an innate understanding of the magic of music and how to wield it, gran
 
 - You have a number of rhythmancy points equal to your bard level divided by 3 (round down).
 - You can use rhythmancy points to cast spells you know from any source as if they were rhythmancy spells.
-- Whenever you learn a new song through rhythmantic training, you bypass all training requirements, including finding a teacher, all training costs and issues, and any time requirements. Instead, you learn the rhythmancy spell as an action and by spending a number of rhythmancy points equal to the spell's level (minimum 1 rhythmancy point). You cannot learn a rhythmancy song in this manner if you do not have a sufficient number of rhythmancy points available to spend.
+- Whenever you learn a new song through rhythmantic training, you bypass all training requirements, including finding a teacher, all training costs and issues, and any time requirements. Instead, you learn the rhythmancy spell as a Magic Action and by spending a number of rhythmancy points equal to the spell's level (minimum 1 rhythmancy point). You cannot learn a rhythmancy song in this manner if you do not have a sufficient number of rhythmancy points available to spend.
 - When you cast a spell of 1st-level or higher targeting a creature using rhythmancy points, in addition to the spell's normal effects, you can choose to grant the target a number of Temporary Hit Points equal to the number of rhythmancy points spent.
 
 #### Inner Song
@@ -39,7 +39,7 @@ Starting at 11th level, when gaining temporary rhythmancy points using this feat
 
 _14th-level College of Legends feature_
 
-You have mastered unlocking hidden or lost ancient secrets. You learn the _legend lore_ spell, or another bard spell of your choice from the divination school for which you are eligible if you already know _legend lore_. This spell doesn't count against the number of bard spells you know. When you cast _legend lore_ using rhythmancy points, the casting time is 1 action, and you replace its material component requirements with a musical instrument worth at least 1 gp.
+You have mastered unlocking hidden or lost ancient secrets. You learn the _legend lore_ spell, or another bard spell of your choice from the divination school for which you are eligible if you already know _legend lore_. This spell doesn't count against the number of bard spells you know. When you cast _legend lore_ using rhythmancy points, the casting time is 1 Action, and you replace its material component requirements with a musical instrument worth at least 1 gp.
 
 ## Ranger
 
@@ -76,7 +76,7 @@ _3rd-level Wild Composer feature_
 
 You have learned to direct nature's song into musical instruments and share the gift of rhythmancy with others. As part of a Short Rest, you can use tools and cast a ranger spell using a spell slot of 1st-level or higher to craft a special magic item known as an _[instrument of the wild](ch-6-rhythmancy-magic-items.md#instrument-of-the-wild)_. You can make any type of instrument you like using this feature, as long as your tools are capable of crafting the instrument and you have Proficiency in the tools. The design of the instrument is up to you; for example, you might carve a bone from an animal you hunted to make an ocarina. When you finish crafting the instrument, you can optionally immediately Attune to it, which doesn't count against the number of magic items you can be Attuned to at once. You can also gift your instrument to other creatures. The spell you cast to craft the instrument is added to its list of imbued spells.
 
-While you are Attuned to an _instrument of the wild_ you created, the instrument contains a number of charges equal to the highest level ranger spell you know; for example, if you later learn _pass without trace_ (a 2nd-level spell), your instrument contains two charges. If you are not Attuned to such an instrument, it instead has a number of charges equal to the spell slot level you expended for its creation. As an action, you can replace a spell imbued in an _instrument of the wild_ with a ranger or rhythmancy spell you know of 1st-level or higher by expending the appropriate spell slot and channeling the spell's magic into the instrument; for instruments gifted to others, the number of charges then increases as needed to match the amount required to cast the highest-level spell the instrument possesses.
+While you are Attuned to an _instrument of the wild_ you created, the instrument contains a number of charges equal to the highest level ranger spell you know; for example, if you later learn _pass without trace_ (a 2nd-level spell), your instrument contains two charges. If you are not Attuned to such an instrument, it instead has a number of charges equal to the spell slot level you expended for its creation. As a Magic Action, you can replace a spell imbued in an _instrument of the wild_ with a ranger or rhythmancy spell you know of 1st-level or higher by expending the appropriate spell slot and channeling the spell's magic into the instrument; for instruments gifted to others, the number of charges then increases as needed to match the amount required to cast the highest-level spell the instrument possesses.
 
 You regain the ability to craft an _instrument of the wild_ using this feature after you finish a Long Rest. You can maintain the magical properties in a number of _instruments of the wild_ equal to the highest level ranger spell you know. If you craft an _instrument of the wild_ beyond your limit, one such instrument of your choice loses all of its magical properties, becoming a mundane version of that musical instrument.
 
@@ -94,7 +94,7 @@ _11th-level Wild Composer feature_
 
 Your ear for the songs of the natural world allows you to channel your magic through that musical structure. While you are Attuned to an _instrument of the wild_, you can expend the instrument's charges to cast ranger spells you know as if they are rhythmancy spells. When you cast _animal friendship_, _beast bond_, _locate animals or plants_, _speak with animals_, or _speak with plants_ in this manner, the charge cost is reduced by 1.
 
-In addition, when you cast a rhythmancy spell with a casting time of 1 action, you can make a melee or ranged weapon attack as a bonus action.
+In addition, when you cast a rhythmancy spell with a casting time of 1 Action, you can make a melee or ranged weapon attack as a Bonus Action.
 
 #### World Strider
 
