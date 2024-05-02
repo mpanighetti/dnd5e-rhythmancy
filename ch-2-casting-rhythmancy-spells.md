@@ -55,7 +55,7 @@ Some rhythmancy songs are written to be performed by two musicians working toget
 - The rhythmancy spell performed by both casters must be the same.
 - Both performers must choose the same target when casting their spells.
 - Both casters must provide all required components and spell slots.
-- After the first spellcasting is begun, the partner's spell must begin before the first caster's next turn. To ensure synchrony, one partner could use the Ready action so that their spell begins casting as a Reaction to the other partner starting their song.
+- After the first spellcasting is begun, the partner's spell must begin before the first caster's next turn. To ensure synchrony, one partner could use the Ready Action so that their spell begins casting as a Reaction to the other partner starting their song.
 - Both casters must be able to hear each other during the entire casting times of the spells to ensure their performances remain in sync.
 
 If any of the above conditions are not met, both castings of the Duet spell fail. Otherwise, the spells grant their shared effect after both casters complete the required casting time.

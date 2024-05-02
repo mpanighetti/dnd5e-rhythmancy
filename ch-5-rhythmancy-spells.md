@@ -70,7 +70,7 @@ The act of teleporting the vehicle deals it 8d6 Force damage, ignoring damage th
 
 _Abjuration/rhythmancy cantrip_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, M (a seagull's feather; a musical instrument worth at least 1 gp)
 - **Duration:** 10 minutes
@@ -90,7 +90,7 @@ _2nd-level conjuration/rhythmancy (Ritual)_
 
 You conduct a brief tune for a willing creature within range that can hear you. Until the spell ends, while the target is on the same plane of existence as you, both you and the target are magically linked to each other. A creature can only be linked to one other creature at a time using this spell.
 
-A creature can communicate with their link telepathically. Additionally, as an action, a creature can see through their link's eyes and hear what they hear until the start of the creature's next turn, gaining the benefits of any special senses that their link has, but they are Blinded and Deafened to their own surroundings.
+A creature can communicate with their link telepathically. Additionally, as a Magic Action, a creature can see through their link's eyes and hear what they hear until the start of the creature's next turn, gaining the benefits of any special senses that their link has, but they are Blinded and Deafened to their own surroundings.
 
 If a creature casts a spell with a range of touch, their link can deliver the spell as if the link had cast the spell. The caster's link must be within 100 feet of them, and the link must choose to use their Reaction to deliver the spell when cast. If the spell requires an attack roll, the casting creature uses their attack modifier for the roll.
 
@@ -100,7 +100,7 @@ A linked creature can sever this magical link at any time, which ends the spell.
 
 _4th-level abjuration/rhythmancy_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** Self (30-foot sphere)
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
@@ -108,7 +108,7 @@ _4th-level abjuration/rhythmancy_
 
 You perform a melody that repels the walking dead from your immediate vicinity. When an undead creature enters the spell's area of effect for the first time on a turn or starts their turn there, they must make a Wisdom Saving Throw. On a failed save, a creature is Frightened of you for the duration of the spell, or until they leave the spell's area of effect. Creatures that are normally immune to being Frightened have advantage on this Saving Throw but are otherwise not immune to the Frightened condition caused by this spell. Creatures that are immune to being Turned are not affected by this spell.
 
-On each of your turns, you must use your action to continue playing the song. The spell ends if you use your action to do anything else.
+On each of your turns, you must use a Magic Action to continue playing the song. The spell ends if you don't take this Magic Action by the end of your turn.
 
 ### [Duet of Restoration](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/duet-of-restoration.md)
 
@@ -182,13 +182,13 @@ If your companion is mistreated or harmed by you or any of your allies, or at th
 
 _Evocation/rhythmancy cantrip_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (a sprig of hawk grass; a musical instrument worth at least 1 gp)
 - **Duration:** 1 round
 - **Classes:** Bard
 
-You play a series of sharp tones evoking the Piercing cry of a bird of prey, summoning a spectral bird to slash its talons at a creature of your choice that you can see within range. The bird can take whatever form you choose, then makes a melee spell attack against the target. On a hit, the bird deals 1d4 Piercing damage, and the target has disadvantage on Perception checks and Dexterity Saving Throws they make before the end of their next turn as the bird flies in their face to distract them. On a miss, or at the start of your next turn, the bird disappears, ending the spell.
+You play a series of sharp tones evoking the shriek of a bird of prey, summoning a spectral bird to slash its talons at a creature of your choice that you can see within range. The bird can take whatever form you choose, then makes a melee spell attack against the target. On a hit, the bird deals 1d4 Piercing damage, and the target has disadvantage on Perception checks and Dexterity Saving Throws they make before the end of their next turn as the bird flies in their face to distract them. On a miss, or at the start of your next turn, the bird disappears, ending the spell.
 
 The spell creates more than one bird when you reach higher levels: two birds at 5th level, three birds at 11th level, and four birds at 17th level. You can direct the birds at the same target or at different ones. Make a separate attack roll for each bird. The spell ends at the start of your next turn or if all the birds disappear.
 
@@ -204,7 +204,7 @@ _1st-level divination/rhythmancy (Ritual)_
 
 You play a song to yourself that stirs old memories of a childhood friend. Until the spell ends, while you are traveling or exploring within the same environment you were in when casting the spell, you can't become lost except by magical means.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd-level or higher, the duration increases to a number of hours equal to the spell slot level. Additionally, until the spell ends, if magical effects cause you to become lost, as an action, you can attempt to identify a valid route to take for a specific intended destination on the same plane of existence as you. Make a spellcasting ability check contested by a DC equal to 10 + the other spell's level (or DC 15 if caused by another magical effect). On a success, the magical effects obfuscating your travel are suppressed for the duration of the spell, during which time the shortest and most direct route to your destination (but not necessarily the safest route) is drawn out as a spectral golden wire on the ground. On a failed check, the spell ends immediately.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd-level or higher, the duration increases to a number of hours equal to the spell slot level. Additionally, until the spell ends, if magical effects cause you to become lost, as a Magic Action, you can attempt to identify a valid route to take for a specific intended destination on the same plane of existence as you. Make a spellcasting ability check contested by a DC equal to 10 + the other spell's level (or DC 15 if caused by another magical effect). On a success, the magical effects obfuscating your travel are suppressed for the duration of the spell, during which time the shortest and most direct route to your destination (but not necessarily the safest route) is drawn out as a spectral golden wire on the ground. On a failed check, the spell ends immediately.
 
 ### [Mambo Marino](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/mambo-marino.md)
 
@@ -216,7 +216,7 @@ _3rd-level conjuration/rhythmancy (Ritual)_
 - **Duration:** Concentration, up to 8 hours
 - **Classes:** Bard
 
-You create a glowing 10-foot-diameter circle in the surface of a body of water you can see within range. The circle lasts for the spell's duration. At any time before the spell ends, as an action, you and any willing creatures you can see within 30 feet of you can attempt to teleport to the circle. If the circle is more than 1 mile away, or if the circle's space is occupied or cannot accommodate all the creatures you specify, the teleportation fails. Otherwise, any creatures teleported by this spell instantly appear within the circle, and the spell ends.
+You create a glowing 10-foot-diameter circle in the surface of a body of water you can see within range. The circle lasts for the spell's duration. At any time before the spell ends, as a Magic Action, you and any willing creatures you can see within 30 feet of you can attempt to teleport to the circle. If the circle is more than 1 mile away, or if the circle's space is occupied or cannot accommodate all the creatures you specify, the teleportation fails. Otherwise, any creatures teleported by this spell instantly appear within the circle, and the spell ends.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, for each spell level above 3rd: the diameter of the glowing circle you create increases by 10 feet; the spell's duration increases to 1 day (5th-level), 1 week (7th-level), or 1 month (9th-level); and when you cast this spell using a spell slot of 7th-level or higher, it lasts for the full duration. Additionally, if you cast this spell again before the duration ends, any circles that existed from your previous casting of the spell continue to function and inherit the new duration, unless you are more than 1 mile away from an existing circle, in which case all such circles disappear. While multiple circles exist, you can choose any of them as a destination when teleporting using this spell.
 
@@ -224,7 +224,7 @@ You create a glowing 10-foot-diameter circle in the surface of a body of water y
 
 _5th-level necromancy/rhythmancy_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** Self (30 foot sphere)
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
@@ -232,7 +232,7 @@ _5th-level necromancy/rhythmancy_
 
 You play a disturbing tune that drains the life energy of its listeners. All creatures other than yourself within 30 feet of you that can hear you must succeed on a Wisdom Saving Throw or become Cursed for the duration of the spell. This spell has no effect on undead or constructs.
 
-When you cast this spell, and on each of your turns for the spell's duration if you use your action, all creatures Cursed by this spell that can hear you take 5d6 Necrotic damage.
+When you cast this spell, and on each of your turns for the spell's duration if you use a Magic Action, all creatures Cursed by this spell that can hear you take 5d6 Necrotic damage.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th-level or higher, creatures Cursed by this spell take an additional 1d6 Necrotic damage for each spell slot above 5th.
 
@@ -240,7 +240,7 @@ When you cast this spell, and on each of your turns for the spell's duration if 
 
 _4th-level transmutation/rhythmancy_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 10 minutes
@@ -258,7 +258,7 @@ The spell ends if you are unable to see the target.
 
 _3rd-level abjuration/rhythmancy_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** Self (10-foot sphere)
 - **Components:** V (functions even if you are in an area affected by magical silence), S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
@@ -278,7 +278,7 @@ _8th-level abjuration/rhythmancy_
 
 You call upon the spirits of ancient giants to grant you the ability to repel massive bodies. The spell can only take effect if you maintain contact with the ground the entire time you cast the spell, otherwise it fails.
 
-Until the spell ends, as an action, you can target a creature or object within 30 feet of you and attempt to repel them. The target must succeed on a Strength Saving Throw or they are forcibly shoved a distance of your choice up to 100 feet away from you in a straight line and knocked Prone. If the target is a creature that is already Prone, they are additionally Stunned until the end of your next turn.
+Until the spell ends, as a Magic Action, you can target a creature or object within 30 feet of you and attempt to repel them. The target must succeed on a Strength Saving Throw or they are forcibly shoved a distance of your choice up to 100 feet away from you in a straight line and knocked Prone. If the target is a creature that is already Prone, they are additionally Stunned until the end of your next turn.
 
 Manipulating gravity and mass in this manner takes a physical toll on your body. Each time you attempt to repel a creature, at the end of your turn, you must succeed on a Constitution Saving Throw contested by your own Spell Save DC or suffer one level of Exhaustion.
 
@@ -286,13 +286,13 @@ Manipulating gravity and mass in this manner takes a physical toll on your body.
 
 _3rd-level enchantment/rhythmancy_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, M (a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
 - **Classes:** Bard
 
-You play a gentle melody in an attempt to lull a creature that can hear you in range. The target must succeed on a Wisdom Saving Throw or fall asleep and remain Unconscious until the spell ends, the target takes damage, or another creature takes an action to wake them. Constructs and undead automatically succeed on this Saving Throw.
+You play a gentle melody in an attempt to lull a creature that can hear you in range. The target must succeed on a Wisdom Saving Throw or fall asleep and remain Unconscious until the spell ends, the target takes damage, or another creature takes an Action to wake them. Constructs and undead automatically succeed on this Saving Throw.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, for each spell slot above 3rd, the duration increases by 1 hour, and you can target an additional creature.
 
@@ -300,7 +300,7 @@ You play a gentle melody in an attempt to lull a creature that can hear you in r
 
 _2nd-level evocation/rhythmancy_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
@@ -324,7 +324,7 @@ _6th-level enchantment/rhythmancy_
 
 You recite the tale of an ancient hero who drove away a great evil, in order to instill lasting terror in a creature you can see within range that can hear you. That creature must make a Wisdom Saving Throw. On a failed save, the target is Cursed for the duration of the spell. While Cursed in this manner, the creature is Frightened of you, and if the creature can see you at the start of their turn, they take 3d10 Psychic damage. Creatures that are normally immune to being Frightened are not immune to the Frightened condition caused by this spell's curse. While the Cursed creature cannot see you, they are Frightened of your last known location.
 
-Each time the creature takes damage (except from this spell's effects), they can repeat their Saving Throw, ending the Cursed condition on a success. You can additionally choose to end the curse by using an action to dismiss the spell.
+Each time the creature takes damage (except from this spell's effects), they can repeat their Saving Throw, ending the Cursed condition on a success. You can additionally choose to end the curse by using a Magic Action to dismiss the spell.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th-level or higher, the duration increases to 1 day (7th-level), 30 days (8th-level), or 1 year (9th-level), and the Psychic damage dealt when the creature can see you increases by 1d10 for each spell slot level above 6th. Additionally, when you cast this spell at 8th-level or higher, the creature can no longer repeat their Saving Throws when they take damage.
 
@@ -332,7 +332,7 @@ Each time the creature takes damage (except from this spell's effects), they can
 
 _Enchantment/rhythmancy cantrip_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** 10 feet
 - **Components:** V, M (a petal from a silent princess flower; a musical instrument worth at least 1 gp)
 - **Duration:** 1 minute
@@ -360,7 +360,7 @@ You and a partner play an empowering Duet, targeting a shared location within ra
 
 _2nd-level abjuration/rhythmancy_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, M (a musical instrument worth at least 1 gp, a bell worth at least 5 gp)
 - **Duration:** Concentration, up to 1 minute
@@ -380,7 +380,7 @@ _2nd-level divination/rhythmancy (Ritual)_
 - **Duration:** Concentration, up to 10 minutes
 - **Classes:** Bard, Ranger (Wild Composer)
 
-You perform a tune that disrupts any concealing magic in the vicinity. Until the spell ends, as an action, you can attempt to reveal Invisible creatures and objects within your spell's area of effect. Make a spellcasting ability check. If there is a spell causing invisibility in your spell's area of effect, the DC equals 10 + the most powerful such spell's level in the area, or if the only invisibility present is caused by another magical effect, the DC is 15. On a success, all magical invisibility in the area of effect is dispelled, and this spell ends immediately. On a failure, or if there is no such magical invisibility nearby, your spell continues, but you gain no special insight into whether this outcome occurred due to failing the check or no viable Invisible creatures or objects being nearby.
+You perform a tune that disrupts any concealing magic in the vicinity. Until the spell ends, as a Magic Action, you can attempt to reveal Invisible creatures and objects within your spell's area of effect. Make a spellcasting ability check. If there is a spell causing invisibility in your spell's area of effect, the DC equals 10 + the most powerful such spell's level in the area, or if the only invisibility present is caused by another magical effect, the DC is 15. On a success, all magical invisibility in the area of effect is dispelled, and this spell ends immediately. On a failure, or if there is no such magical invisibility nearby, your spell continues, but you gain no special insight into whether this outcome occurred due to failing the check or no viable Invisible creatures or objects being nearby.
 
 ### [Song of Healing](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/song-of-healing.md)
 
@@ -404,7 +404,7 @@ When you cast this spell using a spell slot of 7th-level or higher, the spell al
 
 _5th-level illusion/rhythmancy_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
@@ -414,7 +414,7 @@ You attempt to manipulate the apparent flow of time for a creature you target in
 
 While under the effects of this spell, the creature's senses are modified to convince them of the false time of day. The target's vision makes it appear as if environments are lit by sunlight for a false daytime, or darkened by night for a false nighttime. Any other time-sensitive visuals and sounds (such as a clock's face or a rooster's morning crow) are overlaid with appropriate illusory replacements. The creature is able to see within their illusory environment based on their existing senses as if the illusions are real; for example, a creature with sunlight sensitivity suffers disadvantage on checks that rely on sight while under false daylight conditions of this spell, and a creature with darkvision similarly would be able to see in false nighttime conditions as if it were actually dark. Creatures without darkvision are granted the feature temporarily to allow them to see in dark spaces as if they were lit by illusory daylight.
 
-False memories are implanted in the creature's mind, such that they believe time and events have passed normally. Modified senses and memories don't necessarily affect how a creature behaves, but the creature will make normal efforts to proceed with activities that would make sense for the given time of day. Such activities might include leaving home to work a farm, closing a business for the night, departing for a formal occasion, preparing for bed, or any other time-specific course of action.
+False memories are implanted in the creature's mind, such that they believe time and events have passed normally. Modified senses and memories don't necessarily affect how a creature behaves, but the creature will make normal efforts to proceed with activities that would make sense for the given time of day. Such activities might include leaving home to work a farm, closing a business for the night, departing for a formal occasion, preparing for bed, or any other time-specific activity.
 
 After the spell ends, the creature becomes aware that their senses and memories were altered by magic.
 
@@ -438,7 +438,7 @@ If you are outdoors in a light rain when you cast this spell, the spell affects 
 
 _1st-level abjuration/rhythmancy_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** 10 minutes
@@ -456,7 +456,7 @@ If desired, you can alter the performance of the Song of Time to a related compo
 
 #### [Inverted Song of Time](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-time.md#inverted-song-of-time)
 
-**Inverted Song of Time (5th-level or higher).** By playing the Song of Time in reverse, you anchor yourself to a moment in time, allowing yourself to complete more tasks in a short time period. Until the spell ends, your speed is doubled, you gain +2 to your AC, you have advantage on Dexterity Saving Throws, and you gain an additional action on each of your turns.
+**Inverted Song of Time (5th-level or higher).** By playing the Song of Time in reverse, you anchor yourself to a moment in time, allowing yourself to complete more tasks in a short time period. Until the spell ends, your speed is doubled, you gain +2 to your AC, you have advantage on Dexterity Saving Throws, and you gain an additional Action on each of your turns.
 
 ### [Space Warp](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/space-warp.md)
 
@@ -494,7 +494,7 @@ You attempt to influence the life energy of a corpse or undead creature you can 
 
 - **If the target is an undead creature, either when you initially cast this spell or when they died:** the target gains a number of Temporary Hit Points equal to your spellcasting ability check.
 
-An undead creature targeted or raised by this spell must succeed on a Wisdom Saving Throw against your Spell Save DC or they are Charmed by you. On each of your turns, you can use a Bonus Action to mentally command any creature you Charmed with this spell within 60 feet of you; if you control any combination of creatures using this spell, _animate dead_, or similar spells, you can command any or all of them at the same time, issuing the same or different commands to each one. You decide what action the creature will take and where they will move during their next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature defends you and themself against hostile creatures and moves as needed to remain within at least 30 feet of you. Once given an order, the creature continues to follow it until the task is complete.
+An undead creature targeted or raised by this spell must succeed on a Wisdom Saving Throw against your Spell Save DC or they are Charmed by you. On each of your turns, you can use a Bonus Action to mentally command any creature you Charmed with this spell within 60 feet of you; if you control any combination of creatures using this spell, _animate dead_, or similar spells, you can command any or all of them at the same time, issuing the same or different commands to each one. You decide what Action the creature will take and where they will move during their next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature defends you and themself against hostile creatures and moves as needed to remain within at least 30 feet of you. Once given an order, the creature continues to follow it until the task is complete.
 
 On a successful save, or if the Charmed condition on the undead creature ends, the creature stops obeying any command you've given them and cannot be targeted by this spell again for the next 30 days.
 
@@ -531,7 +531,7 @@ The selected time period must at least specify the destination year, but can be 
 _5th-level abjuration/rhythmancy_
 
 - **Casting Time:** 1 minute
-- **Range:** 10 feet
+- **Range:** 30 feet
 - **Components:** V, M (a musical instrument worth at least 1 gp; an item that tells time worth 200 gp which the spell consumes)
 - **Duration:** Instantaneous
 - **Classes:** Bard
@@ -540,11 +540,13 @@ You attempt to restore the normal flow of time for a creature within range. This
 
 - Any spell or magical effect on the target that caused them to grow older or younger
 - Any spell or magical effect that caused the target to be removed from their original time period
-- The _haste_, _slow_, and _time stop_ spells
+- _Haste_, _slow_, and any chronurgy spell
 
 Any such spell with a spell level equal to or less than the level of the spell slot you used to cast Tune of Currents, any such spell for which you were originally the caster, and any such magical effect not caused by a spell, is dispelled, ending its effects immediately. A creature magically displaced from their original time period is immediately returned to their era, and all magical aging is removed.
 
-For each spell of a level higher than the level of the spell slot you used with a temporal effect on the target, make an ability check using your spellcasting ability. The DC equals twice the spell's level. On a successful check, the spell's effect on the target ends.
+For each spell of a level higher than the spell slot you used, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, the spell's effect on the target ends.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 9th-level, you can change the casting time to 1 reaction to a creature you can see within range casting _time stop_.
 
 ### [Tune of Echoes](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/tune-of-echoes.md)
 
@@ -560,7 +562,7 @@ You create an image in the air 10 feet in front of you depicting your current ge
 
 For the duration of the spell, the image plays out the selected moment in real time. The image can display any location within 100 feet of where the spell was cast, switching focus as needed to depict the selected moment as fully as possible. You can see and hear through the image as if you were present at that point in time. If, at any point during the playback of the selected moment, a magical effect was present which blocked detection through divination magic or being perceived through magical scrying sensors (such as with the _nondetection_ spell), the image becomes unfocused and the sound becomes distorted until such a time that the magical effect ended or was not present.
 
-Any number of times before the spell ends, as an action, you can spend an additional spell slot of any level to extend the spell's duration by a number of minutes equal to ten times the slot level.
+Any number of times before the spell ends, as a Magic Action, you can spend an additional spell slot of any level to extend the spell's duration by a number of minutes equal to ten times the slot level.
 
 ### [Wind God's Aria](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/wind-gods-aria.md)
 
@@ -584,7 +586,7 @@ If you are successfully forced to the ground against your will for 1 minute or l
 
 _3rd-level conjuration/rhythmancy (Ritual)_
 
-- **Casting Time:** 1 action
+- **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, M (a musical instrument worth at least 1 gp; a piece of cloth from a ship's sail which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
@@ -592,6 +594,6 @@ _3rd-level conjuration/rhythmancy (Ritual)_
 
 You create an unnatural strong wind at your back, overriding any existing wind direction affecting you. Until the spell ends, your jumping distance is tripled, and while you are on the deck of a sailing ship, it moves as if it is sailing with the wind. While concentrating on this spell, at the end of each of your turns, you can select a new direction for the winds around you to blow.
 
-While concentrating on this spell, as an action, you can attempt to channel this magical wind to carry yourself and jump up to your jumping distance without using any movement. Make a Strength (Athletics) or Dexterity (Acrobatics) check and add your spellcasting ability modifier, contested by a DC equal to one-sixth the number of feet you are attempting to jump (minimum DC 10, maximum DC 25). On a success, if there is level ground with enough space to accommodate you, you land safely at your intended destination. If there is insufficient space to land safely at your intended jump distance, you fall short in a safe space of your choice. On a failure, or if there is no eligible space to land safely in your path, your jump falls short a number of feet equal to your Athletics or Acrobatics check, and you fall Prone. Whether you succeed or fail, the spell ends immediately.
+While concentrating on this spell, as a Magic Action, you can attempt to channel this magical wind to carry yourself and jump up to your jumping distance without using any movement. Make a Strength (Athletics) or Dexterity (Acrobatics) check and add your spellcasting ability modifier, contested by a DC equal to one-sixth the number of feet you are attempting to jump (minimum DC 10, maximum DC 25). On a success, if there is level ground with enough space to accommodate you, you land safely at your intended destination. If there is insufficient space to land safely at your intended jump distance, you fall short in a safe space of your choice. On a failure, or if there is no eligible space to land safely in your path, your jump falls short a number of feet equal to your Athletics or Acrobatics check, and you fall Prone. Whether you succeed or fail, the spell ends immediately.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, your jumping distance is multiplied by the spell slot number. For example, casting this spell at 4th-level would cause your jumping distance to be quadrupled.
