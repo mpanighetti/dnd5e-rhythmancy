@@ -10,6 +10,7 @@ This document includes a list of 5e class options, feats, spells, and magic item
 - Chapter 2: [Casting Rhythmancy Spells](ch-2-casting-rhythmancy-spells.md)
 - Chapter 3: [Rhythmancy Classes](ch-3-rhythmancy-classes.md)
   - Bard Subclass: [College of Legends](ch-3-rhythmancy-classes.md#college-of-legends)
+  - Ranger Subclass: [Wild Composer](ch-3-rhythmancy-classes.md#wild-composer)
 - Chapter 4: [Rhythmancy Feats](ch-4-rhythmancy-feats.md)
 - Chapter 5: [Rhythmancy Spells](ch-5-rhythmancy-spells.md)
 - Chapter 6: [Rhythmancy Magic Items](ch-6-rhythmancy-magic-items.md)

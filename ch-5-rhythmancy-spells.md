@@ -11,7 +11,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | cantrip | _[The Hawk's Call](#the-hawks-call)_ | Evocation/Rhythmancy | Bard | |
 | cantrip | _[The Royal Decree](#the-royal-decree)_ | Enchantment/Rhythmancy | Bard | |
 | 1st | _[Equine Tribute](#equine-tribute)_ | Conjuration/Rhythmancy | Bard | |
-| 1st | _[The Lost is Found](#the-lost-is-found)_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
+| 1st | _[The Lost is Found](#the-lost-is-found)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual |
 | 1st | _[Song of Storms](#song-of-storms)_ | Evocation/Rhythmancy | Bard | Concentration |
 | 1st | _[Song of Time](#song-of-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
 | 1st | _[Summoning of the Scarecrow](#summoning-of-the-scarecrow)_ | Conjuration/Rhythmancy | Bard | |
@@ -20,29 +20,31 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 2nd | _[Elegy of Emptiness](#elegy-of-emptiness)_ | Conjuration/Rhythmancy | Bard | |
 | 2nd | _[Repel the Dark](#repel-the-dark)_ | Evocation/Rhythmancy | Bard | Concentration |
 | 2nd | _[Sonata of Awakening](#sonata-of-awakening)_ | Abjuration/Rhythmancy | Bard | Concentration |
-| 2nd | _[Song of Discovery](#song-of-discovery)_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
+| 2nd | _[Song of Discovery](#song-of-discovery)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual |
 | 3rd | _[Mambo Marino](#mambo-marino)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
 | 3rd | _[New Wave Bossa Nova](#new-wave-bossa-nova)_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 3rd | _[Peaceful Lullaby](#peaceful-lullaby)_ | Enchantment/Rhythmancy | Bard | Concentration |
 | 3rd | _[Royal Duet](#royal-duet)_ | Evocation/Rhythmancy | Bard | Duet |
 | 3rd | _[Song of Double Time](#song-of-double-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
 | 3rd | _[Tune of Echoes](#tune-of-echoes)_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
-| 3rd | _[Wind's Requiem](#winds-requiem)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
+| 3rd | _[Wind's Requiem](#winds-requiem)_ | Conjuration/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual |
 | 4th | _[Death's Departure](#deaths-departure)_ | Abjuration/Rhythmancy | Bard | Concentration |
-| 4th | _[Earth God's Lyric](#earth-gods-lyric)_ | Evocation/Rhythmancy | Bard | |
+| 4th | _[Earth God's Lyric](#earth-gods-lyric)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | |
 | 4th | _[Minute Minuet](#minute-minuet)_ | Transmutation/Rhythmancy | Bard | Concentration |
 | 4th | _[Soulful Croak](#soulful-croak)_ | Necromancy/Rhythmancy | Bard | |
 | 4th | _[Space Warp](#space-warp)_ | Conjuration/Rhythmancy | Bard | Ritual |
 | 4th | _[Wind God's Aria](#wind-gods-aria)_ | Evocation/Rhythmancy | Bard | |
 | 5th | _[Inverted Song of Time](#inverted-song-of-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
 | 5th | _[Melody of Darkness](#melody-of-darkness)_ | Necromancy/Rhythmancy | Bard | Concentration |
-| 5th | _[Song of Healing](#song-of-healing)_ | Evocation/Rhythmancy | Bard | |
+| 5th | _[Song of Healing](#song-of-healing)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | |
 | 5th | _[Song of Passing](#song-of-passing)_ | Illusion/Rhythmancy | Bard | Concentration |
 | 5th | _[Tune of Currents](#tune-of-currents)_ | Abjuration/Rhythmancy | Bard | |
 | 6th | _[The River Devil's Lament](#the-river-devils-lament)_ | Enchantment/Rhythmancy | Bard | |
 | 7th | _[Tune of Ages](#tune-of-ages)_ | Conjuration/Rhythmancy | Bard | |
 | 8th | _[Ballad of Gales](#ballad-of-gales)_ | Conjuration/Rhythmancy | Bard | |
 | 8th | _[Oath to Order](#oath-to-order)_ | Abjuration/Rhythmancy | Bard | |
+
+[^🪈]: These rhythmancy songs are grouped as the Song of Time.
 
 ## Spell Descriptions
 
@@ -130,7 +132,7 @@ _4th-level evocation/rhythmancy_
 - **Range:** Self
 - **Components:** V, S, M (a musical instrument worth at least 1 gp; a handful of soil from the Elemental Plane of Earth which the spell consumes)
 - **Duration:** 8 hours
-- **Classes:** Bard
+- **Classes:** Bard, Ranger (Wild Composer)
 
 The notes you play resonate with the world under your feet, strengthening your bond to the earth. The spell can only take effect if you maintain contact with the ground the entire time you cast the spell, otherwise it fails.
 
@@ -198,7 +200,7 @@ _1st-level divination/rhythmancy (Ritual)_
 - **Range:** Self
 - **Components:** V, S, M (a branch or leaf from a tree you've climbed; a musical instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
-- **Classes:** Bard
+- **Classes:** Bard, Ranger (Wild Composer)
 
 You play a song to yourself that stirs old memories of a childhood friend. Until the spell ends, while you are traveling or exploring within the same environment you were in when casting the spell, you can't become lost except by magical means.
 
@@ -376,7 +378,7 @@ _2nd-level divination/rhythmancy (Ritual)_
 - **Range:** Self (20-foot sphere)
 - **Components:** V, S, M (a musical instrument worth at least 1 gp, a magnifying glass worth at least 10 gp)
 - **Duration:** Concentration, up to 10 minutes
-- **Classes:** Bard
+- **Classes:** Bard, Ranger (Wild Composer)
 
 You perform a tune that disrupts any concealing magic in the vicinity. Until the spell ends, as a Magic Action, you can attempt to reveal Invisible creatures and objects within your spell's area of effect. Make a spellcasting ability check. If there is a spell causing invisibility in your spell's area of effect, the DC equals 10 + the most powerful such spell's level in the area, or if the only invisibility present is caused by another magical effect, the DC is 15. On a success, all magical invisibility in the area of effect is dispelled, and this spell ends immediately. On a failure, or if there is no such magical invisibility nearby, your spell continues, but you gain no special insight into whether this outcome occurred due to failing the check or no viable Invisible creatures or objects being nearby.
 
@@ -388,7 +390,7 @@ _5th-level evocation/rhythmancy_
 - **Range:** Self (30-foot sphere)
 - **Components:** V, S, M (a musical instrument worth at least 1 gp)
 - **Duration:** Instantaneous
-- **Classes:** Bard
+- **Classes:** Bard, Ranger (Wild Composer)
 
 You channel healing energies through soothing music. All creatures that remain within 30 feet of you for the entire casting time, except for undead or constructs, regain 5d10 Hit Points and are cured of being Blinded, Deafened, and Diseased.
 
@@ -588,12 +590,10 @@ _3rd-level conjuration/rhythmancy (Ritual)_
 - **Range:** Self
 - **Components:** V, M (a musical instrument worth at least 1 gp; a piece of cloth from a ship's sail which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
-- **Classes:** Bard
+- **Classes:** Bard, Ranger (Wild Composer)
 
 You create an unnatural strong wind at your back, overriding any existing wind direction affecting you. Until the spell ends, your jumping distance is tripled, and while you are on the deck of a sailing ship, it moves as if it is sailing with the wind. While concentrating on this spell, at the end of each of your turns, you can select a new direction for the winds around you to blow.
 
 While concentrating on this spell, as a Magic Action, you can attempt to channel this magical wind to carry yourself and jump up to your jumping distance without using any movement. Make a Strength (Athletics) or Dexterity (Acrobatics) check and add your spellcasting ability modifier, contested by a DC equal to one-sixth the number of feet you are attempting to jump (minimum DC 10, maximum DC 25). On a success, if there is level ground with enough space to accommodate you, you land safely at your intended destination. If there is insufficient space to land safely at your intended jump distance, you fall short in a safe space of your choice. On a failure, or if there is no eligible space to land safely in your path, your jump falls short a number of feet equal to your Athletics or Acrobatics check, and you fall Prone. Whether you succeed or fail, the spell ends immediately.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th-level or higher, your jumping distance is multiplied by the spell slot number. For example, casting this spell at 4th-level would cause your jumping distance to be quadrupled.
-
-[^🪈]: These rhythmancy songs are grouped as the Song of Time.
