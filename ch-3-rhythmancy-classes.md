@@ -104,4 +104,5 @@ You recall every tree you have encountered, and can travel through the world's r
 
 ---
 
-⬅️ [Chapter 2: Casting Rhythmancy Spells](ch-2-casting-rhythmancy-spells.md) | [Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md) ➡️
+| ⬅️ [Chapter 2: Casting Rhythmancy Spells](ch-2-casting-rhythmancy-spells.md) | [Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md) ➡️ |
+|:-|-:|
