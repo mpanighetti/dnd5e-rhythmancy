@@ -101,3 +101,7 @@ In addition, when you cast a rhythmancy spell with a casting time of 1 Action, y
 _15th-level Wild Composer feature_
 
 You recall every tree you have encountered, and can travel through the world's root systems to be reunited with them at a moment's notice. You learn the _tree stride_ spell, and you can cast it by expending a 4th-level spell slot. At 17th-level, you learn the _transport via plants_ spell as a ranger spell, and you can cast it by expending a 5th-level spell slot. These spells don't count against the number of ranger spells you know.
+
+---
+
+⬅️ [Chapter 2: Casting Rhythmancy Spells](ch-2-casting-rhythmancy-spells.md) | [Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md) ➡️
