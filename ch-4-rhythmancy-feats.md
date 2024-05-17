@@ -38,3 +38,8 @@ You've begun studying the magic of rhythmantic songs, granting you the following
 - You learn a rhythmancy cantrip and a 1st-level rhythmancy spell of your choice.
 - You gain Proficiency in a skill of your choice from the following list: Deception, Intimidation, Performance, Persuasion.
 - You gain Proficiency with a musical instrument of your choice. You can use such an instrument as a spellcasting focus for any spell you cast using rhythmancy points.
+
+---
+
+| ⬅️ [Chapter 3: Rhythmancy Classes](ch-3-rhythmancy-classes.md) | [Chapter 5: Rhythmancy Spells](ch-5-rhythmancy-spells.md) ➡️ |
+|:-|-:|
