@@ -27,3 +27,8 @@ An _instrument of the wild_ contains one or more spells based on its number of c
 | 3 | _Wind's Requiem_ | Rare |
 | 4 | _Earth God's Lyric_ | Very rare |
 | 5 | _Song of Healing_ | Legendary |
+
+---
+
+| ⬅️ [Chapter 5: Rhythmancy Spells](ch-5-rhythmancy-spells.md) |
+|:-|
