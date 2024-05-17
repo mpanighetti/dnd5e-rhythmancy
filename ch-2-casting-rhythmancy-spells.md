@@ -61,3 +61,6 @@ Some rhythmancy songs are written to be performed by two musicians working toget
 If any of the above conditions are not met, both castings of the Duet spell fail. Otherwise, the spells grant their shared effect after both casters complete the required casting time.
 
 If a Duet is targeted by an effect or check that requires knowing the spellcasting ability, Spell Save DC, or spell attack modifier of the caster, use the higher of the two attributes from the Duet's performers. If the effect or check requires knowing the spell slot level (such as _dispel magic_) and the performers used two different level spell slots, use the lower of the two spell slot levels.
+
+| ⬅️ [Chapter 1: Learning Rhythmancy Spells](ch-1-learning-rhythmancy-spells.md) | [Chapter 3: Rhythmancy Classes](ch-3-rhythmancy-classes.md) ➡️ |
+|:-|-:|
