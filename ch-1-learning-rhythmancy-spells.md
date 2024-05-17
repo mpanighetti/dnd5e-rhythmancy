@@ -51,3 +51,7 @@ Depending on how they use magic normally, a student can add rhythmantic songs th
 3. **If you have a species trait that grants the ability to cast a spell of the same level or higher:** The rhythmancy spell is made available as an alternative spell using this trait.
 
 You must use the first option available to you based on your class levels, features, traits, and the rhythmancy spell's level and casting requirements. If the spell is added under option 2 or 3 and a higher option is made available later (such as gaining the Spellcasting feature), all your compatible rhythmancy spells immediately move to the highest-available option. If none of these options are available, you cannot learn the spell. If you lose access to all your options later (such as the _reincarnate_ spell changing you into a creature lacking the ability to cast spells), you retain the knowledge of your rhythmancy spells but are unable to cast them unless you regain compatible spellcasting options later.
+
+---
+
+➡️ [Chapter 2: Casting Rhythmancy Spells](ch-2-casting-rhythmancy-spells.md)
