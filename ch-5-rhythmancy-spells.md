@@ -44,7 +44,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 8th | _[Ballad of Gales](#ballad-of-gales)_ | Conjuration/Rhythmancy | Bard | |
 | 8th | _[Oath to Order](#oath-to-order)_ | Abjuration/Rhythmancy | Bard | |
 
-[^🪈]: These rhythmancy songs are grouped as the Song of Time.
+[^🪈]: These rhythmancy songs are grouped as the _Song of Time_.
 
 ## Spell Descriptions
 
@@ -540,9 +540,9 @@ You attempt to restore the normal flow of time for a creature within range. This
 
 - Any spell or magical effect on the target that caused them to grow older or younger
 - Any spell or magical effect that caused the target to be removed from their original time period
-- _Haste_, _slow_, and any chronurgy spell
+- _Haste_, _slow_, and any chronurgy[^⏳] spell
 
-Any such spell with a spell level equal to or less than the level of the spell slot you used to cast Tune of Currents, any such spell for which you were originally the caster, and any such magical effect not caused by a spell, is dispelled, ending its effects immediately. A creature magically displaced from their original time period is immediately returned to their era, and all magical aging is removed.
+Any such spell with a spell level equal to or less than the level of the spell slot you used to cast _Tune of Currents_, any such spell for which you were originally the caster, and any such magical effect not caused by a spell is dispelled, ending its effects immediately. A creature magically displaced from their original time period is immediately returned to their era, and all magical aging is removed.
 
 For each spell of a level higher than the spell slot you used, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, the spell's effect on the target ends.
 
@@ -602,3 +602,5 @@ While concentrating on this spell, as a Magic Action, you can attempt to channel
 
 | ⬅️ [Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md) | [Chapter 6: Rhythmancy Magic Items](ch-6-rhythmancy-magic-items.md) ➡️ |
 |:-|-:|
+
+[^⏳]: Source: _Explorer's Guide to Wildemount_
