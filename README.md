@@ -24,7 +24,7 @@ This document includes a list of 5e class options, feats, spells, and magic item
 
 ## Compatibility
 
-This content was written to be compatible with Dungeons & Dragons 5th Edition. It makes the following modifications from the _Systems Reference Document_:
+This content was written to be compatible with Dungeons & Dragons 5th Edition. It makes the following modifications from _Systems Reference Document 5.1_:
 
 - "Species" is used in place of "race" and "ancestry" or "variant" in place of "subrace".
 - "Discipline Points" is used in place of "Ki Points".
