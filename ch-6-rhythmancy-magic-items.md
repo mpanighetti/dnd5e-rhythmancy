@@ -33,7 +33,9 @@ An _instrument of the wild_ contains one or more spells based on its number of c
 
 _Wondrous item (instrument, maracas), rare (requires Attunement)_
 
-These maracas are filled with dried seeds that clatter when the instruments are shaken, and they seem to have an endless capacity for more seeds. While you are Attuned to the _maracas of holding_, they grant you 2 rhythmancy points to spend on casting rhythmancy spells. Additionally, you can expend 1 rhythmancy point and perform a dance with the maracas for 1 minute to magically imbue a nonmagical bag, backpack, or similar storage item you touch with increased storage capacity. The item temporarily becomes a magic item with the storage properties of a _bag of holding_. An item transformed in this manner is restored to its original nonmagical form at the next dawn, at which point anything still inside its interior in excess of its normal capacity is expelled.
+These maracas are filled with dried seeds that clatter when the instruments are shaken, and they seem to have an endless capacity for more seeds.
+
+The _maracas of holding_ contain 3 charges. While you are Attuned to the _maracas of holding_, you can perform a dance with the maracas for 1 minute to magically imbue a nonmagical bag, backpack, or similar storage item you touch with increased storage capacity, temporarily turning the item into a magic item with the storage properties of a _bag of holding_. Performing this dance expends 1 charge from the maracas. If the maracas have no charges remaining when you perform this dance, one of the items transformed in this manner of your choice is restored to its original nonmagical form, at which point anything still inside its interior in excess of its normal capacity is expelled.
 
 ---
 
