@@ -22,7 +22,7 @@ When used in worlds and settings where "instrument" does not exist as a magic it
 
 The magic items are presented in alphabetical order.
 
-### [Instrument of the Wild](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/instrument-of-the-wild.md)
+### [Instrument of the Wild](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/instruments/instrument-of-the-wild.md)
 
 _Instrument (any), rarity varies (requires Attunement by someone able to cast rhythmancy spells)_
 
@@ -39,7 +39,7 @@ An _instrument of the wild_ contains one or more spells based on its number of c
 | 4 | _Earth God's Lyric_ | Very rare |
 | 5 | _Song of Healing_ | Legendary |
 
-### [Maracas of Holding](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/maracas-of-holding.md)
+### [Maracas of Holding](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/instruments/maracas-of-holding.md)
 
 _Instrument (maracas), rare (requires Attunement)_
 
