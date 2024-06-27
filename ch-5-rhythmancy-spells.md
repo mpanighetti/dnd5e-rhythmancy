@@ -56,7 +56,7 @@ _8th-level conjuration/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** Touch
-- **Components:** V, S, M (a musical instrument worth at least 1 gp, a vehicle that you are currently occupying worth at least 10 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp, a vehicle that you are currently occupying worth at least 10 gp)
 - **Duration:** 1 round
 - **Classes:** Bard
 
@@ -72,7 +72,7 @@ _Abjuration/rhythmancy cantrip_
 
 - **Casting Time:** Action
 - **Range:** Self
-- **Components:** V, M (a seagull's feather; a musical instrument worth at least 1 gp)
+- **Components:** V, M (a seagull's feather; an instrument worth at least 1 gp)
 - **Duration:** 10 minutes
 - **Classes:** Bard
 
@@ -84,7 +84,7 @@ _2nd-level conjuration/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet
-- **Components:** V, S, M (a musical instrument worth at least 1 gp; objects belonging to you and the target creature worth a total of at least 1 sp which the spell consumes)
+- **Components:** V, S, M (an instrument worth at least 1 gp; objects belonging to you and the target creature worth a total of at least 1 sp which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
 - **Classes:** Bard
 
@@ -102,7 +102,7 @@ _4th-level abjuration/rhythmancy_
 
 - **Casting Time:** Action
 - **Range:** Self (30-foot sphere)
-- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
 - **Classes:** Bard
 
@@ -116,7 +116,7 @@ _2nd-level evocation/rhythmancy (Duet)_
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet (30-foot sphere)
-- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Instantaneous
 - **Classes:** Bard
 
@@ -130,7 +130,7 @@ _4th-level evocation/rhythmancy_
 
 - **Casting Time:** 10 minutes
 - **Range:** Self
-- **Components:** V, S, M (a musical instrument worth at least 1 gp; a handful of soil from the Elemental Plane of Earth which the spell consumes)
+- **Components:** V, S, M (an instrument worth at least 1 gp; a handful of soil from the Elemental Plane of Earth which the spell consumes)
 - **Duration:** 8 hours
 - **Classes:** Bard, Ranger (Wild Composer)
 
@@ -150,7 +150,7 @@ _2nd-level conjuration/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** 5 feet
-- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Until dispelled
 - **Classes:** Bard
 
@@ -164,7 +164,7 @@ _1st-level conjuration/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
-- **Components:** V, S, M (a sprig of horse grass; a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (a sprig of horse grass; an instrument worth at least 1 gp)
 - **Duration:** Instantaneous
 - **Classes:** Bard
 
@@ -184,7 +184,7 @@ _Evocation/rhythmancy cantrip_
 
 - **Casting Time:** Action
 - **Range:** 30 feet
-- **Components:** V, S, M (a sprig of hawk grass; a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (a sprig of hawk grass; an instrument worth at least 1 gp)
 - **Duration:** 1 round
 - **Classes:** Bard
 
@@ -198,7 +198,7 @@ _1st-level divination/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 minute
 - **Range:** Self
-- **Components:** V, S, M (a branch or leaf from a tree you've climbed; a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (a branch or leaf from a tree you've climbed; an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
 - **Classes:** Bard, Ranger (Wild Composer)
 
@@ -212,7 +212,7 @@ _3rd-level conjuration/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet
-- **Components:** V, M (a mola scale; a musical instrument worth at least 1 gp)
+- **Components:** V, M (a mola scale; an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 8 hours
 - **Classes:** Bard
 
@@ -226,7 +226,7 @@ _5th-level necromancy/rhythmancy_
 
 - **Casting Time:** Action
 - **Range:** Self (30 foot sphere)
-- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
 - **Classes:** Bard
 
@@ -242,7 +242,7 @@ _4th-level transmutation/rhythmancy_
 
 - **Casting Time:** Action
 - **Range:** 30 feet
-- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 10 minutes
 - **Classes:** Bard
 
@@ -260,7 +260,7 @@ _3rd-level abjuration/rhythmancy_
 
 - **Casting Time:** Action
 - **Range:** Self (10-foot sphere)
-- **Components:** V (functions even if you are in an area affected by magical silence), S, M (a musical instrument worth at least 1 gp)
+- **Components:** V (functions even if you are in an area affected by magical silence), S, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
 - **Classes:** Bard
 
@@ -272,7 +272,7 @@ _8th-level abjuration/rhythmancy_
 
 - **Casting Time:** 8 hours
 - **Range:** Self
-- **Components:** V, S, M (a musical instrument worth at least 1 gp; a lock of hair from a creature larger than you of Challenge 6 or higher which the spell consumes)
+- **Components:** V, S, M (an instrument worth at least 1 gp; a lock of hair from a creature larger than you of Challenge 6 or higher which the spell consumes)
 - **Duration:** 30 days
 - **Classes:** Bard
 
@@ -288,7 +288,7 @@ _3rd-level enchantment/rhythmancy_
 
 - **Casting Time:** Action
 - **Range:** 30 feet
-- **Components:** V, M (a musical instrument worth at least 1 gp)
+- **Components:** V, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
 - **Classes:** Bard
 
@@ -302,7 +302,7 @@ _2nd-level evocation/rhythmancy_
 
 - **Casting Time:** Action
 - **Range:** 30 feet
-- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
 - **Classes:** Bard
 
@@ -318,7 +318,7 @@ _6th-level enchantment/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
-- **Components:** V, S, M (a musical instrument worth at least 1 gp; water from a river that flows backward which the spell consumes)
+- **Components:** V, S, M (an instrument worth at least 1 gp; water from a river that flows backward which the spell consumes)
 - **Duration:** 8 hours
 - **Classes:** Bard
 
@@ -334,7 +334,7 @@ _Enchantment/rhythmancy cantrip_
 
 - **Casting Time:** Action
 - **Range:** 10 feet
-- **Components:** V, M (a petal from a silent princess flower; a musical instrument worth at least 1 gp)
+- **Components:** V, M (a petal from a silent princess flower; an instrument worth at least 1 gp)
 - **Duration:** 1 minute
 - **Classes:** Bard
 
@@ -348,7 +348,7 @@ _3rd-level evocation/rhythmancy (Duet)_
 
 - **Casting Time:** 10 minutes
 - **Range:** 10 feet (30-foot sphere)
-- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** 8 hours
 - **Classes:** Bard
 
@@ -362,7 +362,7 @@ _2nd-level abjuration/rhythmancy_
 
 - **Casting Time:** Action
 - **Range:** 30 feet
-- **Components:** V, M (a musical instrument worth at least 1 gp, a bell worth at least 5 gp)
+- **Components:** V, M (an instrument worth at least 1 gp, a bell worth at least 5 gp)
 - **Duration:** Concentration, up to 1 minute
 - **Classes:** Bard
 
@@ -376,7 +376,7 @@ _2nd-level divination/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 minute
 - **Range:** Self (20-foot sphere)
-- **Components:** V, S, M (a musical instrument worth at least 1 gp, a magnifying glass worth at least 10 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp, a magnifying glass worth at least 10 gp)
 - **Duration:** Concentration, up to 10 minutes
 - **Classes:** Bard, Ranger (Wild Composer)
 
@@ -388,7 +388,7 @@ _5th-level evocation/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** Self (30-foot sphere)
-- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Instantaneous
 - **Classes:** Bard, Ranger (Wild Composer)
 
@@ -406,7 +406,7 @@ _5th-level illusion/rhythmancy_
 
 - **Casting Time:** Action
 - **Range:** 30 feet
-- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
 - **Classes:** Bard
 
@@ -424,7 +424,7 @@ _1st-level evocation/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** 120 feet (1 mile if cast outdoors)
-- **Components:** V, S, M (a pebble or stone worn smooth by water used to forecast rainy weather; a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (a pebble or stone worn smooth by water used to forecast rainy weather; an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
 - **Classes:** Bard
 
@@ -440,7 +440,7 @@ _1st-level abjuration/rhythmancy_
 
 - **Casting Time:** Action
 - **Range:** Self
-- **Components:** V, S, M (a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** 10 minutes
 - **Classes:** Bard
 
@@ -464,7 +464,7 @@ _4th-level conjuration/rhythmancy (Ritual)_
 
 - **Casting Time:** 10 minutes
 - **Range:** 10 feet
-- **Components:** V, S, M (a musical instrument worth at least 1 gp; an object that was present when the target creature lost consciousness at the spell's destination which the spell consumes)
+- **Components:** V, S, M (an instrument worth at least 1 gp; an object that was present when the target creature lost consciousness at the spell's destination which the spell consumes)
 - **Duration:** Instantaneous
 - **Classes:** Bard
 
@@ -478,7 +478,7 @@ _4th-level necromancy/rhythmancy_
 
 - **Casting Time:** 1 hour
 - **Range:** 20 feet
-- **Components:** V, S, M (a recently deceased frog; a musical instrument worth at least 1 gp; a gold crown worth at least 300 gp which the spell consumes unless the spell targeted or raised an undead creature)
+- **Components:** V, S, M (a recently deceased frog; an instrument worth at least 1 gp; a gold crown worth at least 300 gp which the spell consumes unless the spell targeted or raised an undead creature)
 - **Duration:** Instantaneous
 - **Classes:** Bard
 
@@ -504,7 +504,7 @@ _1st-level conjuration/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** 120 feet
-- **Components:** V, S, M (a handful of straw; a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (a handful of straw; an instrument worth at least 1 gp)
 - **Duration:** Instantaneous
 - **Classes:** Bard
 
@@ -518,7 +518,7 @@ _7th-level conjuration/rhythmancy_
 
 - **Casting Time:** 1 hour
 - **Range:** 30 feet
-- **Components:** V, S, M (a magic item or a willing creature from the destination time period; a musical instrument worth at least 1 gp)
+- **Components:** V, S, M (a magic item or a willing creature from the destination time period; an instrument worth at least 1 gp)
 - **Duration:** Instantaneous
 - **Classes:** Bard
 
@@ -532,7 +532,7 @@ _5th-level abjuration/rhythmancy_
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
-- **Components:** V, M (a musical instrument worth at least 1 gp; an item that tells time worth 200 gp which the spell consumes)
+- **Components:** V, M (an instrument worth at least 1 gp; an item that tells time worth 200 gp which the spell consumes)
 - **Duration:** Instantaneous
 - **Classes:** Bard
 
@@ -554,7 +554,7 @@ _3rd-level divination/rhythmancy (Ritual)_
 
 - **Casting Time:** 1 minute
 - **Range:** Self
-- **Components:** V, S, M (a musical instrument worth at least 1 gp, a harp string spun from gold worth 25 gp)
+- **Components:** V, S, M (an instrument worth at least 1 gp, a harp string spun from gold worth 25 gp)
 - **Duration:** Concentration, up to 10 minutes
 - **Classes:** Bard
 
@@ -570,7 +570,7 @@ _4th-level evocation/rhythmancy_
 
 - **Casting Time:** 10 minutes
 - **Range:** Self
-- **Components:** V, S, M (a musical instrument worth at least 1 gp; a vial of air from the Elemental Plane of Air which the spell consumes)
+- **Components:** V, S, M (an instrument worth at least 1 gp; a vial of air from the Elemental Plane of Air which the spell consumes)
 - **Duration:** 8 hours
 - **Classes:** Bard
 
@@ -588,7 +588,7 @@ _3rd-level conjuration/rhythmancy (Ritual)_
 
 - **Casting Time:** Action
 - **Range:** Self
-- **Components:** V, M (a musical instrument worth at least 1 gp; a piece of cloth from a ship's sail which the spell consumes)
+- **Components:** V, M (an instrument worth at least 1 gp; a piece of cloth from a ship's sail which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
 - **Classes:** Bard, Ranger (Wild Composer)
 

@@ -2,11 +2,21 @@
 
 This section provides an assortment of magic items with ties to rhythmancy. The **Rhythmancy Magic Items** table lists the magic items in this section along with their rarity and whether they require Attunement.
 
+## Magic Item Category: Instruments
+
+This document introduces a new category of magic items: instruments.
+
+### Instruments
+
+Magic instruments function as regular musical instruments, but are imbued with additional arcane properties. Often such instruments provide access to rhythmantic songs, or enhance a rhythmancer's existing abilities.
+
+When used in worlds and settings where "instrument" does not exist as a magic item category, such magic items also count as wondrous items. Similarly, a wondrous item that can function as a musical instrument, such as the _pipes of the sewers_, also counts as an instrument magic item, as long as the wielder meets the item's proficiency requirements to play it.
+
 ##### Rhythmancy Magic Items
 | Magic Item | Category | Rarity | Requires Attunement |
 |:-|:-|:-|:-|
-| _[Instrument of the Wild](#instrument-of-the-wild)_ | Wondrous item | Varies | Yes (by someone able to cast rhythmancy spells) |
-| _[Maracas of Holding](#maracas-of-holding)_ | Wondrous item | Rare | Yes |
+| _[Instrument of the Wild](#instrument-of-the-wild)_ | Instrument | Varies | Yes (by someone able to cast rhythmancy spells) |
+| _[Maracas of Holding](#maracas-of-holding)_ | Instrument | Rare | Yes |
 
 ## Magic Item Descriptions
 
@@ -14,7 +24,7 @@ The magic items are presented in alphabetical order.
 
 ### [Instrument of the Wild](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/instrument-of-the-wild.md)
 
-_Wondrous item (any instrument), rarity varies (requires Attunement by someone able to cast rhythmancy spells)_
+_Instrument (any), rarity varies (requires Attunement by someone able to cast rhythmancy spells)_
 
 This instrument was lovingly crafted by an artist with a profound connection to the rhythm of the natural world, and they have imbued some of their own magic into the craft and design. The instrument manifests the magical gift of its creation as one or more rhythmancy spells. It also contains charges that can be spent to cast these spells at a cost of one charge per spell level. The number of charges vary based on its rarity. The instrument regains 1d4 expended charges at dawn.
 
@@ -31,7 +41,7 @@ An _instrument of the wild_ contains one or more spells based on its number of c
 
 ### [Maracas of Holding](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/maracas-of-holding.md)
 
-_Wondrous item (instrument, maracas), rare (requires Attunement)_
+_Instrument (maracas), rare (requires Attunement)_
 
 These maracas are filled with dried seeds that clatter when the instruments are shaken, and they seem to have an endless capacity for more seeds.
 

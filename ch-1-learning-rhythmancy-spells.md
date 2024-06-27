@@ -11,12 +11,12 @@ Bards are naturally suited for learning rhythmancy magic and can learn any such 
 Any other magically inclined student can potentially learn rhythmantic magic they come upon if they meet the following requirements:
 
 - They must already be able to cast a spell of the same level or higher using a feature or trait.
-- They must have Proficiency in a musical instrument.
+- They must have Proficiency in an instrument.
 - They must either be taught by someone else who knows rhythmantic songs, or they must find a written copy of the spell and teach themself.
 
 ### Optional: Rhythmancy Spells for Other Classes
 
-By default, rhythmantic magic is only available on the bard spell list, through rhythmancy feats, or through training or self-teaching when a rhythmancy spell is discovered. However, the Dungeon Master can optionally make any or all rhythmancy spells available for spellcasters if they wish. If the DM allows, anyone with the Spellcasting or Pact Magic feature, or a feat that allowing learning a spell, could potentially learn rhythmancy as a spell option using these features, as long as they also have Proficiency in a musical instrument. With this option, the rhythmancy spell is learned in place of the existing spell when the feature is gained.
+By default, rhythmantic magic is only available on the bard spell list, through rhythmancy feats, or through training or self-teaching when a rhythmancy spell is discovered. However, the Dungeon Master can optionally make any or all rhythmancy spells available for spellcasters if they wish. If the DM allows, anyone with the Spellcasting or Pact Magic feature, or a feat that allowing learning a spell, could potentially learn rhythmancy as a spell option using these features, as long as they also have Proficiency in an instrument. With this option, the rhythmancy spell is learned in place of the existing spell when the feature is gained.
 
 ## Rhythmantic Training
 

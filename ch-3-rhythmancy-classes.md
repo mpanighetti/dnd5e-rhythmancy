@@ -39,7 +39,7 @@ Starting at 11th level, when gaining temporary rhythmancy points using this feat
 
 _14th-level College of Legends feature_
 
-You have mastered unlocking hidden or lost ancient secrets. You learn the _legend lore_ spell, or another bard spell of your choice from the divination school for which you are eligible if you already know _legend lore_. This spell doesn't count against the number of bard spells you know. When you cast _legend lore_ using rhythmancy points, the casting time is 1 Action, and you replace its material component requirements with a musical instrument worth at least 1 gp.
+You have mastered unlocking hidden or lost ancient secrets. You learn the _legend lore_ spell, or another bard spell of your choice from the divination school for which you are eligible if you already know _legend lore_. This spell doesn't count against the number of bard spells you know. When you cast _legend lore_ using rhythmancy points, the casting time is 1 Action, and you replace its material component requirements with an instrument worth at least 1 gp.
 
 ## Ranger
 
@@ -57,7 +57,7 @@ Rangers who walk the path of the Wild Composer are drawn to the innate music pre
 
 _3rd-level Wild Composer feature_
 
-You are in sync with the music of the wilds. You gain Proficiency with a musical instrument and a tool of your choice capable of crafting that instrument (leatherworker's tools, potter's tools, or woodworker's tools might be suitable choices). You can use instruments in which you are Proficient as a spellcasting focus for your ranger spells.
+You are in sync with the music of the wilds. You gain Proficiency with an instrument and a tool of your choice capable of crafting that instrument (leatherworker's tools, potter's tools, or woodworker's tools might be suitable choices). You can use instruments in which you are Proficient as a spellcasting focus for your ranger spells.
 
 Additionally, you learn _The Hawk's Call_ cantrip if you don't already know it. You also learn an additional spell of 1st level or higher when you reach certain levels in this class, as shown on the **Wild Composer Spells** table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
 
@@ -78,7 +78,7 @@ You have learned to direct nature's song into musical instruments and share the 
 
 An _instrument of the wild_ you create contains a number of charges equal to the spell slot level you expended for its creation. As a Magic Action, you can replace a spell imbued in an _instrument of the wild_ with a ranger or rhythmancy spell you know of 1st-level or higher by expending the appropriate spell slot and channeling the spell's magic into the instrument; the number of charges then adjusts as needed to match the amount required to cast the highest-level spell the instrument possesses.
 
-You regain the ability to craft an _instrument of the wild_ using this feature after you finish a Long Rest. You can maintain the magical properties in a number of _instruments of the wild_ equal to the highest level ranger spell you know. If you craft an _instrument of the wild_ beyond your limit, one such instrument of your choice loses all of its magical properties, becoming a mundane version of that musical instrument.
+You regain the ability to craft an _instrument of the wild_ using this feature after you finish a Long Rest. You can maintain the magical properties in a number of _instruments of the wild_ equal to the highest level ranger spell you know. If you craft an _instrument of the wild_ beyond your limit, one such instrument of your choice loses all of its magical properties, becoming a mundane version of that instrument.
 
 #### Rhythm of the World
 
