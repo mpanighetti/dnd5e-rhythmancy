@@ -28,11 +28,11 @@ When a rhythmancy spell of 1st-level or higher is being cast in place of another
 
 If the casting of a spell using such features is subject to special rules and limitations, apply these rules using the guidelines below:
 
-### Discipline Points
+### Focus Points
 
-If a monk feature requires spending Discipline Points to cast a spell of 1st-level or higher, the cost of casting a rhythmancy spell is a number of Discipline Points equal to 1 + the spell's level. For example, casting _Song of Storms_ using the Empty Body feature would require spending 3 Discipline Points.
+If a monk feature requires spending Focus Points to cast a spell of 1st-level or higher, the cost of casting a rhythmancy spell is a number of Focus Points equal to 1 + the spell's level. For example, casting _Song of Storms_ using the Empty Body feature would require spending 3 Focus Points.
 
-Additional Discipline Points can be spent to cast the spell at a higher level at 1 Discipline Point per level increase, as long as you already have the ability to cast a spell at that level using Discipline Points.
+Additional Focus Points can be spent to cast the spell at a higher level at 1 Discipline Point per level increase, as long as you already have the ability to cast a spell at that level using Focus Points.
 
 ### Limited Uses
 
