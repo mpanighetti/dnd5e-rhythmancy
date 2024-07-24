@@ -10,7 +10,7 @@ This document introduces a new category of magic items: instruments.
 
 Magic instruments function as regular musical instruments, but are imbued with additional arcane properties. Often such instruments provide access to rhythmantic songs, or enhance a rhythmancer's existing abilities.
 
-When used in worlds and settings where "instrument" does not exist as a magic item category, such magic items also count as wondrous items. Similarly, a wondrous item that can function as a musical instrument, such as the _pipes of the sewers_, also counts as an instrument magic item, as long as the wielder meets the item's proficiency requirements to play it.
+When used in worlds and settings where "instrument" does not exist as a magic item category, such magic items also count as wondrous items. Similarly, a wondrous item that can function as a musical instrument, such as the _pipes of the sewers_[^📒1️⃣], also counts as an instrument magic item, as long as the wielder meets the item's proficiency requirements to play it.
 
 ##### Rhythmancy Magic Items
 | Magic Item | Category | Rarity | Requires Attunement |
@@ -56,3 +56,5 @@ The _maracas of holding_ contain 3 charges. While you are Attuned to the _maraca
 
 | ⬅️ [Chapter 5: Rhythmancy Spells](ch-5-rhythmancy-spells.md) |
 |:-|
+
+[^📒1️⃣]: Source: _Systems Reference Document 5.1_
