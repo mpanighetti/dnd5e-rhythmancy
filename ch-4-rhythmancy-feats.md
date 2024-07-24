@@ -3,16 +3,19 @@
 This section presents a sampling of feats appropriate for a campaign featuring rhythmancy magic. If a feat has a prerequisite, you must meet that prerequisite to gain the feat. The **Rhythmancy Feats** table lists the feats in this section along with the level at which they're available.
 
 ##### Rhythmancy Feats
+
+The Rhythmancy Feats table is arranged by level prerequisite (listed separately from other prerequisites) and grouped by category.
+
 | Level | Feat | Category | Prerequisite | Repeatable |
 |:-:|:-|:-|:-|:-:|
-| 1st | [Rhythmancy Initiate](#rhythmancy-initiate) | Background | | no |
+| 1st | [Rhythmancy Initiate](#rhythmancy-initiate) | Origin | | no |
 | 4th | [Rhythmancy Adept](#rhythmancy-adept) | General | Rhythmancy Initiate feat | no |
 
 ## Feat Descriptions
 
 The feats are presented in alphabetical order.
 
-### [Rhythmancy Adept](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-adept.md)
+### [Rhythmancy Adept](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/general-feats/rhythmancy-adept.md)
 
 _4th-Level General Feat_
 
@@ -25,9 +28,9 @@ Your extended practice in channeling rhythmantic energies has granted you additi
 - You learn two rhythmancy spells of 1st-level or lower of your choice, or one 2nd-level rhythmancy spell of your choice.
 - You gain Expertise in the skill you chose for the Rhythmancy Initiate feat, doubling your Proficiency Bonus for any ability check you make that uses this skill.
 
-### [Rhythmancy Initiate](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/rhythmancy-initiate.md)
+### [Rhythmancy Initiate](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/origin-feats/rhythmancy-initiate.md)
 
-_1st-Level Background Feat_
+_1st-Level Origin Feat_
 
 - **Prerequisite:** None
 - **Repeatable:** No
