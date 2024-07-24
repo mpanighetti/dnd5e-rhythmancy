@@ -20,7 +20,7 @@ When you cast a rhythmancy spell learned through the Spellcasting or Pact Magic 
 
 If you have rhythmancy points, you can cast a rhythmancy spell you know by spending a number of rhythmancy points equal to the spell's level. Additional rhythmancy points can be spent to cast the spell at a higher level at a cost of 1 rhythmancy point per level increase. Charisma is your spellcasting ability for spells cast using rhythmancy points. You regain all spent rhythmancy points when you finish a Long Rest.
 
-If you discover a new rhythmancy spell in your travels, you are eligible to learn the song if your total possible rhythmancy points are equal to or greater than the spell's level. Rhythmancy points from multiple sources are pooled together when determining your point total. For example, if you are a 3rd level College of Legends bard and you take the Rhythmancy Initiate feat, you have a total of 2 rhythmancy points and thus are eligible to learn rhythmancy spells up to 2nd-level.
+If you discover a new rhythmancy spell in your travels, you are eligible to learn the song if your total possible rhythmancy points are equal to or greater than the spell's level. Rhythmancy points from multiple sources are pooled together when determining your point total. For example, if you take the Rhythmancy Initiate and Rhythmancy Adept feats, you have a total of 3 rhythmancy points and thus are eligible to learn rhythmancy spells up to 3rd-level.
 
 ## Other Features and Traits
 
