@@ -1,15 +1,13 @@
 # Chapter 4: Rhythmancy Feats
 
-This section presents a sampling of feats appropriate for a campaign featuring rhythmancy magic. If a feat has a prerequisite, you must meet that prerequisite to gain the feat. The **Rhythmancy Feats** table lists the feats in this section along with the level at which they're available.
+This section presents a sampling of feats appropriate for a campaign featuring rhythmancy magic. If a feat has a prerequisite, you must meet that prerequisite to gain the feat. The **Rhythmancy Feats** table lists the feats in this section along with the level at which they're available. The list is organized by level prerequisite (listed separately from other prerequisites) and grouped by category.
 
 ##### Rhythmancy Feats
 
-The Rhythmancy Feats table is arranged by level prerequisite (listed separately from other prerequisites) and grouped by category.
-
 | Level | Feat | Category | Prerequisite | Repeatable |
-|:-:|:-|:-|:-|:-:|
-| 1st | [Rhythmancy Initiate](#rhythmancy-initiate) | Origin | | no |
-| 4th | [Rhythmancy Adept](#rhythmancy-adept) | General | Rhythmancy Initiate feat | no |
+|:-----:|:-----|:---------|:-------------|:----------:|
+|  1st  | [Rhythmancy Initiate](#rhythmancy-initiate) | Origin | | no |
+|  4th  | [Rhythmancy Adept](#rhythmancy-adept) | General | Rhythmancy Initiate feat | no |
 
 ## Feat Descriptions
 
@@ -17,7 +15,7 @@ The feats are presented in alphabetical order.
 
 ### [Rhythmancy Adept](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/general-feats/rhythmancy-adept.md)
 
-_4th-Level General Feat_
+_4th-level General Feat_
 
 - **Prerequisite:** Rhythmancy Initiate feat
 - **Repeatable:** No
@@ -30,7 +28,7 @@ Your extended practice in channeling rhythmantic energies has granted you additi
 
 ### [Rhythmancy Initiate](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/origin-feats/rhythmancy-initiate.md)
 
-_1st-Level Origin Feat_
+_1st-level Origin Feat_
 
 - **Prerequisite:** None
 - **Repeatable:** No

@@ -12,13 +12,13 @@ Though all bards have the ability to learn rhythmancy spells, practitioners of t
 
 #### Legendary Recall
 
-_3rd-level College of Legends feature_
+_College of Legends feature_
 
 You have extensively pored through history books and sought out hidden knowledge of ancient heroes. You gain Proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you make an Intelligence check, you can expend one use of Bardic Inspiration to temporarily gain Expertise for the check, even if you do not normally have Proficiency or Expertise in the related skill.
 
 #### Rhythmantic Savant
 
-_3rd-level College of Legends feature_
+_College of Legends feature_
 
 You have an innate understanding of the magic of music and how to wield it, granting you the following benefits.
 
@@ -55,7 +55,7 @@ Rangers who walk the path of the Wild Composer are drawn to the innate music pre
 
 #### Wild Composer Magic
 
-_3rd-level Wild Composer feature_
+_Wild Composer feature_
 
 You are in sync with the music of the wilds. You gain Proficiency with an instrument and a tool of your choice capable of crafting that instrument (leatherworker's tools, potter's tools, or woodworker's tools might be suitable choices). You can use instruments in which you are Proficient as a spellcasting focus for your ranger spells.
 
@@ -72,7 +72,7 @@ Additionally, you learn _The Hawk's Call_ cantrip if you don't already know it. 
 
 #### Music-Maker
 
-_3rd-level Wild Composer feature_
+_Wild Composer feature_
 
 You have learned to direct nature's song into musical instruments and share the gift of rhythmancy with others. As part of a Short Rest, you can use tools and cast a ranger spell using a spell slot of 1st-level or higher to craft a special magic item known as an _[instrument of the wild](ch-6-rhythmancy-magic-items.md#instrument-of-the-wild)_. You can make any type of instrument you like using this feature, as long as your tools are capable of crafting the instrument and you have Proficiency in the tools. The design of the instrument is up to you; for example, you might carve a bone from an animal you hunted to make an ocarina. When you finish crafting the instrument, you can optionally immediately Attune to it, which doesn't count against the number of magic items you can be Attuned to at once. You can also gift your instrument to other creatures. The spell you cast to craft the instrument is added to its list of imbued spells.
 
