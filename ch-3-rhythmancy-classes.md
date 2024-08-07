@@ -86,7 +86,7 @@ _7th-level Wild Composer feature_
 
 Your connection to the world's secret song strengthens. While you are Attuned to an _instrument of the wild_, your rhythmancy spells gain a +1 to their attack rolls and total damage rolls, and when you cast a rhythmancy spell of 1st-level or higher, you can expend one of the instrument's charges to cast the spell at one level higher than the original spell level; for example, casting a 1st-level rhythmancy spell and expending a charge would cast that spell at 2nd-level.
 
-Additionally, as a Magic action, you can expend one ranger spell slot of any level to tap into the music of an unfamiliar environment and learn its underlying structure. For 1 hour per level of the spell slot you expend, or until you end concentration or leave this environment, the environment is considered to be your favored terrain, or if you do not have a ranger feature that grants benefits while in your favored terrain, you instead gain temporary Proficiency and Expertise in Intelligence and Wisdom checks you make related to the terrain.
+Additionally, as a Magic action, you can expend one ranger spell slot of any level to tap into the music of an unfamiliar environment and learn its underlying structure. For 1 hour per level of the spell slot you expend, or until you end concentration or leave this environment, the environment is considered to be your favored terrain, granting you temporary Proficiency and Expertise in Intelligence and Wisdom checks you make related to the terrain.
 
 #### Song of Leaf and Claw
 
