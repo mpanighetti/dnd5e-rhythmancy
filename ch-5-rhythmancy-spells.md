@@ -52,13 +52,12 @@ The spells are presented in alphabetical order.
 
 ### [Ballad of Gales](https://github.com/mpanighetti/dnd5e-spells/blob/main/8th-level/ballad-of-gales.md)
 
-_8th-level conjuration/rhythmancy_
+_8th-level conjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** Touch
 - **Components:** V, S, M (an instrument worth at least 1 gp, a vehicle that you are currently occupying worth at least 10 gp)
 - **Duration:** 1 round
-- **Classes:** Bard
 
 If you occupy a vehicle the entire time you cast this spell, you summon a shimmering portal surrounding the vehicle, and a second portal of the same size at another location on the same plane of existence. If the vehicle is a ship in water, the portals manifest as powerful cyclones in the waters at both locations. The portals remain open until the end of your next turn. Any creature or object that enters one portal, including you and all other creatures and objects aboard the target vehicle, instantly appears within 5 feet of the other portal, or in the nearest unoccupied space if that space is occupied. After the spell ends, the portals fade away.
 
@@ -68,25 +67,23 @@ The act of teleporting the vehicle deals it 8d6 Force damage, ignoring damage th
 
 ### [Ballad of the Dreamer](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/ballad-of-the-dreamer.md)
 
-_Abjuration/rhythmancy cantrip_
+_Abjuration/rhythmancy cantrip_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, M (a seagull's feather; an instrument worth at least 1 gp)
 - **Duration:** 10 minutes
-- **Classes:** Bard
 
 You play a soothing melody that conjures strange memories of a dream-like world. Until the spell ends, magic can't put you to sleep.
 
 ### [Command Melody](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/command-melody.md)
 
-_2nd-level conjuration/rhythmancy (Ritual)_
+_2nd-level conjuration/rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet
 - **Components:** V, S, M (an instrument worth at least 1 gp; objects belonging to you and the target creature worth a total of at least 1 sp which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
-- **Classes:** Bard
 
 You conduct a brief tune for a willing creature within range that can hear you. Until the spell ends, while the target is on the same plane of existence as you, both you and the target are magically linked to each other. A creature can only be linked to one other creature at a time using this spell.
 
@@ -98,13 +95,12 @@ A linked creature can sever this magical link at any time, which ends the spell.
 
 ### [Death's Departure](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/deaths-departure.md)
 
-_4th-level abjuration/rhythmancy_
+_4th-level abjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** Self (30-foot sphere)
 - **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
-- **Classes:** Bard
 
 You perform a melody that repels the walking dead from your immediate vicinity. When an undead creature enters the spell's area of effect for the first time on a turn or starts their turn there, they must make a Wisdom Saving Throw. On a failed save, a creature is Frightened of you for the duration of the spell, or until they leave the spell's area of effect. Creatures that are normally immune to being Frightened have advantage on this Saving Throw but are otherwise not immune to the Frightened condition caused by this spell. Creatures that are immune to being Turned are not affected by this spell.
 
@@ -112,13 +108,12 @@ On each of your turns, you must use a Magic action to continue playing the song.
 
 ### [Duet of Restoration](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/duet-of-restoration.md)
 
-_2nd-level evocation/rhythmancy (Duet)_
+_2nd-level evocation/rhythmancy (Duet)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet (30-foot sphere)
 - **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Instantaneous
-- **Classes:** Bard
 
 You and a partner play an uplifting Duet, targeting a shared location within range. When the spell finishes casting, any creatures that remained within the spells' area of effect for the entire casting and were able to hear the entire composition gain the benefits of a Short Rest. A creature must complete a Long Rest before they can gain this benefit from this song again.
 
@@ -126,13 +121,12 @@ You and a partner play an uplifting Duet, targeting a shared location within ran
 
 ### [Earth God's Lyric](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/earth-gods-lyric.md)
 
-_4th-level evocation/rhythmancy_
+_4th-level evocation/rhythmancy_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** 10 minutes
 - **Range:** Self
 - **Components:** V, S, M (an instrument worth at least 1 gp; a handful of soil from the Elemental Plane of Earth which the spell consumes)
 - **Duration:** 8 hours
-- **Classes:** Bard, Ranger (Wild Composer)
 
 The notes you play resonate with the world under your feet, strengthening your bond to the earth. The spell can only take effect if you maintain contact with the ground the entire time you cast the spell, otherwise it fails.
 
@@ -146,13 +140,12 @@ If you are moved, teleported, or planeshifted against your will, this spell's ef
 
 ### [Elegy of Emptiness](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/elegy-of-emptiness.md)
 
-_2nd-level conjuration/rhythmancy_
+_2nd-level conjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 5 feet
 - **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Until dispelled
-- **Classes:** Bard
 
 You create a duplicate of your body in the form of an empty shell in an unoccupied space within range. This shell is an inanimate object exactly your height, weight, physical size, and body shape. Its appearance is superficially similar to that of your body and facial appearance, as well as any clothing you were wearing and any equipment you were carrying when casting the spell, though this false equipment is part of the shell's form and is not removable. The shell appears to be made of a hard stone-like material when touched. Its false body is fixed in a rigid standing position with its appendages resting at its sides. The shell is indestructible.
 
@@ -160,13 +153,12 @@ A shell based on your form vanishes the next time you cast this spell, unless yo
 
 ### [Equine Tribute](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/equine-tribute.md)
 
-_1st-level conjuration/rhythmancy_
+_1st-level conjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
 - **Components:** V, S, M (a sprig of horse grass; an instrument worth at least 1 gp)
 - **Duration:** Instantaneous
-- **Classes:** Bard
 
 You recant the tale of a great hero's beloved horse companion to endear yourself to a horse with an Intelligence score less than 10 within range; at the Dungeon Master's discretion, you can target a creature other than a horse, as long as they are at least one size category larger than you and have an appropriate anatomy to serve as your mount. If the target is willing, is able to hear you, and remains within range for the entire casting of the spell, they are considered to be your companion.
 
@@ -180,13 +172,12 @@ If your companion is mistreated or harmed by you or any of your allies, or at th
 
 ### [The Hawk's Call](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/the-hawks-call.md)
 
-_Evocation/rhythmancy cantrip_
+_Evocation/rhythmancy cantrip_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (a sprig of hawk grass; an instrument worth at least 1 gp)
 - **Duration:** 1 round
-- **Classes:** Bard
 
 You play a series of sharp tones evoking the shriek of a bird of prey, summoning a spectral bird to slash its talons at a creature of your choice that you can see within range. The bird can take whatever form you choose, then makes a melee spell attack against the target. On a hit, the bird deals 1d4 Piercing damage, and the target has disadvantage on Perception checks and Dexterity Saving Throws they make before the end of their next turn as the bird flies in their face to distract them. On a miss, or at the start of your next turn, the bird disappears, ending the spell.
 
@@ -194,13 +185,12 @@ The spell creates more than one bird when you reach higher levels: two birds at 
 
 ### [The Lost is Found](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/the-lost-is-found.md)
 
-_1st-level divination/rhythmancy (Ritual)_
+_1st-level divination/rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** 1 minute
 - **Range:** Self
 - **Components:** V, S, M (a branch or leaf from a tree you've climbed; an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
-- **Classes:** Bard, Ranger (Wild Composer)
 
 You play a song to yourself that stirs old memories of a childhood friend. Until the spell ends, while you are traveling or exploring within the same environment you were in when casting the spell, you can't become lost except by magical means.
 
@@ -208,13 +198,12 @@ You play a song to yourself that stirs old memories of a childhood friend. Until
 
 ### [Mambo Marino](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/mambo-marino.md)
 
-_3rd-level conjuration/rhythmancy (Ritual)_
+_3rd-level conjuration/rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet
 - **Components:** V, M (a mola scale; an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 8 hours
-- **Classes:** Bard
 
 You create a glowing 10-foot-diameter circle in the surface of a body of water you can see within range. The circle lasts for the spell's duration. At any time before the spell ends, as a Magic action, you and any willing creatures you can see within 30 feet of you can attempt to teleport to the circle. If the circle is more than 1 mile away, or if the circle's space is occupied or cannot accommodate all the creatures you specify, the teleportation fails. Otherwise, any creatures teleported by this spell instantly appear within the circle, and the spell ends.
 
@@ -222,13 +211,12 @@ You create a glowing 10-foot-diameter circle in the surface of a body of water y
 
 ### [Melody of Darkness](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/melody-of-darkness.md)
 
-_5th-level necromancy/rhythmancy_
+_5th-level necromancy/rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** Self (30 foot sphere)
 - **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
-- **Classes:** Bard
 
 You play a disturbing tune that drains the life energy of its listeners. All creatures other than yourself within 30 feet of you that can hear you must succeed on a Wisdom Saving Throw or become Cursed for the duration of the spell. This spell has no effect on undead or constructs.
 
@@ -238,13 +226,12 @@ When you cast this spell, and on each of your turns for the spell's duration if 
 
 ### [Minute Minuet](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/minute-minuet.md)
 
-_4th-level transmutation/rhythmancy_
+_4th-level transmutation/rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 10 minutes
-- **Classes:** Bard
 
 You attempt to diminish a creature you can see within range that can hear you. The target makes a Constitution Saving Throw. On a failed save, until the spell ends, the target's size is reduced to one-fourth of normal in all dimensions, their weight is reduced to one-sixty-fourth of normal, and their size decreases by two categories (e.g. from Large to Small, minimum Tiny). On a successful save, the spell ends.
 
@@ -256,25 +243,23 @@ The spell ends if you are unable to see the target.
 
 ### [New Wave Bossa Nova](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/new-wave-bossa-nova.md)
 
-_3rd-level abjuration/rhythmancy_
+_3rd-level abjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** Self (10-foot sphere)
 - **Components:** V (functions even if you are in an area affected by magical silence), S, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
-- **Classes:** Bard
 
 Until the spell ends, you create a sphere of healing energy that negates the effects of magical silence, such as the _silence_ spell, and the effects of magical darkness, such as the _darkness_ spell. The sphere moves with you. Creatures within this sphere hear normally in magical silence and see normally in magical darkness, and can speak, hear, see, and cast spells normally. Any spells or magical effects causing silence or darkness are not dispelled, but they cannot affect any creatures within the negating sphere. If the negating sphere is contained completely within an area of magical silence or magical darkness, any such magical sound or light stops at the edge of the sphere and cannot travel in or out of it.
 
 ### [Oath to Order](https://github.com/mpanighetti/dnd5e-spells/blob/main/8th-level/oath-to-order.md)
 
-_8th-level abjuration/rhythmancy_
+_8th-level abjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** 8 hours
 - **Range:** Self
 - **Components:** V, S, M (an instrument worth at least 1 gp; a lock of hair from a creature larger than you of Challenge 6 or higher which the spell consumes)
 - **Duration:** 30 days
-- **Classes:** Bard
 
 You call upon the spirits of ancient giants to grant you the ability to repel massive bodies. The spell can only take effect if you maintain contact with the ground the entire time you cast the spell, otherwise it fails.
 
@@ -284,13 +269,12 @@ Manipulating gravity and mass in this manner takes a physical toll on your body.
 
 ### [Peaceful Lullaby](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/peaceful-lullaby.md)
 
-_3rd-level enchantment/rhythmancy_
+_3rd-level enchantment/rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
-- **Classes:** Bard
 
 You play a gentle melody in an attempt to lull a creature that can hear you in range. The target must succeed on a Wisdom Saving Throw or fall asleep and remain Unconscious until the spell ends, the target takes damage, or another creature takes an Action to wake them. Constructs and undead automatically succeed on this Saving Throw.
 
@@ -298,13 +282,12 @@ You play a gentle melody in an attempt to lull a creature that can hear you in r
 
 ### [Repel the Dark](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/repel-the-dark.md)
 
-_2nd-level evocation/rhythmancy_
+_2nd-level evocation/rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 minute
-- **Classes:** Bard
 
 You summon the cleansing power of sunlight, causing creatures of the night to cower in fear. When you cast this spell, all Undead creatures and all creatures with sunlight sensitivity within range that can see you must succeed on a Constitution Saving Throw or become Stunned for the spell's duration. At the end of each of their turns, a creature Stunned by this spell can repeat the Saving Throw, ending the condition on a success.
 
@@ -314,13 +297,12 @@ For the spell's duration, you shed bright light in a 15-foot radius and dim ligh
 
 ### [The River Devil's Lament](https://github.com/mpanighetti/dnd5e-spells/blob/main/6th-level/the-river-devils-lament.md)
 
-_6th-level enchantment/rhythmancy_
+_6th-level enchantment/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
 - **Components:** V, S, M (an instrument worth at least 1 gp; water from a river that flows backward which the spell consumes)
 - **Duration:** 8 hours
-- **Classes:** Bard
 
 You recite the tale of an ancient hero who drove away a great evil, in order to instill lasting terror in a creature you can see within range that can hear you. That creature must make a Wisdom Saving Throw. On a failed save, the target is Cursed for the duration of the spell. While Cursed in this manner, the creature is Frightened of you, and if the creature can see you at the start of their turn, they take 3d10 Psychic damage. Creatures that are normally immune to being Frightened are not immune to the Frightened condition caused by this spell's curse. While the Cursed creature cannot see you, they are Frightened of your last known location.
 
@@ -330,13 +312,12 @@ Each time the creature takes damage (except from this spell's effects), they can
 
 ### [The Royal Decree](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/the-royal-decree.md)
 
-_Enchantment/rhythmancy cantrip_
+_Enchantment/rhythmancy cantrip_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 10 feet
 - **Components:** V, M (a petal from a silent princess flower; an instrument worth at least 1 gp)
 - **Duration:** 1 minute
-- **Classes:** Bard
 
 Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to have Proficiency in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
 
@@ -344,13 +325,12 @@ Your temporary Proficiency in these Charisma checks is further strengthened when
 
 ### [Royal Duet](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/royal-duet.md)
 
-_3rd-level evocation/rhythmancy (Duet)_
+_3rd-level evocation/rhythmancy (Duet)_ (Bard)
 
 - **Casting Time:** 10 minutes
 - **Range:** 10 feet (30-foot sphere)
 - **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** 8 hours
-- **Classes:** Bard
 
 You and a partner play an empowering Duet, targeting a shared location within range. When the spell finishes casting, any creatures who remained within the spells' area of effect for the entire casting and were able to hear the entire composition have advantage on a single d20 test of their choice that they make within the spells' duration.
 
@@ -358,13 +338,12 @@ You and a partner play an empowering Duet, targeting a shared location within ra
 
 ### [Sonata of Awakening](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/sonata-of-awakening.md)
 
-_2nd-level abjuration/rhythmancy_
+_2nd-level abjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, M (an instrument worth at least 1 gp, a bell worth at least 5 gp)
 - **Duration:** Concentration, up to 1 minute
-- **Classes:** Bard
 
 You stir slumbering creatures with rousing music. When you cast this spell, choose up to three creatures within range under the effect of magical sleep that can hear you. The targets, as well as all other naturally Unconscious creatures within range that can hear you, immediately regain consciousness. Until the spell ends, magic can't put creatures within range to sleep, as long as they can still hear you.
 
@@ -372,25 +351,23 @@ You stir slumbering creatures with rousing music. When you cast this spell, choo
 
 ### [Song of Discovery](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/song-of-discovery.md)
 
-_2nd-level divination/rhythmancy (Ritual)_
+_2nd-level divination/rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** 1 minute
 - **Range:** Self (20-foot sphere)
 - **Components:** V, S, M (an instrument worth at least 1 gp, a magnifying glass worth at least 10 gp)
 - **Duration:** Concentration, up to 10 minutes
-- **Classes:** Bard, Ranger (Wild Composer)
 
 You perform a tune that disrupts any concealing magic in the vicinity. Until the spell ends, as a Magic action, you can attempt to reveal Invisible creatures and objects within your spell's area of effect. Make a spellcasting ability check. If there is a spell causing invisibility in your spell's area of effect, the DC equals 10 + the most powerful such spell's level in the area, or if the only invisibility present is caused by another magical effect, the DC is 15. On a success, all magical invisibility in the area of effect is dispelled, and this spell ends immediately. On a failure, or if there is no such magical invisibility nearby, your spell continues, but you gain no special insight into whether this outcome occurred due to failing the check or no viable Invisible creatures or objects being nearby.
 
 ### [Song of Healing](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/song-of-healing.md)
 
-_5th-level evocation/rhythmancy_
+_5th-level evocation/rhythmancy_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** 1 minute
 - **Range:** Self (30-foot sphere)
 - **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Instantaneous
-- **Classes:** Bard, Ranger (Wild Composer)
 
 You channel healing energies through soothing music. All creatures that remain within 30 feet of you for the entire casting time, except for undead or constructs, regain 5d10 Hit Points and are cured of being Blinded, Deafened, and Diseased.
 
@@ -402,13 +379,12 @@ When you cast this spell using a spell slot of 7th-level or higher, the spell al
 
 ### [Song of Passing](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/song-of-passing.md)
 
-_5th-level illusion/rhythmancy_
+_5th-level illusion/rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
-- **Classes:** Bard
 
 You attempt to manipulate the apparent flow of time for a creature you target in range that can hear you. The target must make an Intelligence Saving Throw, and if you are fighting the target, they have advantage on the Saving Throw. On a failed save, until the spell ends, the target believes that time has passed such that it is either just after sunrise or just after sunset (whichever is the sooner of the two events).
 
@@ -420,13 +396,12 @@ After the spell ends, the creature becomes aware that their senses and memories 
 
 ### [Song of Storms](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-storms.md)
 
-_1st-level evocation/rhythmancy_
+_1st-level evocation/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 120 feet (1 mile if cast outdoors)
 - **Components:** V, S, M (a pebble or stone worn smooth by water used to forecast rainy weather; an instrument worth at least 1 gp)
 - **Duration:** Concentration, up to 1 hour
-- **Classes:** Bard
 
 You summon a storm cloud that is 10 feet tall with a 20-foot radius, centered on a point you can see within range directly above you. The spell fails if you can't see a point in the air where the storm cloud could appear (for example, if you are in a room that can't accommodate the cloud).
 
@@ -436,13 +411,12 @@ If you are outdoors in a light rain when you cast this spell, the spell affects 
 
 ### [Song of Time](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-time.md)
 
-_1st-level abjuration/rhythmancy_
+_1st-level abjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S, M (an instrument worth at least 1 gp)
 - **Duration:** 10 minutes
-- **Classes:** Bard
 
 You adjust the flow of time around you, granting you the ability to correct a recent mistake. Until this spell ends, if you fail on an attack roll, ability check, or Saving Throw, as a Reaction, you can immediately roll a d20 and take the greater of the two results. The first time you fail a check using this spell effect, the spell ends.
 
@@ -460,13 +434,12 @@ If desired, you can alter the performance of the Song of Time to a related compo
 
 ### [Space Warp](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/space-warp.md)
 
-_4th-level conjuration/rhythmancy (Ritual)_
+_4th-level conjuration/rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 10 minutes
 - **Range:** 10 feet
 - **Components:** V, S, M (an instrument worth at least 1 gp; an object that was present when the target creature lost consciousness at the spell's destination which the spell consumes)
 - **Duration:** Instantaneous
-- **Classes:** Bard
 
 You play a prolonged melody, targeting a willing creature you can see within range and concentrating on a location where the target creature previously was Unconscious, including due to normal or magical sleep. Space then shifts around the target creature, causing them to teleport to a safe location on the outskirts or outside the entrance to your destination.
 
@@ -474,13 +447,12 @@ You play a prolonged melody, targeting a willing creature you can see within ran
 
 ### [Soulful Croak](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/soulful-croak.md)
 
-_4th-level necromancy/rhythmancy_
+_4th-level necromancy/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 hour
 - **Range:** 20 feet
 - **Components:** V, S, M (a recently deceased frog; an instrument worth at least 1 gp; a gold crown worth at least 300 gp which the spell consumes unless the spell targeted or raised an undead creature)
 - **Duration:** Instantaneous
-- **Classes:** Bard
 
 You attempt to influence the life energy of a corpse or undead creature you can see within range. Make a spellcasting ability check. The target regains all of their Hit Points, then undergoes additional effects depending on the nature of the target and the result of your check:
 
@@ -500,13 +472,12 @@ On a successful save, or if the Charmed condition on the undead creature ends, t
 
 ### [Summoning of the Scarecrow](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/summoning-of-the-scarecrow.md)
 
-_1st-level conjuration/rhythmancy_
+_1st-level conjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 120 feet
 - **Components:** V, S, M (a handful of straw; an instrument worth at least 1 gp)
 - **Duration:** Instantaneous
-- **Classes:** Bard
 
 A Medium-sized inanimate scarecrow appears anchored to the ground in an unoccupied space you can see within range. The destination must have at least enough space to accommodate the scarecrow, or the spell fails.
 
@@ -514,13 +485,12 @@ The scarecrow can act as a target for a thrown grappling hook or similar equipme
 
 ### [Tune of Ages](https://github.com/mpanighetti/dnd5e-spells/blob/main/7th-level/tune-of-ages.md)
 
-_7th-level conjuration/rhythmancy_
+_7th-level conjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 hour
 - **Range:** 30 feet
 - **Components:** V, S, M (a magic item or a willing creature from the destination time period; an instrument worth at least 1 gp)
 - **Duration:** Instantaneous
-- **Classes:** Bard
 
 You and up to eight willing creatures within range are removed from your current time period and appear in the same physical location in another time period you choose.
 
@@ -528,13 +498,12 @@ The selected time period must at least specify the destination year, but can be 
 
 ### [Tune of Currents](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/tune-of-currents.md)
 
-_5th-level abjuration/rhythmancy_
+_5th-level abjuration/rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
 - **Components:** V, M (an instrument worth at least 1 gp; an item that tells time worth 200 gp which the spell consumes)
 - **Duration:** Instantaneous
-- **Classes:** Bard
 
 You attempt to restore the normal flow of time for a creature within range. This spell can potentially remove the following temporal effects from the target:
 
@@ -550,13 +519,12 @@ For each spell of a level higher than the spell slot you used, make an ability c
 
 ### [Tune of Echoes](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/tune-of-echoes.md)
 
-_3rd-level divination/rhythmancy (Ritual)_
+_3rd-level divination/rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** Self
 - **Components:** V, S, M (an instrument worth at least 1 gp, a harp string spun from gold worth 25 gp)
 - **Duration:** Concentration, up to 10 minutes
-- **Classes:** Bard
 
 You create an image in the air 10 feet in front of you depicting your current general location from a previous point in time. When you cast the spell, you decide whether the spell depicts a moment of historical significance, or a more specific moment in time you specify. If a moment of historical significance is selected, the Dungeon Master picks the moment to depict, and if no historically significant moment has occurred in this location, the DM can depict any other moment in the past for the same location. If you pick a specific moment, you can be as vague or concrete as you like in your description of the moment, and the spell will attempt to reasonably carry out your request.
 
@@ -566,13 +534,12 @@ Any number of times before the spell ends, as a Magic action, you can spend an a
 
 ### [Wind God's Aria](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/wind-gods-aria.md)
 
-_4th-level evocation/rhythmancy_
+_4th-level evocation/rhythmancy_ (Bard)
 
 - **Casting Time:** 10 minutes
 - **Range:** Self
 - **Components:** V, S, M (an instrument worth at least 1 gp; a vial of air from the Elemental Plane of Air which the spell consumes)
 - **Duration:** 8 hours
-- **Classes:** Bard
 
 The notes you play resonate with the air around you, lifting you upward and granting you free movement.
 
@@ -584,13 +551,12 @@ If you are successfully forced to the ground against your will for 1 minute or l
 
 ### [Wind's Requiem](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/winds-requiem.md)
 
-_3rd-level conjuration/rhythmancy (Ritual)_
+_3rd-level conjuration/rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, M (an instrument worth at least 1 gp; a piece of cloth from a ship's sail which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
-- **Classes:** Bard, Ranger (Wild Composer)
 
 You create an unnatural strong wind at your back, overriding any existing wind direction affecting you. Until the spell ends, your jumping distance is tripled, and while you are on the deck of a sailing ship, it moves as if it is sailing with the wind. While concentrating on this spell, at the end of each of your turns, you can select a new direction for the winds around you to blow.
 
