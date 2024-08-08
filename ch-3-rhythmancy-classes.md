@@ -39,7 +39,7 @@ Starting at 11th level, when gaining temporary rhythmancy points using this feat
 
 _14th-level College of Legends feature_
 
-You have mastered unlocking hidden or lost ancient secrets. You learn the _legend lore_ spell, or another bard spell of your choice from the divination school for which you are eligible if you already know _legend lore_. This spell doesn't count against the number of bard spells you know. When you cast _legend lore_ using rhythmancy points, the casting time is 1 Action, and you replace its material component requirements with an instrument worth at least 1 gp.
+You have mastered unlocking hidden or lost ancient secrets. You learn the _legend lore_ spell, or another bard spell of your choice from the Divination school for which you are eligible if you already know _legend lore_. This spell doesn't count against the number of bard spells you know. When you cast _legend lore_ using rhythmancy points, the casting time is 1 Action, and you replace its material component requirements with an instrument worth at least 1 gp.
 
 ## Ranger
 
