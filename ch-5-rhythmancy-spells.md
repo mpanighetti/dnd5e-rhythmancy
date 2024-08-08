@@ -1,8 +1,8 @@
 # Chapter 5: Rhythmancy Spells
 
-This section contains new spells developed through the musical study of rhythmancy. These spells are available to the bard class, as well as other spellcasting classes with the Dungeon Master's consent (see "Rhythmancy Spells for Other Classes"). The **Rhythmancy Spells** table lists the new spells, ordering them by level. The table also notes the schools of magic of a spell, whether it bears any tags, and which classes have access to it.
+This section contains new spells developed through the musical study of Rhythmancy. These spells are available to the bard class, as well as other spellcasting classes with the Dungeon Master's consent (see "Rhythmancy Spells for Other Classes"). The **Rhythmancy Spells** table lists the new spells, ordering them by level. The table also notes the schools of magic of a spell, whether it bears any tags, and which classes have access to it.
 
-In some cases, multiple rhythmancy spells are learned as a single song, existing as alternate versions of a composition and applying their unique effects only when cast at a higher level. Such spells are labeled with shared footnote markers on this list for reference; see the description for the lowest-level version of the spell for all the other spells' effects.
+In some cases, multiple Rhythmancy spells are learned as a single song, existing as alternate versions of a composition and applying their unique effects only when cast at a higher level. Such spells are labeled with shared footnote markers on this list for reference; see the description for the lowest-level version of the spell for all the other spells' effects.
 
 ##### Rhythmancy Spells
 | Level | Spell | School | Class | Tags |
@@ -44,7 +44,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 8th | _[Ballad of Gales](#ballad-of-gales)_ | Conjuration/Rhythmancy | Bard | |
 | 8th | _[Oath to Order](#oath-to-order)_ | Abjuration/Rhythmancy | Bard | |
 
-[^🪈]: These rhythmancy songs are grouped as the _Song of Time_.
+[^🪈]: These Rhythmancy songs are grouped as the _Song of Time_.
 
 ## Spell Descriptions
 
@@ -528,7 +528,7 @@ _3rd-level Divination/Rhythmancy (Ritual)_ (Bard)
 
 You create an image in the air 10 feet in front of you depicting your current general location from a previous point in time. When you cast the spell, you decide whether the spell depicts a moment of historical significance, or a more specific moment in time you specify. If a moment of historical significance is selected, the Dungeon Master picks the moment to depict, and if no historically significant moment has occurred in this location, the DM can depict any other moment in the past for the same location. If you pick a specific moment, you can be as vague or concrete as you like in your description of the moment, and the spell will attempt to reasonably carry out your request.
 
-For the duration of the spell, the image plays out the selected moment in real time. The image can display any location within 100 feet of where the spell was cast, switching focus as needed to depict the selected moment as fully as possible. You can see and hear through the image as if you were present at that point in time. If, at any point during the playback of the selected moment, a magical effect was present which blocked detection through divination magic or being perceived through magical scrying sensors (such as with the _nondetection_ spell), the image becomes unfocused and the sound becomes distorted until such a time that the magical effect ended or was not present.
+For the duration of the spell, the image plays out the selected moment in real time. The image can display any location within 100 feet of where the spell was cast, switching focus as needed to depict the selected moment as fully as possible. You can see and hear through the image as if you were present at that point in time. If, at any point during the playback of the selected moment, a magical effect was present which blocked detection through Divination magic or being perceived through magical scrying sensors (such as with the _nondetection_ spell), the image becomes unfocused and the sound becomes distorted until such a time that the magical effect ended or was not present.
 
 Any number of times before the spell ends, as a Magic action, you can spend an additional spell slot of any level to extend the spell's duration by a number of minutes equal to ten times the slot level.
 

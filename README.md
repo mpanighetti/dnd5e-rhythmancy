@@ -1,8 +1,8 @@
 # Rhythmancy: The Magic of Music
 
-**Rhythmancy** is a fundamental aspect of magic that is summoned through the performance of music. Though it is sometimes considered an independent school of magical study, rhythmancy spells all align with various existing schools and can potentially be learned by any arcane practitioners — if they know where to look.
+**Rhythmancy** is a fundamental aspect of magic that is summoned through the performance of music. Though it is sometimes considered an independent school of magical study, Rhythmancy spells all align with various existing schools and can potentially be learned by any arcane practitioners — if they know where to look.
 
-This document includes a list of 5e class options, feats, spells, and magic items utilizing rhythmancy.
+This document includes a list of 5e class options, feats, spells, and magic items utilizing Rhythmancy.
 
 ## Table of Contents
 
