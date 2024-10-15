@@ -52,7 +52,7 @@ The spells are presented in alphabetical order.
 
 ### [Ballad of Gales](https://github.com/mpanighetti/dnd5e-spells/blob/main/8th-level/ballad-of-gales.md)
 
-_8th-level Conjuration/Rhythmancy_ (Bard)
+_Level 8 Conjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -67,7 +67,7 @@ The act of teleporting the vehicle deals it 8d6 Force damage, ignoring damage th
 
 ### [Ballad of the Dreamer](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/ballad-of-the-dreamer.md)
 
-_Abjuration/Rhythmancy cantrip_ (Bard)
+_Abjuration/Rhythmancy Cantrip_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** Self
@@ -78,7 +78,7 @@ You play a soothing melody that conjures strange memories of a dream-like world.
 
 ### [Command Melody](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/command-melody.md)
 
-_2nd-level Conjuration/Rhythmancy (Ritual)_ (Bard)
+_Level 2 Conjuration/Rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet
@@ -95,7 +95,7 @@ A linked creature can sever this magical link at any time, which ends the spell.
 
 ### [Death's Departure](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/deaths-departure.md)
 
-_4th-level Abjuration/Rhythmancy_ (Bard)
+_Level 4 Abjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** Self (30-foot sphere)
@@ -108,7 +108,7 @@ On each of your turns, you must use a Magic action to continue playing the song.
 
 ### [Duet of Restoration](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/duet-of-restoration.md)
 
-_2nd-level Evocation/Rhythmancy (Duet)_ (Bard)
+_Level 2 Evocation/Rhythmancy (Duet)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet (30-foot sphere)
@@ -121,7 +121,7 @@ You and a partner play an uplifting Duet, targeting a shared location within ran
 
 ### [Earth God's Lyric](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/earth-gods-lyric.md)
 
-_4th-level Evocation/Rhythmancy_ (Bard, Ranger (Wild Composer))
+_Level 4 Evocation/Rhythmancy_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** 10 minutes
 - **Range:** Self
@@ -140,7 +140,7 @@ If you are moved, teleported, or planeshifted against your will, this spell's ef
 
 ### [Elegy of Emptiness](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/elegy-of-emptiness.md)
 
-_2nd-level Conjuration/Rhythmancy_ (Bard)
+_Level 2 Conjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 5 feet
@@ -153,7 +153,7 @@ A shell based on your form vanishes the next time you cast this spell, unless yo
 
 ### [Equine Tribute](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/equine-tribute.md)
 
-_1st-level Conjuration/Rhythmancy_ (Bard)
+_Level 1 Conjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
@@ -172,7 +172,7 @@ If your companion is mistreated or harmed by you or any of your allies, or at th
 
 ### [The Hawk's Call](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/the-hawks-call.md)
 
-_Evocation/Rhythmancy cantrip_ (Bard)
+_Evocation/Rhythmancy Cantrip_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
@@ -185,7 +185,7 @@ The spell creates more than one bird when you reach higher levels: two birds at 
 
 ### [The Lost is Found](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/the-lost-is-found.md)
 
-_1st-level Divination/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
+_Level 1 Divination/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** 1 minute
 - **Range:** Self
@@ -198,7 +198,7 @@ You play a song to yourself that stirs old memories of a childhood friend. Until
 
 ### [Mambo Marino](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/mambo-marino.md)
 
-_3rd-level Conjuration/Rhythmancy (Ritual)_ (Bard)
+_Level 3 Conjuration/Rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet
@@ -211,7 +211,7 @@ You create a glowing 10-foot-diameter circle in the surface of a body of water y
 
 ### [Melody of Darkness](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/melody-of-darkness.md)
 
-_5th-level Necromancy/Rhythmancy_ (Bard)
+_Level 5 Necromancy/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** Self (30 foot sphere)
@@ -226,7 +226,7 @@ When you cast this spell, and on each of your turns for the spell's duration if 
 
 ### [Minute Minuet](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/minute-minuet.md)
 
-_4th-level Transmutation/Rhythmancy_ (Bard)
+_Level 4 Transmutation/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
@@ -243,7 +243,7 @@ The spell ends if you are unable to see the target.
 
 ### [New Wave Bossa Nova](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/new-wave-bossa-nova.md)
 
-_3rd-level Abjuration/Rhythmancy_ (Bard)
+_Level 3 Abjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** Self (10-foot sphere)
@@ -254,7 +254,7 @@ Until the spell ends, you create a sphere of healing energy that negates the eff
 
 ### [Oath to Order](https://github.com/mpanighetti/dnd5e-spells/blob/main/8th-level/oath-to-order.md)
 
-_8th-level Abjuration/Rhythmancy_ (Bard)
+_Level 8 Abjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 8 hours
 - **Range:** Self
@@ -269,7 +269,7 @@ Manipulating gravity and mass in this manner takes a physical toll on your body.
 
 ### [Peaceful Lullaby](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/peaceful-lullaby.md)
 
-_3rd-level Enchantment/Rhythmancy_ (Bard)
+_Level 3 Enchantment/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
@@ -282,7 +282,7 @@ You play a gentle melody in an attempt to lull a creature that can hear you in r
 
 ### [Repel the Dark](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/repel-the-dark.md)
 
-_2nd-level Evocation/Rhythmancy_ (Bard)
+_Level 2 Evocation/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
@@ -297,7 +297,7 @@ For the spell's duration, you shed bright light in a 15-foot radius and dim ligh
 
 ### [The River Devil's Lament](https://github.com/mpanighetti/dnd5e-spells/blob/main/6th-level/the-river-devils-lament.md)
 
-_6th-level Enchantment/Rhythmancy_ (Bard)
+_Level 6 Enchantment/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
@@ -312,7 +312,7 @@ Each time the creature takes damage (except from this spell's effects), they can
 
 ### [The Royal Decree](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/the-royal-decree.md)
 
-_Enchantment/Rhythmancy cantrip_ (Bard)
+_Enchantment/Rhythmancy Cantrip_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 10 feet
@@ -325,7 +325,7 @@ Your temporary Proficiency in these Charisma checks is further strengthened when
 
 ### [Royal Duet](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/royal-duet.md)
 
-_3rd-level Evocation/Rhythmancy (Duet)_ (Bard)
+_Level 3 Evocation/Rhythmancy (Duet)_ (Bard)
 
 - **Casting Time:** 10 minutes
 - **Range:** 10 feet (30-foot sphere)
@@ -338,7 +338,7 @@ You and a partner play an empowering Duet, targeting a shared location within ra
 
 ### [Sonata of Awakening](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/sonata-of-awakening.md)
 
-_2nd-level Abjuration/Rhythmancy_ (Bard)
+_Level 2 Abjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
@@ -351,7 +351,7 @@ You stir slumbering creatures with rousing music. When you cast this spell, choo
 
 ### [Song of Discovery](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/song-of-discovery.md)
 
-_2nd-level Divination/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
+_Level 2 Divination/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** 1 minute
 - **Range:** Self (20-foot sphere)
@@ -362,7 +362,7 @@ You perform a tune that disrupts any concealing magic in the vicinity. Until the
 
 ### [Song of Healing](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/song-of-healing.md)
 
-_5th-level Evocation/Rhythmancy_ (Bard, Ranger (Wild Composer))
+_Level 5 Evocation/Rhythmancy_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** 1 minute
 - **Range:** Self (30-foot sphere)
@@ -379,7 +379,7 @@ When you cast this spell using a spell slot of 7th-level or higher, the spell al
 
 ### [Song of Passing](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/song-of-passing.md)
 
-_5th-level Illusion/Rhythmancy_ (Bard)
+_Level 5 Illusion/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
@@ -396,7 +396,7 @@ After the spell ends, the creature becomes aware that their senses and memories 
 
 ### [Song of Storms](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-storms.md)
 
-_1st-level Evocation/Rhythmancy_ (Bard)
+_Level 1 Evocation/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 120 feet (1 mile if cast outdoors)
@@ -411,7 +411,7 @@ If you are outdoors in a light rain when you cast this spell, the spell affects 
 
 ### [Song of Time](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-time.md)
 
-_1st-level Abjuration/Rhythmancy_ (Bard)
+_Level 1 Abjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** Self
@@ -434,7 +434,7 @@ If desired, you can alter the performance of the Song of Time to a related compo
 
 ### [Space Warp](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/space-warp.md)
 
-_4th-level Conjuration/Rhythmancy (Ritual)_ (Bard)
+_Level 4 Conjuration/Rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 10 minutes
 - **Range:** 10 feet
@@ -447,7 +447,7 @@ You play a prolonged melody, targeting a willing creature you can see within ran
 
 ### [Soulful Croak](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/soulful-croak.md)
 
-_4th-level Necromancy/Rhythmancy_ (Bard)
+_Level 4 Necromancy/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 hour
 - **Range:** 20 feet
@@ -472,7 +472,7 @@ On a successful save, or if the Charmed condition on the undead creature ends, t
 
 ### [Summoning of the Scarecrow](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/summoning-of-the-scarecrow.md)
 
-_1st-level Conjuration/Rhythmancy_ (Bard)
+_Level 1 Conjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 120 feet
@@ -485,7 +485,7 @@ The scarecrow can act as a target for a thrown grappling hook or similar equipme
 
 ### [Tune of Ages](https://github.com/mpanighetti/dnd5e-spells/blob/main/7th-level/tune-of-ages.md)
 
-_7th-level Conjuration/Rhythmancy_ (Bard)
+_Level 7 Conjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 hour
 - **Range:** 30 feet
@@ -498,7 +498,7 @@ The selected time period must at least specify the destination year, but can be 
 
 ### [Tune of Currents](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/tune-of-currents.md)
 
-_5th-level Abjuration/Rhythmancy_ (Bard)
+_Level 5 Abjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
@@ -519,7 +519,7 @@ For each spell of a level higher than the spell slot you used, make an ability c
 
 ### [Tune of Echoes](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/tune-of-echoes.md)
 
-_3rd-level Divination/Rhythmancy (Ritual)_ (Bard)
+_Level 3 Divination/Rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** Self
@@ -534,7 +534,7 @@ Any number of times before the spell ends, as a Magic action, you can spend an a
 
 ### [Wind God's Aria](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/wind-gods-aria.md)
 
-_4th-level Evocation/Rhythmancy_ (Bard)
+_Level 4 Evocation/Rhythmancy_ (Bard)
 
 - **Casting Time:** 10 minutes
 - **Range:** Self
@@ -551,7 +551,7 @@ If you are successfully forced to the ground against your will for 1 minute or l
 
 ### [Wind's Requiem](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/winds-requiem.md)
 
-_3rd-level Conjuration/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
+_Level 3 Conjuration/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** Action
 - **Range:** Self
