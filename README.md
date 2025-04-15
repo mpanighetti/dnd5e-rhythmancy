@@ -1,8 +1,8 @@
 # Rhythmancy: The Magic of Music
 
-**Rhythmancy** is a fundamental aspect of magic that is summoned through the performance of music. Though it is sometimes considered an independent school of magical study, Rhythmancy spells all align with various existing schools and can potentially be learned by any arcane practitioners — if they know where to look.
+**Rhythmancy** is a fundamental aspect of magic that is summoned through the performance of music. Though it is sometimes considered an independent school of magical study, rhythmancy spells all align with various existing schools and can potentially be learned by any arcane practitioners — if they know where to look.
 
-This document includes a list of 5e class options, feats, spells, and magic items utilizing Rhythmancy.
+This document includes a list of class options, feats, spells, and magic items utilizing rhythmancy.
 
 ## Table of Contents
 
@@ -29,9 +29,9 @@ This work is compatible with Dungeons & Dragons 5th Edition. It makes the follow
 - To ensure compatibility with characters created using either _Systems Reference Document 5.1_ or _5.2_, base-level class and subclass features in this document do not include a level requirement, unless they have additional feature dependencies. You gain such features as soon as you select the corresponding class or subclass.
 - "Species" is used in place of "race". "Ancestry" or "variant" is used in place of "subrace".
 - "Focus Points" is used in place of "Ki Points".
-- This document uses new traits called **Condition Resistance** and **Condition Vulnerability**. Resistance to a condition means that a creature has Advantage on saving throws made to resist that condition, and vulnerability to a condition means that a creature has Disadvantage on such saving throws.
-- Damage and condition resistances, vulnerabilities, and immunities are grouped together in features and stat blocks as **Resistances**, **Vulnerabilities**, and **Immunities** respectively.
-- Resistance, vulnerability, and immunity to Poison apply to both the damage type and the Poisoned condition.
+- This document uses new traits called **Condition Resistance** and **Condition Vulnerability**. Resistance to a condition means that a creature has Advantage on saving throws made to avoid that condition, and Vulnerability to a condition means that a creature has Disadvantage on such saving throws.
+- Damage and Condition Resistances, Vulnerabilities, and Immunities are grouped together in features and stat blocks as **Resistances**, **Vulnerabilities**, and **Immunities** respectively.
+- Resistance, Vulnerability, and Immunity to Poison apply to both the damage type and the Poisoned condition.
 
 ## License
 
