@@ -33,14 +33,18 @@ This work is compatible with Dungeons & Dragons 5th Edition. It makes the follow
 - Damage and Condition Resistances, Vulnerabilities, and Immunities are grouped together in features and stat blocks as **Resistances**, **Vulnerabilities**, and **Immunities** respectively.
 - Resistance, Vulnerability, and Immunity to Poison apply to both the damage type and the Poisoned condition.
 
-## License
+## Licensing
 
-_Rhythmancy: The Magic of Music_ is © 2022 Mario Panighetti. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+_Rhythmancy: The Magic of Music_ is © 2022 Mario Panighetti. This work is licensed via [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
-Certain materials are included under fair use exemption of the U.S. Copyright Law and are restricted from further use. These materials, including references to game mechanics, are not approved or endorsed by Wizards of the Coast and do not constitute any license or agreement with Wizards of the Coast.
+### Licensed Content
+
+_[System Reference Document 5.1](https://dndbeyond.com/srd#SystemReferenceDocumentv51)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+_[System Reference Document 5.2](https://www.dndbeyond.com/srd#SystemReferenceDocumentv52)_ ("SRD 5.2") © 2025 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 ## Third-Party Content References
 
-_[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+The materials below are referenced under fair use exemption of the U.S. Copyright Law and are restricted from further use. These materials, including references to game mechanics, are not approved or endorsed by the copyright holders and do not constitute any license or agreement with the copyright holders.
 
 _Explorer's Guide to Wildemount_ © 2020 Wizards of the Coast LLC.
