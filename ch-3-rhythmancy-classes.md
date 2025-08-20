@@ -6,7 +6,7 @@ This section includes two new subclass options with abilities centered around th
 
 At 3rd level, a bard gains the choice of a subclass. The following option is made available to you when making that choice: the College of Legends.
 
-### [College of Legends](https://github.com/mpanighetti/dnd5e-classes/blob/main/srd/bard/college-of-legends.md)
+### College of Legends
 
 Though all bards have the ability to learn rhythmancy spells, practitioners of the College of Legends have built entire careers out of unlocking the magic sealed within these songs. These bards are often sought out as teachers to aid new students in their rhythmantic studies, passing on what they learned from their own masters of the craft.
 
@@ -37,7 +37,7 @@ You have mastered unlocking hidden or lost ancient secrets. You learn the _Legen
 
 At 3rd level, a ranger gains the choice of a subclass. The following option is made available to you when making that choice: the Wild Composer.
 
-### [Wild Composer](https://github.com/mpanighetti/dnd5e-classes/blob/main/srd/ranger/wild-composer.md)
+### Wild Composer
 
 > You know there's rhythm all around us: the waves break in rhythm, people walk in rhythm, people breathe in rhythm, too. People work in rhythm! The whole world is made up of rhythm.
 >
