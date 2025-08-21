@@ -13,7 +13,7 @@ This section presents a sampling of feats appropriate for a campaign featuring r
 
 The feats are presented in alphabetical order.
 
-### [Rhythmancy Adept](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/general-feats/rhythmancy-adept.md)
+### Rhythmancy Adept
 
 _General Feat (Prerequisite: Level 4+, Rhythmancy Initiate Feat)_
 
@@ -25,7 +25,7 @@ _**Spells.**_ Choose either one level 2 rhythmancy spell or two level 1 rhythman
 
 _**Natural Performer.**_ Choose one of the following skills: Deception, Intimidation, Performance, or Persuasion. If you lack proficiency in the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
 
-### [Rhythmancy Initiate](https://github.com/mpanighetti/dnd5e-feats/blob/main/feats/origin-feats/rhythmancy-initiate.md)
+### Rhythmancy Initiate
 
 _Origin Feat_
 

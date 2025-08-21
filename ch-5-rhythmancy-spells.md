@@ -50,7 +50,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 
 The spells are presented in alphabetical order.
 
-### [Ballad of Gales](https://github.com/mpanighetti/dnd5e-spells/blob/main/8th-level/ballad-of-gales.md)
+### Ballad of Gales
 
 _Level 8 Conjuration/Rhythmancy_ (Bard)
 
@@ -65,7 +65,7 @@ You must have seen or been physically present at the destination at least once b
 
 The act of teleporting the vehicle deals it 8d6 Force damage, ignoring damage thresholds.
 
-### [Ballad of the Dreamer](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/ballad-of-the-dreamer.md)
+### Ballad of the Dreamer
 
 _Abjuration/Rhythmancy Cantrip_ (Bard)
 
@@ -76,7 +76,7 @@ _Abjuration/Rhythmancy Cantrip_ (Bard)
 
 You play a soothing melody that conjures strange memories of a dream-like world. Until the spell ends, magic can't put you to sleep.
 
-### [Command Melody](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/command-melody.md)
+### Command Melody
 
 _Level 2 Conjuration/Rhythmancy (Ritual)_ (Bard)
 
@@ -93,7 +93,7 @@ If a creature casts a spell with a range of touch, their link can deliver the sp
 
 A linked creature can sever this magical link at any time, which ends the spell.
 
-### [Death's Departure](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/deaths-departure.md)
+### Death's Departure
 
 _Level 4 Abjuration/Rhythmancy_ (Bard)
 
@@ -106,7 +106,7 @@ You perform a melody that repels the walking dead from your immediate vicinity. 
 
 On each of your turns, you must use a Magic action to continue playing the song. The spell ends if you don't take this Magic action by the end of your turn.
 
-### [Duet of Restoration](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/duet-of-restoration.md)
+### Duet of Restoration
 
 _Level 2 Evocation/Rhythmancy (Duet)_ (Bard)
 
@@ -119,7 +119,7 @@ You and a partner play an uplifting Duet, targeting a shared location within ran
 
 **At Higher Levels.** When you and your partner both cast this spell at level 3 or higher, all creatures that gained the benefits of a Short Rest from this spell also gain a number of Temporary Hit Points equal to twice the spells' combined levels; for example, if both spells are cast at level 3, a creature gains 12 Temporary Hit Points, or (3 + 3) × 2.
 
-### [Earth God's Lyric](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/earth-gods-lyric.md)
+### Earth God's Lyric
 
 _Level 4 Evocation/Rhythmancy_ (Bard, Ranger (Wild Composer))
 
@@ -138,7 +138,7 @@ If a creature attempts to teleport or planeshift you against your will and they 
 
 If you are moved, teleported, or planeshifted against your will, this spell's effects are suspended until the relocation is complete, after which you are once again tethered to whatever ground you are touching. If you are successfully separated from the ground against your will for 1 minute or longer, the spell ends.
 
-### [Elegy of Emptiness](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/elegy-of-emptiness.md)
+### Elegy of Emptiness
 
 _Level 2 Conjuration/Rhythmancy_ (Bard)
 
@@ -151,7 +151,7 @@ You create a duplicate of your body in the form of an empty shell in an unoccupi
 
 A shell based on your form vanishes the next time you cast this spell, unless your body is in a different form when casting the spell (such as being shapeshifted or polymorphed), in which case a unique shell is created based on your different form. If you create a new shell and a number of shells up to your Proficiency Bonus already exist, the oldest shell vanishes.
 
-### [Equine Tribute](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/equine-tribute.md)
+### Equine Tribute
 
 _Level 1 Conjuration/Rhythmancy_ (Bard)
 
@@ -170,7 +170,7 @@ If your companion is mistreated or harmed by you or any of your allies, or at th
 
 **At Higher Levels.** When you cast this spell to summon your companion using a Spell Slot of 2nd-level or higher, they gain a number of Temporary Hit Points equal to five times the Spell Slot level.
 
-### [The Hawk's Call](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/the-hawks-call.md)
+### The Hawk's Call
 
 _Evocation/Rhythmancy Cantrip_ (Bard)
 
@@ -183,7 +183,7 @@ You play a series of sharp tones evoking the shriek of a bird of prey, summoning
 
 The spell creates more than one bird when you reach higher levels: two birds at 5th level, three birds at 11th level, and four birds at 17th level. You can direct the birds at the same target or at different ones. Make a separate attack roll for each bird. The spell ends at the start of your next turn or if all the birds disappear.
 
-### [The Lost is Found](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/the-lost-is-found.md)
+### The Lost is Found
 
 _Level 1 Divination/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
@@ -196,7 +196,7 @@ You play a song to yourself that stirs old memories of a childhood friend. Until
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd-level or higher, the duration increases to a number of hours equal to the spell slot level. Additionally, until the spell ends, if magical effects cause you to become lost, as a Magic action, you can attempt to identify a valid route to take for a specific intended destination on the same plane of existence as you. Make a spellcasting ability check contested by a DC equal to 10 + the other spell's level (or DC 15 if caused by another magical effect). On a success, the magical effects obfuscating your travel are suppressed for the duration of the spell, during which time the shortest and most direct route to your destination (but not necessarily the safest route) is drawn out as a spectral golden wire on the ground. On a failed check, the spell ends immediately.
 
-### [Mambo Marino](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/mambo-marino.md)
+### Mambo Marino
 
 _Level 3 Conjuration/Rhythmancy (Ritual)_ (Bard)
 
@@ -209,7 +209,7 @@ You create a glowing 10-foot-diameter circle in the surface of a body of water y
 
 **At Higher Levels.** When you cast this spell at level 4 or higher, the diameter of the glowing circle you create increases by 10 feet per additional spell level, the duration increases (1 day at level 5, 1 week at level 7, or 1 month at level 9), and when you cast this spell at level 7 or higher, it lasts for the full duration. Additionally, if you cast this spell again before the duration ends, any circles that existed from your previous casting of the spell continue to function and inherit the new duration, unless you are more than 1 mile away from an existing circle, in which case all such circles disappear. While multiple circles exist, you can choose any of them as a destination when teleporting using this spell.
 
-### [Melody of Darkness](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/melody-of-darkness.md)
+### Melody of Darkness
 
 _Level 5 Necromancy/Rhythmancy_ (Bard)
 
@@ -224,7 +224,7 @@ When you cast this spell, and on each of your turns for the spell's duration if 
 
 **At Higher Levels.** When you cast this spell at level 6 or higher, creatures Cursed by this spell take an additional 1d6 Necrotic damage for each additional spell level.
 
-### [Minute Minuet](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/minute-minuet.md)
+### Minute Minuet
 
 _Level 4 Transmutation/Rhythmancy_ (Bard)
 
@@ -241,7 +241,7 @@ While reduced in this manner, the target's speed is halved; they have disadvanta
 
 The spell ends if you are unable to see the target.
 
-### [New Wave Bossa Nova](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/new-wave-bossa-nova.md)
+### New Wave Bossa Nova
 
 _Level 3 Abjuration/Rhythmancy_ (Bard)
 
@@ -252,7 +252,7 @@ _Level 3 Abjuration/Rhythmancy_ (Bard)
 
 Until the spell ends, you create a sphere of healing energy that negates the effects of magical silence, such as the _silence_ spell, and the effects of magical darkness, such as the _darkness_ spell. The sphere moves with you. Creatures within this sphere hear normally in magical silence and see normally in magical darkness, and can speak, hear, see, and cast spells normally. Any spells or magical effects causing silence or darkness are not dispelled, but they cannot affect any creatures within the negating sphere. If the negating sphere is contained completely within an area of magical silence or magical darkness, any such magical sound or light stops at the edge of the sphere and cannot travel in or out of it.
 
-### [Oath to Order](https://github.com/mpanighetti/dnd5e-spells/blob/main/8th-level/oath-to-order.md)
+### Oath to Order
 
 _Level 8 Abjuration/Rhythmancy_ (Bard)
 
@@ -267,7 +267,7 @@ Until the spell ends, as a Magic action, you can target a creature or object wit
 
 Manipulating gravity and mass in this manner takes a physical toll on your body. Each time you attempt to repel a creature, at the end of your turn, you must succeed on a Constitution saving throw contested by your own Spell Save DC or suffer one level of Exhaustion.
 
-### [Peaceful Lullaby](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/peaceful-lullaby.md)
+### Peaceful Lullaby
 
 _Level 3 Enchantment/Rhythmancy_ (Bard)
 
@@ -280,7 +280,7 @@ You play a gentle melody in an attempt to lull a creature that can hear you in r
 
 **At Higher Levels.** When you cast this spell at level 4 or higher, for each spell slot above 3rd, the duration increases by 1 hour, and you can target an additional creature.
 
-### [Repel the Dark](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/repel-the-dark.md)
+### Repel the Dark
 
 _Level 2 Evocation/Rhythmancy_ (Bard)
 
@@ -295,7 +295,7 @@ For the spell's duration, you shed bright light in a 15-foot radius and dim ligh
 
 **At Higher Levels.** When you cast this spell at level 3 or higher, any creatures forced to make a Constitution saving throw by this spell make their saving throw with Disadvantage if their Challenge Rating is less than the spell's level.
 
-### [The River Devil's Lament](https://github.com/mpanighetti/dnd5e-spells/blob/main/6th-level/the-river-devils-lament.md)
+### The River Devil's Lament
 
 _Level 6 Enchantment/Rhythmancy_ (Bard)
 
@@ -310,7 +310,7 @@ Each time the creature takes damage (except from this spell's effects), they can
 
 **At Higher Levels.** When you cast this spell at level 7 or higher, the duration increases to 1 day at level 7, 30 days at level 8, or 1 year at level 9, and the Psychic damage dealt when the creature can see you increases by 1d10 for each additional spell level. Additionally, when you cast this spell at level 8 or higher, the creature can no longer repeat their saving throws when they take damage.
 
-### [The Royal Decree](https://github.com/mpanighetti/dnd5e-spells/blob/main/cantrips/the-royal-decree.md)
+### The Royal Decree
 
 _Enchantment/Rhythmancy Cantrip_ (Bard)
 
@@ -323,7 +323,7 @@ Playing this soothing melody historically indicated a connection to the royal fa
 
 Your temporary Proficiency in these Charisma checks is further strengthened when you reach higher levels: your Proficiency Bonus is doubled at 5th level, tripled at 11th level, and quadrupled at 17th level.
 
-### [Royal Duet](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/royal-duet.md)
+### Royal Duet
 
 _Level 3 Evocation/Rhythmancy (Duet)_ (Bard)
 
@@ -336,7 +336,7 @@ You and a partner play an empowering Duet, targeting a shared location within ra
 
 **At Higher Levels.** When you and your partner both cast this spell at level 4 or higher, for each additional spell level, all creatures who gained Advantage on a d20 test also gain a +1 to the roll. If the spells are cast at different levels, use the lower of the two levels. For example, if the spell is cast using a level 5 and a level 6 spell slot, creatures would gain the bonus from the level 5 casting, which would be a +2 to their roll.
 
-### [Sonata of Awakening](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/sonata-of-awakening.md)
+### Sonata of Awakening
 
 _Level 2 Abjuration/Rhythmancy_ (Bard)
 
@@ -349,7 +349,7 @@ You stir slumbering creatures with rousing music. When you cast this spell, choo
 
 **At Higher Levels.** When you cast this spell at level 3 or higher, you can target one additional creature for each slot level above 2nd.
 
-### [Song of Discovery](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/song-of-discovery.md)
+### Song of Discovery
 
 _Level 2 Divination/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
@@ -360,7 +360,7 @@ _Level 2 Divination/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
 You perform a tune that disrupts any concealing magic in the vicinity. Until the spell ends, as a Magic action, you can attempt to reveal Invisible creatures and objects within your spell's area of effect. Make a spellcasting ability check. If there is a spell causing invisibility in your spell's area of effect, the DC equals 10 + the most powerful such spell's level in the area, or if the only invisibility present is caused by another magical effect, the DC is 15. On a success, all magical invisibility in the area of effect is dispelled, and this spell ends immediately. On a failure, or if there is no such magical invisibility nearby, your spell continues, but you gain no special insight into whether this outcome occurred due to failing the check or no viable Invisible creatures or objects being nearby.
 
-### [Song of Healing](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/song-of-healing.md)
+### Song of Healing
 
 _Level 5 Evocation/Rhythmancy_ (Bard, Ranger (Wild Composer))
 
@@ -377,7 +377,7 @@ The healing energy attempts to soothe the restless undead and allow them to move
 
 When you cast this spell at level 7 or higher, the spell also ends the Cursed condition for all creatures healed by this spell. If any of those creatures are Attuned to a cursed magic item, the spell breaks its owner's Attunement to the object so it can be removed or discarded.
 
-### [Song of Passing](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/song-of-passing.md)
+### Song of Passing
 
 _Level 5 Illusion/Rhythmancy_ (Bard)
 
@@ -394,7 +394,7 @@ False memories are implanted in the creature's mind, such that they believe time
 
 After the spell ends, the creature becomes aware that their senses and memories were altered by magic.
 
-### [Song of Storms](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-storms.md)
+### Song of Storms
 
 _Level 1 Evocation/Rhythmancy_ (Bard)
 
@@ -409,7 +409,7 @@ Until the spell ends, light rain falls in the area underneath the cloud. Invisib
 
 If you are outdoors in a light rain when you cast this spell, the spell affects the existing storm instead of creating a new cloud. Under such conditions, the storm becomes a heavy rain, causing the area to be lightly obscured, extinguishing open flames, and imposing disadvantage on Wisdom (Perception) checks that rely on sight or hearing. When the spell ends, the weather gradually returns to normal.
 
-### [Song of Time](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-time.md)
+### Song of Time
 
 _Level 1 Abjuration/Rhythmancy_ (Bard)
 
@@ -424,15 +424,15 @@ You adjust the flow of time around you, granting you the ability to correct a re
 
 If desired, you can alter the performance of the Song of Time to a related composition to create one of the following effects, which replace the spell's normal 1st-level effects:
 
-#### [Song of Double Time](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-time.md#song-of-double-time)
+#### Song of Double Time
 
 **Song of Double Time (3rd-level or higher).** By playing the Song of Time twice as fast, you move yourself to a moment in the near future, bypassing current events. Select any moment in time in the future up to the end of the spell's duration. You temporarily vanish from existence. At the moment in time you selected when casting the spell, you reappear in the same space from where you vanished, or in the nearest location if that space is occupied. From your perspective, no time has passed. When you reappear, the spell ends.
 
-#### [Inverted Song of Time](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/song-of-time.md#inverted-song-of-time)
+#### Inverted Song of Time
 
 **Inverted Song of Time (5th-level or higher).** By playing the Song of Time in reverse, you anchor yourself to a moment in time, allowing yourself to complete more tasks in a short time period. Until the spell ends, your speed is doubled, you gain +2 to your AC, you have advantage on Dexterity saving throws, and you gain an additional Action on each of your turns.
 
-### [Space Warp](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/space-warp.md)
+### Space Warp
 
 _Level 4 Conjuration/Rhythmancy (Ritual)_ (Bard)
 
@@ -445,7 +445,7 @@ You play a prolonged melody, targeting a willing creature you can see within ran
 
 **At Higher Levels.** When you cast this spell at level 5 or higher, you can teleport an additional willing creature you can see within range to the destination per each additional spell level. When multiple creatures are targeted by this spell, you can choose a destination where any of the target creatures were Unconscious, and the casting time increases by 10 minutes for each additional creature you target beyond the first.
 
-### [Soulful Croak](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/soulful-croak.md)
+### Soulful Croak
 
 _Level 4 Necromancy/Rhythmancy_ (Bard)
 
@@ -470,7 +470,7 @@ An undead creature targeted or raised by this spell must succeed on a Wisdom sav
 
 On a successful save, or if the Charmed condition on the undead creature ends, the creature stops obeying any command you've given them and cannot be targeted by this spell again for the next 30 days.
 
-### [Summoning of the Scarecrow](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/summoning-of-the-scarecrow.md)
+### Summoning of the Scarecrow
 
 _Level 1 Conjuration/Rhythmancy_ (Bard)
 
@@ -483,7 +483,7 @@ A Medium-sized inanimate scarecrow appears anchored to the ground in an unoccupi
 
 The scarecrow can act as a target for a thrown grappling hook or similar equipment, and it can support up to 500 pounds of weight. It disappears when you cast this spell again.
 
-### [Tune of Ages](https://github.com/mpanighetti/dnd5e-spells/blob/main/7th-level/tune-of-ages.md)
+### Tune of Ages
 
 _Level 7 Conjuration/Rhythmancy_ (Bard)
 
@@ -496,7 +496,7 @@ You and up to eight willing creatures within range are removed from your current
 
 The selected time period must at least specify the destination year, but can be more specific if desired. Additionally, the magic item or willing creature specified in the spell's material components must have existed in the time period you specify and must accompany you in the time travel. If any of these conditions are not met, the spell fails.
 
-### [Tune of Currents](https://github.com/mpanighetti/dnd5e-spells/blob/main/5th-level/tune-of-currents.md)
+### Tune of Currents
 
 _Level 5 Abjuration/Rhythmancy_ (Bard)
 
@@ -513,7 +513,7 @@ You attempt to restore the normal flow of time for a creature you can see within
 
 Any ongoing spell of level 5 or lower on the target that falls under one of the above criteria ends, similar to the effect of _Dispel Magic_; additionally, any valid spell for which you were originally the caster and any valid magical effect not caused by a spell ends. A creature magically displaced from their original time period is immediately returned to their era, and all magical aging is removed.
 
-### [Tune of Echoes](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/tune-of-echoes.md)
+### Tune of Echoes
 
 _Level 3 Divination/Rhythmancy (Ritual)_ (Bard)
 
@@ -528,7 +528,7 @@ For the duration of the spell, the image plays out the selected moment in real t
 
 Any number of times before the spell ends, as a Magic action, you can spend an additional spell slot of any level to extend the spell's duration by a number of minutes equal to ten times the slot level.
 
-### [Wind God's Aria](https://github.com/mpanighetti/dnd5e-spells/blob/main/4th-level/wind-gods-aria.md)
+### Wind God's Aria
 
 _Level 4 Evocation/Rhythmancy_ (Bard)
 
@@ -545,7 +545,7 @@ As long as you are not touching the ground, the air pulses around your body, gra
 
 If you are successfully forced to the ground against your will for 1 minute or longer, the spell ends.
 
-### [Wind's Requiem](https://github.com/mpanighetti/dnd5e-spells/blob/main/3rd-level/winds-requiem.md)
+### Wind's Requiem
 
 _Level 3 Conjuration/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
