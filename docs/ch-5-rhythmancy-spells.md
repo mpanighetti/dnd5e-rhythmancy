@@ -563,4 +563,4 @@ While concentrating on this spell, as a Magic action, you can attempt to channel
 
 ---
 
-<p align="center">⬅️ [Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md) | [Chapter 6: Rhythmancy Magic Items](ch-6-rhythmancy-magic-items.md) ➡️</p>
+<p align="center">[⬅️ Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md) | [Chapter 6: Rhythmancy Magic Items ➡️](ch-6-rhythmancy-magic-items.md)</p>
