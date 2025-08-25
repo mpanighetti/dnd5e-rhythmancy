@@ -32,6 +32,7 @@ This instrument was lovingly crafted by an artist with a profound connection to 
 An _Instrument of the Wild_ contains one or more spells based on its number of charges and rarity, and an instrument of a higher rarity also includes the spells from all rarities below it (for example, an uncommon _Instrument of the Wild_ includes both _The Lost is Found_ and _Song of Discovery_). At the Dungeon Master's discretion, some of these instruments can be found with replacement imbued spells from the ranger spell list; such spells are a reflection of the person who crafted the instrument and the magical properties they imparted to it, and they are considered rhythmancy spells for the purpose of casting by expending charges.
 
 ##### Instrument of the Wild Rarity
+
 | Charges | Rhythmancy Spell    | Rarity    |
 |:-------:|:--------------------|:----------|
 | 1       | _The Lost is Found_ | Common    |
@@ -55,4 +56,4 @@ The _Maracas of Holding_ contain 3 charges. While you are Attuned to the _Maraca
 
 ---
 
-<p align="center">⬅️ [Chapter 5: Rhythmancy Spells](ch-5-rhythmancy-spells.md)</p>
+[⬅️ Chapter 5: Rhythmancy Spells](ch-5-rhythmancy-spells.md)
