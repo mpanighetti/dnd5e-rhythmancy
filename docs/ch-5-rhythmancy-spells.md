@@ -14,7 +14,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 1st | _[Equine Tribute](#equine-tribute)_ | Conjuration/Rhythmancy | Bard | |
 | 1st | _[The Lost is Found](#the-lost-is-found)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual |
 | 1st | _[Song of Storms](#song-of-storms)_ | Evocation/Rhythmancy | Bard | Concentration |
-| 1st | _[Song of Time](#song-of-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
+| 1st | _[Song of Time](#song-of-time)_ | Abjuration/Rhythmancy | Bard | |
 | 1st | _[Summoning of the Scarecrow](#summoning-of-the-scarecrow)_ | Conjuration/Rhythmancy | Bard | |
 | 2nd | _[Command Melody](#command-melody)_ | Conjuration/Rhythmancy | Bard | Concentration, Ritual |
 | 2nd | _[Duet of Restoration](#duet-of-restoration)_ | Evocation/Rhythmancy | Bard | Duet |
@@ -26,7 +26,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 3rd | _[New Wave Bossa Nova](#new-wave-bossa-nova)_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 3rd | _[Peaceful Lullaby](#peaceful-lullaby)_ | Enchantment/Rhythmancy | Bard | Concentration |
 | 3rd | _[Royal Duet](#royal-duet)_ | Evocation/Rhythmancy | Bard | Duet |
-| 3rd | _[Song of Double Time](#song-of-double-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
+| 3rd | _[Song of Double Time](#song-of-double-time)_ | Abjuration/Rhythmancy | Bard | |
 | 3rd | _[Tune of Echoes](#tune-of-echoes)_ | Divination/Rhythmancy | Bard | Concentration, Ritual |
 | 3rd | _[Wind's Requiem](#winds-requiem)_ | Conjuration/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual |
 | 4th | _[Death's Departure](#deaths-departure)_ | Abjuration/Rhythmancy | Bard | Concentration |
@@ -35,7 +35,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 4th | _[Soulful Croak](#soulful-croak)_ | Necromancy/Rhythmancy | Bard | |
 | 4th | _[Space Warp](#space-warp)_ | Conjuration/Rhythmancy | Bard | Ritual |
 | 4th | _[Wind God's Aria](#wind-gods-aria)_ | Evocation/Rhythmancy | Bard | |
-| 5th | _[Inverted Song of Time](#inverted-song-of-time)_[^🪈] | Abjuration/Rhythmancy | Bard | |
+| 5th | _[Inverted Song of Time](#inverted-song-of-time)_ | Abjuration/Rhythmancy | Bard | |
 | 5th | _[Melody of Darkness](#melody-of-darkness)_ | Necromancy/Rhythmancy | Bard | Concentration |
 | 5th | _[Song of Healing](#song-of-healing)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | |
 | 5th | _[Song of Passing](#song-of-passing)_ | Illusion/Rhythmancy | Bard | Concentration |
@@ -44,8 +44,6 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 7th | _[Tune of Ages](#tune-of-ages)_ | Conjuration/Rhythmancy | Bard | |
 | 8th | _[Ballad of Gales](#ballad-of-gales)_ | Conjuration/Rhythmancy | Bard | |
 | 8th | _[Oath to Order](#oath-to-order)_ | Abjuration/Rhythmancy | Bard | |
-
-[^🪈]: These rhythmancy songs are grouped as the _Song of Time_.
 
 ## Spell Descriptions
 
@@ -510,7 +508,7 @@ You attempt to restore the normal flow of time for a creature you can see within
 
 - Any spell or magical effect on the target that caused them to grow older or younger
 - Any spell or magical effect that caused the target to be removed from their original time period
-- _Haste_, _Slow_, and any chronurgy[^⏳] spell
+- _Haste_, _Slow_, and any chronurgy spell [^⏳]
 
 Any ongoing spell of level 5 or lower on the target that falls under one of the above criteria ends, similar to the effect of _Dispel Magic_; additionally, any valid spell for which you were originally the caster and any valid magical effect not caused by a spell ends. A creature magically displaced from their original time period is immediately returned to their era, and all magical aging is removed.
 
@@ -563,7 +561,6 @@ While concentrating on this spell, as a Magic action, you can attempt to channel
 
 **At Higher Levels.** When you cast this spell at level 4 or higher, your jumping distance is multiplied by the spell level number. For example, casting this spell at level 4 would cause your jumping distance to be quadrupled.
 
-## Navigation
+---
 
-| ⬅️ [Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md) | [Chapter 6: Rhythmancy Magic Items](ch-6-rhythmancy-magic-items.md) ➡️ |
-|:-|-:|
+<p align="center">⬅️ [Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md) | [Chapter 6: Rhythmancy Magic Items](ch-6-rhythmancy-magic-items.md) ➡️</p>
