@@ -53,7 +53,6 @@ The _Maracas of Holding_ contain 3 charges. While you are Attuned to the _Maraca
 
   If the maracas have no charges remaining when you perform this dance, one of the items of your choice that was transformed in this manner is reverted to its original nonmagical form, at which point anything still inside its interior in excess of its normal capacity is expelled. You can restore 1 charge to the maracas by touching an item you transformed in this manner to revert it as a Magic action. Ending Attunement to the _Maracas of Holding_ causes all such items you transformed to be reverted and restores all of the maracas' charges spent for such transformations.
 
-## Navigation
+---
 
-| ⬅️ [Chapter 5: Rhythmancy Spells](ch-5-rhythmancy-spells.md) |
-|:-|
+<p align="center">⬅️ [Chapter 5: Rhythmancy Spells](ch-5-rhythmancy-spells.md)</p>

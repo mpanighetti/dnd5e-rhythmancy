@@ -561,7 +561,6 @@ While concentrating on this spell, as a Magic action, you can attempt to channel
 
 **At Higher Levels.** When you cast this spell at level 4 or higher, your jumping distance is multiplied by the spell level number. For example, casting this spell at level 4 would cause your jumping distance to be quadrupled.
 
-## Navigation
+---
 
-| ⬅️ [Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md) | [Chapter 6: Rhythmancy Magic Items](ch-6-rhythmancy-magic-items.md) ➡️ |
-|:-|-:|
+<p align="center">⬅️ [Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md) | [Chapter 6: Rhythmancy Magic Items](ch-6-rhythmancy-magic-items.md) ➡️</p>

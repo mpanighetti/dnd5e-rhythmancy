@@ -39,7 +39,6 @@ _**Level 1 Spell.**_ Choose a level 1 rhythmancy spell. You always have that spe
 
 _**Instrument Training.**_ You gain proficiency with a Musical Instrument of your choice. You can use such an instrument as a spellcasting focus for any spell you cast using Rhythmancy Points.
 
-## Navigation
+---
 
-| ⬅️ [Chapter 3: Rhythmancy Classes](ch-3-rhythmancy-classes.md) | [Chapter 5: Rhythmancy Spells](ch-5-rhythmancy-spells.md) ➡️ |
-|:-|-:|
+<p align="center">⬅️ [Chapter 3: Rhythmancy Classes](ch-3-rhythmancy-classes.md) | [Chapter 5: Rhythmancy Spells](ch-5-rhythmancy-spells.md) ➡️</p>
