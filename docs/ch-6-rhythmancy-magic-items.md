@@ -13,8 +13,9 @@ Magic instruments function as regular musical instruments, but are imbued with a
 When used in worlds and settings where "instrument" does not exist as a magic item category, such magic items also count as wondrous items. Similarly, a wondrous item that can function as a musical instrument, such as the _Pipes of the Sewers_, also counts as an instrument magic item, as long as the wielder meets the item's proficiency requirements to play it.
 
 ##### Rhythmancy Magic Items
+
 | Magic Item | Category | Rarity | Requires Attunement |
-|:-|:-|:-|:-|
+|:-----------|:---------|:-------|:--------------------|
 | _[Instrument of the Wild](#instrument-of-the-wild)_ | Instrument | Varies | Yes (by someone able to cast rhythmancy spells) |
 | _[Maracas of Holding](#maracas-of-holding)_ | Instrument | Rare | Yes |
 
@@ -31,13 +32,13 @@ This instrument was lovingly crafted by an artist with a profound connection to 
 An _Instrument of the Wild_ contains one or more spells based on its number of charges and rarity, and an instrument of a higher rarity also includes the spells from all rarities below it (for example, an uncommon _Instrument of the Wild_ includes both _The Lost is Found_ and _Song of Discovery_). At the Dungeon Master's discretion, some of these instruments can be found with replacement imbued spells from the ranger spell list; such spells are a reflection of the person who crafted the instrument and the magical properties they imparted to it, and they are considered rhythmancy spells for the purpose of casting by expending charges.
 
 ##### Instrument of the Wild Rarity
-| Charges | Rhythmancy Spell | Rarity |
-|:-:|:-|:-|
-| 1 | _The Lost is Found_ | Common |
-| 2 | _Song of Discovery_ | Uncommon |
-| 3 | _Wind's Requiem_ | Rare |
-| 4 | _Earth God's Lyric_ | Very rare |
-| 5 | _Song of Healing_ | Legendary |
+| Charges | Rhythmancy Spell    | Rarity    |
+|:-------:|:--------------------|:----------|
+| 1       | _The Lost is Found_ | Common    |
+| 2       | _Song of Discovery_ | Uncommon  |
+| 3       | _Wind's Requiem_    | Rare      |
+| 4       | _Earth God's Lyric_ | Very Rare |
+| 5       | _Song of Healing_   | Legendary |
 
 ### Maracas of Holding
 
@@ -52,7 +53,7 @@ The _Maracas of Holding_ contain 3 charges. While you are Attuned to the _Maraca
 
   If the maracas have no charges remaining when you perform this dance, one of the items of your choice that was transformed in this manner is reverted to its original nonmagical form, at which point anything still inside its interior in excess of its normal capacity is expelled. You can restore 1 charge to the maracas by touching an item you transformed in this manner to revert it as a Magic action. Ending Attunement to the _Maracas of Holding_ causes all such items you transformed to be reverted and restores all of the maracas' charges spent for such transformations.
 
----
+## Navigation
 
 | ⬅️ [Chapter 5: Rhythmancy Spells](ch-5-rhythmancy-spells.md) |
 |:-|

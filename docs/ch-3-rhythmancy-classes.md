@@ -52,8 +52,9 @@ You are in sync with the music of the wilds. You gain Proficiency with an instru
 Additionally, you learn _The Hawk's Call_ cantrip if you don't already know it. You also learn an additional spell of 1st level or higher when you reach certain levels in this class, as shown on the **Wild Composer Spells** table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
 
 ##### Wild Composer Spells
+
 | Ranger Level | Spells |
-|:-:|:-|
+|:------------:|:-------|
 | 3rd  | _The Hawk's Call_, _The Lost is Found_ |
 | 5th  | _Song of Discovery_ |
 | 9th  | _Wind's Requiem_ |
@@ -84,7 +85,7 @@ In addition, when you cast a rhythmancy spell with a casting time of 1 Action, y
 
 You recall every tree you have encountered, and can travel through the world's root systems to be reunited with them at a moment's notice. You always have the _Tree Stride_ spell prepared, and you can cast it by expending a level 4 spell slot. At 17th-level, you always have the _Transport via Plants_ spell prepared, and you can cast it by expending a level 5 spell slot.
 
----
+## Navigation
 
 | ⬅️ [Chapter 2: Casting Rhythmancy Spells](ch-2-casting-rhythmancy-spells.md) | [Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md) ➡️ |
 |:-|-:|
