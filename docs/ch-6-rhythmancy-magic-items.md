@@ -10,7 +10,7 @@ This document introduces a new category of magic items: instruments.
 
 Magic instruments function as regular musical instruments, but are imbued with additional arcane properties. Often such instruments provide access to rhythmantic songs, or enhance a rhythmancer's existing abilities.
 
-When used in worlds and settings where "instrument" does not exist as a magic item category, such magic items also count as wondrous items. Similarly, a wondrous item that can function as a musical instrument, such as the _pipes of the sewers_[^📒1️⃣], also counts as an instrument magic item, as long as the wielder meets the item's proficiency requirements to play it.
+When used in worlds and settings where "instrument" does not exist as a magic item category, such magic items also count as wondrous items. Similarly, a wondrous item that can function as a musical instrument, such as the _Pipes of the Sewers_, also counts as an instrument magic item, as long as the wielder meets the item's proficiency requirements to play it.
 
 ##### Rhythmancy Magic Items
 | Magic Item | Category | Rarity | Requires Attunement |
@@ -24,7 +24,7 @@ The magic items are presented in alphabetical order.
 
 ### Instrument of the Wild
 
-_Instrument (any), rarity varies (requires Attunement by someone able to cast rhythmancy spells)_
+_Instrument (Any), Rarity Varies (Requires Attunement by Someone Able to Cast Rhythmancy Spells)_
 
 This instrument was lovingly crafted by an artist with a profound connection to the rhythm of the natural world, and they have imbued some of their own magic into the craft and design. The instrument manifests the magical gift of its creation as one or more rhythmancy spells. It also contains charges that can be spent to cast these spells at a cost of one charge per spell level. The number of charges vary based on its rarity. The instrument regains 1d4 expended charges at dawn.
 
@@ -41,7 +41,7 @@ An _Instrument of the Wild_ contains one or more spells based on its number of c
 
 ### Maracas of Holding
 
-_Instrument (maracas), rare (requires Attunement)_
+_Instrument (Maracas), Rare (Requires Attunement)_
 
 These maracas are filled with dried seeds that clatter when the instruments are shaken, and they seem to have an endless capacity for more seeds.
 
@@ -56,5 +56,3 @@ The _Maracas of Holding_ contain 3 charges. While you are Attuned to the _Maraca
 
 | ⬅️ [Chapter 5: Rhythmancy Spells](ch-5-rhythmancy-spells.md) |
 |:-|
-
-[^📒1️⃣]: Source: _Systems Reference Document 5.1_
