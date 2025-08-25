@@ -31,6 +31,7 @@ At the end of the training period, the song is added to the student's known spel
 If a rhythmancy spell is written out on a spell scroll or as sheet music, anyone who meets all the requirements to learn the rhythmantic song can do so by practicing the composition and teaching themself. This bypasses the requirement for an instructor, but as a tradeoff for not having the guidance of a teacher, the number of workweeks required is doubled. Once per workweek, the student can attempt to remove that week's training costs by succeeding on a DC 15 Charisma (Performance) check. This check represents practicing the rhythmantic composition in front of crowds in local taverns as you perfect your understanding of the performative magic. On a failed check, in addition to the normal costs of learning your rhythmantic spell, roll on the **Rhythmantic Training Issues** table.
 
 ##### Rhythmantic Training Issues
+
 | d6 | Issue |
 |:--:|:------|
 | 1  | The rhythmantic song's magic accidentally activates, targeting a random patron with the spell's effects. |
@@ -52,7 +53,7 @@ Depending on how they use magic normally, a student can add rhythmantic songs th
 
 You must use the first option available to you based on your class levels, features, traits, and the rhythmancy spell's level and casting requirements. If the spell is added under option 2 or 3 and a higher option is made available later (such as gaining the Spellcasting feature), all your compatible rhythmancy spells immediately move to the highest-available option. If none of these options are available, you cannot learn the spell. If you lose access to all your options later (such as the _reincarnate_ spell changing you into a creature lacking the ability to cast spells), you retain the knowledge of your rhythmancy spells but are unable to cast them unless you regain compatible spellcasting options later.
 
----
+## Navigation
 
 | ➡️ [Chapter 2: Casting Rhythmancy Spells](ch-2-casting-rhythmancy-spells.md) |
 |:-|

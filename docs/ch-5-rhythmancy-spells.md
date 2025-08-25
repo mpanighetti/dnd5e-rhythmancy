@@ -5,8 +5,9 @@ This section contains new spells developed through the musical study of rhythman
 In some cases, multiple rhythmancy spells are learned as a single song, existing as alternate versions of a composition and applying their unique effects only when cast at a higher level. Such spells are labeled with shared footnote markers on this list for reference; see the description for the lowest-level version of the spell for all the other spells' effects.
 
 ##### Rhythmancy Spells
+
 | Level | Spell | School | Class | Tags |
-|:-:|:-|:-|:-|:-|
+|:-----:|:------|:-------|:------|:-----|
 | cantrip | _[Ballad of the Dreamer](#ballad-of-the-dreamer)_ | Abjuration/Rhythmancy | Bard | |
 | cantrip | _[The Hawk's Call](#the-hawks-call)_ | Evocation/Rhythmancy | Bard | |
 | cantrip | _[The Royal Decree](#the-royal-decree)_ | Enchantment/Rhythmancy | Bard | |
@@ -513,6 +514,8 @@ You attempt to restore the normal flow of time for a creature you can see within
 
 Any ongoing spell of level 5 or lower on the target that falls under one of the above criteria ends, similar to the effect of _Dispel Magic_; additionally, any valid spell for which you were originally the caster and any valid magical effect not caused by a spell ends. A creature magically displaced from their original time period is immediately returned to their era, and all magical aging is removed.
 
+[^⏳]: Source: _Explorer's Guide to Wildemount_
+
 ### Tune of Echoes
 
 _Level 3 Divination/Rhythmancy (Ritual)_ (Bard)
@@ -560,9 +563,7 @@ While concentrating on this spell, as a Magic action, you can attempt to channel
 
 **At Higher Levels.** When you cast this spell at level 4 or higher, your jumping distance is multiplied by the spell level number. For example, casting this spell at level 4 would cause your jumping distance to be quadrupled.
 
----
+## Navigation
 
 | ⬅️ [Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md) | [Chapter 6: Rhythmancy Magic Items](ch-6-rhythmancy-magic-items.md) ➡️ |
 |:-|-:|
-
-[^⏳]: Source: _Explorer's Guide to Wildemount_

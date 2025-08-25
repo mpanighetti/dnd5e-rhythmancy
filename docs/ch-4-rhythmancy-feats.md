@@ -5,9 +5,9 @@ This section presents a sampling of feats appropriate for a campaign featuring r
 ##### Rhythmancy Feat List
 
 | Feat  | Category |
-|:---------|:-----|
+|:------|:---------|
 | [Rhythmancy Initiate](#rhythmancy-initiate) | Origin |
-| [Rhythmancy Adept](#rhythmancy-adept) |  General  |
+| [Rhythmancy Adept](#rhythmancy-adept) | General |
 
 ## Feat Descriptions
 
@@ -39,7 +39,7 @@ _**Level 1 Spell.**_ Choose a level 1 rhythmancy spell. You always have that spe
 
 _**Instrument Training.**_ You gain proficiency with a Musical Instrument of your choice. You can use such an instrument as a spellcasting focus for any spell you cast using Rhythmancy Points.
 
----
+## Navigation
 
 | ⬅️ [Chapter 3: Rhythmancy Classes](ch-3-rhythmancy-classes.md) | [Chapter 5: Rhythmancy Spells](ch-5-rhythmancy-spells.md) ➡️ |
 |:-|-:|
