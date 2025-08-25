@@ -36,7 +36,7 @@ If a rhythmancy spell is written out on a spell scroll or as sheet music, anyone
 |:--:|:------|
 | 1  | The rhythmantic song's magic accidentally activates, targeting a random patron with the spell's effects. |
 | 2  | A drunken brawl breaks out during your performance and you're blamed for inciting a public disturbance. The venue demands 50 gp payment for damages before allowing you to continue practicing there. |
-| 3  | The rhythmantic song's magic manifests as a destructive thunderous burst of energy. You cast _thunderwave_ toward the audience. |
+| 3  | The rhythmantic song's magic manifests as a destructive thunderous burst of energy. You cast _Thunderwave_ toward the audience. |
 | 4  | Your underwhelming performance has resulted in reduced attendance, giving you disadvantage on Charisma (Performance) checks used in the next 1d4 attempts to remove training costs. |
 | 5  | A regular attendee of your shows appears to be taking detailed notes of your rhythmantic composition in an attempt to copy it. |
 | 6  | A drink stain on your songbook has smeared your notes, making them illegible. Add 1 workweek to the total required for learning the rhythmancy song as you recreate your notes. |
@@ -51,6 +51,6 @@ Depending on how they use magic normally, a student can add rhythmantic songs th
 
 3. **If you have a species trait that grants the ability to cast a spell of the same level or higher:** The rhythmancy spell is made available as an alternative spell using this trait.
 
-You must use the first option available to you based on your class levels, features, traits, and the rhythmancy spell's level and casting requirements. If the spell is added under option 2 or 3 and a higher option is made available later (such as gaining the Spellcasting feature), all your compatible rhythmancy spells immediately move to the highest-available option. If none of these options are available, you cannot learn the spell. If you lose access to all your options later (such as the _reincarnate_ spell changing you into a creature lacking the ability to cast spells), you retain the knowledge of your rhythmancy spells but are unable to cast them unless you regain compatible spellcasting options later.
+You must use the first option available to you based on your class levels, features, traits, and the rhythmancy spell's level and casting requirements. If the spell is added under option 2 or 3 and a higher option is made available later (such as gaining the Spellcasting feature), all your compatible rhythmancy spells immediately move to the highest-available option. If none of these options are available, you cannot learn the spell. If you lose access to all your options later (such as the _Reincarnate_ spell changing you into a creature lacking the ability to cast spells), you retain the knowledge of your rhythmancy spells but are unable to cast them unless you regain compatible spellcasting options later.
 
 [Chapter 2: Casting Rhythmancy Spells ➡️](ch-2-casting-rhythmancy-spells.md)
