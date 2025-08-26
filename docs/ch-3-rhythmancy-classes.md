@@ -31,6 +31,186 @@ You can channel your song to temporarily boost the power of your rhythmantic mag
 
 You have mastered unlocking hidden or lost ancient secrets. You always have the _Legend Lore_ spell prepared. When you cast _Legend Lore_ using Rhythmancy Points, the casting time is 1 action, and you replace its Material component requirements with an instrument worth at least 1 GP.
 
+## Fighter
+
+At 3rd level, a Fighter gains the choice of a subclass. The following option is made available to you when making that choice: the ?.
+
+### ?
+
+#### Spellcasting
+
+You have learned to cast spells. See the _SRD_ for the rules on spellcasting. The information below details how you use those rules as a ?.
+
+**Cantrips.** You know two cantrips of your choice from the Bard spell list (see that class’s section for its list). ? and ? are recommended. Whenever you gain a Fighter level, you can replace one of these cantrips with another cantrip of your choice from the Bard spell list.
+
+When you reach Fighter level 10, you learn another Bard cantrip of your choice.
+
+**Spell Slots.** The ? Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+
+##### ? Spellcasting
+
+<table>
+    <thead>
+        <tr>
+            <td rowspan=2>Fighter Level</td>
+            <td rowspan=2>Spells Prepared</td>
+            <td colspan=4>Spell Slots per Spell Level</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>3</td>
+            <td>3</td>
+            <td>2</td>
+            <td>—</td>
+            <td>—</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>4</td>
+            <td>3</td>
+            <td>—</td>
+            <td>—</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>4</td>
+            <td>3</td>
+            <td>—</td>
+            <td>—</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>4</td>
+            <td>3</td>
+            <td>—</td>
+            <td>—</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>5</td>
+            <td>4</td>
+            <td>2</td>
+            <td>—</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>6</td>
+            <td>4</td>
+            <td>2</td>
+            <td>—</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>6</td>
+            <td>4</td>
+            <td>2</td>
+            <td>—</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>7</td>
+            <td>4</td>
+            <td>3</td>
+            <td>—</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>8</td>
+            <td>4</td>
+            <td>3</td>
+            <td>—</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>8</td>
+            <td>4</td>
+            <td>3</td>
+            <td>—</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>9</td>
+            <td>4</td>
+            <td>3</td>
+            <td>2</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>10</td>
+            <td>4</td>
+            <td>3</td>
+            <td>2</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>10</td>
+            <td>4</td>
+            <td>3</td>
+            <td>2</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>11</td>
+            <td>4</td>
+            <td>3</td>
+            <td>3</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>11</td>
+            <td>4</td>
+            <td>3</td>
+            <td>3</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>11</td>
+            <td>4</td>
+            <td>3</td>
+            <td>3</td>
+            <td>—</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>12</td>
+            <td>4</td>
+            <td>3</td>
+            <td>3</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>13</td>
+            <td>4</td>
+            <td>3</td>
+            <td>3</td>
+            <td>1</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Ranger
 
 At 3rd level, a Ranger gains the choice of a subclass. The following option is made available to you when making that choice: the Wild Composer.
