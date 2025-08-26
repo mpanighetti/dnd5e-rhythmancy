@@ -1,6 +1,6 @@
 # Chapter 3: Rhythmancy Classes
 
-This section includes two new subclass options with abilities centered around the use of rhythmancy magic: the College of Legends for the Bard and the Wild Composer for the Ranger.
+This section includes new subclass options with abilities centered around the use of rhythmancy magic.
 
 ## Bard
 
@@ -16,12 +16,15 @@ You have extensively pored through history books and sought out hidden knowledge
 
 #### Rhythmantic Savant
 
-You have an innate understanding of the magic of music and how to wield it, granting you the following benefits.
+You have an innate understanding of the magic of music and how to wield it. You gain the following benefits.
 
-- You have a number of Rhythmancy Points equal to your Bard level divided by 3 (round down).
-- Any Bard spell you know is also considered to be a Rhythmancy spell.
-- Whenever you learn a new song through rhythmantic training, you bypass all training requirements, including finding a teacher, all training costs and issues, and any time requirements. Instead, you learn the Rhythmancy spell as a Magic action and by spending a number of Rhythmancy Points equal to the spell's level (minimum 1 Rhythmancy Point). You cannot learn a Rhythmancy spell in this manner if you do not have a sufficient number of Rhythmancy Points available to spend.
-- When you cast a level 1+ Rhythmancy spell targeting one or more creatures, in addition to the spell's normal effects, you can choose to grant any such targets a number of Temporary Hit Points equal to the spell level.
+_**Rhythmancy Points.**_ You have a number of Rhythmancy Points equal to your Bard level divided by 3 (round down) to spend on casting Rhythmancy spells.
+
+_**Harmonic Magic.**_ Any Bard spell you have prepared is also considered to be a Rhythmancy spell.
+
+_**Speed Training.**_ Whenever you learn a new song through rhythmantic training, you bypass all training requirements, including finding a teacher, all training costs and issues, and any time requirements. Instead, you learn the Rhythmancy spell as a Magic action and by spending a number of Rhythmancy Points equal to the spell's level (minimum 1 Rhythmancy Point). You cannot learn a Rhythmancy spell in this manner if you do not have a sufficient number of Rhythmancy Points available to spend.
+
+_**Abjurative Melody.**_ When you cast a level 1+ Rhythmancy spell targeting one or more creatures, in addition to the spell's normal effects, you can choose to grant any such targets a number of Temporary Hit Points equal to the spell level.
 
 #### Level 6: Inner Song
 
@@ -37,25 +40,70 @@ At 3rd level, a Fighter gains the choice of a subclass. The following option is 
 
 ### ?
 
+Lore text?
+
 #### Rhythmancy Warrior
 
-You've begun studying the magic of rhythmantic songs. You gain the following benefits.
-
-_**Rhythmancy Points.**_ You have a number of Rhythmancy Points equal to your Fighter level divided by 5 (round up) to spend on casting Rhythmancy spells. Any Bard spell you know is also considered to be a Rhythmancy spell.
+You've begun studying magical songs to aid you in combat. You gain the following benefits.
 
 _**Cantrips.**_ You know two cantrips of your choice from the Bard spell list. _[The Royal Decree](ch-5-rhythmancy-spells.md#the-royal-decree)_ and _True Strike_ are recommended. Whenever you gain a Fighter level, you can replace one of these cantrips with another cantrip of your choice from the Bard spell list.
 
 When you reach Fighter level 10, you learn another Bard cantrip of your choice.
 
-_**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose a level 1 spell from the Bard spell list. _[Equine Tribute](ch-5-rhythmancy-spells.md#equine-tribute)_ or _Heroism_ are recommended.
+_**Rhythmancy Points.**_ You have a number of Rhythmancy Points equal to your Fighter level divided by 4 (round up) to spend on casting Rhythmancy spells, as shown in the Rhythmancy Points column of the ? Rhythmancy table.
 
-You can prepare a number spells equal to your total number of Rhythmancy Points. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches your total number of Rhythmancy Points. The chosen spells must be of a level for which you have sufficient Rhythmancy Points to cast. For example, if you're a level 11 Fighter, your list of prepared spells can include three Bard spells of levels 1, 2, and 3 in any combination.
+_**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the Bard spell list. _[Equine Tribute](ch-5-rhythmancy-spells.md#equine-tribute)_, _Faerie Fire_, and _Heroism_ are recommended.
+
+The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the ? Rhythmancy table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have sufficient Rhythmancy Points to cast. For example, if you're a level 7 Fighter with two Rhythmancy Points, your list of prepared spells can include five Bard spells of levels 1 and 2 in any combination.
 
 _**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one spell on your list with another Bard spell for which you have sufficient Rhythmancy Points.
 
+_**Harmonic Magic.**_ Any Bard spell you have prepared is also considered to be a Rhythmancy spell.
+
 _**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice.
 
+##### ? Rhythmancy
 
+| Fighter Level | Spells Prepared | Rhythmancy Points |
+|:--:|:--:|:-:|
+| 3  | 3  | 1 |
+| 4  | 4  | 1 |
+| 5  | 4  | 2 |
+| 6  | 4  | 2 |
+| 7  | 5  | 2 |
+| 8  | 6  | 2 |
+| 9  | 6  | 3 |
+| 10 | 7  | 3 |
+| 11 | 8  | 3 |
+| 12 | 8  | 3 |
+| 13 | 9  | 4 |
+| 14 | 10 | 4 |
+| 15 | 10 | 4 |
+| 16 | 11 | 4 |
+| 17 | 11 | 5 |
+| 18 | 11 | 5 |
+| 19 | 12 | 5 |
+| 20 | 13 | 5 |
+
+#### Arcane Reservoir
+
+When you expend a Second Wind or Superiority Die, in addition to its normal effects, you gain a number of temporary Rhythmancy Points equal to the die roll; if the effect didn't involve rolling a die, roll a d6 to determine your temporary Rhythmancy Points. While you have these temporary Rhythmancy Points, they can be spent to cast spells as if they were normal Rhythmancy Points. Any temporary Rhythmancy Points you don't spend disappear after 10 minutes.
+
+#### Level 7: War Magic
+
+When you take the Attack action on your turn, you can replace one of the attacks with a casting of one of your Bard cantrips that has a casting time of an action.
+
+#### Level 10: Eldritch Strike
+
+You learn how to make your weapon strikes undercut a creature's ability to withstand your spells. When you hit a creature with an attack using a weapon, that creature has Disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.
+
+#### Level 15: Arcane Charge
+
+When you use your Action Surge, you can teleport up to 30 feet to an unoccupied space you can see. You can teleport before or after the additional action.
+
+#### Level 18: Improved War Magic
+
+When you take the Attack action on your turn, you can replace two of the attacks with a casting of one of your level 1 or level 2 Bard spells that has a casting time of an action.
 
 ## Ranger
 
@@ -85,9 +133,13 @@ When you reach a Ranger level specified in the Wild Composer Spells table, you t
 
 #### Music-Maker
 
-You are in sync with the music of the wilds, allowing you to direct nature's song into musical instruments. You gain Proficiency with an instrument and a tool of your choice capable of crafting that instrument (Leatherworker's Tools, Potter's Tools, or Woodworker's Tools might be suitable choices), amd you can use a Musical Instrument as a Spellcasting Focus for your Ranger spells.
+You are in sync with the music of the wilds, allowing you to direct nature's song into musical instruments. You gain the following benefits.
 
-Additionally, as part of a Short Rest, you can use tools and expend a level 1+ spell slot to craft a special magic item known as an **[Instrument of the Wild](ch-6-rhythmancy-magic-items.md#instrument-of-the-wild)** and imbue it with a Ranger or Rhythmancy spell you have prepared, which is added to the instrument's list of imbued spells. You can make any type of instrument you like using this feature, as long as your tools are capable of crafting the instrument and you have Proficiency in the tools. The design of the instrument is up to you; for example, you might carve a bone from an animal you hunted to make an ocarina. When you finish crafting the instrument, you can optionally immediately Attune to it, which doesn't count against the number of magic items you can be Attuned to at once. You can also gift your instrument to other creatures.
+_**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice, and with a tool of your choice capable of crafting that instrument (Leatherworker's Tools, Potter's Tools, or Woodworker's Tools might be suitable choices).
+
+_**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Ranger spells.
+
+_**Craft Instrument.**_ As part of a Short Rest, you can use tools and expend a level 1+ spell slot to craft a special magic item known as an **[Instrument of the Wild](ch-6-rhythmancy-magic-items.md#instrument-of-the-wild)** and imbue it with a Ranger or Rhythmancy spell you have prepared, which is added to the instrument's list of imbued spells. You can make any type of instrument you like using this feature, as long as your tools are capable of crafting the instrument and you have Proficiency in the tools. The design of the instrument is up to you; for example, you might carve a bone from an animal you hunted to make an ocarina. When you finish crafting the instrument, you can optionally immediately Attune to it, which doesn't count against the number of magic items you can be Attuned to at once. You can also gift your instrument to other creatures.
 
 An **Instrument of the Wild** you create contains a number of charges equal to the level of the spell you imbued during its creation, which also determines its rarity and list of imbued spells. As a Magic action, you can replace a spell imbued in an **Instrument of the Wild** with a Level 1+ Ranger or Rhythmancy spell you have prepared by expending the appropriate spell slot and channeling the spell's magic into the instrument; the number of charges then adjusts as needed to match the amount required to cast the highest-level spell the instrument possesses.
 
@@ -97,7 +149,7 @@ You regain the ability to craft an **Instrument of the Wild** using this feature
 
 Your connection to the world's secret song strengthens. While you are Attuned to an **Instrument of the Wild**, your Rhythmancy spells gain a +1 to their attack rolls and total damage rolls, and when you cast a level 1+ Rhythmancy spell, you can expend one of the instrument's charges to cast the spell at one level higher than the original spell level; for example, casting a level 1 Rhythmancy spell and expending a charge would cast that spell at level 2.
 
-Additionally, you gain the ability to tap into the music of an unfamiliar environment and learn its underlying structure. When you cast _The Lost is Found_, the casting time is 1 action, and for the spell's duration or until you leave the same environment you were in when casting the spell, the environment is considered to be your favored terrain, granting you Expertise in Intelligence and Wisdom checks you make related to the terrain.
+Additionally, you gain the ability to tap into the music of an unfamiliar environment and learn its underlying structure. When you cast _The Lost is Found_, for the spell's duration or until you leave the same environment you were in when casting the spell, the environment is considered to be your favored terrain, granting you Expertise in Intelligence and Wisdom checks you make related to the terrain.
 
 #### Level 11: Song of Leaf and Claw
 
