@@ -37,179 +37,25 @@ At 3rd level, a Fighter gains the choice of a subclass. The following option is 
 
 ### ?
 
-#### Spellcasting
+#### Rhythmancy Warrior
 
-You have learned to cast spells. See the _SRD_ for the rules on spellcasting. The information below details how you use those rules as a ?.
+You've begun studying the magic of rhythmantic songs. You gain the following benefits.
 
-**Cantrips.** You know two cantrips of your choice from the Bard spell list (see that class’s section for its list). ? and ? are recommended. Whenever you gain a Fighter level, you can replace one of these cantrips with another cantrip of your choice from the Bard spell list.
+_**Rhythmancy Points.**_ You have a number of Rhythmancy Points equal to your Fighter level divided by 5 (round up) to spend on casting Rhythmancy spells. Any Bard spell you know is also considered to be a Rhythmancy spell, and you can cast these spells using Rhythmancy Points.
+
+_**Cantrips.**_ You know two cantrips of your choice from the Bard spell list. _[The Royal Decree](ch-5-rhythmancy-spells.md#the-royal-decree)_ and _True Strike_ are recommended. Whenever you gain a Fighter level, you can replace one of these cantrips with another cantrip of your choice from the Bard spell list.
 
 When you reach Fighter level 10, you learn another Bard cantrip of your choice.
 
-**Spell Slots.** The ? Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+_**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose a level 1 spell from the Bard spell list. _[Equine Tribute](ch-5-rhythmancy-spells.md#equine-tribute)_ or _Heroism_ are recommended.
 
-##### ? Spellcasting
+You can prepare a number spells equal to your total number of Rhythmancy Points. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have sufficient Rhythmancy Points to cast. For example, if you're a level 11 Fighter, your list of prepared spells can include three Bard spells of levels 1, 2, and 3 in any combination.
 
-<table>
-    <thead>
-        <tr>
-            <td rowspan=2>Fighter Level</td>
-            <td rowspan=2>Spells Prepared</td>
-            <td colspan=4>Spell Slots per Spell Level</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>2</td>
-            <td>3</td>
-            <td>4</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>3</td>
-            <td>3</td>
-            <td>2</td>
-            <td>—</td>
-            <td>—</td>
-            <td>—</td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td>4</td>
-            <td>3</td>
-            <td>—</td>
-            <td>—</td>
-            <td>—</td>
-        </tr>
-        <tr>
-            <td>5</td>
-            <td>4</td>
-            <td>3</td>
-            <td>—</td>
-            <td>—</td>
-            <td>—</td>
-        </tr>
-        <tr>
-            <td>6</td>
-            <td>4</td>
-            <td>3</td>
-            <td>—</td>
-            <td>—</td>
-            <td>—</td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td>5</td>
-            <td>4</td>
-            <td>2</td>
-            <td>—</td>
-            <td>—</td>
-        </tr>
-        <tr>
-            <td>8</td>
-            <td>6</td>
-            <td>4</td>
-            <td>2</td>
-            <td>—</td>
-            <td>—</td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td>6</td>
-            <td>4</td>
-            <td>2</td>
-            <td>—</td>
-            <td>—</td>
-        </tr>
-        <tr>
-            <td>10</td>
-            <td>7</td>
-            <td>4</td>
-            <td>3</td>
-            <td>—</td>
-            <td>—</td>
-        </tr>
-        <tr>
-            <td>11</td>
-            <td>8</td>
-            <td>4</td>
-            <td>3</td>
-            <td>—</td>
-            <td>—</td>
-        </tr>
-        <tr>
-            <td>12</td>
-            <td>8</td>
-            <td>4</td>
-            <td>3</td>
-            <td>—</td>
-            <td>—</td>
-        </tr>
-        <tr>
-            <td>13</td>
-            <td>9</td>
-            <td>4</td>
-            <td>3</td>
-            <td>2</td>
-            <td>—</td>
-        </tr>
-        <tr>
-            <td>14</td>
-            <td>10</td>
-            <td>4</td>
-            <td>3</td>
-            <td>2</td>
-            <td>—</td>
-        </tr>
-        <tr>
-            <td>15</td>
-            <td>10</td>
-            <td>4</td>
-            <td>3</td>
-            <td>2</td>
-            <td>—</td>
-        </tr>
-        <tr>
-            <td>16</td>
-            <td>11</td>
-            <td>4</td>
-            <td>3</td>
-            <td>3</td>
-            <td>—</td>
-        </tr>
-        <tr>
-            <td>17</td>
-            <td>11</td>
-            <td>4</td>
-            <td>3</td>
-            <td>3</td>
-            <td>—</td>
-        </tr>
-        <tr>
-            <td>18</td>
-            <td>11</td>
-            <td>4</td>
-            <td>3</td>
-            <td>3</td>
-            <td>—</td>
-        </tr>
-        <tr>
-            <td>19</td>
-            <td>12</td>
-            <td>4</td>
-            <td>3</td>
-            <td>3</td>
-            <td>1</td>
-        </tr>
-        <tr>
-            <td>20</td>
-            <td>13</td>
-            <td>4</td>
-            <td>3</td>
-            <td>3</td>
-            <td>1</td>
-        </tr>
-    </tbody>
-</table>
+_**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one spell on your list with another Bard spell for which you have sufficient Rhythmancy Points.
+
+_**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice.
+
+
 
 ## Ranger
 
@@ -239,7 +85,7 @@ When you reach a Ranger level specified in the Wild Composer Spells table, you t
 
 #### Music-Maker
 
-You are in sync with the music of the wilds, allowing you to direct nature's song into musical instruments. You gain Proficiency with an instrument and a tool of your choice capable of crafting that instrument (Leatherworker's Tools, Potter's Tools, or Woodworker's Tools might be suitable choices). You can use an instrument in which you are Proficient as a Spellcasting Focus for your Ranger spells.
+You are in sync with the music of the wilds, allowing you to direct nature's song into musical instruments. You gain Proficiency with an instrument and a tool of your choice capable of crafting that instrument (Leatherworker's Tools, Potter's Tools, or Woodworker's Tools might be suitable choices), amd you can use a Musical Instrument as a Spellcasting Focus for your Ranger spells.
 
 Additionally, as part of a Short Rest, you can use tools and expend a level 1+ spell slot to craft a special magic item known as an **[Instrument of the Wild](ch-6-rhythmancy-magic-items.md#instrument-of-the-wild)** and imbue it with a Ranger or Rhythmancy spell you have prepared, which is added to the instrument's list of imbued spells. You can make any type of instrument you like using this feature, as long as your tools are capable of crafting the instrument and you have Proficiency in the tools. The design of the instrument is up to you; for example, you might carve a bone from an animal you hunted to make an ocarina. When you finish crafting the instrument, you can optionally immediately Attune to it, which doesn't count against the number of magic items you can be Attuned to at once. You can also gift your instrument to other creatures.
 
