@@ -28,7 +28,7 @@ _**Abjurative Melody.**_ When you cast a level 1+ Rhythmancy spell targeting one
 
 #### Level 6: Inner Song
 
-You can channel your song to temporarily boost the power of your rhythmantic magic. At the end of a Long Rest, you can expend one use of Bardic Inspiration to roll a Bardic Inspiration die and gain a number of temporary Rhythmancy Points equal to the number rolled. While you have these temporary Rhythmancy Points, they can be used to cast and learn spells as if they were normal Rhythmancy Points. Any spent temporary points cease to count toward your maximum number of Rhythmancy Points when determining whether you can learn a new song, and any such points you don't spend disappear after you finish your next Long Rest.
+You can channel your song to temporarily boost the power of your rhythmantic magic. At the end of a Long Rest, you can expend one use of Bardic Inspiration to roll a Bardic Inspiration die and gain a number of temporary Rhythmancy Points equal to the number rolled. While you have these temporary Rhythmancy Points, they can be spent to cast or learn spells as if they were normal Rhythmancy Points, but they don't count toward your total number of Rhythmancy Points to determine the level of Rhythmancy spell you can cast or learn. Unspent temporary Rhythmancy Points from this feature disappear after you finish your next Long Rest.
 
 #### Level 14: Legendary Secrets
 
@@ -87,19 +87,21 @@ _**Instrument Training.**_ You gain Proficiency with a Musical Instrument of you
 
 #### Arcane Reservoir
 
-When you expend a Second Wind or Superiority Die, in addition to its normal effects, you gain a number of temporary Rhythmancy Points equal to the die roll; if the effect didn't involve rolling a die, roll a d6 to determine your temporary Rhythmancy Points. While you have these temporary Rhythmancy Points, they can be spent to cast spells as if they were normal Rhythmancy Points. Any temporary Rhythmancy Points you don't spend disappear after 10 minutes.
+When you expend a Second Wind or Superiority Die, in addition to its normal effects, you gain a number of temporary Rhythmancy Points equal to the die roll; if the effect didn't involve rolling a die, roll a d6 to determine your temporary Rhythmancy Points. While you have these temporary Rhythmancy Points, they can be spent to cast or learn spells as if they were normal Rhythmancy Points, but they don't count toward your total number of Rhythmancy Points to determine the level of Rhythmancy spell you can cast or learn. Unspent temporary Rhythmancy Points from this feature disappear after 10 minutes.
 
-#### Level 7: War Magic
+#### Level 7: Aura of Confidence
 
-When you take the Attack action on your turn, you can replace one of the attacks with a casting of one of your Bard cantrips that has a casting time of an action.
+When you use your Action Surge, you can project an aura of confidence in a 30-foot radius Emanation for 1 minute or until your Concentration ends. When a creature starts its turn in the aura, you can make the creature make a Wisdom saving throw against your spell save DC. On a failed save, the target has the Charmed condition for the duration. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
-#### Level 10: Eldritch Strike
+Once you activate this aura, you can't do it again until you finish a Long Rest. You can also restore your use of it by expending two Rhythmancy Points (no action required).
 
-You learn how to make your weapon strikes undercut a creature's ability to withstand your spells. When you hit a creature with an attack using a weapon, that creature has Disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.
+#### Level 10: Aura of Confidence
 
-#### Level 15: Arcane Charge
+While you are in your aura of confidence, you have Immunity to the Frightened condition.
 
-When you use your Action Surge, you can teleport up to 30 feet to an unoccupied space you can see. You can teleport before or after the additional action.
+#### Level 15: ?
+
+
 
 #### Level 18: Improved War Magic
 
