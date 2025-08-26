@@ -55,7 +55,7 @@ _Level 8 Conjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** Touch
-- **Components:** V, S, M (an instrument worth at least 1 gp, a vehicle that you are currently occupying worth at least 10 gp)
+- **Components:** V, S, M (an instrument worth 1+ GP, a vehicle that you are currently occupying worth 10+ GP)
 - **Duration:** 1 round
 
 If you occupy a vehicle the entire time you cast this spell, you summon a shimmering portal surrounding the vehicle, and a second portal of the same size at another location on the same plane of existence. If the vehicle is a ship in water, the portals manifest as powerful cyclones in the waters at both locations. The portals remain open until the end of your next turn. Any creature or object that enters one portal, including you and all other creatures and objects aboard the target vehicle, instantly appears within 5 feet of the other portal, or in the nearest unoccupied space if that space is occupied. After the spell ends, the portals fade away.
@@ -70,7 +70,7 @@ _Abjuration/Rhythmancy Cantrip_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** Self
-- **Components:** V, M (a seagull's feather; an instrument worth at least 1 gp)
+- **Components:** V, M (a seagull's feather; an instrument worth 1+ GP)
 - **Duration:** 10 minutes
 
 You play a soothing melody that conjures strange memories of a dream-like world. Until the spell ends, magic can't put you to sleep.
@@ -81,7 +81,7 @@ _Level 2 Conjuration/Rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet
-- **Components:** V, S, M (an instrument worth at least 1 gp; objects belonging to you and the target creature worth a total of at least 1 sp which the spell consumes)
+- **Components:** V, S, M (an instrument worth 1+ GP; objects belonging to you and the target creature worth a total of at least 1 sp which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
 
 You conduct a brief tune for a willing creature within range that can hear you. Until the spell ends, while the target is on the same plane of existence as you, both you and the target are magically linked to each other. A creature can only be linked to one other creature at a time using this spell.
@@ -98,7 +98,7 @@ _Level 4 Abjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** Self (30-foot sphere)
-- **Components:** V, S, M (an instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth 1+ GP)
 - **Duration:** Concentration, up to 1 minute
 
 You perform a melody that repels the walking dead from your immediate vicinity. When an undead creature enters the spell's area of effect for the first time on a turn or starts their turn there, they must make a Wisdom saving throw. On a failed save, a creature is Frightened of you for the duration of the spell, or until they leave the spell's area of effect. Creatures that are normally immune to being Frightened have advantage on this saving throw but are otherwise not immune to the Frightened condition caused by this spell. Creatures that are immune to being Turned are not affected by this spell.
@@ -111,7 +111,7 @@ _Level 2 Evocation/Rhythmancy (Duet)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet (30-foot sphere)
-- **Components:** V, S, M (an instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth 1+ GP)
 - **Duration:** Instantaneous
 
 You and a partner play an uplifting Duet, targeting a shared location within range. When the spell finishes casting, any creatures that remained within the spells' area of effect for the entire casting and were able to hear the entire composition gain the benefits of a Short Rest. A creature must complete a Long Rest before they can gain this benefit from this song again.
@@ -124,7 +124,7 @@ _Level 4 Evocation/Rhythmancy_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** 10 minutes
 - **Range:** Self
-- **Components:** V, S, M (an instrument worth at least 1 gp; a handful of soil from the Elemental Plane of Earth which the spell consumes)
+- **Components:** V, S, M (an instrument worth 1+ GP; a handful of soil from the Elemental Plane of Earth which the spell consumes)
 - **Duration:** 8 hours
 
 The notes you play resonate with the world under your feet, strengthening your bond to the earth. The spell can only take effect if you maintain contact with the ground the entire time you cast the spell, otherwise it fails.
@@ -143,7 +143,7 @@ _Level 2 Conjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 5 feet
-- **Components:** V, S, M (an instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth 1+ GP)
 - **Duration:** Until dispelled
 
 You create a duplicate of your body in the form of an empty shell in an unoccupied space within range. This shell is an inanimate object exactly your height, weight, physical size, and body shape. Its appearance is superficially similar to that of your body and facial appearance, as well as any clothing you were wearing and any equipment you were carrying when casting the spell, though this false equipment is part of the shell's form and is not removable. The shell appears to be made of a hard stone-like material when touched. Its false body is fixed in a rigid standing position with its appendages resting at its sides. The shell is indestructible.
@@ -156,7 +156,7 @@ _Level 1 Conjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
-- **Components:** V, S, M (a sprig of horse grass; an instrument worth at least 1 gp)
+- **Components:** V, S, M (a sprig of horse grass; an instrument worth 1+ GP)
 - **Duration:** Instantaneous
 
 You recant the tale of a great hero's beloved horse companion to endear yourself to a horse with an Intelligence score less than 10 within range; at the Dungeon Master's discretion, you can target a creature other than a horse, as long as they are at least one size category larger than you and have an appropriate anatomy to serve as your mount. If the target is willing, is able to hear you, and remains within range for the entire casting of the spell, they are considered to be your companion.
@@ -175,7 +175,7 @@ _Evocation/Rhythmancy Cantrip_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
-- **Components:** V, S, M (a sprig of hawk grass; an instrument worth at least 1 gp)
+- **Components:** V, S, M (a sprig of hawk grass; an instrument worth 1+ GP)
 - **Duration:** 1 round
 
 You play a series of sharp tones evoking the shriek of a bird of prey, summoning a spectral bird to slash its talons at a creature of your choice that you can see within range. The bird can take whatever form you choose, then makes a melee spell attack against the target. On a hit, the bird deals 1d4 Piercing damage, and the target has disadvantage on Perception checks and Dexterity saving throws they make before the end of their next turn as the bird flies in their face to distract them. On a miss, or at the start of your next turn, the bird disappears, ending the spell.
@@ -188,7 +188,7 @@ _Level 1 Divination/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** 1 minute
 - **Range:** Self
-- **Components:** V, S, M (a branch or leaf from a tree you've climbed; an instrument worth at least 1 gp)
+- **Components:** V, S, M (a branch or leaf from a tree you've climbed; an instrument worth 1+ GP)
 - **Duration:** Concentration, up to 1 hour
 
 You play a song to yourself that stirs old memories of a childhood friend. Until the spell ends, while you are traveling or exploring within the same environment you were in when casting the spell, you can't become lost except by magical means.
@@ -201,7 +201,7 @@ _Level 3 Conjuration/Rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 10 feet
-- **Components:** V, M (a mola scale; an instrument worth at least 1 gp)
+- **Components:** V, M (a mola scale; an instrument worth 1+ GP)
 - **Duration:** Concentration, up to 8 hours
 
 You create a glowing 10-foot-diameter circle in the surface of a body of water you can see within range. The circle lasts for the spell's duration. At any time before the spell ends, as a Magic action, you can attempt to teleport to the circle, along with any willing creatures you can see within 30 feet of you. If the circle is more than 1 mile away, or if the circle's space is occupied or cannot accommodate all the creatures you specify, the teleportation fails. Otherwise, any creatures teleported by this spell instantly appear within the circle, and the spell ends.
@@ -214,7 +214,7 @@ _Level 5 Necromancy/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** Self (30 foot sphere)
-- **Components:** V, S, M (an instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth 1+ GP)
 - **Duration:** Concentration, up to 1 minute
 
 You play a disturbing tune that drains the life energy of its listeners. All creatures other than yourself within 30 feet of you that can hear you must succeed on a Wisdom saving throw or become Cursed for the duration of the spell. This spell has no effect on undead or constructs.
@@ -229,7 +229,7 @@ _Level 4 Transmutation/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
-- **Components:** V, S, M (an instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth 1+ GP)
 - **Duration:** Concentration, up to 10 minutes
 
 You attempt to diminish a creature you can see within range that can hear you. The target makes a Constitution saving throw. On a failed save, until the spell ends, the target's size is reduced to one-fourth of normal in all dimensions, their weight is reduced to one-sixty-fourth of normal, and their size decreases by two categories (e.g. from Large to Small, minimum Tiny). On a successful save, the spell ends.
@@ -246,10 +246,10 @@ _Level 3 Abjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** Self (10-foot sphere)
-- **Components:** V (functions even if you are in an area affected by magical silence), S, M (an instrument worth at least 1 gp)
+- **Components:** V (functions even if you are in an area affected by magical silence), S, M (an instrument worth 1+ GP)
 - **Duration:** Concentration, up to 1 minute
 
-Until the spell ends, you create a sphere of healing energy that negates the effects of magical silence, such as the _Silence_ spell, and the effects of magical darkness, such as the _Darkness_ spell. The sphere moves with you. Creatures within this sphere hear normally in magical silence and see normally in magical darkness, and can speak, hear, see, and cast spells normally. Any spells or magical effects causing silence or darkness are not dispelled, but they cannot affect any creatures within the negating sphere. If the negating sphere is contained completely within an area of magical silence or magical darkness, any such magical sound or light stops at the edge of the sphere and cannot travel in or out of it.
+An aura of healing energy radiates from you in a 10-foot Emanation for the duration. Within the aura, the effects of magical silence, such as the _Silence_ spell, and the effects of magical Darkness, such as the _Darkness_ spell, are negated. Creatures within the aura hear and speak normally in magical silence and see normally in magical Darkness, and they can use Verbal components for casting spells. This effect does not dispell any spells or magical effects causing silence or Darkness outside of the aura. If the aura is contained completely within an area of magical silence or magical Darkness, any such magical sound or light stops at the edge of the sphere and cannot travel in or out of it.
 
 ### Oath to Order
 
@@ -257,7 +257,7 @@ _Level 8 Abjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 8 hours
 - **Range:** Self
-- **Components:** V, S, M (an instrument worth at least 1 gp; a lock of hair from a creature larger than you of Challenge 6 or higher which the spell consumes)
+- **Components:** V, S, M (an instrument worth 1+ GP; a lock of hair from a creature larger than you of Challenge 6 or higher which the spell consumes)
 - **Duration:** 30 days
 
 You call upon the spirits of ancient giants to grant you the ability to repel massive bodies. The spell can only take effect if you maintain contact with the ground the entire time you cast the spell, otherwise it fails.
@@ -272,7 +272,7 @@ _Level 3 Enchantment/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
-- **Components:** V, M (an instrument worth at least 1 gp)
+- **Components:** V, M (an instrument worth 1+ GP)
 - **Duration:** Concentration, up to 1 hour
 
 You play a gentle melody in an attempt to lull a creature that can hear you in range. The target must succeed on a Wisdom saving throw or fall asleep and remain Unconscious until the spell ends, the target takes damage, or another creature takes an Action to wake them. Constructs and undead automatically succeed on this saving throw.
@@ -285,7 +285,7 @@ _Level 2 Evocation/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
-- **Components:** V, S, M (an instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth 1+ GP)
 - **Duration:** Concentration, up to 1 minute
 
 You summon the cleansing power of sunlight, causing creatures of the night to cower in fear. When you cast this spell, all Undead creatures and all creatures with sunlight sensitivity within range that can see you must succeed on a Constitution saving throw or become Stunned for the spell's duration. At the end of each of their turns, a creature Stunned by this spell can repeat the saving throw, ending the condition on a success.
@@ -300,7 +300,7 @@ _Level 6 Enchantment/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
-- **Components:** V, S, M (an instrument worth at least 1 gp; water from a river that flows backward which the spell consumes)
+- **Components:** V, S, M (an instrument worth 1+ GP; water from a river that flows backward which the spell consumes)
 - **Duration:** 8 hours
 
 You recite the tale of an ancient hero who drove away a great evil, in order to instill lasting terror in a creature you can see within range that can hear you. That creature must make a Wisdom saving throw. On a failed save, the target is Cursed for the duration of the spell. While Cursed in this manner, the creature is Frightened of you, and if the creature can see you at the start of their turn, they take 3d10 Psychic damage. Creatures that are normally immune to being Frightened are not immune to the Frightened condition caused by this spell's curse. While the Cursed creature cannot see you, they are Frightened of your last known location.
@@ -315,7 +315,7 @@ _Enchantment/Rhythmancy Cantrip_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 10 feet
-- **Components:** V, M (a petal from a silent princess flower; an instrument worth at least 1 gp)
+- **Components:** V, M (a petal from a silent princess flower; an instrument worth 1+ GP)
 - **Duration:** 1 minute
 
 Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to have Proficiency in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
@@ -328,7 +328,7 @@ _Level 3 Evocation/Rhythmancy (Duet)_ (Bard)
 
 - **Casting Time:** 10 minutes
 - **Range:** 10 feet (30-foot sphere)
-- **Components:** V, S, M (an instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth 1+ GP)
 - **Duration:** 8 hours
 
 You and a partner play an empowering Duet, targeting a shared location within range. When the spell finishes casting, any creatures who remained within the spells' area of effect for the entire casting and were able to hear the entire composition have Advantage on a single d20 test of their choice that they make within the spells' duration.
@@ -341,7 +341,7 @@ _Level 2 Abjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
-- **Components:** V, M (an instrument worth at least 1 gp, a bell worth at least 5 gp)
+- **Components:** V, M (an instrument worth 1+ GP, a bell worth 5+ GP)
 - **Duration:** Concentration, up to 1 minute
 
 You stir slumbering creatures with rousing music. When you cast this spell, choose up to three creatures within range under the effect of magical sleep that can hear you. The targets, as well as all other naturally Unconscious creatures within range that can hear you, immediately regain consciousness. Until the spell ends, magic can't put creatures within range to sleep, as long as they can still hear you.
@@ -354,7 +354,7 @@ _Level 2 Divination/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** 1 minute
 - **Range:** Self (20-foot sphere)
-- **Components:** V, S, M (an instrument worth at least 1 gp, a magnifying glass worth at least 10 gp)
+- **Components:** V, S, M (an instrument worth 1+ GP, a magnifying glass worth 10+ GP)
 - **Duration:** Concentration, up to 10 minutes
 
 You perform a tune that disrupts any concealing magic in the vicinity. Until the spell ends, as a Magic action, you can attempt to reveal Invisible creatures and objects within your spell's area of effect. Make a spellcasting ability check. If there is a spell causing invisibility in your spell's area of effect, the DC equals 10 + the most powerful such spell's level in the area, or if the only invisibility present is caused by another magical effect, the DC is 15. On a success, all magical invisibility in the area of effect is dispelled, and this spell ends immediately. On a failure, or if there is no such magical invisibility nearby, your spell continues, but you gain no special insight into whether this outcome occurred due to failing the check or no viable Invisible creatures or objects being nearby.
@@ -365,7 +365,7 @@ _Level 5 Evocation/Rhythmancy_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** 1 minute
 - **Range:** Self (30-foot sphere)
-- **Components:** V, S, M (an instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth 1+ GP)
 - **Duration:** Instantaneous
 
 You channel healing energies through soothing music. All creatures that remain within 30 feet of you for the entire casting time, except for undead or constructs, regain 5d10 Hit Points and are cured of being Blinded, Deafened, and Diseased.
@@ -382,7 +382,7 @@ _Level 5 Illusion/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** 30 feet
-- **Components:** V, S, M (an instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth 1+ GP)
 - **Duration:** Concentration, up to 1 hour
 
 You attempt to manipulate the apparent flow of time for a creature you target in range that can hear you. The target must make an Intelligence saving throw, and if you are fighting the target, they have advantage on the saving throw. On a failed save, until the spell ends, the target believes that time has passed such that it is either just after sunrise or just after sunset (whichever is the sooner of the two events).
@@ -399,7 +399,7 @@ _Level 1 Evocation/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 120 feet (1 mile if cast outdoors)
-- **Components:** V, S, M (a pebble or stone worn smooth by water used to forecast rainy weather; an instrument worth at least 1 gp)
+- **Components:** V, S, M (a pebble or stone worn smooth by water used to forecast rainy weather; an instrument worth 1+ GP)
 - **Duration:** Concentration, up to 1 hour
 
 You summon a storm cloud that is 10 feet tall with a 20-foot radius, centered on a point you can see within range directly above you. The spell fails if you can't see a point in the air where the storm cloud could appear (for example, if you are in a room that can't accommodate the cloud).
@@ -414,7 +414,7 @@ _Level 1 Abjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** Action
 - **Range:** Self
-- **Components:** V, S, M (an instrument worth at least 1 gp)
+- **Components:** V, S, M (an instrument worth 1+ GP)
 - **Duration:** 10 minutes
 
 You adjust the flow of time around you, granting you the ability to correct a recent mistake. Until this spell ends, if you fail on an attack roll, ability check, or saving throw, as a Reaction, you can immediately roll a d20 and take the greater of the two results. The first time you fail a check using this spell effect, the spell ends.
@@ -437,7 +437,7 @@ _Level 4 Conjuration/Rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 10 minutes
 - **Range:** 10 feet
-- **Components:** V, S, M (an instrument worth at least 1 gp; an object that was present when the target creature lost consciousness at the spell's destination which the spell consumes)
+- **Components:** V, S, M (an instrument worth 1+ GP; an object that was present when the target creature lost consciousness at the spell's destination which the spell consumes)
 - **Duration:** Instantaneous
 
 You play a prolonged melody, targeting a willing creature you can see within range and concentrating on a location where the target creature previously was Unconscious, including due to normal or magical sleep. Space then shifts around the target creature, causing them to teleport to a safe location on the outskirts or outside the entrance to your destination.
@@ -450,7 +450,7 @@ _Level 4 Necromancy/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 hour
 - **Range:** 20 feet
-- **Components:** V, S, M (a recently deceased frog; an instrument worth at least 1 gp; a gold crown worth at least 300 gp which the spell consumes unless the spell targeted or raised an undead creature)
+- **Components:** V, S, M (a recently deceased frog; an instrument worth 1+ GP; a gold crown worth 300+ GP which the spell consumes unless the spell targeted or raised an undead creature)
 - **Duration:** Instantaneous
 
 You attempt to influence the life energy of a corpse or undead creature you can see within range. Make a spellcasting ability check. The target regains all of their Hit Points, then undergoes additional effects depending on the nature of the target and the result of your check:
@@ -475,7 +475,7 @@ _Level 1 Conjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 120 feet
-- **Components:** V, S, M (a handful of straw; an instrument worth at least 1 gp)
+- **Components:** V, S, M (a handful of straw; an instrument worth 1+ GP)
 - **Duration:** Instantaneous
 
 A Medium-sized inanimate scarecrow appears anchored to the ground in an unoccupied space you can see within range. The destination must have at least enough space to accommodate the scarecrow, or the spell fails.
@@ -488,7 +488,7 @@ _Level 7 Conjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 hour
 - **Range:** 30 feet
-- **Components:** V, S, M (a magic item or a willing creature from the destination time period; an instrument worth at least 1 gp)
+- **Components:** V, S, M (a magic item or a willing creature from the destination time period; an instrument worth 1+ GP)
 - **Duration:** Instantaneous
 
 You and up to eight willing creatures within range are removed from your current time period and appear in the same physical location in another time period you choose.
@@ -501,7 +501,7 @@ _Level 5 Abjuration/Rhythmancy_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** 30 feet
-- **Components:** V, M (an instrument worth at least 1 gp; an item that tells time worth 200 gp which the spell consumes)
+- **Components:** V, M (an instrument worth 1+ GP; an item that tells time worth 200 gp which the spell consumes)
 - **Duration:** Instantaneous
 
 You attempt to restore the normal flow of time for a creature you can see within range. This spell can potentially remove the following temporal effects from the target:
@@ -520,7 +520,7 @@ _Level 3 Divination/Rhythmancy (Ritual)_ (Bard)
 
 - **Casting Time:** 1 minute
 - **Range:** Self
-- **Components:** V, S, M (an instrument worth at least 1 gp, a harp string spun from gold worth 25 gp)
+- **Components:** V, S, M (an instrument worth 1+ GP, a harp string spun from gold worth 25 gp)
 - **Duration:** Concentration, up to 10 minutes
 
 You create an image in the air 10 feet in front of you depicting your current general location from a previous point in time. When you cast the spell, you decide whether the spell depicts a moment of historical significance, or a more specific moment in time you specify. If a moment of historical significance is selected, the Dungeon Master picks the moment to depict, and if no historically significant moment has occurred in this location, the DM can depict any other moment in the past for the same location. If you pick a specific moment, you can be as vague or concrete as you like in your description of the moment, and the spell will attempt to reasonably carry out your request.
@@ -535,7 +535,7 @@ _Level 4 Evocation/Rhythmancy_ (Bard)
 
 - **Casting Time:** 10 minutes
 - **Range:** Self
-- **Components:** V, S, M (an instrument worth at least 1 gp; a vial of air from the Elemental Plane of Air which the spell consumes)
+- **Components:** V, S, M (an instrument worth 1+ GP; a vial of air from the Elemental Plane of Air which the spell consumes)
 - **Duration:** 8 hours
 
 The notes you play resonate with the air around you, lifting you upward and granting you free movement.
@@ -552,7 +552,7 @@ _Level 3 Conjuration/Rhythmancy (Ritual)_ (Bard, Ranger (Wild Composer))
 
 - **Casting Time:** Action
 - **Range:** Self
-- **Components:** V, M (an instrument worth at least 1 gp; a piece of cloth from a ship's sail which the spell consumes)
+- **Components:** V, M (an instrument worth 1+ GP; a piece of cloth from a ship's sail which the spell consumes)
 - **Duration:** Concentration, up to 1 hour
 
 You create an unnatural strong wind at your back, overriding any existing wind direction affecting you. Until the spell ends, your jumping distance is tripled, and while you are on the deck of a sailing ship, it moves as if it is sailing with the wind. While concentrating on this spell, at the end of each of your turns, you can select a new direction for the winds around you to blow.
