@@ -44,9 +44,9 @@ If the feature or trait allows casting a spell of level 1 or higher an unlimited
 
 ### Spell Limitations
 
-If a feature or trait imposes any other limitations on casting its existing spells, the rhythmancy spell must follow those same limitations. For example, the Empty Body feature doesn't allow taking creatures with you when casting _astral projection_, so a rhythmancy spell cast in this manner also cannot take creatures with you if it normally has this ability.
+If a feature or trait imposes any other limitations on casting its existing spells, the rhythmancy spell must follow those same limitations. For example, the Empty Body feature doesn't allow taking creatures with you when casting _Astral Projection_, so a rhythmancy spell cast in this manner also cannot take creatures with you if it normally has this ability.
 
-If the spell cannot be used with the feature's limitations, it cannot be learned in this manner. For example, the Ascendant Step eldritch invocation only allows casting _levitate_ on yourself, so if a rhythmancy spell is unable to target yourself, you cannot learn it using Ascendant Step.
+If the spell cannot be used with the feature's limitations, it cannot be learned in this manner. For example, the Ascendant Step eldritch invocation only allows casting _Levitate_ on yourself, so if a rhythmancy spell is unable to target yourself, you cannot learn it using Ascendant Step.
 
 ## Duets
 
@@ -60,6 +60,6 @@ Some rhythmancy songs are written to be performed by two musicians working toget
 
 If any of the above conditions are not met, both castings of the Duet spell fail. Otherwise, the spells grant their shared effect after both casters complete the required casting time.
 
-If a Duet is targeted by an effect or check that requires knowing the spellcasting ability, Spell Save DC, or spell attack modifier of the caster, use the higher of the two attributes from the Duet's performers. If the effect or check requires knowing the spell slot level (such as _dispel magic_) and the performers used two different level spell slots, use the lower of the two spell slot levels.
+If a Duet is targeted by an effect or check that requires knowing the spellcasting ability, Spell Save DC, or spell attack modifier of the caster, use the higher of the two attributes from the Duet's performers. If the effect or check requires knowing the spell slot level (such as _Dispel Magic_) and the performers used two different level spell slots, use the lower of the two spell slot levels.
 
 [⬅️ Chapter 1: Learning Rhythmancy Spells](ch-1-learning-rhythmancy-spells.md) | [Chapter 3: Rhythmancy Classes ➡️](ch-3-rhythmancy-classes.md)
