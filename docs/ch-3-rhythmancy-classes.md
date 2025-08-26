@@ -109,4 +109,6 @@ In addition, when you cast a Rhythmancy spell with a casting time of 1 action, y
 
 You recall every tree you have encountered, and can travel through the world's root systems to be reunited with them at a moment's notice. You always have the _Tree Stride_ spell prepared, and you can cast it by expending a level 4+ spell slot. Starting at level 17, you always have the _Transport via Plants_ spell prepared, and you can cast it by expending a level 5+ spell slot.
 
-[⬅️ Chapter 2: Casting Rhythmancy Spells](ch-2-casting-rhythmancy-spells.md) | [Chapter 4: Rhythmancy Feats ➡️](ch-4-rhythmancy-feats.md)
+---
+
+[⬅️ Chapter 2: Casting Rhythmancy Spells](ch-2-casting-rhythmancy-spells.md) | [Home ⬆️](index.md) | [Chapter 4: Rhythmancy Feats ➡️](ch-4-rhythmancy-feats.md)
