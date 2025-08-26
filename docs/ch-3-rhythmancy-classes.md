@@ -41,7 +41,7 @@ At 3rd level, a Fighter gains the choice of a subclass. The following option is 
 
 You've begun studying the magic of rhythmantic songs. You gain the following benefits.
 
-_**Rhythmancy Points.**_ You have a number of Rhythmancy Points equal to your Fighter level divided by 5 (round up) to spend on casting Rhythmancy spells. Any Bard spell you know is also considered to be a Rhythmancy spell, and you can cast these spells using Rhythmancy Points.
+_**Rhythmancy Points.**_ You have a number of Rhythmancy Points equal to your Fighter level divided by 5 (round up) to spend on casting Rhythmancy spells. Any Bard spell you know is also considered to be a Rhythmancy spell.
 
 _**Cantrips.**_ You know two cantrips of your choice from the Bard spell list. _[The Royal Decree](ch-5-rhythmancy-spells.md#the-royal-decree)_ and _True Strike_ are recommended. Whenever you gain a Fighter level, you can replace one of these cantrips with another cantrip of your choice from the Bard spell list.
 
@@ -49,7 +49,7 @@ When you reach Fighter level 10, you learn another Bard cantrip of your choice.
 
 _**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose a level 1 spell from the Bard spell list. _[Equine Tribute](ch-5-rhythmancy-spells.md#equine-tribute)_ or _Heroism_ are recommended.
 
-You can prepare a number spells equal to your total number of Rhythmancy Points. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have sufficient Rhythmancy Points to cast. For example, if you're a level 11 Fighter, your list of prepared spells can include three Bard spells of levels 1, 2, and 3 in any combination.
+You can prepare a number spells equal to your total number of Rhythmancy Points. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches your total number of Rhythmancy Points. The chosen spells must be of a level for which you have sufficient Rhythmancy Points to cast. For example, if you're a level 11 Fighter, your list of prepared spells can include three Bard spells of levels 1, 2, and 3 in any combination.
 
 _**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one spell on your list with another Bard spell for which you have sufficient Rhythmancy Points.
 
