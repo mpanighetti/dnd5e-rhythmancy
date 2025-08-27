@@ -23,8 +23,8 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 2 | _[Repel the Dark](#repel-the-dark)_ | Evocation/Rhythmancy | Bard | C |
 | 2 | _[Sonata of Awakening](#sonata-of-awakening)_ | Abjuration/Rhythmancy | Bard | C, M |
 | 2 | _[Song of Discovery](#song-of-discovery)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | C, R, M |
+| 3 | _[The Cleansing Waves](#the-cleansing-waves)_ | Abjuration/Rhythmancy | Bard | C |
 | 3 | _[Mambo Marino](#mambo-marino)_ | Conjuration/Rhythmancy | Bard | C, R |
-| 3 | _[New Wave Bossa Nova](#new-wave-bossa-nova)_ | Abjuration/Rhythmancy | Bard | C |
 | 3 | _[Peaceful Lullaby](#peaceful-lullaby)_ | Enchantment/Rhythmancy | Bard | C |
 | 3 | _[Royal Duet](#royal-duet)_ | Evocation/Rhythmancy | Bard | D |
 | 3 | _[Song of Double Time](#song-of-double-time)_ | Abjuration/Rhythmancy | Bard | — |
@@ -75,6 +75,17 @@ _Abjuration/Rhythmancy Cantrip (Bard)_
 **Duration:** 10 minutes
 
 You play a soothing melody that conjures strange memories of a dream-like world. Until the spell ends, magic can't put you to sleep.
+
+### _The Cleansing Waves_
+
+_Level 3 Abjuration/Rhythmancy (Bard)_
+
+**Casting Time:** Action\
+**Range:** Self\
+**Components:** V (functions even if you are in an area affected by magical silence), S, M (a Musical Instrument worth 1+ GP)\
+**Duration:** Concentration, up to 1 minute
+
+Until the spell ends, an aura of spectral water and healing energy surrounds you in a 10-foot Emanation. While in the aura, creatures are immune to the effects of magical silence, such as the _Silence_ spell, and the effects of magical Darkness, such as the _Darkness_ spell. Such creatures can speak, hear, and see normally, and they are able to use Verbal components to cast spells. The aura does not dispel any spells or magical effects causing silence or Darkness, but if the aura is contained completely within an area of magical silence or magical Darkness, any such magical sound or light stops at the edge of the sphere and cannot travel in or out of it.
 
 ### _Command Melody_
 
@@ -251,17 +262,6 @@ Everything the creature is wearing and carrying changes size with them. Any item
 While reduced in this manner, the target's speed is halved; they have disadvantage on Strength checks and Strength saving throws; they lose any Resistance or Immunity they have to nonmagical damage; and all of their attacks using either natural weapons or any reduced weapons deal 3d6 less damage (this can't reduce the damage below 1).
 
 The spell ends if you are unable to see the target.
-
-### _New Wave Bossa Nova_
-
-_Level 3 Abjuration/Rhythmancy (Bard)_
-
-**Casting Time:** Action\
-**Range:** Self (10-foot sphere)\
-**Components:** V (functions even if you are in an area affected by magical silence), S, M (a Musical Instrument worth 1+ GP)\
-**Duration:** Concentration, up to 1 minute
-
-Until the spell ends, you create a sphere of healing energy that negates the effects of magical silence, such as the _Silence_ spell, and the effects of magical darkness, such as the _Darkness_ spell. The sphere moves with you. Creatures within this sphere hear normally in magical silence and see normally in magical darkness, and can speak, hear, see, and cast spells normally. Any spells or magical effects causing silence or darkness are not dispelled, but they cannot affect any creatures within the negating sphere. If the negating sphere is contained completely within an area of magical silence or magical darkness, any such magical sound or light stops at the edge of the sphere and cannot travel in or out of it.
 
 ### _Oath to Order_
 
