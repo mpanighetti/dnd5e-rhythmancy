@@ -91,7 +91,7 @@ When you expend a Second Wind or Superiority Die, in addition to its normal effe
 
 #### Level 7: Aura of Revelry
 
-As a Magic action, you can play a Musical Instrument to project an aura of revelry in a 30-foot radius Emanation for 1 minute or until your Concentration ends. When a creature starts its turn in the aura, you can make the creature make a Wisdom saving throw against your spell save DC. On a failed save, the target has the Charmed condition for the duration. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+As a Magic action, you can play a Musical Instrument to project an aura of revelry in a 30-foot radius Emanation for 1 minute or until your Concentration ends. When another creature starts its turn in the aura, you can make the creature make a Wisdom saving throw against your spell save DC. On a failed save, the target has the Charmed condition for the duration. The target repeats the save at the end of each of its turns, ending the effect on itself on a success. Once the target successfully saves against your aura's effect, it is immune to the effect for the next 24 hours.
 
 Once you activate this aura, you can't do it again until you finish a Long Rest. You can also restore your use of it by expending two Rhythmancy Points (no action required).
 
