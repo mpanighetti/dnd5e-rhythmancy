@@ -17,12 +17,12 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 1 | _[The Oncoming Storm](#the-oncoming-storm)_ | Evocation/Rhythmancy | Bard | Concentration |
 | 1 | _[Song of Time](#song-of-time)_ | Abjuration/Rhythmancy | Bard | — |
 | 1 | _[Summoning of the Scarecrow](#summoning-of-the-scarecrow)_ | Conjuration/Rhythmancy | Bard | — |
-| 2 | _[Command Melody](#command-melody)_ | Conjuration/Rhythmancy | Bard | C, R, M |
 | 2 | _[Duet of Restoration](#duet-of-restoration)_ | Evocation/Rhythmancy | Bard | D |
 | 2 | _[An Empty Shell](#an-empty-shell)_ | Conjuration/Rhythmancy | Bard | — |
 | 2 | _[No Stone Unturned](#no-stone-unturned)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | C, R, M |
 | 2 | _[Repel the Dark](#repel-the-dark)_ | Evocation/Rhythmancy | Bard | C |
 | 2 | _[Sonata of Awakening](#sonata-of-awakening)_ | Abjuration/Rhythmancy | Bard | C, M |
+| 2 | _[Souls Entwined](#souls-entwined)_ | Conjuration/Rhythmancy | Bard | C, R, M |
 | 3 | _[The Cleansing Waves](#the-cleansing-waves)_ | Abjuration/Rhythmancy | Bard | C |
 | 3 | _[Mambo Marino](#mambo-marino)_ | Conjuration/Rhythmancy | Bard | C, R |
 | 3 | _[Peaceful Lullaby](#peaceful-lullaby)_ | Enchantment/Rhythmancy | Bard | C |
@@ -103,23 +103,6 @@ _Level 3 Abjuration/Rhythmancy (Bard)_
 **Duration:** Concentration, up to 1 minute
 
 Until the spell ends, an aura of spectral water and healing energy surrounds you in a 10-foot Emanation. While in the aura, creatures are immune to the effects of magical silence, such as the _Silence_ spell, and the effects of magical Darkness, such as the _Darkness_ spell. Such creatures can speak, hear, and see normally, and they are able to use Verbal components to cast spells. The aura does not dispel any spells or magical effects causing silence or Darkness, but if the aura is contained completely within an area of magical silence or magical Darkness, any such magical sound or light stops at the edge of the sphere and cannot travel in or out of it.
-
-### _Command Melody_
-
-_Level 2 Conjuration/Rhythmancy (Bard)_
-
-**Casting Time:** 1 minute or Ritual\
-**Range:** 10 feet\
-**Components:** V, S, M (a Musical Instrument worth 1+ GP; objects belonging to you and the target creature worth a total of 1+ SP which the spell consumes)\
-**Duration:** Concentration, up to 1 hour
-
-You conduct a brief tune for a willing creature within range that can hear you. Until the spell ends, while the target is on the same plane of existence as you, both you and the target are magically linked to each other. A creature can only be linked to one other creature at a time using this spell.
-
-A creature can communicate with their link telepathically. Additionally, as a Magic action, a creature can see through their link's eyes and hear what they hear until the start of the creature's next turn, gaining the benefits of any special senses that their link has, but they are Blinded and Deafened to their own surroundings.
-
-If a creature casts a spell with a range of touch, their link can deliver the spell as if the link had cast the spell. The caster's link must be within 100 feet of them, and the link must choose to use their Reaction to deliver the spell when cast. If the spell requires an attack roll, the casting creature uses their attack modifier for the roll.
-
-A linked creature can sever this magical link at any time, which ends the spell.
 
 ### _The Curse, Reversed_
 
@@ -461,6 +444,23 @@ If desired, you can alter the performance of the Song of Time to a related compo
 #### _Inverted Song of Time_
 
 **Inverted Song of Time (5th-level or higher).** By playing the Song of Time in reverse, you anchor yourself to a moment in time, allowing yourself to complete more tasks in a short time period. Until the spell ends, your speed is doubled, you gain +2 to your AC, you have advantage on Dexterity saving throws, and you gain an additional Action on each of your turns.
+
+### _Souls Entwined_
+
+_Level 2 Conjuration/Rhythmancy (Bard)_
+
+**Casting Time:** 1 minute or Ritual\
+**Range:** 10 feet\
+**Components:** V, S, M (a Musical Instrument worth 1+ GP; objects belonging to you and the target creature worth a total of 1+ SP which the spell consumes)\
+**Duration:** Concentration, up to 1 hour
+
+You conduct a brief tune for a willing creature within range that can hear you. Until the spell ends, while the target is on the same plane of existence as you, both you and the target are magically linked to each other. A creature can only be linked to one other creature at a time using this spell.
+
+A creature can communicate with their link telepathically. Additionally, as a Magic action, a creature can see through their link's eyes and hear what they hear until the start of the creature's next turn, gaining the benefits of any special senses that their link has, but they are Blinded and Deafened to their own surroundings.
+
+If a creature casts a spell with a range of touch, their link can deliver the spell as if the link had cast the spell. The caster's link must be within 100 feet of them, and the link must choose to use their Reaction to deliver the spell when cast. If the spell requires an attack roll, the casting creature uses their attack modifier for the roll.
+
+A linked creature can sever this magical link at any time, which ends the spell.
 
 ### _Space Warp_
 
