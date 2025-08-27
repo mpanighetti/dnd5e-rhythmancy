@@ -29,7 +29,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 3 | _[Royal Duet](#royal-duet)_ | Evocation/Rhythmancy | Bard | D |
 | 3 | _[Song of Double Time](#song-of-double-time)_ | Abjuration/Rhythmancy | Bard | — |
 | 3 | _[Tune of Echoes](#tune-of-echoes)_ | Divination/Rhythmancy | Bard | C, R, M |
-| 3 | _[Wind's Requiem](#winds-requiem)_ | Conjuration/Rhythmancy | Bard, Ranger (Wild Composer) | C, R, M |
+| 3 | _[The Wind in My Sails](#the-wind-in-my-sails)_ | Conjuration/Rhythmancy | Bard, Ranger (Wild Composer) | C, R, M |
 | 4 | _[Death's Departure](#deaths-departure)_ | Abjuration/Rhythmancy | Bard | C |
 | 4 | _[Earth God's Lyric](#earth-gods-lyric)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | M |
 | 4 | _[Minute Minuet](#minute-minuet)_ | Transmutation/Rhythmancy | Bard | C |
@@ -560,7 +560,7 @@ As long as you are not touching the ground, the air pulses around your body, gra
 
 If you are successfully forced to the ground against your will for 1 minute or longer, the spell ends.
 
-### _Wind's Requiem_
+### _The Wind in My Sails_
 
 _Level 3 Conjuration/Rhythmancy (Bard, Ranger (Wild Composer))_
 
