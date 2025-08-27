@@ -31,14 +31,14 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 3 | _[Tune of Echoes](#tune-of-echoes)_ | Divination/Rhythmancy | Bard | C, R, M |
 | 3 | _[The Wind in My Sails](#the-wind-in-my-sails)_ | Conjuration/Rhythmancy | Bard, Ranger (Wild Composer) | C, R, M |
 | 4 | _[Death's Departure](#deaths-departure)_ | Abjuration/Rhythmancy | Bard | C |
-| 4 | _[The Sage of Earth's Calling](#the-sage-of-earths-calling)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | M |
 | 4 | _[Minute Minuet](#minute-minuet)_ | Transmutation/Rhythmancy | Bard | C |
+| 4 | _[The Sage of Earth's Calling](#the-sage-of-earths-calling)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | M |
+| 4 | _[The Sage of Wind's Beckoning](#the-sage-of-winds-beckoning)_ | Evocation/Rhythmancy | Bard | M |
 | 4 | _[Soulful Croak](#soulful-croak)_ | Necromancy/Rhythmancy | Bard | M |
 | 4 | _[Space Warp](#space-warp)_ | Conjuration/Rhythmancy | Bard | R, M |
-| 4 | _[The Sage of Wind's Beckoning](#the-sage-of-winds-beckoning)_ | Evocation/Rhythmancy | Bard | M |
+| 5 | _[Healing Balm](#healing-balm)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | — |
 | 5 | _[Inverted Song of Time](#inverted-song-of-time)_ | Abjuration/Rhythmancy | Bard | — |
 | 5 | _[Melody of Darkness](#melody-of-darkness)_ | Necromancy/Rhythmancy | Bard | C |
-| 5 | _[Song of Healing](#song-of-healing)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | — |
 | 5 | _[Song of Passing](#song-of-passing)_ | Illusion/Rhythmancy | Bard | C |
 | 5 | _[Tune of Currents](#tune-of-currents)_ | Abjuration/Rhythmancy | Bard | M |
 | 6 | _[The River Devil's Lament](#the-river-devils-lament)_ | Enchantment/Rhythmancy | Bard | M |
@@ -176,6 +176,23 @@ _Evocation/Rhythmancy Cantrip (Bard)_
 You play a series of sharp tones evoking the shriek of a bird of prey, summoning a spectral bird to slash its talons at a creature of your choice that you can see within range. The bird can take whatever form you choose, then makes a melee spell attack against the target. On a hit, the bird deals 1d4 Piercing damage, and the target has disadvantage on Perception checks and Dexterity saving throws they make before the end of their next turn as the bird flies in their face to distract them. On a miss, or at the start of your next turn, the bird disappears, ending the spell.
 
 The spell creates more than one bird when you reach higher levels: two birds at 5th level, three birds at 11th level, and four birds at 17th level. You can direct the birds at the same target or at different ones. Make a separate attack roll for each bird. The spell ends at the start of your next turn or if all the birds disappear.
+
+### _Healing Balm_
+
+_Level 5 Evocation/Rhythmancy (Bard, Ranger (Wild Composer))_
+
+**Casting Time:** 1 minute\
+**Range:** Self (30-foot sphere)\
+**Components:** V, S, M (a Musical Instrument worth 1+ GP)\
+**Duration:** Instantaneous
+
+You channel healing energies through soothing music. All creatures that remain within 30 feet of you for the entire casting time, except for undead or constructs, regain 5d10 Hit Points and are cured of being Blinded, Deafened, and Diseased.
+
+The healing energy attempts to soothe the restless undead and allow them to move on from this world. Each undead creature within the spell's area of effect when it is finished casting must make a Wisdom saving throw (they can choose to fail this save). On a failed save, the creature is reduced to 0 Hit Points, their spirit moves on to the afterlife, and their remains are destroyed in a burst of radiant fire. Creatures that are immune to being Turned are not affected by this spell.
+
+_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 6 or higher, the healing increases by 1d10 for each additional spell level.
+
+When you cast this spell at level 7 or higher, the spell also ends the cursed condition for all creatures healed by this spell. If any of those creatures are Attuned to a cursed magic item, the spell breaks its owner's Attunement to the object so it can be removed or discarded.
 
 ### _The Lost is Found_
 
@@ -389,23 +406,6 @@ _Level 2 Divination/Rhythmancy (Bard, Ranger (Wild Composer))_
 **Duration:** Concentration, up to 10 minutes
 
 You perform a tune that disrupts any concealing magic in the vicinity. Until the spell ends, as a Magic action, you can attempt to reveal Invisible creatures and objects within your spell's area of effect. Make a spellcasting ability check. If there is a spell causing invisibility in your spell's area of effect, the DC equals 10 + the most powerful such spell's level in the area, or if the only invisibility present is caused by another magical effect, the DC is 15. On a success, all magical invisibility in the area of effect is dispelled, and this spell ends immediately. On a failure, or if there is no such magical invisibility nearby, your spell continues, but you gain no special insight into whether this outcome occurred due to failing the check or no viable Invisible creatures or objects being nearby.
-
-### _Song of Healing_
-
-_Level 5 Evocation/Rhythmancy (Bard, Ranger (Wild Composer))_
-
-**Casting Time:** 1 minute\
-**Range:** Self (30-foot sphere)\
-**Components:** V, S, M (a Musical Instrument worth 1+ GP)\
-**Duration:** Instantaneous
-
-You channel healing energies through soothing music. All creatures that remain within 30 feet of you for the entire casting time, except for undead or constructs, regain 5d10 Hit Points and are cured of being Blinded, Deafened, and Diseased.
-
-The healing energy attempts to soothe the restless undead and allow them to move on from this world. Each undead creature within the spell's area of effect when it is finished casting must make a Wisdom saving throw (they can choose to fail this save). On a failed save, the creature is reduced to 0 Hit Points, their spirit moves on to the afterlife, and their remains are destroyed in a burst of radiant fire. Creatures that are immune to being Turned are not affected by this spell.
-
-_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 6 or higher, the healing increases by 1d10 for each additional spell level.
-
-When you cast this spell at level 7 or higher, the spell also ends the cursed condition for all creatures healed by this spell. If any of those creatures are Attuned to a cursed magic item, the spell breaks its owner's Attunement to the object so it can be removed or discarded.
 
 ### _Song of Passing_
 
