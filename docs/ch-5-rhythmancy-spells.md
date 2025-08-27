@@ -44,7 +44,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 6 | _[The River Devil's Lament](#the-river-devils-lament)_ | Enchantment/Rhythmancy | Bard | M |
 | 7 | _[Tune of Ages](#tune-of-ages)_ | Conjuration/Rhythmancy | Bard | M |
 | 8 | _[Ballad of Gales](#ballad-of-gales)_ | Conjuration/Rhythmancy | Bard | M |
-| 8 | _[Oath to Order](#oath-to-order)_ | Abjuration/Rhythmancy | Bard | M |
+| 8 | _[Hold Back the Skies](#hold-back-the-skies)_ | Abjuration/Rhythmancy | Bard | M |
 
 ## Spell Descriptions
 
@@ -205,6 +205,21 @@ _**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 6 or hi
 
 When you cast this spell at level 7 or higher, the spell also ends the cursed condition for all creatures healed by this spell. If any of those creatures are Attuned to a cursed magic item, the spell breaks its owner's Attunement to the object so it can be removed or discarded.
 
+### _Hold Back the Skies_
+
+_Level 8 Abjuration/Rhythmancy (Bard)_
+
+**Casting Time:** 8 hours\
+**Range:** Self\
+**Components:** V, S, M (a Musical Instrument worth 1+ GP; a lock of hair from a creature larger than you of Challenge 6 or higher which the spell consumes)\
+**Duration:** 30 days
+
+You call upon the spirits of ancient giants to grant you the ability to repel massive bodies. The spell can only take effect if you maintain contact with the ground the entire time you cast the spell, otherwise it fails.
+
+Until the spell ends, as a Magic action, you can target a creature or object within 30 feet of you and attempt to repel them. The target must succeed on a Strength saving throw or they are forcibly shoved a distance of your choice up to 100 feet away from you in a straight line and knocked Prone. If the target is a creature that is already Prone, they are additionally Stunned until the end of your next turn.
+
+Manipulating gravity and mass in this manner takes a physical toll on your body. Each time you attempt to repel a creature, at the end of your turn, you must succeed on a Constitution saving throw contested by your own Spell Save DC or suffer one level of Exhaustion.
+
 ### _The Lost is Found_
 
 _Level 1 Divination/Rhythmancy (Bard, Ranger (Wild Composer))_
@@ -273,21 +288,6 @@ _Level 2 Divination/Rhythmancy (Bard, Ranger (Wild Composer))_
 **Duration:** Concentration, up to 10 minutes
 
 You perform a tune that disrupts any concealing magic in the vicinity. Until the spell ends, as a Magic action, you can attempt to reveal Invisible creatures and objects within your spell's area of effect. Make a spellcasting ability check. If there is a spell causing invisibility in your spell's area of effect, the DC equals 10 + the most powerful such spell's level in the area, or if the only invisibility present is caused by another magical effect, the DC is 15. On a success, all magical invisibility in the area of effect is dispelled, and this spell ends immediately. On a failure, or if there is no such magical invisibility nearby, your spell continues, but you gain no special insight into whether this outcome occurred due to failing the check or no viable Invisible creatures or objects being nearby.
-
-### _Oath to Order_
-
-_Level 8 Abjuration/Rhythmancy (Bard)_
-
-**Casting Time:** 8 hours\
-**Range:** Self\
-**Components:** V, S, M (a Musical Instrument worth 1+ GP; a lock of hair from a creature larger than you of Challenge 6 or higher which the spell consumes)\
-**Duration:** 30 days
-
-You call upon the spirits of ancient giants to grant you the ability to repel massive bodies. The spell can only take effect if you maintain contact with the ground the entire time you cast the spell, otherwise it fails.
-
-Until the spell ends, as a Magic action, you can target a creature or object within 30 feet of you and attempt to repel them. The target must succeed on a Strength saving throw or they are forcibly shoved a distance of your choice up to 100 feet away from you in a straight line and knocked Prone. If the target is a creature that is already Prone, they are additionally Stunned until the end of your next turn.
-
-Manipulating gravity and mass in this manner takes a physical toll on your body. Each time you attempt to repel a creature, at the end of your turn, you must succeed on a Constitution saving throw contested by your own Spell Save DC or suffer one level of Exhaustion.
 
 ### _The Oncoming Storm_
 
