@@ -31,11 +31,11 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 3 | _[Tune of Echoes](#tune-of-echoes)_ | Divination/Rhythmancy | Bard | C, R, M |
 | 3 | _[The Wind in My Sails](#the-wind-in-my-sails)_ | Conjuration/Rhythmancy | Bard, Ranger (Wild Composer) | C, R, M |
 | 4 | _[Death's Departure](#deaths-departure)_ | Abjuration/Rhythmancy | Bard | C |
-| 4 | _[Earth God's Lyric](#earth-gods-lyric)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | M |
+| 4 | _[The Sage of Earth's Calling](#the-sage-of-earths-calling)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | M |
 | 4 | _[Minute Minuet](#minute-minuet)_ | Transmutation/Rhythmancy | Bard | C |
 | 4 | _[Soulful Croak](#soulful-croak)_ | Necromancy/Rhythmancy | Bard | M |
 | 4 | _[Space Warp](#space-warp)_ | Conjuration/Rhythmancy | Bard | R, M |
-| 4 | _[Wind God's Aria](#wind-gods-aria)_ | Evocation/Rhythmancy | Bard | M |
+| 4 | _[The Sage of Wind's Beckoning](#the-sage-of-winds-beckoning)_ | Evocation/Rhythmancy | Bard | M |
 | 5 | _[Inverted Song of Time](#inverted-song-of-time)_ | Abjuration/Rhythmancy | Bard | — |
 | 5 | _[Melody of Darkness](#melody-of-darkness)_ | Necromancy/Rhythmancy | Bard | C |
 | 5 | _[Song of Healing](#song-of-healing)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | — |
@@ -131,25 +131,6 @@ _Level 2 Evocation/Rhythmancy (Bard)_
 You and a partner play an uplifting Duet, targeting a shared location within range. When the spell finishes casting, any creatures that remained within the spells' area of effect for the entire casting and were able to hear the entire composition gain the benefits of a Short Rest. A creature must complete a Long Rest before they can gain this benefit from this song again.
 
 _**Using a Higher-Level Spell Slot.**_ When you and your partner both cast this spell at level 3 or higher, all creatures that gained the benefits of a Short Rest from this spell also gain a number of Temporary Hit Points equal to twice the spells' combined levels; for example, if both spells are cast at level 3, a creature gains 12 Temporary Hit Points, or (3 + 3) × 2.
-
-### _Earth God's Lyric_
-
-_Level 4 Evocation/Rhythmancy (Bard, Ranger (Wild Composer))_
-
-**Casting Time:** 10 minutes\
-**Range:** Self\
-**Components:** V, S, M (a Musical Instrument worth 1+ GP; a handful of soil from the Elemental Plane of Earth which the spell consumes)\
-**Duration:** 8 hours
-
-The notes you play resonate with the world under your feet, strengthening your bond to the earth. The spell can only take effect if you maintain contact with the ground the entire time you cast the spell, otherwise it fails.
-
-Once you finish casting, until the spell ends, as long as you touch the ground, you cannot be unwillingly or forcibly removed from your location, as a magical gravitational pull holds you firm. This does not prevent you from being Grappled, but a creature Grappling you cannot separate you from the ground you stand on by any nonmagical means.
-
-Magical effects that would lift or relocate you as forced movement, such as the _levitate_ spell, end immediately and cannot target you, unless they are cast as spells at a higher level than you cast this spell. Magical effects that manipulate you into moving yourself, such as being Charmed and compelled to use your own movement, function normally.
-
-If a creature attempts to teleport or planeshift you against your will and they are not using a spell cast at a higher level than this spell, they must first succeed on a spellcasting ability check (or a Wisdom check if they do not have the ability to cast spells) contested by your Spell Save DC, or the teleport or planeshift fails to include you as a target.
-
-If you are moved, teleported, or planeshifted against your will, this spell's effects are suspended until the relocation is complete, after which you are once again tethered to whatever ground you are touching. If you are successfully separated from the ground against your will for 1 minute or longer, the spell ends.
 
 ### _Elegy of Emptiness_
 
@@ -349,6 +330,42 @@ You and a partner play an empowering Duet, targeting a shared location within ra
 
 _**Using a Higher-Level Spell Slot.**_ When you and your partner both cast this spell at level 4 or higher, for each additional spell level, all creatures who gained Advantage on a d20 test also gain a +1 to the roll. If the spells are cast at different levels, use the lower of the two levels. For example, if the spell is cast using a level 5 and a level 6 spell slot, creatures would gain the bonus from the level 5 casting, which would be a +2 to their roll.
 
+### _The Sage of Earth's Calling_
+
+_Level 4 Evocation/Rhythmancy (Bard, Ranger (Wild Composer))_
+
+**Casting Time:** 10 minutes\
+**Range:** Self\
+**Components:** V, S, M (a Musical Instrument worth 1+ GP; a handful of soil from the Elemental Plane of Earth which the spell consumes)\
+**Duration:** 8 hours
+
+The notes you play resonate with the world under your feet, strengthening your bond to the earth. The spell can only take effect if you maintain contact with the ground the entire time you cast the spell, otherwise it fails.
+
+Once you finish casting, until the spell ends, as long as you touch the ground, you cannot be unwillingly or forcibly removed from your location, as a magical gravitational pull holds you firm. This does not prevent you from being Grappled, but a creature Grappling you cannot separate you from the ground you stand on by any nonmagical means.
+
+Magical effects that would lift or relocate you as forced movement, such as the _levitate_ spell, end immediately and cannot target you, unless they are cast as spells at a higher level than you cast this spell. Magical effects that manipulate you into moving yourself, such as being Charmed and compelled to use your own movement, function normally.
+
+If a creature attempts to teleport or planeshift you against your will and they are not using a spell cast at a higher level than this spell, they must first succeed on a spellcasting ability check (or a Wisdom check if they do not have the ability to cast spells) contested by your Spell Save DC, or the teleport or planeshift fails to include you as a target.
+
+If you are moved, teleported, or planeshifted against your will, this spell's effects are suspended until the relocation is complete, after which you are once again tethered to whatever ground you are touching. If you are successfully separated from the ground against your will for 1 minute or longer, the spell ends.
+
+### _The Sage of Wind's Beckoning_
+
+_Level 4 Evocation/Rhythmancy (Bard)_
+
+**Casting Time:** 10 minutes\
+**Range:** Self\
+**Components:** V, S, M (a Musical Instrument worth 1+ GP; a vial of air from the Elemental Plane of Air which the spell consumes)\
+**Duration:** 8 hours
+
+The notes you play resonate with the air around you, lifting you upward and granting you free movement.
+
+Until the spell ends, you gain a flying speed equal to your movement speed, or if you already have a flying speed, it is increased by 30 feet. You hover in place when you are not flying.
+
+As long as you are not touching the ground, the air pulses around your body, granting you advantage on checks you make to resist being Grappled or to escape the Grappled condition. If you succeed on such a check, as a Reaction, you can immediately move up to half your flying speed away with a burst of wind, and the creature that was Grappling you must succeed on a Strength saving throw against your Spell Save DC or they are knocked Prone. This movement doesn't provoke opportunity attacks.
+
+If you are successfully forced to the ground against your will for 1 minute or longer, the spell ends.
+
 ### _Sonata of Awakening_
 
 _Level 2 Abjuration/Rhythmancy (Bard)_
@@ -542,23 +559,6 @@ You create an image in the air 10 feet in front of you depicting your current ge
 For the duration of the spell, the image plays out the selected moment in real time. The image can display any location within 100 feet of where the spell was cast, switching focus as needed to depict the selected moment as fully as possible. You can see and hear through the image as if you were present at that point in time. If, at any point during the playback of the selected moment, a magical effect was present which blocked detection through Divination magic or being perceived through magical scrying sensors (such as with the _Nondetection_ spell), the image becomes unfocused and the sound becomes distorted until such a time that the magical effect ended or was not present.
 
 Any number of times before the spell ends, as a Magic action, you can spend an additional spell slot of any level to extend the spell's duration by a number of minutes equal to ten times the slot level.
-
-### _Wind God's Aria_
-
-_Level 4 Evocation/Rhythmancy (Bard)_
-
-**Casting Time:** 10 minutes\
-**Range:** Self\
-**Components:** V, S, M (a Musical Instrument worth 1+ GP; a vial of air from the Elemental Plane of Air which the spell consumes)\
-**Duration:** 8 hours
-
-The notes you play resonate with the air around you, lifting you upward and granting you free movement.
-
-Until the spell ends, you gain a flying speed equal to your movement speed, or if you already have a flying speed, it is increased by 30 feet. You hover in place when you are not flying.
-
-As long as you are not touching the ground, the air pulses around your body, granting you advantage on checks you make to resist being Grappled or to escape the Grappled condition. If you succeed on such a check, as a Reaction, you can immediately move up to half your flying speed away with a burst of wind, and the creature that was Grappling you must succeed on a Strength saving throw against your Spell Save DC or they are knocked Prone. This movement doesn't provoke opportunity attacks.
-
-If you are successfully forced to the ground against your will for 1 minute or longer, the spell ends.
 
 ### _The Wind in My Sails_
 
