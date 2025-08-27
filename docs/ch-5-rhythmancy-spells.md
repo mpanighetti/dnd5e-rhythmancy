@@ -6,8 +6,8 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 
 ##### Rhythmancy Spells
 
-| Level | Spell | School | Class | Tags |
-|:-----:|:------|:-------|:------|:-----|
+| Level | Spell | School | Class | Special |
+|:-----:|:------|:-------|:------|:--------|
 | cantrip | _[Ballad of the Dreamer](#ballad-of-the-dreamer)_ | Abjuration/Rhythmancy | Bard | — |
 | cantrip | _[The Hawk's Call](#the-hawks-call)_ | Evocation/Rhythmancy | Bard | — |
 | cantrip | _[The Royal Decree](#the-royal-decree)_ | Enchantment/Rhythmancy | Bard | — |
