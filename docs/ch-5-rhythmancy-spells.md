@@ -24,11 +24,11 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 2 | _[Stirring Sonata](#stirring-sonata)_ | Abjuration/Rhythmancy | Bard | C, M |
 | 2 | _[Souls Entwined](#souls-entwined)_ | Conjuration/Rhythmancy | Bard | C, R, M |
 | 3 | _[The Cleansing Waves](#the-cleansing-waves)_ | Abjuration/Rhythmancy | Bard | C |
+| 3 | _[Concerto No. 1 in E major, "Echoes of the Past"](#concerto-no-1-in-e-major-echoes-of-the-past)_ | Divination/Rhythmancy | Bard | C, R, M |
 | 3 | _[Mambo Marino](#mambo-marino)_ | Conjuration/Rhythmancy | Bard | C, R |
 | 3 | _[Peaceful Lullaby](#peaceful-lullaby)_ | Enchantment/Rhythmancy | Bard | C |
 | 3 | _[Royal Duet](#royal-duet)_ | Evocation/Rhythmancy | Bard | D |
 | 3 | _[Song of Double Time](#song-of-double-time)_ | Abjuration/Rhythmancy | Bard | — |
-| 3 | _[Tune of Echoes](#tune-of-echoes)_ | Divination/Rhythmancy | Bard | C, R, M |
 | 3 | _[The Wind in My Sails](#the-wind-in-my-sails)_ | Conjuration/Rhythmancy | Bard, Ranger (Wild Composer) | C, R, M |
 | 4 | _[Death's Departure](#deaths-departure)_ | Abjuration/Rhythmancy | Bard | C |
 | 4 | _[Minute Minuet](#minute-minuet)_ | Transmutation/Rhythmancy | Bard | C |
@@ -36,13 +36,13 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 4 | _[The Sage of Wind's Beckoning](#the-sage-of-winds-beckoning)_ | Evocation/Rhythmancy | Bard | M |
 | 4 | _[Soulful Croak](#soulful-croak)_ | Necromancy/Rhythmancy | Bard | M |
 | 4 | _[Space Warp](#space-warp)_ | Conjuration/Rhythmancy | Bard | R, M |
+| 5 | _[Concerto No. 2 in G minor, "Ripples of the Current"](#concerto-no-2-in-g-minor-ripples-of-the-current)_ | Abjuration/Rhythmancy | Bard | M |
 | 5 | _[Healing Balm](#healing-balm)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | — |
 | 5 | _[Inverted Song of Time](#inverted-song-of-time)_ | Abjuration/Rhythmancy | Bard | — |
 | 5 | _[Melody of Darkness](#melody-of-darkness)_ | Necromancy/Rhythmancy | Bard | C |
 | 5 | _[Ballet of the Moon and Sun](#ballet-of-the-moon-and-sun)_ | Illusion/Rhythmancy | Bard | C |
-| 5 | _[Tune of Currents](#tune-of-currents)_ | Abjuration/Rhythmancy | Bard | M |
 | 6 | _[The River Devil's Lament](#the-river-devils-lament)_ | Enchantment/Rhythmancy | Bard | M |
-| 7 | _[Tune of Ages](#tune-of-ages)_ | Conjuration/Rhythmancy | Bard | M |
+| 7 | _[Concerto No. 3 in F minor, "Master of the Ages"](#concerto-no-3-in-f-minor-master-of-the-ages)_ | Conjuration/Rhythmancy | Bard | M |
 | 8 | _[Cast Upon the Seas](#cast-upon-the-seas)_ | Conjuration/Rhythmancy | Bard | M |
 | 8 | _[Hold Back the Skies](#hold-back-the-skies)_ | Abjuration/Rhythmancy | Bard | M |
 
@@ -513,39 +513,7 @@ A Medium-sized inanimate scarecrow appears anchored to the ground in an unoccupi
 
 The scarecrow can act as a target for a thrown grappling hook or similar equipment, and it can support up to 500 pounds of weight. It disappears when you cast this spell again.
 
-### _Tune of Ages_
-
-_Level 7 Conjuration/Rhythmancy (Bard)_
-
-**Casting Time:** 1 hour\
-**Range:** 30 feet\
-**Components:** V, S, M (a magic item or a willing creature from the destination time period; a Musical Instrument worth 1+ GP)\
-**Duration:** Instantaneous
-
-You and up to eight willing creatures within range are removed from your current time period and appear in the same physical location in another time period you choose.
-
-The selected time period must at least specify the destination year, but can be more specific if desired. Additionally, the magic item or willing creature specified in the spell's material components must have existed in the time period you specify and must accompany you in the time travel. If any of these conditions are not met, the spell fails.
-
-### _Tune of Currents_
-
-_Level 5 Abjuration/Rhythmancy (Bard)_
-
-**Casting Time:** 1 minute\
-**Range:** 30 feet\
-**Components:** V, M (a Musical Instrument worth 1+ GP; an item that tells time worth 200 gp which the spell consumes)\
-**Duration:** Instantaneous
-
-You attempt to restore the normal flow of time for a creature you can see within range. This spell can potentially remove the following temporal effects from the target:
-
-- Any spell or magical effect on the target that caused them to grow older or younger
-- Any spell or magical effect that caused the target to be removed from their original time period
-- _Haste_, _Slow_, and any chronurgy spell [^⏳]
-
-Any ongoing spell of level 5 or lower on the target that falls under one of the above criteria ends, similar to the effect of _Dispel Magic_; additionally, any valid spell for which you were originally the caster and any valid magical effect not caused by a spell ends. A creature magically displaced from their original time period is immediately returned to their era, and all magical aging is removed.
-
-[^⏳]: Source: _Explorer's Guide to Wildemount_
-
-### _Tune of Echoes_
+### _Concerto No. 1 in E major, "Echoes of the Past"_
 
 _Level 3 Divination/Rhythmancy (Bard)_
 
@@ -559,6 +527,38 @@ You create an image in the air 10 feet in front of you depicting your current ge
 For the duration of the spell, the image plays out the selected moment in real time. The image can display any location within 100 feet of where the spell was cast, switching focus as needed to depict the selected moment as fully as possible. You can see and hear through the image as if you were present at that point in time. If, at any point during the playback of the selected moment, a magical effect was present which blocked detection through Divination magic or being perceived through magical scrying sensors (such as with the _Nondetection_ spell), the image becomes unfocused and the sound becomes distorted until such a time that the magical effect ended or was not present.
 
 Any number of times before the spell ends, as a Magic action, you can spend an additional spell slot of any level to extend the spell's duration by a number of minutes equal to ten times the slot level.
+
+### _Concerto No. 2 in G minor, "Ripples of the Current"_
+
+_Level 5 Abjuration/Rhythmancy (Bard)_
+
+**Casting Time:** 1 minute\
+**Range:** 30 feet\
+**Components:** V, M (a Musical Instrument worth 1+ GP; an item that tells time worth 200 gp which the spell consumes)\
+**Duration:** Instantaneous
+
+You attempt to restore the normal flow of time for a creature you can see within range. This spell can potentially remove the following temporal effects from the target:
+
+- Any spell or magical effect on the target that caused them to grow older or younger
+- Any spell or magical effect that caused the target to be removed from their original time period
+- _Haste_, _Slow_, and any Chronurgy spell [^⏳]
+
+Any ongoing spell of level 5 or lower on the target that falls under one of the above criteria ends, similar to the effect of _Dispel Magic_; additionally, any valid spell for which you were originally the caster and any valid magical effect not caused by a spell ends. A creature magically displaced from their original time period is immediately returned to their era, and all magical aging is removed.
+
+[^⏳]: Source: _Explorer's Guide to Wildemount_
+
+### _Concerto No. 3 in F minor, "Master of the Ages"_
+
+_Level 7 Conjuration/Rhythmancy (Bard)_
+
+**Casting Time:** 1 hour\
+**Range:** 30 feet\
+**Components:** V, S, M (a magic item or a willing creature from the destination time period; a Musical Instrument worth 1+ GP)\
+**Duration:** Instantaneous
+
+You and up to eight willing creatures within range are removed from your current time period and appear in the same physical location in another time period you choose.
+
+The selected time period must at least specify the destination year, but can be more specific if desired. Additionally, the magic item or willing creature specified in the spell's material components must have existed in the time period you specify and must accompany you in the time travel. If any of these conditions are not met, the spell fails.
 
 ### _The Wind in My Sails_
 
