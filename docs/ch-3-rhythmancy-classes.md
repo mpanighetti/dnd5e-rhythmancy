@@ -89,15 +89,15 @@ _**Instrument Training.**_ You gain Proficiency with a Musical Instrument of you
 
 When you expend a Second Wind or Superiority Die, in addition to its normal effects, you gain a number of temporary Rhythmancy Points equal to the die roll; if the effect didn't involve rolling a die, roll a d6 to determine your temporary Rhythmancy Points. While you have these temporary Rhythmancy Points, they can be spent to cast or learn spells as if they were normal Rhythmancy Points, but they don't count toward your total number of Rhythmancy Points to determine the level of Rhythmancy spell you can cast or learn. Unspent temporary Rhythmancy Points from this feature disappear after 10 minutes.
 
-#### Level 7: Aura of Confidence
+#### Level 7: Aura of Revelry
 
-When you use your Action Surge, you can project an aura of confidence in a 30-foot radius Emanation for 1 minute or until your Concentration ends. When a creature starts its turn in the aura, you can make the creature make a Wisdom saving throw against your spell save DC. On a failed save, the target has the Charmed condition for the duration. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+As a Magic action, you can play a Musical Instrument to project an aura of revelry in a 30-foot radius Emanation for 1 minute or until your Concentration ends. When a creature starts its turn in the aura, you can make the creature make a Wisdom saving throw against your spell save DC. On a failed save, the target has the Charmed condition for the duration. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 Once you activate this aura, you can't do it again until you finish a Long Rest. You can also restore your use of it by expending two Rhythmancy Points (no action required).
 
 #### Level 10: Aura of Confidence
 
-While you are in your aura of confidence, you have Immunity to the Frightened condition.
+While you are in your aura of revelry, you have Immunity to the Frightened condition.
 
 #### Level 15: ?
 
@@ -127,11 +127,11 @@ When you reach a Ranger level specified in the Wild Composer Spells table, you t
 
 | Ranger Level | Spells |
 |:------------:|:-------|
-| 3rd  | _The Hawk's Call_, _The Lost is Found_ |
-| 5th  | _Song of Discovery_ |
-| 9th  | _Wind's Requiem_ |
-| 13th | _Earth God's Lyric_ |
-| 17th | _Song of Healing_ |
+| 3  | _The Hawk's Call_, _The Lost is Found_ |
+| 5  | _Song of Discovery_ |
+| 9  | _Wind's Requiem_ |
+| 13 | _Earth God's Lyric_ |
+| 17 | _Song of Healing_ |
 
 #### Music-Maker
 
