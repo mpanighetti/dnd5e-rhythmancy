@@ -21,7 +21,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 2 | _[An Empty Shell](#an-empty-shell)_ | Conjuration/Rhythmancy | Bard | — |
 | 2 | _[No Stone Unturned](#no-stone-unturned)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | C, R, M |
 | 2 | _[Repel the Dark](#repel-the-dark)_ | Evocation/Rhythmancy | Bard | C |
-| 2 | _[Sonata of Awakening](#sonata-of-awakening)_ | Abjuration/Rhythmancy | Bard | C, M |
+| 2 | _[Stirring Sonata](#stirring-sonata)_ | Abjuration/Rhythmancy | Bard | C, M |
 | 2 | _[Souls Entwined](#souls-entwined)_ | Conjuration/Rhythmancy | Bard | C, R, M |
 | 3 | _[The Cleansing Waves](#the-cleansing-waves)_ | Abjuration/Rhythmancy | Bard | C |
 | 3 | _[Mambo Marino](#mambo-marino)_ | Conjuration/Rhythmancy | Bard | C, R |
@@ -409,19 +409,6 @@ As long as you are not touching the ground, the air pulses around your body, gra
 
 If you are successfully forced to the ground against your will for 1 minute or longer, the spell ends.
 
-### _Sonata of Awakening_
-
-_Level 2 Abjuration/Rhythmancy (Bard)_
-
-**Casting Time:** Action\
-**Range:** 30 feet\
-**Components:** V, M (a Musical Instrument worth 1+ GP, a bell worth 5+ GP)\
-**Duration:** Concentration, up to 1 minute
-
-You stir slumbering creatures with rousing music. When you cast this spell, choose up to three creatures within range under the effect of magical sleep that can hear you. The targets, as well as all other naturally Unconscious creatures within range that can hear you, immediately regain consciousness. Until the spell ends, magic can't put creatures within range to sleep, as long as they can still hear you.
-
-_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 3 or higher, you can target one additional creature for each slot level above 2nd.
-
 ### _Song of Time_
 
 _Level 1 Abjuration/Rhythmancy (Bard)_
@@ -462,19 +449,6 @@ If a creature casts a spell with a range of touch, their link can deliver the sp
 
 A linked creature can sever this magical link at any time, which ends the spell.
 
-### _Space Warp_
-
-_Level 4 Conjuration/Rhythmancy (Bard)_
-
-**Casting Time:** 10 minutes or Ritual\
-**Range:** 10 feet\
-**Components:** V, S, M (a Musical Instrument worth 1+ GP; an object that was present when the target creature lost consciousness at the spell's destination which the spell consumes)\
-**Duration:** Instantaneous
-
-You play a prolonged melody, targeting a willing creature you can see within range and concentrating on a location where the target creature previously was Unconscious, including due to normal or magical sleep. Space then shifts around the target creature, causing them to teleport to a safe location on the outskirts or outside the entrance to your destination.
-
-_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 5 or higher, you can teleport an additional willing creature you can see within range to the destination per each additional spell level. When multiple creatures are targeted by this spell, you can choose a destination where any of the target creatures were Unconscious, and the casting time increases by 10 minutes for each additional creature you target beyond the first.
-
 ### _Soulful Croak_
 
 _Level 4 Necromancy/Rhythmancy (Bard)_
@@ -499,6 +473,32 @@ You attempt to influence the life energy of a corpse or undead creature you can 
 An undead creature targeted or raised by this spell must succeed on a Wisdom saving throw against your Spell Save DC or they are Charmed by you. On each of your turns, you can use a Bonus Action to mentally command any creature you Charmed with this spell within 60 feet of you; if you control any combination of creatures using this spell, _Animate Dead_, or similar spells, you can command any or all of them at the same time, issuing the same or different commands to each one. You decide what Action the creature will take and where they will move during their next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature defends you and themself against hostile creatures and moves as needed to remain within at least 30 feet of you. Once given an order, the creature continues to follow it until the task is complete.
 
 On a successful save, or if the Charmed condition on the undead creature ends, the creature stops obeying any command you've given them and cannot be targeted by this spell again for the next 30 days.
+
+### _Space Warp_
+
+_Level 4 Conjuration/Rhythmancy (Bard)_
+
+**Casting Time:** 10 minutes or Ritual\
+**Range:** 10 feet\
+**Components:** V, S, M (a Musical Instrument worth 1+ GP; an object that was present when the target creature lost consciousness at the spell's destination which the spell consumes)\
+**Duration:** Instantaneous
+
+You play a prolonged melody, targeting a willing creature you can see within range and concentrating on a location where the target creature previously was Unconscious, including due to normal or magical sleep. Space then shifts around the target creature, causing them to teleport to a safe location on the outskirts or outside the entrance to your destination.
+
+_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 5 or higher, you can teleport an additional willing creature you can see within range to the destination per each additional spell level. When multiple creatures are targeted by this spell, you can choose a destination where any of the target creatures were Unconscious, and the casting time increases by 10 minutes for each additional creature you target beyond the first.
+
+### _Stirring Sonata_
+
+_Level 2 Abjuration/Rhythmancy (Bard)_
+
+**Casting Time:** Action\
+**Range:** 30 feet\
+**Components:** V, M (a Musical Instrument worth 1+ GP, a bell worth 5+ GP)\
+**Duration:** Concentration, up to 1 minute
+
+You stir slumbering creatures with rousing music. When you cast this spell, choose up to three creatures within range under the effect of magical sleep that can hear you. The targets, as well as all other naturally Unconscious creatures within range that can hear you, immediately regain consciousness. Until the spell ends, magic can't put creatures within range to sleep, as long as they can still hear you.
+
+_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 3 or higher, you can target one additional creature for each slot level above 2nd.
 
 ### _Summoning of the Scarecrow_
 
