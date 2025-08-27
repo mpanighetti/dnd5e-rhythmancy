@@ -14,15 +14,15 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 1 | _[The Curse, Reversed](#the-curse-reversed)_ | Abjuration/Rhythmancy | Bard | |
 | 1 | _[Equine Tribute](#equine-tribute)_ | Conjuration/Rhythmancy | Bard | — |
 | 1 | _[The Lost is Found](#the-lost-is-found)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | C, R |
-| 1 | _[Song of Storms](#song-of-storms)_ | Evocation/Rhythmancy | Bard | Concentration |
+| 1 | _[The Oncoming Storm](#the-oncoming-storm)_ | Evocation/Rhythmancy | Bard | Concentration |
 | 1 | _[Song of Time](#song-of-time)_ | Abjuration/Rhythmancy | Bard | — |
 | 1 | _[Summoning of the Scarecrow](#summoning-of-the-scarecrow)_ | Conjuration/Rhythmancy | Bard | — |
 | 2 | _[Command Melody](#command-melody)_ | Conjuration/Rhythmancy | Bard | C, R, M |
 | 2 | _[Duet of Restoration](#duet-of-restoration)_ | Evocation/Rhythmancy | Bard | D |
-| 2 | _[Elegy of Emptiness](#elegy-of-emptiness)_ | Conjuration/Rhythmancy | Bard | — |
+| 2 | _[An Empty Shell](#an-empty-shell)_ | Conjuration/Rhythmancy | Bard | — |
+| 2 | _[No Stone Unturned](#no-stone-unturned)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | C, R, M |
 | 2 | _[Repel the Dark](#repel-the-dark)_ | Evocation/Rhythmancy | Bard | C |
 | 2 | _[Sonata of Awakening](#sonata-of-awakening)_ | Abjuration/Rhythmancy | Bard | C, M |
-| 2 | _[Song of Discovery](#song-of-discovery)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | C, R, M |
 | 3 | _[The Cleansing Waves](#the-cleansing-waves)_ | Abjuration/Rhythmancy | Bard | C |
 | 3 | _[Mambo Marino](#mambo-marino)_ | Conjuration/Rhythmancy | Bard | C, R |
 | 3 | _[Peaceful Lullaby](#peaceful-lullaby)_ | Enchantment/Rhythmancy | Bard | C |
@@ -143,7 +143,7 @@ You and a partner play an uplifting Duet, targeting a shared location within ran
 
 _**Using a Higher-Level Spell Slot.**_ When you and your partner both cast this spell at level 3 or higher, all creatures that gained the benefits of a Short Rest from this spell also gain a number of Temporary Hit Points equal to twice the spells' combined levels; for example, if both spells are cast at level 3, a creature gains 12 Temporary Hit Points, or (3 + 3) × 2.
 
-### _Elegy of Emptiness_
+### _An Empty Shell_
 
 _Level 2 Conjuration/Rhythmancy (Bard)_
 
@@ -263,6 +263,17 @@ While reduced in this manner, the target's speed is halved; they have disadvanta
 
 The spell ends if you are unable to see the target.
 
+### _No Stone Unturned_
+
+_Level 2 Divination/Rhythmancy (Bard, Ranger (Wild Composer))_
+
+**Casting Time:** 1 minute or Ritual\
+**Range:** Self (20-foot sphere)\
+**Components:** V, S, M (a Musical Instrument worth 1+ GP, a magnifying glass worth 10+ GP)\
+**Duration:** Concentration, up to 10 minutes
+
+You perform a tune that disrupts any concealing magic in the vicinity. Until the spell ends, as a Magic action, you can attempt to reveal Invisible creatures and objects within your spell's area of effect. Make a spellcasting ability check. If there is a spell causing invisibility in your spell's area of effect, the DC equals 10 + the most powerful such spell's level in the area, or if the only invisibility present is caused by another magical effect, the DC is 15. On a success, all magical invisibility in the area of effect is dispelled, and this spell ends immediately. On a failure, or if there is no such magical invisibility nearby, your spell continues, but you gain no special insight into whether this outcome occurred due to failing the check or no viable Invisible creatures or objects being nearby.
+
 ### _Oath to Order_
 
 _Level 8 Abjuration/Rhythmancy (Bard)_
@@ -277,6 +288,21 @@ You call upon the spirits of ancient giants to grant you the ability to repel ma
 Until the spell ends, as a Magic action, you can target a creature or object within 30 feet of you and attempt to repel them. The target must succeed on a Strength saving throw or they are forcibly shoved a distance of your choice up to 100 feet away from you in a straight line and knocked Prone. If the target is a creature that is already Prone, they are additionally Stunned until the end of your next turn.
 
 Manipulating gravity and mass in this manner takes a physical toll on your body. Each time you attempt to repel a creature, at the end of your turn, you must succeed on a Constitution saving throw contested by your own Spell Save DC or suffer one level of Exhaustion.
+
+### _The Oncoming Storm_
+
+_Level 1 Evocation/Rhythmancy (Bard)_
+
+**Casting Time:** 1 minute\
+**Range:** 120 feet (1 mile if cast outdoors)\
+**Components:** V, S, M (a pebble or stone worn smooth by water used to forecast rainy weather; a Musical Instrument worth 1+ GP)\
+**Duration:** Concentration, up to 1 hour
+
+You summon a storm cloud that is 10 feet tall with a 20-foot radius, centered on a point you can see within range directly above you. The spell fails if you can't see a point in the air where the storm cloud could appear (for example, if you are in a room that can't accommodate the cloud).
+
+Until the spell ends, light rain falls in the area underneath the cloud. Invisible creatures under the cloud have disadvantage on attempts to hide as the rain patters on their bodies and reveals their locations as an outline of raindrops. The cloud moves with you.
+
+If you are outdoors in a light rain when you cast this spell, the spell affects the existing storm instead of creating a new cloud. Under such conditions, the storm becomes a heavy rain, causing the area to be lightly obscured, extinguishing open flames, and imposing disadvantage on Wisdom (Perception) checks that rely on sight or hearing. When the spell ends, the weather gradually returns to normal.
 
 ### _Peaceful Lullaby_
 
@@ -396,17 +422,6 @@ You stir slumbering creatures with rousing music. When you cast this spell, choo
 
 _**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 3 or higher, you can target one additional creature for each slot level above 2nd.
 
-### _Song of Discovery_
-
-_Level 2 Divination/Rhythmancy (Bard, Ranger (Wild Composer))_
-
-**Casting Time:** 1 minute or Ritual\
-**Range:** Self (20-foot sphere)\
-**Components:** V, S, M (a Musical Instrument worth 1+ GP, a magnifying glass worth 10+ GP)\
-**Duration:** Concentration, up to 10 minutes
-
-You perform a tune that disrupts any concealing magic in the vicinity. Until the spell ends, as a Magic action, you can attempt to reveal Invisible creatures and objects within your spell's area of effect. Make a spellcasting ability check. If there is a spell causing invisibility in your spell's area of effect, the DC equals 10 + the most powerful such spell's level in the area, or if the only invisibility present is caused by another magical effect, the DC is 15. On a success, all magical invisibility in the area of effect is dispelled, and this spell ends immediately. On a failure, or if there is no such magical invisibility nearby, your spell continues, but you gain no special insight into whether this outcome occurred due to failing the check or no viable Invisible creatures or objects being nearby.
-
 ### _Song of Passing_
 
 _Level 5 Illusion/Rhythmancy (Bard)_
@@ -423,21 +438,6 @@ While under the effects of this spell, the creature's senses are modified to con
 False memories are implanted in the creature's mind, such that they believe time and events have passed normally. Modified senses and memories don't necessarily affect how a creature behaves, but the creature will make normal efforts to proceed with activities that would make sense for the given time of day. Such activities might include leaving home to work a farm, closing a business for the night, departing for a formal occasion, preparing for bed, or any other time-specific activity.
 
 After the spell ends, the creature becomes aware that their senses and memories were altered by magic.
-
-### _Song of Storms_
-
-_Level 1 Evocation/Rhythmancy (Bard)_
-
-**Casting Time:** 1 minute\
-**Range:** 120 feet (1 mile if cast outdoors)\
-**Components:** V, S, M (a pebble or stone worn smooth by water used to forecast rainy weather; a Musical Instrument worth 1+ GP)\
-**Duration:** Concentration, up to 1 hour
-
-You summon a storm cloud that is 10 feet tall with a 20-foot radius, centered on a point you can see within range directly above you. The spell fails if you can't see a point in the air where the storm cloud could appear (for example, if you are in a room that can't accommodate the cloud).
-
-Until the spell ends, light rain falls in the area underneath the cloud. Invisible creatures under the cloud have disadvantage on attempts to hide as the rain patters on their bodies and reveals their locations as an outline of raindrops. The cloud moves with you.
-
-If you are outdoors in a light rain when you cast this spell, the spell affects the existing storm instead of creating a new cloud. Under such conditions, the storm becomes a heavy rain, causing the area to be lightly obscured, extinguishing open flames, and imposing disadvantage on Wisdom (Perception) checks that rely on sight or hearing. When the spell ends, the weather gradually returns to normal.
 
 ### _Song of Time_
 
