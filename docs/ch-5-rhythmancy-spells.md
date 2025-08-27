@@ -577,4 +577,4 @@ _**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 4 or hi
 
 ---
 
-[⬅️ Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md) | [Chapter 6: Rhythmancy Magic Items ➡️](ch-6-rhythmancy-magic-items.md)
+[⬅️ Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md) | [Home ⬆️](index.md) | [Chapter 6: Rhythmancy Magic Items ➡️](ch-6-rhythmancy-magic-items.md)

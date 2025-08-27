@@ -56,4 +56,4 @@ The Maracas of Holding contain 3 charges. While you are Attuned to the Maracas o
 
 ---
 
-[⬅️ Chapter 5: Rhythmancy Spells](ch-5-rhythmancy-spells.md)
+[⬅️ Chapter 5: Rhythmancy Spells](ch-5-rhythmancy-spells.md) | [Home ⬆️](index.md)

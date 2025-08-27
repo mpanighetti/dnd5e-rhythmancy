@@ -41,4 +41,4 @@ _**Instrument Training.**_ You gain proficiency with a Musical Instrument of you
 
 ---
 
-[⬅️ Chapter 3: Rhythmancy Classes](ch-3-rhythmancy-classes.md) | [Chapter 5: Rhythmancy Spells ➡️](ch-5-rhythmancy-spells.md)
+[⬅️ Chapter 3: Rhythmancy Classes](ch-3-rhythmancy-classes.md) | [Home ⬆️](index.md) | [Chapter 5: Rhythmancy Spells ➡️](ch-5-rhythmancy-spells.md)
