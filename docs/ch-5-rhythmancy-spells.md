@@ -130,7 +130,7 @@ _Level 2 Evocation/Rhythmancy (Bard)_
 
 You and a partner play an uplifting Duet, targeting a shared location within range. When the spell finishes casting, any creatures that remained within the spells' area of effect for the entire casting and were able to hear the entire composition gain the benefits of a Short Rest. A creature must complete a Long Rest before they can gain this benefit from this song again.
 
-**At Higher Levels.** When you and your partner both cast this spell at level 3 or higher, all creatures that gained the benefits of a Short Rest from this spell also gain a number of Temporary Hit Points equal to twice the spells' combined levels; for example, if both spells are cast at level 3, a creature gains 12 Temporary Hit Points, or (3 + 3) × 2.
+_**Using a Higher-Level Spell Slot.**_ When you and your partner both cast this spell at level 3 or higher, all creatures that gained the benefits of a Short Rest from this spell also gain a number of Temporary Hit Points equal to twice the spells' combined levels; for example, if both spells are cast at level 3, a creature gains 12 Temporary Hit Points, or (3 + 3) × 2.
 
 ### _Earth God's Lyric_
 
@@ -181,7 +181,7 @@ When you cast this spell and already have a companion, instead of making a new c
 
 If your companion is mistreated or harmed by you or any of your allies, or at their own discretion, they can choose to end their companionship to you, and you can similarly end this companionship at any time. If you already have a companion and target a new creature with this spell, the previous companionship ends. Otherwise, the companionship lasts until you or your companion dies.
 
-**At Higher Levels.** When you cast this spell to summon your companion using a Spell Slot of 2nd-level or higher, they gain a number of Temporary Hit Points equal to five times the Spell Slot level.
+_**Using a Higher-Level Spell Slot.**_ When you cast this spell to summon your companion using a Spell Slot of 2nd-level or higher, they gain a number of Temporary Hit Points equal to five times the Spell Slot level.
 
 ### _The Hawk's Call_
 
@@ -207,7 +207,7 @@ _Level 1 Divination/Rhythmancy (Bard, Ranger (Wild Composer))_
 
 You play a song to yourself that stirs old memories of a childhood friend. Until the spell ends, while you are traveling or exploring within the same environment you were in when casting the spell, you can't become lost except by magical means.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd-level or higher, the duration increases to a number of hours equal to the spell slot level. Additionally, until the spell ends, if magical effects cause you to become lost, as a Magic action, you can attempt to identify a valid route to take for a specific intended destination on the same plane of existence as you. Make a spellcasting ability check contested by a DC equal to 10 + the other spell's level (or DC 15 if caused by another magical effect). On a success, the magical effects obfuscating your travel are suppressed for the duration of the spell, during which time the shortest and most direct route to your destination (but not necessarily the safest route) is drawn out as a spectral golden wire on the ground. On a failed check, the spell ends immediately.
+_**Using a Higher-Level Spell Slot.**_ When you cast this spell using a spell slot of 2nd-level or higher, the duration increases to a number of hours equal to the spell slot level. Additionally, until the spell ends, if magical effects cause you to become lost, as a Magic action, you can attempt to identify a valid route to take for a specific intended destination on the same plane of existence as you. Make a spellcasting ability check contested by a DC equal to 10 + the other spell's level (or DC 15 if caused by another magical effect). On a success, the magical effects obfuscating your travel are suppressed for the duration of the spell, during which time the shortest and most direct route to your destination (but not necessarily the safest route) is drawn out as a spectral golden wire on the ground. On a failed check, the spell ends immediately.
 
 ### _Mambo Marino_
 
@@ -220,7 +220,7 @@ _Level 3 Conjuration/Rhythmancy (Bard)_
 
 You create a glowing 10-foot-diameter circle in the surface of a body of water you can see within range. The circle lasts for the spell's duration. At any time before the spell ends, as a Magic action, you can attempt to teleport to the circle, along with any willing creatures you can see within 30 feet of you. If the circle is more than 1 mile away, or if the circle's space is occupied or cannot accommodate all the creatures you specify, the teleportation fails. Otherwise, any creatures teleported by this spell instantly appear within the circle, and the spell ends.
 
-**At Higher Levels.** When you cast this spell at level 4 or higher, the diameter of the glowing circle you create increases by 10 feet per additional spell level, the duration increases (1 day at level 5, 1 week at level 7, or 1 month at level 9), and when you cast this spell at level 7 or higher, it lasts for the full duration. Additionally, if you cast this spell again before the duration ends, any circles that existed from your previous casting of the spell continue to function and inherit the new duration, unless you are more than 1 mile away from an existing circle, in which case all such circles disappear. While multiple circles exist, you can choose any of them as a destination when teleporting using this spell.
+_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 4 or higher, the diameter of the glowing circle you create increases by 10 feet per additional spell level, the duration increases (1 day at level 5, 1 week at level 7, or 1 month at level 9), and when you cast this spell at level 7 or higher, it lasts for the full duration. Additionally, if you cast this spell again before the duration ends, any circles that existed from your previous casting of the spell continue to function and inherit the new duration, unless you are more than 1 mile away from an existing circle, in which case all such circles disappear. While multiple circles exist, you can choose any of them as a destination when teleporting using this spell.
 
 ### _Melody of Darkness_
 
@@ -235,7 +235,7 @@ You play a disturbing tune that drains the life energy of its listeners. All cre
 
 When you cast this spell, and on each of your turns for the spell's duration if you use a Magic action, all creatures cursed by this spell that can hear you take 5d6 Necrotic damage.
 
-**At Higher Levels.** When you cast this spell at level 6 or higher, creatures cursed by this spell take an additional 1d6 Necrotic damage for each additional spell level.
+_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 6 or higher, creatures cursed by this spell take an additional 1d6 Necrotic damage for each additional spell level.
 
 ### _Minute Minuet_
 
@@ -291,7 +291,7 @@ _Level 3 Enchantment/Rhythmancy (Bard)_
 
 You play a gentle melody in an attempt to lull a creature that can hear you in range. The target must succeed on a Wisdom saving throw or fall asleep and remain Unconscious until the spell ends, the target takes damage, or another creature takes an Action to wake them. Constructs and undead automatically succeed on this saving throw.
 
-**At Higher Levels.** When you cast this spell at level 4 or higher, for each spell slot above 3rd, the duration increases by 1 hour, and you can target an additional creature.
+_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 4 or higher, for each spell slot above 3rd, the duration increases by 1 hour, and you can target an additional creature.
 
 ### _Repel the Dark_
 
@@ -306,7 +306,7 @@ You summon the cleansing power of sunlight, causing creatures of the night to co
 
 For the spell's duration, you shed bright light in a 15-foot radius and dim light for an additional 15 feet. This light is sunlight.
 
-**At Higher Levels.** When you cast this spell at level 3 or higher, any creatures forced to make a Constitution saving throw by this spell make their saving throw with Disadvantage if their Challenge Rating is less than the spell's level.
+_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 3 or higher, any creatures forced to make a Constitution saving throw by this spell make their saving throw with Disadvantage if their Challenge Rating is less than the spell's level.
 
 ### _The River Devil's Lament_
 
@@ -321,7 +321,7 @@ You recite the tale of an ancient hero who drove away a great evil, in order to 
 
 Each time the creature takes damage (except from this spell's effects), they can repeat their saving throw, ending the cursed condition on a success. You can additionally choose to end the curse by using a Magic action to dismiss the spell.
 
-**At Higher Levels.** When you cast this spell at level 7 or higher, the duration increases to 1 day at level 7, 30 days at level 8, or 1 year at level 9, and the Psychic damage dealt when the creature can see you increases by 1d10 for each additional spell level. Additionally, when you cast this spell at level 8 or higher, the creature can no longer repeat their saving throws when they take damage.
+_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 7 or higher, the duration increases to 1 day at level 7, 30 days at level 8, or 1 year at level 9, and the Psychic damage dealt when the creature can see you increases by 1d10 for each additional spell level. Additionally, when you cast this spell at level 8 or higher, the creature can no longer repeat their saving throws when they take damage.
 
 ### _The Royal Decree_
 
@@ -347,7 +347,7 @@ _Level 3 Evocation/Rhythmancy (Bard)_
 
 You and a partner play an empowering Duet, targeting a shared location within range. When the spell finishes casting, any creatures who remained within the spells' area of effect for the entire casting and were able to hear the entire composition have Advantage on a single d20 test of their choice that they make within the spells' duration.
 
-**At Higher Levels.** When you and your partner both cast this spell at level 4 or higher, for each additional spell level, all creatures who gained Advantage on a d20 test also gain a +1 to the roll. If the spells are cast at different levels, use the lower of the two levels. For example, if the spell is cast using a level 5 and a level 6 spell slot, creatures would gain the bonus from the level 5 casting, which would be a +2 to their roll.
+_**Using a Higher-Level Spell Slot.**_ When you and your partner both cast this spell at level 4 or higher, for each additional spell level, all creatures who gained Advantage on a d20 test also gain a +1 to the roll. If the spells are cast at different levels, use the lower of the two levels. For example, if the spell is cast using a level 5 and a level 6 spell slot, creatures would gain the bonus from the level 5 casting, which would be a +2 to their roll.
 
 ### _Sonata of Awakening_
 
@@ -360,7 +360,7 @@ _Level 2 Abjuration/Rhythmancy (Bard)_
 
 You stir slumbering creatures with rousing music. When you cast this spell, choose up to three creatures within range under the effect of magical sleep that can hear you. The targets, as well as all other naturally Unconscious creatures within range that can hear you, immediately regain consciousness. Until the spell ends, magic can't put creatures within range to sleep, as long as they can still hear you.
 
-**At Higher Levels.** When you cast this spell at level 3 or higher, you can target one additional creature for each slot level above 2nd.
+_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 3 or higher, you can target one additional creature for each slot level above 2nd.
 
 ### _Song of Discovery_
 
@@ -386,7 +386,7 @@ You channel healing energies through soothing music. All creatures that remain w
 
 The healing energy attempts to soothe the restless undead and allow them to move on from this world. Each undead creature within the spell's area of effect when it is finished casting must make a Wisdom saving throw (they can choose to fail this save). On a failed save, the creature is reduced to 0 Hit Points, their spirit moves on to the afterlife, and their remains are destroyed in a burst of radiant fire. Creatures that are immune to being Turned are not affected by this spell.
 
-**At Higher Levels.** When you cast this spell at level 6 or higher, the healing increases by 1d10 for each additional spell level.
+_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 6 or higher, the healing increases by 1d10 for each additional spell level.
 
 When you cast this spell at level 7 or higher, the spell also ends the cursed condition for all creatures healed by this spell. If any of those creatures are Attuned to a cursed magic item, the spell breaks its owner's Attunement to the object so it can be removed or discarded.
 
@@ -433,7 +433,7 @@ _Level 1 Abjuration/Rhythmancy (Bard)_
 
 You adjust the flow of time around you, granting you the ability to correct a recent mistake. Until this spell ends, if you fail on an attack roll, ability check, or saving throw, as a Reaction, you can immediately roll a d20 and take the greater of the two results. The first time you fail a check using this spell effect, the spell ends.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd-level or higher, the duration increases to a number of hours equal to half the spell's level.
+_**Using a Higher-Level Spell Slot.**_ When you cast this spell using a spell slot of 2nd-level or higher, the duration increases to a number of hours equal to half the spell's level.
 
 If desired, you can alter the performance of the Song of Time to a related composition to create one of the following effects, which replace the spell's normal 1st-level effects:
 
@@ -456,7 +456,7 @@ _Level 4 Conjuration/Rhythmancy (Bard)_
 
 You play a prolonged melody, targeting a willing creature you can see within range and concentrating on a location where the target creature previously was Unconscious, including due to normal or magical sleep. Space then shifts around the target creature, causing them to teleport to a safe location on the outskirts or outside the entrance to your destination.
 
-**At Higher Levels.** When you cast this spell at level 5 or higher, you can teleport an additional willing creature you can see within range to the destination per each additional spell level. When multiple creatures are targeted by this spell, you can choose a destination where any of the target creatures were Unconscious, and the casting time increases by 10 minutes for each additional creature you target beyond the first.
+_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 5 or higher, you can teleport an additional willing creature you can see within range to the destination per each additional spell level. When multiple creatures are targeted by this spell, you can choose a destination where any of the target creatures were Unconscious, and the casting time increases by 10 minutes for each additional creature you target beyond the first.
 
 ### _Soulful Croak_
 
@@ -573,7 +573,7 @@ You create an unnatural strong wind at your back, overriding any existing wind d
 
 While concentrating on this spell, as a Magic action, you can attempt to channel this magical wind to carry yourself and jump up to your jumping distance without using any movement. Make a Strength (Athletics) or Dexterity (Acrobatics) check and add your spellcasting ability modifier, contested by a DC equal to one-sixth the number of feet you are attempting to jump (minimum DC 10, maximum DC 25). On a success, if there is level ground with enough space to accommodate you, you land safely at your intended destination. If there is insufficient space to land safely at your intended jump distance, you fall short in a safe space of your choice. On a failure, or if there is no eligible space to land safely in your path, your jump falls short a number of feet equal to your Athletics or Acrobatics check, and you fall Prone. Whether you succeed or fail, the spell ends immediately.
 
-**At Higher Levels.** When you cast this spell at level 4 or higher, your jumping distance is multiplied by the spell level number. For example, casting this spell at level 4 would cause your jumping distance to be quadrupled.
+_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 4 or higher, your jumping distance is multiplied by the spell level number. For example, casting this spell at level 4 would cause your jumping distance to be quadrupled.
 
 ---
 
