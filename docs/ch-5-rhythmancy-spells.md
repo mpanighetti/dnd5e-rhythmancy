@@ -39,18 +39,46 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 5 | _[Healing Balm](#healing-balm)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | — |
 | 5 | _[Inverted Song of Time](#inverted-song-of-time)_ | Abjuration/Rhythmancy | Bard | — |
 | 5 | _[Melody of Darkness](#melody-of-darkness)_ | Necromancy/Rhythmancy | Bard | C |
-| 5 | _[Song of Passing](#song-of-passing)_ | Illusion/Rhythmancy | Bard | C |
+| 5 | _[Ballet of the Moon and Sun](#ballet-of-the-moon-and-sun)_ | Illusion/Rhythmancy | Bard | C |
 | 5 | _[Tune of Currents](#tune-of-currents)_ | Abjuration/Rhythmancy | Bard | M |
 | 6 | _[The River Devil's Lament](#the-river-devils-lament)_ | Enchantment/Rhythmancy | Bard | M |
 | 7 | _[Tune of Ages](#tune-of-ages)_ | Conjuration/Rhythmancy | Bard | M |
-| 8 | _[Ballad of Gales](#ballad-of-gales)_ | Conjuration/Rhythmancy | Bard | M |
+| 8 | _[Cast Upon the Seas](#cast-upon-the-seas)_ | Conjuration/Rhythmancy | Bard | M |
 | 8 | _[Hold Back the Skies](#hold-back-the-skies)_ | Abjuration/Rhythmancy | Bard | M |
 
 ## Spell Descriptions
 
 The spells are presented in alphabetical order.
 
-### _Ballad of Gales_
+### _Ballad of the Dreamer_
+
+_Abjuration/Rhythmancy Cantrip (Bard)_
+
+**Casting Time:** Action\
+**Range:** Self\
+**Components:** V, M (a seagull's feather; a Musical Instrument worth 1+ GP)\
+**Duration:** 10 minutes
+
+You play a soothing melody that conjures strange memories of a dream-like world. Until the spell ends, magic can't put you to sleep.
+
+### _Ballet of the Moon and Sun_
+
+_Level 5 Illusion/Rhythmancy (Bard)_
+
+**Casting Time:** Action\
+**Range:** 30 feet\
+**Components:** V, S, M (a Musical Instrument worth 1+ GP)\
+**Duration:** Concentration, up to 1 hour
+
+You attempt to manipulate the apparent flow of time for a creature you target in range that can hear you. The target must make an Intelligence saving throw, and if you are fighting the target, they have advantage on the saving throw. On a failed save, until the spell ends, the target believes that time has passed such that it is either just after sunrise or just after sunset (whichever is the sooner of the two events).
+
+While under the effects of this spell, the creature's senses are modified to convince them of the false time of day. The target's vision makes it appear as if environments are lit by sunlight for a false daytime, or darkened by night for a false nighttime. Any other time-sensitive visuals and sounds (such as a clock's face or a rooster's morning crow) are overlaid with appropriate illusory replacements. The creature is able to see within their illusory environment based on their existing senses as if the illusions are real; for example, a creature with sunlight sensitivity suffers disadvantage on checks that rely on sight while under false daylight conditions of this spell, and a creature with darkvision similarly would be able to see in false nighttime conditions as if it were actually dark. Creatures without darkvision are granted the feature temporarily to allow them to see in dark spaces as if they were lit by illusory daylight.
+
+False memories are implanted in the creature's mind, such that they believe time and events have passed normally. Modified senses and memories don't necessarily affect how a creature behaves, but the creature will make normal efforts to proceed with activities that would make sense for the given time of day. Such activities might include leaving home to work a farm, closing a business for the night, departing for a formal occasion, preparing for bed, or any other time-specific activity.
+
+After the spell ends, the creature becomes aware that their senses and memories were altered by magic.
+
+### _Cast Upon the Seas_
 
 _Level 8 Conjuration/Rhythmancy (Bard)_
 
@@ -64,17 +92,6 @@ If you occupy a vehicle the entire time you cast this spell, you summon a shimme
 You must have seen or been physically present at the destination at least once before, and the destination must have sufficient space to accommodate the vehicle, or the spell fails. The spell also fails when targeting a ship in water if the destination is not also in water.
 
 The act of teleporting the vehicle deals it 8d6 Force damage, ignoring damage thresholds.
-
-### _Ballad of the Dreamer_
-
-_Abjuration/Rhythmancy Cantrip (Bard)_
-
-**Casting Time:** Action\
-**Range:** Self\
-**Components:** V, M (a seagull's feather; a Musical Instrument worth 1+ GP)\
-**Duration:** 10 minutes
-
-You play a soothing melody that conjures strange memories of a dream-like world. Until the spell ends, magic can't put you to sleep.
 
 ### _The Cleansing Waves_
 
@@ -421,23 +438,6 @@ _Level 2 Abjuration/Rhythmancy (Bard)_
 You stir slumbering creatures with rousing music. When you cast this spell, choose up to three creatures within range under the effect of magical sleep that can hear you. The targets, as well as all other naturally Unconscious creatures within range that can hear you, immediately regain consciousness. Until the spell ends, magic can't put creatures within range to sleep, as long as they can still hear you.
 
 _**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 3 or higher, you can target one additional creature for each slot level above 2nd.
-
-### _Song of Passing_
-
-_Level 5 Illusion/Rhythmancy (Bard)_
-
-**Casting Time:** Action\
-**Range:** 30 feet\
-**Components:** V, S, M (a Musical Instrument worth 1+ GP)\
-**Duration:** Concentration, up to 1 hour
-
-You attempt to manipulate the apparent flow of time for a creature you target in range that can hear you. The target must make an Intelligence saving throw, and if you are fighting the target, they have advantage on the saving throw. On a failed save, until the spell ends, the target believes that time has passed such that it is either just after sunrise or just after sunset (whichever is the sooner of the two events).
-
-While under the effects of this spell, the creature's senses are modified to convince them of the false time of day. The target's vision makes it appear as if environments are lit by sunlight for a false daytime, or darkened by night for a false nighttime. Any other time-sensitive visuals and sounds (such as a clock's face or a rooster's morning crow) are overlaid with appropriate illusory replacements. The creature is able to see within their illusory environment based on their existing senses as if the illusions are real; for example, a creature with sunlight sensitivity suffers disadvantage on checks that rely on sight while under false daylight conditions of this spell, and a creature with darkvision similarly would be able to see in false nighttime conditions as if it were actually dark. Creatures without darkvision are granted the feature temporarily to allow them to see in dark spaces as if they were lit by illusory daylight.
-
-False memories are implanted in the creature's mind, such that they believe time and events have passed normally. Modified senses and memories don't necessarily affect how a creature behaves, but the creature will make normal efforts to proceed with activities that would make sense for the given time of day. Such activities might include leaving home to work a farm, closing a business for the night, departing for a formal occasion, preparing for bed, or any other time-specific activity.
-
-After the spell ends, the creature becomes aware that their senses and memories were altered by magic.
 
 ### _Song of Time_
 
