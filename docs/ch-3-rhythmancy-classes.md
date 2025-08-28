@@ -4,7 +4,7 @@ This section includes new subclass options with abilities centered around the us
 
 ## Bard
 
-At 3rd level, a Bard gains the choice of a subclass. The following option is made available to you when making that choice: the College of Legends.
+At level 3, a Bard gains the choice of a subclass. The following option is made available to you when making that choice: the College of Legends.
 
 ### College of Legends
 
@@ -34,9 +34,27 @@ You can channel your song to temporarily boost the power of your rhythmantic mag
 
 You have mastered unlocking hidden or lost ancient secrets. You always have the _Legend Lore_ spell prepared. When you cast _Legend Lore_ using Rhythmancy Points, the casting time is 1 action, and you replace its Material component requirements with an instrument worth at least 1 GP.
 
+## Fighter
+
+At level 3, a Fighter gains the choice of a subclass. The following option is made available to you when making that choice: the Wordsmith.
+
+### Wordsmith
+
+Though all bards have the ability to learn rhythmancy spells, practitioners of the College of Legends have built entire careers out of unlocking the magic sealed within these songs. These maestros are often sought out as teachers to aid new students in their rhythmantic studies, passing on what they learned from their own masters of the craft.
+
+#### ?
+
+#### Level 7: ?
+
+#### Level 10: ?
+
+#### Level 15: ?
+
+#### Level 18: ?
+
 ## Ranger
 
-At 3rd level, a Ranger gains the choice of a subclass. The following option is made available to you when making that choice: the Wild Composer.
+At level 3, a Ranger gains the choice of a subclass. The following option is made available to you when making that choice: the Wild Composer.
 
 ### Wild Composer
 
