@@ -40,7 +40,7 @@ At level 3, a Fighter gains the choice of a subclass. The following option is ma
 
 ### Reveler
 
-Though skilled in the art of martial combat, Revelers also engage in studies of musical composition and kinetic performance. Rather than dividing their focus, these shared discipline complement each other, leading to Fighters gifted with fluent movement on the battlefield and equal command of the dance floor. 
+Though skilled in the art of martial combat, Revelers also engage in studies of musical composition and kinetic performance. Rather than dividing their focus, these shared disciplines complement each other, leading to Fighters gifted with fluent movement on the battlefield and equal command of the dance floor.
 
 #### Rhythmancy Warrior
 
@@ -73,11 +73,11 @@ When you reach Fighter level 10, you learn another Bard cantrip of your choice.
 | 19 | 12 | 8 | 4 |
 | 20 | 13 | 8 | 4 |
 
-_**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 spells from the Bard spell list. _Equine Tribute_ and _Summoning of the Scarecrow_ are recommended.
+_**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the Bard spell list. _Equine Tribute_, _Heroism_, and _Thunderwave_ are recommended.
 
 The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Reveler Rhythmancy table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level no higher than what's shown in the table's Rhythmancy Level column for your level. For example, if you're a level 7 Fighter, your list of prepared spells can include 5 Bard spells of levels 1 and 2 in any combination.
 
-_**Rhythmancy Points.**_ The Reveler Rhythmancy table shows how many Rhythmancy Points you have to cast your level 1+ Bard spells. The table also shows the highest-level Rhythmancy spell you can learn or cast using these Rhythmancy Points. You can spend additional Rhythmancy Points to cast your Bard spells obtained through Fighter features at a higher level, but you cannot exceed the Rhythmancy Level in the table for your Fighter level. For example, if you're a level 7 Fighter, the highest level at which you can cast one of your Bard spells obtained through Fighter features is level 2.
+_**Rhythmancy Points.**_ The Reveler Rhythmancy table shows how many Rhythmancy Points you have to cast your level 1+ Bard spells. The table also shows the highest-level Bard spell you can learn or cast using these Rhythmancy Points. You can spend additional Rhythmancy Points to cast your Bard spells obtained through Fighter features at a higher level, but you cannot exceed the Rhythmancy Level in the table for your Fighter level. For example, if you're a level 7 Fighter, the highest level at which you can cast one of your Bard spells obtained through Fighter features is level 2.
 
 _**Harmonic Magic.**_ Any Bard spell you have prepared is also considered to be a Rhythmancy spell.
 
