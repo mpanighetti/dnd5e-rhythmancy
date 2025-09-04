@@ -42,6 +42,10 @@ At level 3, a Fighter gains the choice of a subclass. The following option is ma
 
 Though skilled in the art of martial combat, Revelers also engage in studies of musical composition and kinetic performance. Rather than dividing their focus, these shared disciplines complement each other, leading to Fighters gifted with fluent movement on the battlefield and equal command of the dance floor.
 
+#### Instrument Training
+
+You gain a Musical Instrument of your choice, and you have Proficiency with it. Additionally, whenever you finish a Long Rest, you can replace this Proficiency with another Musical Instrument of your choice that you possess.
+
 #### Spellcasting
 
 You have engaged in the study of magic song and incorporated it into your combat training. You gain the following benefits.
@@ -90,10 +94,6 @@ _**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can 
 _**Spellcasting Ability.**_ Charisma is your spellcasting ability for your Bard spells.
 
 _**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
-
-#### Instrument Training
-
-You gain a Musical Instrument of your choice, and you have Proficiency with it. Additionally, whenever you finish a Long Rest, you can replace this Proficiency with another Musical Instrument of your choice that you possess.
 
 #### Level 7: ?
 
