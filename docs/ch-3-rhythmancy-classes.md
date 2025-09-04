@@ -60,26 +60,26 @@ For example, when you're a level 7 Fighter, you have two level 3 spell slots. To
 
 | Fighter Level | Prepared Spells | Spell Slots | Slot Level |
 |:--:|:--:|:-:|:-:|
-| 3  | 2  | 1 | 1 |
-| 4  | 2  | 1 | 1 |
-| 5  | 3  | 1 | 1 |
-| 6  | 3  | 2 | 1 |
-| 7  | 4  | 2 | 2 |
-| 8  | 4  | 2 | 2 |
-| 9  | 5  | 2 | 2 |
-| 10 | 5  | 2 | 2 |
-| 11 | 6  | 2 | 2 |
-| 12 | 6  | 2 | 2 |
-| 13 | 7  | 2 | 3 |
-| 14 | 7  | 2 | 3 |
-| 15 | 8  | 2 | 3 |
-| 16 | 8  | 2 | 3 |
-| 17 | 9  | 2 | 3 |
-| 18 | 9  | 2 | 3 |
-| 19 | 10 | 2 | 4 |
-| 20 | 11 | 2 | 4 |
+| 3  | 3  | 1 | 1 |
+| 4  | 4  | 1 | 1 |
+| 5  | 4  | 1 | 1 |
+| 6  | 4  | 2 | 1 |
+| 7  | 5  | 2 | 2 |
+| 8  | 6  | 2 | 2 |
+| 9  | 6  | 2 | 2 |
+| 10 | 7  | 2 | 2 |
+| 11 | 8  | 2 | 2 |
+| 12 | 8  | 2 | 2 |
+| 13 | 9  | 2 | 3 |
+| 14 | 10 | 2 | 3 |
+| 15 | 10 | 2 | 3 |
+| 16 | 11 | 2 | 3 |
+| 17 | 11 | 2 | 3 |
+| 18 | 11 | 2 | 3 |
+| 19 | 12 | 2 | 4 |
+| 20 | 13 | 2 | 4 |
 
-_**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Bard spells. _Equine Tribute_ and _Thunderwave_ are recommended.
+_**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Bard spells. _Equine Tribute_, _Heroism_, and _Thunderwave_ are recommended.
 
 The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Reveler Spellcasting table. Whenever that number increases, choose additional Bard spells until the number of spells on your list matches the number on the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you're a level 7 Fighter, for example, you learn a new Bard spell, which can be of levels 1-2.
 
