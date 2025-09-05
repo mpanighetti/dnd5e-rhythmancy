@@ -111,9 +111,9 @@ Once you use this feature, you can't use it again until you finish a Long Rest. 
 
 You fight to the rhythm of your song, attempting to overwhelm your foes with multiple attacks. When you cast _True Strike_, its duration changes to 1 minute, and its benefits are applied to all weapon attacks you make for the duration. The spell ends early if you miss an attack.
 
-#### Level 15: ?
+#### Level 15: Shared Song
 
-?
+When you cast a Rhythmancy spell targeting yourself, you can also affect one willing ally with the spell if the ally is within 10 feet of you.
 
 #### Level 18: Pitch Perfect
 
