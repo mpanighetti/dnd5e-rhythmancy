@@ -42,10 +42,6 @@ At level 3, a Fighter gains the choice of a subclass. The following option is ma
 
 Though skilled in the art of martial combat, Revelers also engage in studies of musical composition and kinetic performance. Rather than dividing their focus, these shared disciplines complement each other, leading to Fighters gifted with fluent movement on the battlefield and equal command of the dance floor.
 
-#### Instrument Training
-
-You gain a Musical Instrument of your choice, and you have Proficiency with it. Additionally, whenever you finish a Long Rest, you can replace this Proficiency with another Musical Instrument of your choice that you possess.
-
 #### Spellcasting
 
 You have engaged in the study of magic song and incorporated it into your combat training. You gain the following benefits.
@@ -58,7 +54,7 @@ When you reach Fighter level 10, you learn another Bard cantrip of your choice.
 
 _**Spell Slots.**_ The Reveler Spellcasting table shows how many spell slots you have to cast your Bard spells of levels 1–4. The table also shows the level of those slots, all of which are the same level. You regain all expended spell slots when you finish a Short or Long Rest.
 
-For example, when you're a level 7 Fighter, you have two level 3 spell slots. To cast the level 1 spell Witch Bolt, you must spend one of those slots, and you cast it as a level 3 spell.
+For example, when you're a level 7 Fighter, you have two level 2 spell slots. To cast the level 1 spell _Thunderwave_, you must spend one of those slots, and you cast it as a level 2 spell.
 
 ##### Reveler Spellcasting
 
@@ -93,11 +89,15 @@ _**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can 
 
 _**Spellcasting Ability.**_ Charisma is your spellcasting ability for your Bard spells.
 
+_**Instrument Training.**_ You gain a Musical Instrument of your choice, and you have Proficiency with it. Additionally, whenever you finish a Long Rest, you can replace this Proficiency with another Musical Instrument of your choice that you possess.
+
 _**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
 
-#### Level 7: ?
+#### Level 7: Diagetic Surge
 
-?
+You draw rhythmantic energy from the music that churns through your veins. When you expend a use of your Second Wind or a Superiority Die, in addition to its normal effects, you regain all expended spell slots from your Reveler Spellcasting feature.
+
+Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it when you use your Action Surge (no action required).
 
 #### Level 10: ?
 
