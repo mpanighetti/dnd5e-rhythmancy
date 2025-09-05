@@ -105,7 +105,7 @@ _**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Foc
 
 #### Level 7: Diagetic Surge
 
-You draw energy from the music that churns through your veins. When you expend a use of your Second Wind or a Superiority Die, in addition to its normal effects, you regain all expended spell slots from your Reveler Rhythmancy feature.
+You draw energy from the music that churns through your veins. When you expend a limited-use Fighter feature, except for Action Surge or Spellcasting, in addition to the feature's normal effects, you regain all expended spell slots from your Reveler Rhythmancy feature.
 
 Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it when you use your Action Surge.
 
