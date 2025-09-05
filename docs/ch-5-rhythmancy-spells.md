@@ -13,7 +13,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | cantrip | _[The Royal Decree](#the-royal-decree)_ | Enchantment/Rhythmancy | Bard, Fighter (Reveler) | — |
 | 1 | _[The Curse, Reversed](#the-curse-reversed)_ | Abjuration/Rhythmancy | Bard, Fighter (Reveler) | |
 | 1 | _[Equine Tribute](#equine-tribute)_ | Conjuration/Rhythmancy | Bard, Fighter (Reveler) | — |
-| 1 | _[The Lost is Found](#the-lost-is-found)_ | Divination/Rhythmancy | Bard,, Fighter (Reveler), Ranger (Wild Composer) | C, R |
+| 1 | _[The Lost is Found](#the-lost-is-found)_ | Divination/Rhythmancy | Bard, Fighter (Reveler), Ranger (Wild Composer) | C, R |
 | 1 | _[The Oncoming Storm](#the-oncoming-storm)_ | Evocation/Rhythmancy | Bard, Fighter (Reveler) | Concentration |
 | 1 | _[Song of Time](#song-of-time)_ | Abjuration/Rhythmancy | Bard, Fighter (Reveler) | — |
 | 1 | _[Summoning of the Scarecrow](#summoning-of-the-scarecrow)_ | Conjuration/Rhythmancy | Bard, Fighter (Reveler) | — |
