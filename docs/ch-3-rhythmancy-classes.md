@@ -95,13 +95,13 @@ _**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Foc
 
 #### Level 7: Diagetic Surge
 
-You draw rhythmantic energy from the music that churns through your veins. When you expend a use of your Second Wind or a Superiority Die, in addition to its normal effects, you regain all expended spell slots from your Reveler Spellcasting feature.
+You draw energy from the music that churns through your veins. When you expend a use of your Second Wind or a Superiority Die, in addition to its normal effects, you regain all expended spell slots from your Reveler Spellcasting feature.
 
-Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it when you use your Action Surge (no action required).
+Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it when you use your Action Surge.
 
-#### Level 10: ?
+#### Level 10: Blade Flurry
 
-?
+You fight to the rhythm of your song. When you cast _True Strike_, its duration changes to 1 minute, and its benefits are applied to all weapon attacks you make for the duration. The spell ends early if you miss an attack.
 
 #### Level 15: ?
 
