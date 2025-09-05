@@ -42,6 +42,14 @@ At level 3, a Fighter gains the choice of a subclass. The following option is ma
 
 Though skilled in the art of martial combat, Revelers also engage in studies of musical composition and kinetic performance. Rather than dividing their focus, these shared disciplines complement each other, leading to Fighters gifted with fluent movement on the battlefield and equal command of the dance floor.
 
+#### Bravado
+
+You gain Proficiency in the Performance skill.
+
+In addition, you can channel the raw charisma of your performance when you attempt certain tasks; when you make an ability check using one of the following skills, you can instead make it as a Charisma (Performance) check even if it normally uses a different ability: Animal Handling, Deception, Intimidation, Persuasion, Sleight of Hand, or Stealth. When you use this ability, your performance represents your command over others, honing your ability to be seen or unseen to achieve your goals.
+
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+
 #### Spellcasting
 
 You have engaged in the study of magic song and incorporated it into your combat training. You gain the following benefits.
