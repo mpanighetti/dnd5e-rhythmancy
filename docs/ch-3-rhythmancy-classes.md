@@ -44,7 +44,11 @@ Though skilled in the art of martial combat, Revelers also engage in studies of 
 
 #### Bravado
 
-You gain Proficiency in the Performance skill.
+Thanks to your practice at performing in front of audiences, you gain the following benefits.
+
+_**Instrument Training.**_ You gain a Musical Instrument of your choice, and you have Proficiency with it. Additionally, whenever you finish a Long Rest, you can replace this Proficiency with another Musical Instrument of your choice that you possess.
+
+_**Put on a Show.**_ You gain Proficiency in the Performance skill.
 
 In addition, you can channel the raw charisma of your performance when you attempt certain tasks; when you make an ability check using one of the following skills, you can instead make it as a Charisma (Performance) check even if it normally uses a different ability: Animal Handling, Deception, Intimidation, Persuasion, Sleight of Hand, or Stealth. When you use this ability, your performance represents your command over others, honing your ability to be seen or unseen to achieve your goals.
 
@@ -97,8 +101,6 @@ _**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can 
 
 _**Spellcasting Ability.**_ Charisma is your spellcasting ability for your Bard spells.
 
-_**Instrument Training.**_ You gain a Musical Instrument of your choice, and you have Proficiency with it. Additionally, whenever you finish a Long Rest, you can replace this Proficiency with another Musical Instrument of your choice that you possess.
-
 _**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Rhythmancy spells.
 
 #### Level 7: Diagetic Surge
@@ -117,7 +119,7 @@ When you cast a Rhythmancy spell targeting yourself, you can also affect one wil
 
 #### Level 18: Pitch Perfect
 
-Through intensive practice, you have perfected the performance of your favorite compositions and can cast them at will. Choose one of the level 1 Rhythmancy spells you have prepared that has a casting time of an action. You can cast this spell at its lowest level without expending a spell slot. To cast this spell at a higher level, you must expend a spell slot or Rhythmancy Points.
+Through intensive rehearsal, you have perfected the performance of your favorite compositions and can cast them at will. Choose one of the level 1 Rhythmancy spells you have prepared that has a casting time of an action. You can cast this spell at its lowest level without expending a spell slot. To cast this spell at a higher level, you must expend a spell slot or Rhythmancy Points.
 
 Additionally, when you take the Attack action on your turn, you can replace one of the attacks with a casting of the spell you chose for this feature.
 
