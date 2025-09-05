@@ -50,7 +50,7 @@ In addition, you can channel the raw charisma of your performance when you attem
 
 You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
-#### Spellcasting
+#### Rhythmancy Warrior
 
 You have engaged in the study of magic song and incorporated it into your combat training. You gain the following benefits.
 
@@ -60,11 +60,11 @@ Whenever you gain a Fighter level, you can replace one of your cantrips with ano
 
 When you reach Fighter level 10, you learn another Bard cantrip of your choice.
 
-_**Spell Slots.**_ The Reveler Spellcasting table shows how many spell slots you have to cast your Bard spells of levels 1–4. The table also shows the level of those slots, all of which are the same level. You regain all expended spell slots when you finish a Short or Long Rest.
+_**Spell Slots.**_ The Reveler Rhythmancy table shows how many spell slots you have to cast your Bard spells of levels 1–4. The table also shows the level of those slots, all of which are the same level. You regain all expended spell slots when you finish a Short or Long Rest.
 
 For example, when you're a level 7 Fighter, you have two level 2 spell slots. To cast the level 1 spell _Thunderwave_, you must spend one of those slots, and you cast it as a level 2 spell.
 
-##### Reveler Spellcasting
+##### Reveler Rhythmancy
 
 | Fighter Level | Prepared Spells | Spell Slots | Slot Level |
 |:--:|:--:|:-:|:-:|
@@ -89,9 +89,9 @@ For example, when you're a level 7 Fighter, you have two level 2 spell slots. To
 
 _**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Bard spells. _Equine Tribute_, _Heroism_, and _Thunderwave_ are recommended.
 
-The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Reveler Spellcasting table. Whenever that number increases, choose additional Bard spells until the number of spells on your list matches the number on the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you're a level 7 Fighter, for example, you learn a new Bard spell, which can be of levels 1-2.
+The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Reveler Rhythmancy table. Whenever that number increases, choose additional Bard spells until the number of spells on your list matches the number on the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you're a level 7 Fighter, for example, you learn a new Bard spell, which can be of levels 1-2.
 
-_**Harmonic Magic.**_ Any Bard spell you have prepared is also considered to be a Rhythmancy spell.
+_**Harmonic Magic.**_ Any Bard spell you have prepared using this feature is also considered to be a Rhythmancy spell.
 
 _**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one spell on your list with another Bard spell of an eligible level.
 
@@ -99,25 +99,29 @@ _**Spellcasting Ability.**_ Charisma is your spellcasting ability for your Bard 
 
 _**Instrument Training.**_ You gain a Musical Instrument of your choice, and you have Proficiency with it. Additionally, whenever you finish a Long Rest, you can replace this Proficiency with another Musical Instrument of your choice that you possess.
 
-_**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
+_**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Rhythmancy spells.
 
 #### Level 7: Diagetic Surge
 
-You draw energy from the music that churns through your veins. When you expend a use of your Second Wind or a Superiority Die, in addition to its normal effects, you regain all expended spell slots from your Reveler Spellcasting feature.
+You draw energy from the music that churns through your veins. When you expend a use of your Second Wind or a Superiority Die, in addition to its normal effects, you regain all expended spell slots from your Reveler Rhythmancy feature.
 
 Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it when you use your Action Surge.
 
 #### Level 10: Blade Flurry
 
-You fight to the rhythm of your song. When you cast _True Strike_, its duration changes to 1 minute, and its benefits are applied to all weapon attacks you make for the duration. The spell ends early if you miss an attack.
+You fight to the rhythm of your song, attempting to overwhelm your foes with multiple attacks. When you cast _True Strike_, its duration changes to 1 minute, and its benefits are applied to all weapon attacks you make for the duration. The spell ends early if you miss an attack.
 
 #### Level 15: ?
 
 ?
 
-#### Level 18: ?
+#### Level 18: Pitch Perfect
 
-?
+Through intensive practice, you have perfected the performance of your favorite compositions and can cast them at will. Choose one of the level 1 Rhythmancy spells you have prepared that has a casting time of an action. You can cast this spell at its lowest level without expending a spell slot. To cast this spell at a higher level, you must expend a spell slot or Rhythmancy Points.
+
+Additionally, when you take the Attack action on your turn, you can replace one of the attacks with a casting of the spell you chose for this feature.
+
+Whenever you finish a Long Rest, you can replace the spell you chose for this feature with another Rhythmancy spell that meets the requirements.
 
 ## Ranger
 
