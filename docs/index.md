@@ -13,6 +13,7 @@ This document includes a list of class options, feats, spells, and magic items u
 ### [Chapter 3: Rhythmancy Classes](ch-3-rhythmancy-classes.md)
 
 - [Bard Subclass: College of Legends](ch-3-rhythmancy-classes.md#college-of-legends)
+- [Fighter Subclass: Reveler](ch-3-rhythmancy-classes.md#reveler)
 - [Ranger Subclass: Wild Composer](ch-3-rhythmancy-classes.md#wild-composer)
 
 ### [Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md)
