@@ -40,7 +40,7 @@ At level 3, a Fighter gains the choice of a subclass. The following option is ma
 
 ### Reveler
 
-Though skilled in the art of martial combat, Revelers also engage in studies of musical composition and kinetic performance. Rather than dividing their focus, these shared disciplines complement each other, leading to Fighters gifted with fluent movement on the battlefield and equal command of the dance floor.
+Though skilled in the art of martial combat, Revelers also engage in studies of musical composition and kinetic performance, aided by channeling rhythmantic magic. Rather than dividing their focus, these shared disciplines complement each other, leading to Fighters gifted with fluent movement on the battlefield and equal command of the dance floor.
 
 #### Bravado
 
