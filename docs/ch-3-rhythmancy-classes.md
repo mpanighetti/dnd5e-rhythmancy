@@ -99,7 +99,7 @@ _**Harmonic Magic.**_ Any Bard spell you have prepared using this feature is als
 
 _**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one spell on your list with another Bard spell of an eligible level.
 
-_**Spellcasting Ability.**_ Charisma is your spellcasting ability for your Bard spells.
+_**Spellcasting Ability.**_ Charisma is your spellcasting ability for your Rhythmancy spells.
 
 _**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Rhythmancy spells.
 
