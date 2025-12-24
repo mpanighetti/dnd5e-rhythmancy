@@ -23,19 +23,19 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 2 | _[Repel the Dark](#repel-the-dark)_ | Evocation/Rhythmancy | Bard, Fighter (Reveler) | C |
 | 2 | _[Stirring Sonata](#stirring-sonata)_ | Abjuration/Rhythmancy | Bard, Fighter (Reveler) | C, M |
 | 2 | _[Souls Entwined](#souls-entwined)_ | Conjuration/Rhythmancy | Bard, Fighter (Reveler) | C, R, M |
-| 3 | _[The Cleansing Waves](#the-cleansing-waves)_ | Abjuration/Rhythmancy | Bard, Fighter (Reveler) | C |
-| 3 | _[Concerto No. 1 in E major, "Echoes of the Past"](#concerto-no-1-in-e-major-echoes-of-the-past)_ | Divination/Rhythmancy | Bard, Fighter (Reveler) | C, R, M |
-| 3 | _[Mambo Marino](#mambo-marino)_ | Conjuration/Rhythmancy | Bard, Fighter (Reveler) | C, R |
-| 3 | _[Peaceful Lullaby](#peaceful-lullaby)_ | Enchantment/Rhythmancy | Bard, Fighter (Reveler) | C |
-| 3 | _[Royal Duet](#royal-duet)_ | Evocation/Rhythmancy | Bard, Fighter (Reveler) | D |
-| 3 | _[Song of Double Time](#song-of-double-time)_ | Abjuration/Rhythmancy | Bard, Fighter (Reveler) | — |
-| 3 | _[The Wind in My Sails](#the-wind-in-my-sails)_ | Conjuration/Rhythmancy | Bard, Fighter (Reveler), Ranger (Wild Composer) | C, R, M |
-| 4 | _[Death's Departure](#deaths-departure)_ | Abjuration/Rhythmancy | Bard, Fighter (Reveler) | C |
-| 4 | _[Minute Minuet](#minute-minuet)_ | Transmutation/Rhythmancy | Bard, Fighter (Reveler) | C |
-| 4 | _[The Sage of Earth's Calling](#the-sage-of-earths-calling)_ | Evocation/Rhythmancy | Bard, Fighter (Reveler), Ranger (Wild Composer) | M |
-| 4 | _[The Sage of Wind's Beckoning](#the-sage-of-winds-beckoning)_ | Evocation/Rhythmancy | Bard, Fighter (Reveler) | M |
-| 4 | _[Soulful Croak](#soulful-croak)_ | Necromancy/Rhythmancy | Bard, Fighter (Reveler) | M |
-| 4 | _[Space Warp](#space-warp)_ | Conjuration/Rhythmancy | Bard, Fighter (Reveler) | R, M |
+| 3 | _[The Cleansing Waves](#the-cleansing-waves)_ | Abjuration/Rhythmancy | Bard | C |
+| 3 | _[Concerto No. 1 in E major, "Echoes of the Past"](#concerto-no-1-in-e-major-echoes-of-the-past)_ | Divination/Rhythmancy | Bard | C, R, M |
+| 3 | _[Mambo Marino](#mambo-marino)_ | Conjuration/Rhythmancy | Bard | C, R |
+| 3 | _[Peaceful Lullaby](#peaceful-lullaby)_ | Enchantment/Rhythmancy | Bard | C |
+| 3 | _[Royal Duet](#royal-duet)_ | Evocation/Rhythmancy | Bard | D |
+| 3 | _[Song of Double Time](#song-of-double-time)_ | Abjuration/Rhythmancy | Bard | — |
+| 3 | _[The Wind in My Sails](#the-wind-in-my-sails)_ | Conjuration/Rhythmancy | Bard, Ranger (Wild Composer) | C, R, M |
+| 4 | _[Death's Departure](#deaths-departure)_ | Abjuration/Rhythmancy | Bard | C |
+| 4 | _[Minute Minuet](#minute-minuet)_ | Transmutation/Rhythmancy | Bard | C |
+| 4 | _[The Sage of Earth's Calling](#the-sage-of-earths-calling)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | M |
+| 4 | _[The Sage of Wind's Beckoning](#the-sage-of-winds-beckoning)_ | Evocation/Rhythmancy | Bard | M |
+| 4 | _[Soulful Croak](#soulful-croak)_ | Necromancy/Rhythmancy | Bard | M |
+| 4 | _[Space Warp](#space-warp)_ | Conjuration/Rhythmancy | Bard | R, M |
 | 5 | _[Concerto No. 2 in G minor, "Ripples of the Current"](#concerto-no-2-in-g-minor-ripples-of-the-current)_ | Abjuration/Rhythmancy | Bard | M |
 | 5 | _[Healing Balm](#healing-balm)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | — |
 | 5 | _[Inverted Song of Time](#inverted-song-of-time)_ | Abjuration/Rhythmancy | Bard | — |
@@ -63,7 +63,7 @@ You play a soothing melody that conjures strange memories of a dream-like world.
 
 ### _Ballet of the Moon and Sun_
 
-_Level 5 Illusion/Rhythmancy (Bard, Fighter (Reveler))_
+_Level 5 Illusion/Rhythmancy (Bard)_
 
 **Casting Time:** Action\
 **Range:** 30 feet\
@@ -95,7 +95,7 @@ The act of teleporting the vehicle deals it 8d6 Force damage, ignoring damage th
 
 ### _The Cleansing Waves_
 
-_Level 3 Abjuration/Rhythmancy (Bard, Fighter (Reveler))_
+_Level 3 Abjuration/Rhythmancy (Bard)_
 
 **Casting Time:** Action\
 **Range:** Self\
@@ -119,7 +119,7 @@ _**Using a Higher-Level Spell Slot.**_ You automatically end an eligible curse a
 
 ### _Death's Departure_
 
-_Level 4 Abjuration/Rhythmancy (Bard, Fighter (Reveler))_
+_Level 4 Abjuration/Rhythmancy (Bard)_
 
 **Casting Time:** Action\
 **Range:** Self (30-foot sphere)\
@@ -190,7 +190,7 @@ The spell creates more than one bird when you reach higher levels: two birds at 
 
 ### _Healing Balm_
 
-_Level 5 Evocation/Rhythmancy (Bard, Fighter (Reveler), Ranger (Wild Composer))_
+_Level 5 Evocation/Rhythmancy (Bard, Ranger (Wild Composer))_
 
 **Casting Time:** 1 minute\
 **Range:** Self (30-foot sphere)\
@@ -207,7 +207,7 @@ When you cast this spell at level 7 or higher, the spell also ends the cursed co
 
 ### _Hold Back the Skies_
 
-_Level 8 Abjuration/Rhythmancy (Bard, Fighter (Reveler))_
+_Level 8 Abjuration/Rhythmancy (Bard)_
 
 **Casting Time:** 8 hours\
 **Range:** Self\
@@ -235,7 +235,7 @@ _**Using a Higher-Level Spell Slot.**_ When you cast this spell using a spell sl
 
 ### _Mambo Marino_
 
-_Level 3 Conjuration/Rhythmancy (Bard, Fighter (Reveler))_
+_Level 3 Conjuration/Rhythmancy (Bard)_
 
 **Casting Time:** 1 minute or Ritual\
 **Range:** 10 feet\
@@ -263,7 +263,7 @@ _**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 6 or hi
 
 ### _Minute Minuet_
 
-_Level 4 Transmutation/Rhythmancy (Bard, Fighter (Reveler))_
+_Level 4 Transmutation/Rhythmancy (Bard)_
 
 **Casting Time:** Action\
 **Range:** 30 feet\
@@ -306,7 +306,7 @@ If you are outdoors in a light rain when you cast this spell, the spell affects 
 
 ### _Peaceful Lullaby_
 
-_Level 3 Enchantment/Rhythmancy (Bard, Fighter (Reveler))_
+_Level 3 Enchantment/Rhythmancy (Bard)_
 
 **Casting Time:** Action\
 **Range:** 30 feet\
@@ -362,7 +362,7 @@ _**Cantrip Upgrade.**_ The spell's duration increases when you reach levels 5 (1
 
 ### _Royal Duet_
 
-_Level 3 Evocation/Rhythmancy (Bard, Fighter (Reveler))_
+_Level 3 Evocation/Rhythmancy (Bard)_
 
 **Casting Time:** 10 minute Duet\
 **Range:** 10 feet (30-foot sphere)\
@@ -375,7 +375,7 @@ _**Using a Higher-Level Spell Slot.**_ When you and your partner both cast this 
 
 ### _The Sage of Earth's Calling_
 
-_Level 4 Evocation/Rhythmancy (Bard, Fighter (Reveler), Ranger (Wild Composer))_
+_Level 4 Evocation/Rhythmancy (Bard, Ranger (Wild Composer))_
 
 **Casting Time:** 10 minutes\
 **Range:** Self\
@@ -394,7 +394,7 @@ If you are moved, teleported, or planeshifted against your will, this spell's ef
 
 ### _The Sage of Wind's Beckoning_
 
-_Level 4 Evocation/Rhythmancy (Bard, Fighter (Reveler))_
+_Level 4 Evocation/Rhythmancy (Bard)_
 
 **Casting Time:** 10 minutes\
 **Range:** Self\
@@ -451,7 +451,7 @@ A linked creature can sever this magical link at any time, which ends the spell.
 
 ### _Soulful Croak_
 
-_Level 4 Necromancy/Rhythmancy (Bard, Fighter (Reveler))_
+_Level 4 Necromancy/Rhythmancy (Bard)_
 
 **Casting Time:** 1 hour\
 **Range:** 20 feet\
@@ -476,7 +476,7 @@ On a successful save, or if the Charmed condition on the undead creature ends, t
 
 ### _Space Warp_
 
-_Level 4 Conjuration/Rhythmancy (Bard, Fighter (Reveler))_
+_Level 4 Conjuration/Rhythmancy (Bard)_
 
 **Casting Time:** 10 minutes or Ritual\
 **Range:** 10 feet\
@@ -515,7 +515,7 @@ The scarecrow can act as a target for a thrown grappling hook or similar equipme
 
 ### _Concerto No. 1 in E major, "Echoes of the Past"_
 
-_Level 3 Divination/Rhythmancy (Bard, Fighter (Reveler))_
+_Level 3 Divination/Rhythmancy (Bard)_
 
 **Casting Time:** 1 minute or Ritual\
 **Range:** Self\
@@ -562,7 +562,7 @@ The selected time period must at least specify the destination year, but can be 
 
 ### _The Wind in My Sails_
 
-_Level 3 Conjuration/Rhythmancy (Bard, Fighter (Reveler), Ranger (Wild Composer))_
+_Level 3 Conjuration/Rhythmancy (Bard, Ranger (Wild Composer))_
 
 **Casting Time:** Action or Ritual\
 **Range:** Self\
