@@ -44,84 +44,50 @@ Though skilled in the art of martial combat, Revelers also engage in studies of 
 
 Thanks to your practice at performing in front of audiences, you gain the following benefits.
 
-_**Instrument Training.**_ You gain a Musical Instrument of your choice, and you have Proficiency with it. Additionally, whenever you finish a Long Rest, you can replace this Proficiency with another Musical Instrument of your choice that you possess.
+- You gain Proficiency in the Performance skill.
+- You can channel the raw charisma of your performance when you attempt certain tasks; when you make an ability check using one of the following skills, you can make it as a Charisma check even if it normally uses a different ability: Animal Handling, Deception, Intimidation, Persuasion, Sleight of Hand, or Stealth. When you use this ability, your Charisma represents your command over others, honing your ability to be seen or unseen to achieve your goals.
 
-_**Put on a Show.**_ You gain Proficiency in the Performance skill.
-
-In addition, you can channel the raw charisma of your performance when you attempt certain tasks; when you make an ability check using one of the following skills, you can instead make it as a Charisma (Performance) check even if it normally uses a different ability: Animal Handling, Deception, Intimidation, Persuasion, Sleight of Hand, or Stealth. When you use this ability, your performance represents your command over others, honing your ability to be seen or unseen to achieve your goals.
-
-You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+  You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 #### Level 3: Rhythmancy Warrior
 
 You have engaged in the study of magic song and incorporated it into your combat training. You gain the following benefits.
 
-_**Cantrips.**_ You know three cantrips: _True Strike_ and two other cantrips of your choice from the Bard spell list. _The Hawk's Call_ and _The Royal Decree_ are recommended.
+_**Cantrips.**_ You learn two cantrips: _True Strike_ and one other Rhythmancy cantrip of your choice.
 
-Whenever you gain a Fighter level, you can replace one of your cantrips with another Bard cantrip of your choice.
+Whenever you gain a Fighter level, you can replace one of your cantrips with another Rhythmancy cantrip of your choice.
 
-When you reach Fighter level 10, you learn another Bard cantrip of your choice.
+When you reach Fighter level 10, you learn another Rhythmancy cantrip of your choice.
 
-_**Spell Slots.**_ The Reveler Rhythmancy table shows how many spell slots you have to cast your Bard spells of levels 1–4. The table also shows the level of those slots, all of which are the same level. You regain all expended spell slots when you finish a Short or Long Rest.
+_**Rhythmancy Points.**_ You gain 2 Rhythmancy Points to spend on casting Rhythmancy spells.
 
-For example, when you're a level 7 Fighter, you have two level 2 spell slots. To cast the level 1 spell _Thunderwave_, you must spend one of those slots, and you cast it as a level 2 spell.
+_**Prepared Spells.**_ Choose two level 1 Rhythmancy spells. You always have these spells prepared, and you can cast them using Rhythmancy Points or any spell slots you have.
 
-##### Reveler Rhythmancy
+_**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one spell on your list with another Rhythmancy spell of an eligible level.
 
-| Fighter Level | Prepared Spells | Spell Slots | Slot Level |
-|:--:|:--:|:-:|:-:|
-| 3  | 3  | 1 | 1 |
-| 4  | 4  | 1 | 1 |
-| 5  | 4  | 1 | 1 |
-| 6  | 4  | 2 | 1 |
-| 7  | 5  | 2 | 2 |
-| 8  | 6  | 2 | 2 |
-| 9  | 6  | 2 | 2 |
-| 10 | 7  | 2 | 2 |
-| 11 | 8  | 2 | 2 |
-| 12 | 8  | 2 | 2 |
-| 13 | 9  | 2 | 3 |
-| 14 | 10 | 2 | 3 |
-| 15 | 10 | 2 | 3 |
-| 16 | 11 | 2 | 3 |
-| 17 | 11 | 2 | 3 |
-| 18 | 11 | 2 | 3 |
-| 19 | 12 | 2 | 4 |
-| 20 | 13 | 2 | 4 |
+_**Instrument Training.**_ You gain a Musical Instrument of your choice, and you have Proficiency with it. Additionally, whenever you finish a Long Rest, you can replace this Proficiency with another Musical Instrument of your choice that you possess.
 
-_**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Bard spells. _Equine Tribute_, _Heroism_, and _Thunderwave_ are recommended.
-
-The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Reveler Rhythmancy table. Whenever that number increases, choose additional Bard spells until the number of spells on your list matches the number on the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you're a level 7 Fighter, for example, you learn a new Bard spell, which can be of levels 1-2.
-
-_**Harmonic Magic.**_ Any Bard spell you have prepared using this feature is also considered to be a Rhythmancy spell.
-
-_**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one spell on your list with another Bard spell of an eligible level.
-
-_**Spellcasting Ability.**_ Charisma is your spellcasting ability for your Rhythmancy spells.
-
-_**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Rhythmancy spells.
-
-#### Level 7: Diagetic Surge
-
-You draw energy from the music that churns through your veins. When you expend a use of your Second Wind, in addition to the feature's normal effects, you regain all expended spell slots from your Reveler Rhythmancy feature.
-
-Once you use this feature, you can't use it again until you finish a Long Rest. You can also restore your use of it when you use your Action Surge.
-
-#### Level 10: Blade Flurry
+#### Level 7: Blade Staccato
 
 You fight to the rhythm of your song, attempting to overwhelm your foes with multiple attacks. When you cast _True Strike_, its duration changes to 1 minute, and its benefits are applied to all weapon attacks you make for the duration. The spell ends early if you miss an attack.
 
+#### Level 10: Diagetic Surge
+
+You draw energy from the music that churns through your veins. When you expend a use of either your Action Surge or Second Wind, in addition to the feature's normal effects, you regain all expended Rhythmancy Points from your Rhythmancy Warrior feature.
+
+Once you use this feature, you can't use it again until you finish a Long Rest.
+
 #### Level 15: Shared Song
 
-When you cast a Rhythmancy spell targeting yourself, you can also affect one willing ally with the spell if the ally is within 10 feet of you.
+. When you cast a Rhythmancy spell targeting yourself, you can also affect one willing ally with the spell if the ally is within 10 feet of you. Additionally, you can participate in a Rhythmancy Duet even if you do not have the spell prepared, as long as the other participant has the spell prepared.
 
 #### Level 18: Pitch Perfect
 
-Through intensive rehearsal, you have perfected the performance of your favorite compositions and can cast them at will. Choose one of the level 1 Rhythmancy spells you have prepared that has a casting time of an action. You can cast this spell at its lowest level without expending a spell slot. To cast this spell at a higher level, you must expend a spell slot or Rhythmancy Points.
+Through intensive rehearsal, you have perfected your favorite compositions and can readily perform them with no preparation. Choose one of the level 1 Rhythmancy spells you have prepared that has a casting time of an action. You can cast this spell at its lowest level without expending Rhythmancy Points. To cast this spell at a higher level, you must expend Rhythmancy Points.
 
 Additionally, when you take the Attack action on your turn, you can replace one of the attacks with a casting of the spell you chose for this feature.
 
-Whenever you finish a Long Rest, you can replace the spell you chose for this feature with another Rhythmancy spell that meets the requirements.
+Whenever you finish a Long Rest, you can replace the spell you chose for this feature with a different level 1 Rhythmancy spell you have prepared with a casting time of an action.
 
 ## Ranger
 
