@@ -38,22 +38,13 @@ At level 3, a Fighter gains the choice of a subclass. The following option is ma
 
 Though skilled in the art of martial combat, Revelers also engage in studies of musical composition and kinetic performance, aided by channeling rhythmantic magic. Rather than dividing their focus, these shared disciplines complement each other, leading to Fighters gifted with fluent movement on the battlefield and equal command of the dance floor.
 
-#### Level 3: Bravado
-
-Thanks to your practice at performing in front of audiences, you gain the following benefits.
-
-- You gain Proficiency in the Performance skill.
-- You can channel the raw charisma of your performance when you attempt certain tasks; when you make an ability check using one of the following skills, you can make it as a Charisma check even if it normally uses a different ability: Animal Handling, Deception, Intimidation, Persuasion, Sleight of Hand, or Stealth. When you use this ability, your Charisma represents your command over others, honing your ability to be seen or unseen to achieve your goals.
-
-  You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
-
 #### Level 3: Rhythmancy Warrior
 
 You have engaged in the study of magic song and incorporated it into your combat training. You gain the following benefits.
 
-_**Cantrips.**_ You learn two cantrips: _True Strike_ and one other Rhythmancy cantrip of your choice.
+_**Cantrips.**_ You learn two cantrips: _True Strike_ and a Rhythmancy cantrip of your choice.
 
-Whenever you gain a Fighter level, you can replace one of your cantrips with another Rhythmancy cantrip of your choice.
+Whenever you gain a Fighter level, you can replace a Rhythmancy cantrip you know with another Rhythmancy cantrip of your choice.
 
 When you reach Fighter level 10, you learn another Rhythmancy cantrip of your choice.
 
@@ -61,9 +52,16 @@ _**Rhythmancy Points.**_ You gain 2 Rhythmancy Points to spend on casting Rhythm
 
 _**Prepared Spells.**_ Choose two level 1 Rhythmancy spells. You always have these spells prepared, and you can cast them using Rhythmancy Points or any spell slots you have.
 
-_**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one spell on your list with another Rhythmancy spell of an eligible level.
+_**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one Rhythmancy spell on your list with another Rhythmancy spell of a level for which you have sufficient Rhythmancy Points.
 
-_**Instrument Training.**_ You gain a Musical Instrument of your choice, and you have Proficiency with it. Additionally, whenever you finish a Long Rest, you can replace this Proficiency with another Musical Instrument of your choice that you possess.
+_**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice. You can use such an instrument as a spellcasting focus for any spell you cast using Rhythmancy Points. Additionally, whenever you finish a Long Rest, you can replace this Proficiency with another Musical Instrument of your choice that you possess.
+
+#### Level 3: Bravado
+
+Thanks to your practice at performing in front of audiences, you gain the following benefits.
+
+- You gain Proficiency in the Performance skill.
+- You can channel the raw charisma of your performance when you attempt certain tasks; when you make an ability check using one of the following skills, you can expend 1 Rhythmancy Point to make it as a Charisma check even if it normally uses a different ability: Animal Handling, Deception, Intimidation, Persuasion, Sleight of Hand, or Stealth. When you use this ability, your Charisma represents your command over others, honing your ability to be seen or unseen to achieve your goals.
 
 #### Level 7: Blade Staccato
 
