@@ -42,19 +42,21 @@ Though skilled in the art of martial combat, Revelers also engage in studies of 
 
 You have engaged in the study of magic song and incorporated it into your combat training. You gain the following benefits.
 
-_**Cantrips.**_ You learn two cantrips: _True Strike_ and a Rhythmancy cantrip of your choice.
+_**Cantrips.**_ You learn two cantrips: _True Strike_ and another Bard cantrip of your choice.
 
-Whenever you gain a Fighter level, you can replace a Rhythmancy cantrip you know with another Rhythmancy cantrip of your choice.
+Whenever you gain a Fighter level, you can replace a Bard cantrip you know with a Bard cantrip of your choice.
 
-When you reach Fighter level 10, you learn another Rhythmancy cantrip of your choice.
+When you reach Fighter level 10, you learn another Bard cantrip of your choice.
 
 _**Rhythmancy Points.**_ You gain 2 Rhythmancy Points to spend on casting Rhythmancy spells.
 
-_**Prepared Spells.**_ Choose two level 1 Rhythmancy spells. You always have these spells prepared, and you can cast them using Rhythmancy Points or any spell slots you have.
+_**Prepared Spells.**_ Choose two level 1 Bard spells. You always have these spells prepared.
 
-_**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one Rhythmancy spell on your list with another Rhythmancy spell of a level for which you have sufficient Rhythmancy Points.
+_**Harmonic Magic.**_ Any Bard spell you have prepared is also considered to be a Rhythmancy spell.
 
-_**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice. You can use such an instrument as a spellcasting focus for any spell you cast using Rhythmancy Points. Additionally, whenever you finish a Long Rest, you can replace this Proficiency with another Musical Instrument of your choice that you possess.
+_**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one Bard spell on your list with another Bard spell of a level for which you have sufficient Rhythmancy Points to cast.
+
+_**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice. You can use such an instrument as a spellcasting focus for any Rhythmancy spell you cast. Additionally, whenever you finish a Long Rest, you can replace this Proficiency with another Musical Instrument of your choice that you possess.
 
 #### Level 3: Bravado
 
@@ -71,15 +73,13 @@ You fight to the rhythm of your song, attempting to overwhelm your foes with mul
 
 You draw energy from the music that churns through your veins. When you expend a use of either your Action Surge or Second Wind, in addition to the feature's normal effects, you regain all expended Rhythmancy Points from your Rhythmancy Warrior feature.
 
-Once you use this feature, you can't use it again until you finish a Long Rest.
-
 #### Level 15: Shared Song
 
 When you cast a Rhythmancy spell targeting yourself, you can also affect one willing ally with the spell if the ally is within 10 feet of you. Additionally, you can cast a Rhythmancy Duet spell even if you do not have the spell prepared, as long as the other participant in the Duet has the spell prepared.
 
 #### Level 18: Pitch Perfect
 
-Through intensive rehearsal, you have perfected your favorite compositions and can readily perform them with no preparation. Choose one of the level 1 Rhythmancy spells you have prepared that has a casting time of an action. You can cast this spell at its lowest level without expending Rhythmancy Points. To cast this spell at a higher level, you must expend Rhythmancy Points.
+Through intensive rehearsal, you have perfected your favorite compositions and can readily perform them with no preparation. Choose one of the level 1 Rhythmancy spells you have prepared that has a casting time of an action. You can cast this spell at its lowest level without expending Rhythmancy Points. To cast this spell at a higher level, you must expend Rhythmancy Points as normal.
 
 Additionally, when you take the Attack action on your turn, you can replace one of the attacks with a casting of the spell you chose for this feature.
 
