@@ -44,15 +44,15 @@ You have engaged in the study of magic song and incorporated it into your combat
 
 _**Cantrips.**_ You learn two cantrips: _True Strike_ and another Bard cantrip of your choice.
 
-Whenever you gain a Fighter level, you can replace a Bard cantrip you know with a Bard cantrip of your choice.
+Whenever you gain a Fighter level, you can replace a Bard cantrip you know from this feature with a Bard cantrip of your choice.
 
 When you reach Fighter level 10, you learn another Bard cantrip of your choice.
 
 _**Rhythmancy Points.**_ You gain 2 Rhythmancy Points to spend on casting Rhythmancy spells.
 
-_**Prepared Spells.**_ Choose two level 1 Bard spells. You always have these spells prepared.
-
 _**Harmonic Magic.**_ Any Bard spell you have prepared is also considered to be a Rhythmancy spell.
+
+_**Prepared Spells.**_ Choose two level 1 Bard spells. You always have these spells prepared.
 
 _**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one Bard spell on your list with another Bard spell of a level for which you have sufficient Rhythmancy Points to cast.
 
