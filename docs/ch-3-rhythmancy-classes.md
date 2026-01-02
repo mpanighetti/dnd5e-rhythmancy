@@ -95,7 +95,7 @@ At level 3, a Ranger gains the choice of a subclass. The following option is mad
 
 ### Wild Composer
 
-__
+_Share Nature's Song in Magic Instruments_
 
 > You know there's rhythm all around us: the waves break in rhythm, people walk in rhythm, people breathe in rhythm, too. People work in rhythm! The whole world is made up of rhythm.
 >
