@@ -8,17 +8,19 @@ At level 3, a Bard gains the choice of a subclass. The following option is made 
 
 ### College of Legends
 
+_Recall Lost Knowledge in Magical Song_
+
 Though all bards have the ability to learn rhythmancy spells, practitioners of the College of Legends have built entire careers out of unlocking the magic sealed within these songs. These maestros are often sought out as teachers to aid new students in their rhythmantic studies, passing on what they learned from their own masters of the craft.
 
 #### Level 3: Legendary Recall
 
-You have extensively pored through history books and sought out hidden knowledge of ancient heroes. You gain Proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you make an Intelligence check, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the d20.
+You have extensively pored through history books and sought out hidden knowledge of ancient heroes. You gain Proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you take the Study action, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the d20.
 
 #### Level 3: Rhythmantic Savant
 
 You have an innate understanding of the magic of music and how to wield it. You gain the following benefits.
 
-_**Abjurative Melody.**_ When you cast a level 1+ Rhythmancy spell targeting one or more creatures, in addition to the spell's normal effects, you can choose to grant any such targets a number of Temporary Hit Points equal to the spell level.
+_**Abjurative Melody.**_ When you cast a level 1+ Rhythmancy spell targeting one or more creatures, you can choose to select a number of targets of your choice equal to your Charisma modifier (minimum 1); in addition to the spell's normal effects, the selected targets receive a number of Temporary Hit Points equal to the spell level.
 
 _**Speed Training.**_ Whenever you learn a new song through rhythmantic training, you bypass all training requirements, including finding a teacher, all training costs and issues, and any time requirements. Instead, you learn the Rhythmancy spell as a Magic action and by expending either a spell slot of a level greater than or equal to the spell's level, or that number of Rhythmancy Points (for cantrips, expend either a level 1 spell slot or 1 Rhythmancy Point). You cannot learn a Rhythmancy spell in this manner if you do not have an appropriate spell slot or sufficient Rhythmancy Points available to expend.
 
@@ -36,27 +38,29 @@ At level 3, a Fighter gains the choice of a subclass. The following option is ma
 
 ### Reveler
 
+_Fuel Attacks with Musical Energy_
+
 Though skilled in the art of martial combat, Revelers also engage in studies of musical composition and kinetic performance, aided by channeling rhythmantic magic. Rather than dividing their focus, these shared disciplines complement each other, leading to Fighters gifted with fluent movement on the battlefield and equal command of the dance floor.
 
 #### Level 3: Rhythmancy Warrior
 
 You have engaged in the study of magic song and incorporated it into your combat training. You gain the following benefits.
 
-_**Cantrips.**_ You learn two cantrips: _True Strike_ and another Bard cantrip of your choice.
-
-Whenever you gain a Fighter level, you can replace a Bard cantrip you know from this feature with a Bard cantrip of your choice.
+_**Cantrips.**_ You learn two cantrips: _True Strike_ and another Bard cantrip of your choice. Whenever you gain a Fighter level, you can replace one of these cantrips with a Bard cantrip of your choice.
 
 When you reach Fighter level 10, you learn another Bard cantrip of your choice.
 
-_**Rhythmancy Points.**_ You gain 2 Rhythmancy Points to spend on casting Rhythmancy spells.
+_**Rhythmancy Points.**_ You gain 2 Rhythmancy Points to spend on casting Rhythmancy spells. You can cast Bard spells using Rhythmancy Points even if they aren't Rhythmancy spells.
 
-_**Harmonic Magic.**_ Any Bard spell you have prepared is also considered to be a Rhythmancy spell.
+_**Prepared Level 1 Spells.**_ You prepare the list of level 1 spells that are available for you to cast with this feature. Choose two level 1 spells from the Bard spell list.
 
-_**Prepared Spells.**_ Choose two level 1 Bard spells. You always have these spells prepared.
+_**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one level 1 Bard spell on your list with another level 1 Bard spell.
 
-_**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one Bard spell on your list with another Bard spell of a level for which you have sufficient Rhythmancy Points to cast.
+_**Spellcasting Ability.**_ Charisma is your spellcasting ability for your Bard spells.
 
-_**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice. You can use such an instrument as a spellcasting focus for any Rhythmancy spell you cast. Additionally, whenever you finish a Long Rest, you can replace this Proficiency with another Musical Instrument of your choice that you possess.
+_**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice.
+
+_**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
 
 #### Level 3: Bravado
 
@@ -75,21 +79,23 @@ You draw energy from the music that churns through your veins. When you expend a
 
 #### Level 15: Shared Song
 
-When you cast a Rhythmancy spell targeting yourself, you can also affect one willing ally with the spell if the ally is within 10 feet of you. Additionally, you can cast a Rhythmancy Duet spell even if you do not have the spell prepared, as long as the other participant in the Duet has the spell prepared.
+When you cast a Bard spell targeting yourself, you can also affect one willing ally with the spell if the ally is within 10 feet of you. Additionally, you can cast a Duet spell even if you do not have the spell prepared, as long as the other participant in the duet has the spell prepared and does not also have this class feature.
 
 #### Level 18: Pitch Perfect
 
-Through intensive rehearsal, you have perfected your favorite compositions and can readily perform them with no preparation. Choose one of the level 1 Rhythmancy spells you have prepared that has a casting time of an action. You can cast this spell at its lowest level without expending Rhythmancy Points. To cast this spell at a higher level, you must expend Rhythmancy Points as normal.
+Through intensive rehearsal, you have perfected your favorite compositions and can readily perform them with no preparation. Choose one of the level 1 Bard spells you have prepared that has a casting time of an action. You can cast this spell at its lowest level without expending Rhythmancy Points.
 
 Additionally, when you take the Attack action on your turn, you can replace one of the attacks with a casting of the spell you chose for this feature.
 
-Whenever you finish a Long Rest, you can replace the spell you chose for this feature with a different level 1 Rhythmancy spell you have prepared with a casting time of an action.
+Whenever you finish a Long Rest, you can replace the spell you chose for this feature with a different level 1 Bard spell you have prepared with a casting time of an action.
 
 ## Ranger
 
 At level 3, a Ranger gains the choice of a subclass. The following option is made available to you when making that choice: the Wild Composer.
 
 ### Wild Composer
+
+__
 
 > You know there's rhythm all around us: the waves break in rhythm, people walk in rhythm, people breathe in rhythm, too. People work in rhythm! The whole world is made up of rhythm.
 >
@@ -115,7 +121,7 @@ When you reach a Ranger level specified in the Wild Composer Spells table, you t
 
 You are in sync with the music of the wilds, allowing you to direct nature's song into musical instruments. You gain the following benefits.
 
-_**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice, and with a tool of your choice capable of crafting that instrument (Leatherworker's Tools, Potter's Tools, or Woodworker's Tools might be suitable choices).
+_**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice, and with a tool of your choice capable of crafting that instrument. Leatherworker's Tools, Potter's Tools, or Woodworker's Tools might be suitable choices.
 
 _**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Ranger spells.
 
