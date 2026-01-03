@@ -8,9 +8,9 @@ Rhythmantic cantrips can be cast an unlimited number of times, regardless of fea
 
 ## Component Requirements
 
-All rhythmancy spells, in addition to normal spell slot usage and component requirements, include both a verbal component and a specific material component requirement of an instrument with a value of at least 1 gp. This instrument substitutes as your spellcasting focus when using rhythmantic magic. Instruments that are magic items also satisfy this material component requirement.
+All rhythmancy spells, in addition to normal spell slot usage and component requirements, include both a Verbal component and a specific Material component requirement of a Musical Instrument with a value of at least 1 GP. This instrument substitutes as your spellcasting focus when using rhythmantic magic. Instruments that are magic items also satisfy this material component requirement.
 
-Due to the inherently performative nature of rhythmancy, the requirements for both a verbal component and instrument cannot be bypassed with any class feature (such as a sorcerer's Subtle Spell metamagic option), trait, or any other ability, unless it specifically allows ignoring component requirements for rhythmancy magic.
+Due to the inherently performative nature of rhythmancy, the requirements for both a Verbal component and instrument cannot be bypassed with any class feature (such as a sorcerer's Subtle Spell metamagic option), trait, or any other ability, unless it specifically allows ignoring component requirements for rhythmancy magic.
 
 ## Spellcasting and Pact Magic
 
@@ -32,7 +32,7 @@ If the casting of a spell using such features is subject to special rules and li
 
 If a monk feature requires spending Focus Points to cast a spell of level 1 or higher, the cost of casting a rhythmancy spell is a number of Focus Points equal to 1 + the spell's level. For example, casting _Song of Storms_ using the Empty Body feature would require spending 3 Focus Points.
 
-Additional Focus Points can be spent to cast the spell at a higher level at 1 Discipline Point per level increase, as long as you already have the ability to cast a spell at that level using Focus Points.
+Additional Focus Points can be spent to cast the spell at a higher level at a cost of 1 Focus Point per level increase, as long as you already have the ability to cast a spell at that level using Focus Points.
 
 ### Limited Uses
 
@@ -53,9 +53,9 @@ If the spell cannot be used with the feature's limitations, it cannot be learned
 Some rhythmancy songs are written to be performed by two musicians working together to create more powerful magic than they could accomplish on their own. Duets function like normal spells but come with additional requirements for the magic to be successfully linked between the two casters:
 
 - The rhythmancy spell performed by both casters must be the same.
-- Both performers must choose the same target when casting their spells.
-- Both casters must provide all required components and spell slots.
-- After the first spellcasting is begun, the partner's spell must begin before the first caster's next turn. To ensure synchrony, one partner could use the Ready Action so that their spell begins casting as a Reaction to the other partner starting their song.
+- Both performers must choose the same target or area of effect when casting their spells.
+- Both casters must provide all required components, spell slots, Rhythmancy Points, or other resources.
+- Once one performer starts casting the spell, the partner's spell must be cast before the first caster's next turn. To ensure synchrony, one partner could use the Ready Action so that their spell begins casting as a Reaction to the other partner starting their song.
 - Both casters must be able to hear each other during the entire casting times of the spells to ensure their performances remain in sync.
 
 If any of the above conditions are not met, both castings of the Duet spell fail. Otherwise, the spells grant their shared effect after both casters complete the required casting time.
