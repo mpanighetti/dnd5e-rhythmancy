@@ -545,8 +545,6 @@ You attempt to restore the normal flow of time for a creature you can see within
 
 Any ongoing spell of level 5 or lower on the target that falls under one of the above criteria ends, similar to the effect of _Dispel Magic_; additionally, any valid spell for which you were originally the caster and any valid magical effect not caused by a spell ends. A creature magically displaced from their original time period is immediately returned to their era, and all magical aging is removed.
 
-[^⏳]: Source: _Explorer's Guide to Wildemount_
-
 ### _Concerto No. 3 in F minor, "Master of the Ages"_
 
 _Level 7 Conjuration/Rhythmancy (Bard)_
@@ -578,3 +576,5 @@ _**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 4 or hi
 ---
 
 [⬅️ Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md) | [Home ⬆️](index.md) | [Chapter 6: Rhythmancy Magic Items ➡️](ch-6-rhythmancy-magic-items.md)
+
+[^⏳]: Source: _Explorer's Guide to Wildemount_
