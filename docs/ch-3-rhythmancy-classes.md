@@ -4,27 +4,25 @@ This section includes new subclass options with abilities centered around the us
 
 ## Bard
 
-At 3rd level, a Bard gains the choice of a subclass. The following option is made available to you when making that choice: the College of Legends.
+At level 3, a Bard gains the choice of a subclass. The following option is made available to you when making that choice: the College of Legends.
 
 ### College of Legends
 
+_Recall Lost Knowledge in Magical Song_
+
 Though all bards have the ability to learn rhythmancy spells, practitioners of the College of Legends have built entire careers out of unlocking the magic sealed within these songs. These maestros are often sought out as teachers to aid new students in their rhythmantic studies, passing on what they learned from their own masters of the craft.
 
-#### Legendary Recall
+#### Level 3: Legendary Recall
 
-You have extensively pored through history books and sought out hidden knowledge of ancient heroes. You gain Proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you make an Intelligence check, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the d20.
+You have extensively pored through history books and sought out hidden knowledge of ancient heroes. You gain Proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you take the Study action, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the d20.
 
-#### Rhythmantic Savant
+#### Level 3: Rhythmantic Savant
 
 You have an innate understanding of the magic of music and how to wield it. You gain the following benefits.
 
-_**Rhythmancy Points.**_ You have a number of Rhythmancy Points equal to your Bard level divided by 3 (round down) to spend on casting Rhythmancy spells.
+_**Abjurative Melody.**_ When you cast a level 1+ Rhythmancy spell targeting one or more creatures, you can choose to select a number of targets of your choice equal to your Charisma modifier (minimum 1); in addition to the spell's normal effects, the selected targets receive a number of Temporary Hit Points equal to the spell level.
 
-_**Harmonic Magic.**_ Any Bard spell you have prepared is also considered to be a Rhythmancy spell.
-
-_**Speed Training.**_ Whenever you learn a new song through rhythmantic training, you bypass all training requirements, including finding a teacher, all training costs and issues, and any time requirements. Instead, you learn the Rhythmancy spell as a Magic action and by spending a number of Rhythmancy Points equal to the spell's level (minimum 1 Rhythmancy Point). You cannot learn a Rhythmancy spell in this manner if you do not have a sufficient number of Rhythmancy Points available to spend.
-
-_**Abjurative Melody.**_ When you cast a level 1+ Rhythmancy spell targeting one or more creatures, in addition to the spell's normal effects, you can choose to grant any such targets a number of Temporary Hit Points equal to the spell level.
+_**Speed Training.**_ Whenever you learn a new song through rhythmantic training, you bypass all training requirements, including finding a teacher, all training costs and issues, and any time requirements. Instead, you learn the Rhythmancy spell as a Magic action and by expending either a spell slot of a level greater than or equal to the spell's level, or that number of Rhythmancy Points (for cantrips, expend either a level 1 spell slot or 1 Rhythmancy Point). You cannot learn a Rhythmancy spell in this manner if you do not have an appropriate spell slot or sufficient Rhythmancy Points available to expend.
 
 #### Level 6: Inner Song
 
@@ -32,7 +30,7 @@ You can channel your song to temporarily boost the power of your rhythmantic mag
 
 #### Level 14: Legendary Secrets
 
-You have mastered unlocking hidden or lost ancient secrets. You always have the _Legend Lore_ spell prepared. When you cast _Legend Lore_ using Rhythmancy Points, the casting time is 1 action, and you replace its Material component requirements with an instrument worth at least 1 GP.
+You have mastered unlocking hidden or lost ancient secrets. You always have the _Legend Lore_ spell prepared. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a Long Rest. When you cast _Legend Lore_ using this feature, you can cast it as an action rather than its normal casting time, and you ignore its Material component requirements. You can also cast _Legend Lore_ normally using a spell slot of the appropriate level.
 
 ## Ranger
 
