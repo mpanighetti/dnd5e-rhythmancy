@@ -54,7 +54,7 @@ _**Rhythmancy Points.**_ You gain 2 Rhythmancy Points to spend on casting Rhythm
 
 _**Prepared Level 1 Spells.**_ You prepare the list of level 1 spells that are available for you to cast with this feature. Choose two level 1 spells from the Bard spell list.
 
-_**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one level 1 Bard spell on your list with another level 1 Bard spell.
+_**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one spell on your list with another level 1 Bard spell. Starting at Fighter level 7, you can replace a spell on your list with a level 1 or level 2 Bard spell.
 
 _**Spellcasting Ability.**_ Charisma is your spellcasting ability for your Bard spells.
 
@@ -75,7 +75,7 @@ You fight to the rhythm of your song, attempting to overwhelm your foes with mul
 
 #### Level 10: Diagetic Surge
 
-You draw energy from the music that churns through your veins. When you expend a use of either your Action Surge or Second Wind, in addition to the feature's normal effects, you regain all expended Rhythmancy Points from your Rhythmancy Warrior feature.
+You draw energy from the music that churns through your veins. When you expend a use of either your Action Surge or Second Wind, in addition to the feature's normal effects, you regain two expended Rhythmancy Points.
 
 #### Level 15: Shared Song
 
