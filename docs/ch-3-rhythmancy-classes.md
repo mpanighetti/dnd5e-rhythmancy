@@ -40,11 +40,29 @@ You have mastered unlocking hidden or lost ancient secrets. You always have the 
 
 _Impart Wisdom through Ancient Melody_
 
-?
+> Time passes, people move, like a river's flow, it never ends. A childish mind will turn to noble ambition. Young love will become deep affection. The clear water's surface reflects growth. Now listen to the serenade of water and reflect upon yourself.
+> 
+> — Sheik, _The Legend of Zelda: Ocarina of Time_
 
-### Level 3: ?
+Within most monasteries, one Monk chooses to train as a Warrior of Song, acting as the keeper of the organization's sacred techniques and communal knowledge. This individual knows when to keep such information, often encoded within rhythmantic compositions and poems, under their careful watch, and when to share this knowledge with heroes who would use it to strike down the great evils threatening the order of the world.
 
-?
+### Level 3: Keeper of Secrets
+
+You have been trained to act as a living compendium of ancient knowledge, and can recite it on command. You gain Proficiency in a skill of your choice from the following list: Arcana, History, Nature, or Religion. You also have Expertise in the chosen skill. Whenever you finish a Long Rest, you can replace the selected skill with another skill of your choice from the above list, as you study your long memory and resurface other ancient secrets of song.
+
+### Level 3: Rhythmancy Warrior
+
+You have engaged in the study of magic song and incorporated it into your combat training. You gain the following benefits.
+
+_**Ancient Training.**_ Choose one level 1 Rhythmancy spell. You always have the selected spell prepared. Whenever you gain a Monk level, you can replace this spell with another level 1 Rhythmancy spell.
+
+_**Word of the Monarchs.**_ Among the secrets you keep is a deep-seated authority granted to your monk sect by ancient royal families. You know _The Royal Decree_ spell. You can spend one Focus Point to cast it without any Verbal or Material components, replacing the Musical Instrument worth 1+ GP by lacing the music's magic seamlessly into your words.
+
+_**Spellcasting Ability.**_ Wisdom is your spellcasting ability for Rhythmancy spells you cast using this feature.
+
+_**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice.
+
+_**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Rhythmancy spells.
 
 ### Level 6: ?
 
