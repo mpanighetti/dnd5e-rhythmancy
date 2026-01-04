@@ -40,13 +40,15 @@ You have mastered unlocking hidden or lost ancient secrets. You always have the 
 
 ## Wild Composer (Ranger)
 
+_Share Nature's Song in Magic Instruments_
+
 > You know there's rhythm all around us: the waves break in rhythm, people walk in rhythm, people breathe in rhythm, too. People work in rhythm! The whole world is made up of rhythm.
 >
 > — Victor Brady, _[Let's Go Play to the Rhythm of the World](https://youtu.be/g1zNAbrU1zM)_
 
 Rangers who walk the path of the Wild Composer are drawn to the innate music present in the natural world. They revel in the melody of leaves rustling in the wind like chimes, and play along as woodpeckers drum a steady beat on tall steadfast trees. To these adventurers, the wild itself has a breath and cadence that grants those who can hear it great wisdom.
 
-### Wild Composer Spells
+### Level 3: Wild Composer Spells
 
 When you reach a Ranger level specified in the Wild Composer Spells table, you thereafter always have the listed spells prepared.
 
@@ -60,11 +62,11 @@ When you reach a Ranger level specified in the Wild Composer Spells table, you t
 | 13 | _Earth God's Lyric_ |
 | 17 | _Song of Healing_ |
 
-### Music-Maker
+### Level 3: Music-Maker
 
 You are in sync with the music of the wilds, allowing you to direct nature's song into musical instruments. You gain the following benefits.
 
-_**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice, and with a tool of your choice capable of crafting that instrument (Leatherworker's Tools, Potter's Tools, or Woodworker's Tools might be suitable choices).
+_**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice, and with a tool of your choice capable of crafting that instrument. Leatherworker's Tools, Potter's Tools, or Woodworker's Tools might be suitable choices.
 
 _**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Ranger spells.
 
@@ -84,7 +86,7 @@ Additionally, you gain the ability to tap into the music of an unfamiliar enviro
 
 Your ear for the songs of the natural world allows you to channel your magic through that musical structure. If you prepare any of the following Ranger spells, they are also considered to be Rhythmancy spells: _Animal Friendship_, _Beast Bond_, _Locate Animals or Plants_, _Speak with Animals_, and _Speak with Plants_. If you cast one of these spells using Rhythmancy Points or **Instrument of the Wild** charges, the Rhythmancy Point and instrument charge cost is reduced by 1.
 
-In addition, when you cast a Rhythmancy spell with a casting time of 1 action, you can make a melee or ranged weapon attack as a Bonus Action.
+In addition, when you cast a Rhythmancy spell with a casting time of 1 action, you can make a weapon attack as a Bonus Action.
 
 ### Level 15: World Strider
 
