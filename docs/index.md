@@ -12,9 +12,9 @@ This document includes a list of class options, feats, spells, and magic items u
 
 ### [Chapter 3: Rhythmancy Classes](ch-3-rhythmancy-classes.md)
 
-- [Bard Subclass: College of Legends](ch-3-rhythmancy-classes.md#college-of-legends)
-- [Monk Subclass: Warrior of Song](ch-3-rhythmancy-classes.md#warrior-of-song)
-- [Ranger Subclass: Wild Composer](ch-3-rhythmancy-classes.md#wild-composer)
+- [College of Legends (Bard)](ch-3-rhythmancy-classes.md#college-of-legends-bard)
+- [Warrior of Song (Monk)](ch-3-rhythmancy-classes.md#warrior-of-song-monk)
+- [Wild Composer (Ranger)](ch-3-rhythmancy-classes.md#wild-composer-ranger)
 
 ### [Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md)
 
