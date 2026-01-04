@@ -10,6 +10,10 @@ This chapter presents new subclasses with abilities centered around the use of r
 
 _Recall Lost Knowledge in Magical Song_
 
+> "My teacher always advised me to write songs that transport the listener to the moment in time you're singing of. Now… I finally feel I understand what he meant… and the true power of music."
+>
+> — Kass, _The Legend of Zelda: Breath of the Wild_
+
 Though all bards have the ability to learn rhythmancy spells, practitioners of the College of Legends have built entire careers out of unlocking the magic sealed within these songs. These maestros are often sought out as teachers to aid new students in their rhythmantic studies, passing on what they learned from their own masters of the craft.
 
 ### Level 3: Legendary Recall
@@ -42,7 +46,7 @@ You have mastered unlocking hidden or lost ancient secrets. You always have the 
 
 _Share Nature's Song in Magic Instruments_
 
-> You know there's rhythm all around us: the waves break in rhythm, people walk in rhythm, people breathe in rhythm, too. People work in rhythm! The whole world is made up of rhythm.
+> "You know there's rhythm all around us: the waves break in rhythm, people walk in rhythm, people breathe in rhythm, too. People work in rhythm! The whole world is made up of rhythm."
 >
 > — Victor Brady, _[Let's Go Play to the Rhythm of the World](https://youtu.be/g1zNAbrU1zM)_
 
