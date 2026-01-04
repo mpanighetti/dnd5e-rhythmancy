@@ -56,6 +56,8 @@ You have engaged in the study of magic song and incorporated it into your combat
 
 _**Ancient Training.**_ Choose one level 1 Rhythmancy spell. You always have the selected spell prepared. Whenever you gain a Monk level, you can replace this spell with another level 1 Rhythmancy spell.
 
+_**Rhythmantic Focus.**_ You can cast Rhythmancy spells you have prepared by spending a number of Focus Points equal to twice the spell's level.
+
 _**Word of the Monarchs.**_ Among the secrets you keep is a deep-seated authority granted to your monk sect by ancient royal families. You know _The Royal Decree_ spell. You can spend one Focus Point to cast it without any Verbal or Material components, replacing the Musical Instrument worth 1+ GP by lacing the music's magic seamlessly into your words.
 
 _**Spellcasting Ability.**_ Wisdom is your spellcasting ability for Rhythmancy spells you cast using this feature.
