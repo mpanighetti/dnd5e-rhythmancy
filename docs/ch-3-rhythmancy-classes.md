@@ -10,31 +10,39 @@ This chapter presents new subclasses with abilities centered around the use of r
 
 ## College of Legends (Bard)
 
+_Recall Lost Knowledge in Magical Song_
+
+> "My teacher always advised me to write songs that transport the listener to the moment in time you're singing of. Now… I finally feel I understand what he meant… and the true power of music."
+>
+> — Kass, _The Legend of Zelda: Breath of the Wild_
+
 Though all bards have the ability to learn rhythmancy spells, practitioners of the College of Legends have built entire careers out of unlocking the magic sealed within these songs. These maestros are often sought out as teachers to aid new students in their rhythmantic studies, passing on what they learned from their own masters of the craft.
 
 ### Level 3: Legendary Recall
 
-You have extensively pored through history books and sought out hidden knowledge of ancient heroes. You gain Proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you make an Intelligence check, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the d20.
+You have extensively pored through history books and sought out hidden knowledge of ancient heroes and their adventures. You gain Proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you take the Study action, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the d20.
 
 ### Level 3: Rhythmantic Savant
 
-You have an innate understanding of the magic of music and how to wield it. You gain the following benefits.
+You have an innate understanding of the magic of music and how to modify your compositions. When you cast a level 1+ Rhythmancy spell targeting one or more creatures, you can select one target of the spell and modify your musical performance to enhance the spell using one of the following effects (in addition to the spell's normal effects). The enhancement succeeds only if one of the following conditions are met: the target is willing; the target is hit by an attack roll triggered by the spell; or the target fails a saving throw triggered by the spell.
 
-_**Rhythmancy Points.**_ You have a number of Rhythmancy Points equal to your Bard level divided by 3 (round down) to spend on casting Rhythmancy spells.
+- _**Abjurative Melody.**_ The target receives a number of Temporary Hit Points equal to a roll of your Bardic Inspiration die.
+- _**Enchanting Tune.**_ The target has the Charmed condition until the end of your next turn. You cannot select this effect if the spell you cast is already capable of granting the Charmed condition.
+- _**Evocative Beat.**_ The target takes Thunder damage equal to a roll of your Bardic Inspiration die.
 
-_**Harmonic Magic.**_ Any Bard spell you have prepared is also considered to be a Rhythmancy spell.
-
-_**Speed Training.**_ Whenever you learn a new song through rhythmantic training, you bypass all training requirements, including finding a teacher, all training costs and issues, and any time requirements. Instead, you learn the Rhythmancy spell as a Magic action and by spending a number of Rhythmancy Points equal to the spell's level (minimum 1 Rhythmancy Point). You cannot learn a Rhythmancy spell in this manner if you do not have a sufficient number of Rhythmancy Points available to spend.
-
-_**Abjurative Melody.**_ When you cast a level 1+ Rhythmancy spell targeting one or more creatures, in addition to the spell's normal effects, you can choose to grant any such targets a number of Temporary Hit Points equal to the spell level.
+Once you enhance a spell with one of the selected effects, you regain the ability to select that enhancement when you finish a Long Rest, or by expending one use of Bardic Inspiration.
 
 ### Level 6: Inner Song
 
-You can channel your song to temporarily boost the power of your rhythmantic magic. At the end of a Long Rest, you can expend one use of Bardic Inspiration to roll a Bardic Inspiration die and gain a number of temporary Rhythmancy Points equal to the number rolled. While you have these temporary Rhythmancy Points, they can be spent to cast or learn spells as if they were normal Rhythmancy Points, but they don't count toward your total number of Rhythmancy Points to determine the level of Rhythmancy spell you can cast or learn. Unspent temporary Rhythmancy Points from this feature disappear after you finish your next Long Rest.
+You can channel your song to temporarily boost the power of your rhythmantic magic. At the end of a Long Rest, you can expend one use of Bardic Inspiration to roll a Bardic Inspiration die and gain a number of temporary Rhythmancy Points equal to the number rolled. While you have these temporary Rhythmancy Points, they can be spent to cast or learn spells as if they were normal Rhythmancy Points, but they don't count toward your total number of Rhythmancy Points to determine the highest level of Rhythmancy spell you can cast or learn. Any unspent temporary Rhythmancy Points disappear after you finish your next Long Rest.
+
+### Level 6: Speed Training
+
+Whenever you learn a new song through rhythmantic training, you bypass all training requirements, including finding a teacher, all training costs and issues, and any time requirements. Instead, you learn the Rhythmancy spell as a Magic action and by expending either a spell slot of a level greater than or equal to the spell's level, or that number of Rhythmancy Points (for cantrips, expend either a level 1 spell slot or 1 Rhythmancy Point). You cannot learn a Rhythmancy spell in this manner if you do not have an appropriate spell slot or sufficient Rhythmancy Points available to expend.
 
 ### Level 14: Legendary Secrets
 
-You have mastered unlocking hidden or lost ancient secrets. You always have the _Legend Lore_ spell prepared. When you cast _Legend Lore_ using Rhythmancy Points, the casting time is 1 action, and you replace its Material component requirements with an instrument worth at least 1 GP.
+You have mastered unlocking hidden or lost ancient secrets. You always have the _Legend Lore_ spell prepared. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a Long Rest. When you cast _Legend Lore_ using this feature, you can cast it as an action rather than its normal casting time, and you ignore its Material component requirements. You can also cast _Legend Lore_ normally using a spell slot of the appropriate level.
 
 ## Warrior of Song (Monk)
 
@@ -82,7 +90,7 @@ _**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Foc
 
 _Share Nature's Song in Magic Instruments_
 
-> You know there's rhythm all around us: the waves break in rhythm, people walk in rhythm, people breathe in rhythm, too. People work in rhythm! The whole world is made up of rhythm.
+> "You know there's rhythm all around us: the waves break in rhythm, people walk in rhythm, people breathe in rhythm, too. People work in rhythm! The whole world is made up of rhythm."
 >
 > — Victor Brady, _[Let's Go Play to the Rhythm of the World](https://youtu.be/g1zNAbrU1zM)_
 
