@@ -26,7 +26,7 @@ _**Speed Training.**_ Whenever you learn a new song through rhythmantic training
 
 #### Level 6: Inner Song
 
-You can channel your song to temporarily boost the power of your rhythmantic magic. At the end of a Long Rest, you can expend one use of Bardic Inspiration to roll a Bardic Inspiration die and gain a number of temporary Rhythmancy Points equal to the number rolled. While you have these temporary Rhythmancy Points, they can be spent to cast or learn spells as if they were normal Rhythmancy Points, but they don't count toward your total number of Rhythmancy Points to determine the level of Rhythmancy spell you can cast or learn. Unspent temporary Rhythmancy Points from this feature disappear after you finish your next Long Rest.
+You can channel your song to temporarily boost the power of your rhythmantic magic. At the end of a Long Rest, you can expend one use of Bardic Inspiration to roll a Bardic Inspiration die and gain a number of temporary Rhythmancy Points equal to the number rolled. While you have these temporary Rhythmancy Points, they can be spent to cast or learn spells as if they were normal Rhythmancy Points, but they don't count toward your total number of Rhythmancy Points to determine the highest level of Rhythmancy spell you can cast or learn. Unspent temporary Rhythmancy Points from this feature disappear after you finish your next Long Rest.
 
 #### Level 14: Legendary Secrets
 
