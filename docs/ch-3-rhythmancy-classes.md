@@ -34,6 +34,32 @@ You can channel your song to temporarily boost the power of your rhythmantic mag
 
 You have mastered unlocking hidden or lost ancient secrets. You always have the _Legend Lore_ spell prepared. When you cast _Legend Lore_ using Rhythmancy Points, the casting time is 1 action, and you replace its Material component requirements with an instrument worth at least 1 GP.
 
+## Monk
+
+At level 3, a Monk gains the choice of a subclass. The following option is made available to you when making that choice: the Warrior of Song.
+
+### Warrior of Song
+
+_Impart Wisdom through Ancient Melody_
+
+?
+
+#### Level 3: ?
+
+?
+
+#### Level 6: ?
+
+?
+
+#### Level 11: ?
+
+?
+
+#### Level 17: ?
+
+?
+
 ## Ranger
 
 At 3rd level, a Ranger gains the choice of a subclass. The following option is made available to you when making that choice: the Wild Composer.
