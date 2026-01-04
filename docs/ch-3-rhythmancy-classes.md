@@ -14,19 +14,25 @@ Though all bards have the ability to learn rhythmancy spells, practitioners of t
 
 #### Level 3: Legendary Recall
 
-You have extensively pored through history books and sought out hidden knowledge of ancient heroes. You gain Proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you take the Study action, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the d20.
+You have extensively pored through history books and sought out hidden knowledge of ancient heroes and their adventures. You gain Proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you take the Study action, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the d20.
 
 #### Level 3: Rhythmantic Savant
 
-You have an innate understanding of the magic of music and how to wield it. You gain the following benefits.
+You have an innate understanding of the magic of music and how to modify your compositions. When you cast a level 1+ Rhythmancy spell targeting one or more creatures, you can select one target of the spell and modify your musical performance to enhance the spell using one of the following effects (in addition to the spell's normal effects). The enhancement succeeds only if one of the following conditions are met: the target is willing; the target is hit by an attack roll triggered by the spell; or the target fails a saving throw triggered by the spell.
 
-_**Abjurative Melody.**_ When you cast a level 1+ Rhythmancy spell targeting one or more creatures, you can choose to select a number of targets of your choice equal to your Charisma modifier (minimum 1); in addition to the spell's normal effects, the selected targets receive a number of Temporary Hit Points equal to the spell level.
+- _**Abjurative Melody.**_ The target receives a number of Temporary Hit Points equal to a roll of your Bardic Inspiration die.
+- _**Enchanting Tune.**_ The target has the Charmed condition until the end of your next turn. You cannot select this effect if the spell you cast is already capable of granting the Charmed condition.
+- _**Evocative Beat.**_ The target takes Thunder damage equal to a roll of your Bardic Inspiration die.
 
-_**Speed Training.**_ Whenever you learn a new song through rhythmantic training, you bypass all training requirements, including finding a teacher, all training costs and issues, and any time requirements. Instead, you learn the Rhythmancy spell as a Magic action and by expending either a spell slot of a level greater than or equal to the spell's level, or that number of Rhythmancy Points (for cantrips, expend either a level 1 spell slot or 1 Rhythmancy Point). You cannot learn a Rhythmancy spell in this manner if you do not have an appropriate spell slot or sufficient Rhythmancy Points available to expend.
+Once you enhance a spell with one of the selected effects, you regain the ability to select that enhancement when you finish a Long Rest, or by expending one use of Bardic Inspiration.
 
 #### Level 6: Inner Song
 
-You can channel your song to temporarily boost the power of your rhythmantic magic. At the end of a Long Rest, you can expend one use of Bardic Inspiration to roll a Bardic Inspiration die and gain a number of temporary Rhythmancy Points equal to the number rolled. While you have these temporary Rhythmancy Points, they can be spent to cast or learn spells as if they were normal Rhythmancy Points, but they don't count toward your total number of Rhythmancy Points to determine the highest level of Rhythmancy spell you can cast or learn. Unspent temporary Rhythmancy Points from this feature disappear after you finish your next Long Rest.
+You can channel your song to temporarily boost the power of your rhythmantic magic. At the end of a Long Rest, you can expend one use of Bardic Inspiration to roll a Bardic Inspiration die and gain a number of temporary Rhythmancy Points equal to the number rolled. While you have these temporary Rhythmancy Points, they can be spent to cast or learn spells as if they were normal Rhythmancy Points, but they don't count toward your total number of Rhythmancy Points to determine the highest level of Rhythmancy spell you can cast or learn. Any unspent temporary Rhythmancy Points disappear after you finish your next Long Rest.
+
+#### Level 6: Speed Training
+
+Whenever you learn a new song through rhythmantic training, you bypass all training requirements, including finding a teacher, all training costs and issues, and any time requirements. Instead, you learn the Rhythmancy spell as a Magic action and by expending either a spell slot of a level greater than or equal to the spell's level, or that number of Rhythmancy Points (for cantrips, expend either a level 1 spell slot or 1 Rhythmancy Point). You cannot learn a Rhythmancy spell in this manner if you do not have an appropriate spell slot or sufficient Rhythmancy Points available to expend.
 
 #### Level 14: Legendary Secrets
 
