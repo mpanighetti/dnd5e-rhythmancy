@@ -12,11 +12,11 @@ This chapter presents new subclasses with abilities centered around the use of r
 
 Though all bards have the ability to learn rhythmancy spells, practitioners of the College of Legends have built entire careers out of unlocking the magic sealed within these songs. These maestros are often sought out as teachers to aid new students in their rhythmantic studies, passing on what they learned from their own masters of the craft.
 
-### Legendary Recall
+### Level 3: Legendary Recall
 
 You have extensively pored through history books and sought out hidden knowledge of ancient heroes. You gain Proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you make an Intelligence check, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the d20.
 
-### Rhythmantic Savant
+### Level 3: Rhythmantic Savant
 
 You have an innate understanding of the magic of music and how to wield it. You gain the following benefits.
 
@@ -66,7 +66,7 @@ _Impart Wisdom through Ancient Melody_
 
 Rangers who walk the path of the Wild Composer are drawn to the innate music present in the natural world. They revel in the melody of leaves rustling in the wind like chimes, and play along as woodpeckers drum a steady beat on tall steadfast trees. To these adventurers, the wild itself has a breath and cadence that grants those who can hear it great wisdom.
 
-### Wild Composer Spells
+### Level 3: Wild Composer Spells
 
 When you reach a Ranger level specified in the Wild Composer Spells table, you thereafter always have the listed spells prepared.
 
@@ -80,7 +80,7 @@ When you reach a Ranger level specified in the Wild Composer Spells table, you t
 | 13 | _Earth God's Lyric_ |
 | 17 | _Song of Healing_ |
 
-### Music-Maker
+### Level 3: Music-Maker
 
 You are in sync with the music of the wilds, allowing you to direct nature's song into musical instruments. You gain the following benefits.
 
