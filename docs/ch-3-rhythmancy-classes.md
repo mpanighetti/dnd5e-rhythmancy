@@ -40,9 +40,9 @@ _Fuel Attacks with Musical Energy_
 
 Though skilled in the art of martial combat, Revelers also engage in studies of musical composition and kinetic performance, aided by channeling rhythmantic magic. Rather than dividing their focus, these shared disciplines complement each other, leading to Fighters gifted with fluent movement on the battlefield and equal command of the dance floor.
 
-### Level 3: Rhythmancy Warrior
+### Level 3: Rhythmancy Champion
 
-You have engaged in the study of magic song and incorporated it into your combat training. You gain the following benefits.
+You have studied magical songs and learned how to call upon them in the heat of battle. You gain the following benefits.
 
 _**Cantrips.**_ You learn two cantrips: _True Strike_ and another Bard cantrip of your choice. Whenever you gain a Fighter level, you can replace one of these cantrips with a Bard cantrip of your choice.
 
