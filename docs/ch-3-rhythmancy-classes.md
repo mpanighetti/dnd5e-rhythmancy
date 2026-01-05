@@ -68,15 +68,15 @@ _**Rhythmantic Focus.**_ You can cast spells you know from Warrior of Song featu
 
 _**Word of the Monarchs.**_ Among the secrets you keep is a deep-seated authority granted to your monk sect by ancient royal families. You know _The Royal Decree_ spell. You can spend one Focus Point to cast it without any Verbal or Material components, replacing the Musical Instrument worth 1+ GP by lacing the music's magic seamlessly into your words.
 
-_**Spellcasting Ability.**_ Wisdom is your spellcasting ability for spells you learn or cast using Warrior of Song features.
+_**Spellcasting Ability.**_ Wisdom is your spellcasting ability for your Warrior of Song spells.
 
 _**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice.
 
-_**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Rhythmancy spells.
+_**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Warrior of Song spells.
 
 ### Level 6: ?
 
-?
+You always have the _Misty Step_ spell prepared. You can cast it once without spending Focus Points, and you regain the ability to do so when you finish a Long Rest. Additionally, you can choose to cast _Misty Step_ as a Reaction triggered when a creature you can see hits you with an attack, causing the attack to miss.
 
 ### Level 11: ?
 
