@@ -9,14 +9,14 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | Level | Spell | School | Class | Special |
 |:-----:|:------|:-------|:------|:--------|
 | cantrip | _[Ballad of the Dreamer](#ballad-of-the-dreamer)_ | Abjuration/Rhythmancy | Bard | — |
-| cantrip | _[The Hawk's Call](#the-hawks-call)_ | Evocation/Rhythmancy | Bard | — |
-| cantrip | _[The Royal Decree](#the-royal-decree)_ | Enchantment/Rhythmancy | Bard | — |
-| 1 | _[The Curse, Reversed](#the-curse-reversed)_ | Abjuration/Rhythmancy | Bard | |
-| 1 | _[Equine Tribute](#equine-tribute)_ | Conjuration/Rhythmancy | Bard | — |
-| 1 | _[The Lost is Found](#the-lost-is-found)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | C, R |
-| 1 | _[The Oncoming Storm](#the-oncoming-storm)_ | Evocation/Rhythmancy | Bard | Concentration |
-| 1 | _[Song of Time](#song-of-time)_ | Abjuration/Rhythmancy | Bard | — |
-| 1 | _[Summoning of the Scarecrow](#summoning-of-the-scarecrow)_ | Conjuration/Rhythmancy | Bard | — |
+| cantrip | _[The Hawk's Call](#the-hawks-call)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | — |
+| cantrip | _[The Royal Decree](#the-royal-decree)_ | Enchantment/Rhythmancy | Bard, Monk (Warrior of Song) | — |
+| 1 | _[The Curse, Reversed](#the-curse-reversed)_ | Abjuration/Rhythmancy | Bard, Monk (Warrior of Song) | |
+| 1 | _[Equine Tribute](#equine-tribute)_ | Conjuration/Rhythmancy | Bard, Monk (Warrior of Song) | — |
+| 1 | _[The Lost is Found](#the-lost-is-found)_ | Divination/Rhythmancy | Bard, Monk (Warrior of Song), Ranger (Wild Composer) | C, R |
+| 1 | _[The Oncoming Storm](#the-oncoming-storm)_ | Evocation/Rhythmancy | Bard, Monk (Warrior of Song) | Concentration |
+| 1 | _[Song of Time](#song-of-time)_ | Abjuration/Rhythmancy | Bard, Monk (Warrior of Song) | — |
+| 1 | _[Summoning of the Scarecrow](#summoning-of-the-scarecrow)_ | Conjuration/Rhythmancy | Bard, Monk (Warrior of Song) | — |
 | 2 | _[Duet of Restoration](#duet-of-restoration)_ | Evocation/Rhythmancy | Bard | D |
 | 2 | _[An Empty Shell](#an-empty-shell)_ | Conjuration/Rhythmancy | Bard | — |
 | 2 | _[No Stone Unturned](#no-stone-unturned)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | C, R, M |
@@ -106,7 +106,7 @@ Until the spell ends, an aura of spectral water and healing energy surrounds you
 
 ### _The Curse, Reversed_
 
-_Level 1 Abjuration/Rhythmancy (Bard)_
+_Level 1 Abjuration/Rhythmancy (Bard), Monk (Warrior of Song)_
 
 **Casting Time:** 1 minute\
 **Range:** Touch\
@@ -158,7 +158,7 @@ A shell based on your form vanishes the next time you cast this spell, unless yo
 
 ### _Equine Tribute_
 
-_Level 1 Conjuration/Rhythmancy (Bard)_
+_Level 1 Conjuration/Rhythmancy (Bard, Monk (Warrior of Song))_
 
 **Casting Time:** 1 minute\
 **Range:** 30 feet\
@@ -177,7 +177,7 @@ _**Using a Higher-Level Spell Slot.**_ When you cast this spell to summon your c
 
 ### _The Hawk's Call_
 
-_Evocation/Rhythmancy Cantrip (Bard)_
+_Evocation/Rhythmancy Cantrip (Bard, Ranger (Wild Composer))_
 
 **Casting Time:** Action\
 **Range:** 30 feet\
@@ -222,7 +222,7 @@ Manipulating gravity and mass in this manner takes a physical toll on your body.
 
 ### _The Lost is Found_
 
-_Level 1 Divination/Rhythmancy (Bard, Ranger (Wild Composer))_
+_Level 1 Divination/Rhythmancy (Bard, Monk (Warrior of Song), Ranger (Wild Composer))_
 
 **Casting Time:** 1 minute or Ritual\
 **Range:** Self\
@@ -291,7 +291,7 @@ You perform a tune that disrupts any concealing magic in the vicinity. Until the
 
 ### _The Oncoming Storm_
 
-_Level 1 Evocation/Rhythmancy (Bard)_
+_Level 1 Evocation/Rhythmancy (Bard, Monk (Warrior of Song))_
 
 **Casting Time:** 1 minute\
 **Range:** 120 feet (1 mile if cast outdoors)\
@@ -411,7 +411,7 @@ If you are successfully forced to the ground against your will for 1 minute or l
 
 ### _Song of Time_
 
-_Level 1 Abjuration/Rhythmancy (Bard)_
+_Level 1 Abjuration/Rhythmancy (Bard, Monk (Warrior of Song))_
 
 **Casting Time:** Action\
 **Range:** Self\
@@ -502,7 +502,7 @@ _**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 3 or hi
 
 ### _Summoning of the Scarecrow_
 
-_Level 1 Conjuration/Rhythmancy (Bard)_
+_Level 1 Conjuration/Rhythmancy (Bard, Monk (Warrior of Song))_
 
 **Casting Time:** 1 minute\
 **Range:** 120 feet\
