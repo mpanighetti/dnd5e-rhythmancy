@@ -49,7 +49,7 @@ You have mastered unlocking hidden or lost ancient secrets. You always have the 
 _Impart Wisdom through Ancient Melody_
 
 > Time passes, people move, like a river's flow, it never ends. A childish mind will turn to noble ambition. Young love will become deep affection. The clear water's surface reflects growth. Now listen to the serenade of water and reflect upon yourself.
-> 
+>
 > — Sheik, _The Legend of Zelda: Ocarina of Time_
 
 Within most monasteries, one Monk chooses to train as a Warrior of Song, acting as the keeper of the organization's sacred techniques and communal knowledge. This individual knows when to keep such information, often encoded within rhythmantic compositions and poems, under their careful watch, and when to share this knowledge with heroes who would use it to strike down the great evils threatening the order of the world.
@@ -64,11 +64,11 @@ You have engaged in the study of magic song and incorporated it into your combat
 
 _**Ancient Training.**_ Choose one level 1 Rhythmancy spell. You always have the selected spell prepared. Whenever you gain a Monk level, you can replace this spell with another level 1 Rhythmancy spell.
 
-_**Rhythmantic Focus.**_ You can cast Rhythmancy spells you have prepared by spending a number of Focus Points equal to twice the spell's level.
+_**Rhythmantic Focus.**_ You can cast spells you know from Warrior of Song features, including Rhythmancy songs, by spending a number of Focus Points equal to the spell's level.
 
 _**Word of the Monarchs.**_ Among the secrets you keep is a deep-seated authority granted to your monk sect by ancient royal families. You know _The Royal Decree_ spell. You can spend one Focus Point to cast it without any Verbal or Material components, replacing the Musical Instrument worth 1+ GP by lacing the music's magic seamlessly into your words.
 
-_**Spellcasting Ability.**_ Wisdom is your spellcasting ability for Rhythmancy spells you cast using this feature.
+_**Spellcasting Ability.**_ Wisdom is your spellcasting ability for spells you learn or cast using Warrior of Song features.
 
 _**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice.
 
