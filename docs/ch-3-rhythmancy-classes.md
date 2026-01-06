@@ -54,15 +54,17 @@ Though skilled in the art of martial combat, Revelers also engage in studies of 
 
 You have studied magical songs and learned how to call upon them in the heat of battle. You gain the following benefits.
 
-_**Cantrips.**_ You learn two cantrips: _True Strike_ and another Bard cantrip of your choice. Whenever you gain a Fighter level, you can replace one of these cantrips with a Bard cantrip of your choice.
+_**Cantrips.**_ You know three cantrips: _True Strike_ and two other cantrips of your choice from the Bard spell list.
+
+Whenever you gain a Fighter level, you can replace one of your cantrips, except _True Strike_, with another Bard cantrip of your choice.
 
 When you reach Fighter level 10, you learn another Bard cantrip of your choice.
 
 _**Rhythmancy Points.**_ You gain 2 Rhythmancy Points to spend on casting Rhythmancy spells. You can cast Bard spells using Rhythmancy Points even if they aren't Rhythmancy spells.
 
-_**Prepared Level 1 Spells.**_ You prepare the list of level 1 spells that are available for you to cast with this feature. Choose two level 1 spells from the Bard spell list.
+_**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Bard spells.
 
-_**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one spell on your list with another level 1 Bard spell. Starting at Fighter level 7, you can replace a spell on your list with a level 1 or level 2 Bard spell.
+_**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one spell on your list with a level 1 or level 2 Bard spell.
 
 _**Spellcasting Ability.**_ Charisma is your spellcasting ability for your Bard spells.
 
