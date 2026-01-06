@@ -9,7 +9,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | Level | Spell | School | Class | Special |
 |:-----:|:------|:-------|:------|:--------|
 | cantrip | _[Ballad of the Dreamer](#ballad-of-the-dreamer)_ | Abjuration/Rhythmancy | Bard, Fighter (Reveler) | — |
-| cantrip | _[The Hawk's Call](#the-hawks-call)_ | Evocation/Rhythmancy | Bard, Fighter (Reveler) | — |
+| cantrip | _[The Hawk's Call](#the-hawks-call)_ | Evocation/Rhythmancy | Bard, Fighter (Reveler), Ranger (Wild Composer) | — |
 | cantrip | _[The Royal Decree](#the-royal-decree)_ | Enchantment/Rhythmancy | Bard, Fighter (Reveler) | — |
 | 1 | _[The Curse, Reversed](#the-curse-reversed)_ | Abjuration/Rhythmancy | Bard, Fighter (Reveler) | |
 | 1 | _[Equine Tribute](#equine-tribute)_ | Conjuration/Rhythmancy | Bard, Fighter (Reveler) | — |
@@ -177,7 +177,7 @@ _**Using a Higher-Level Spell Slot.**_ When you cast this spell to summon your c
 
 ### _The Hawk's Call_
 
-_Evocation/Rhythmancy Cantrip (Bard, Fighter (Reveler))_
+_Evocation/Rhythmancy Cantrip (Bard, Fighter (Reveler), Ranger (Wild Composer))_
 
 **Casting Time:** Action\
 **Range:** 30 feet\
