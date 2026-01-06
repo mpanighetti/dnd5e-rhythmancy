@@ -64,6 +64,8 @@ _**Rhythmancy Points.**_ You gain 2 Rhythmancy Points to spend on casting Rhythm
 
 _**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Bard spells.
 
+If another Reveler feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.
+
 _**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one spell on your list with a level 1 or level 2 Bard spell.
 
 _**Spellcasting Ability.**_ Charisma is your spellcasting ability for your Bard spells.
