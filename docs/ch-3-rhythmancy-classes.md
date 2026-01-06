@@ -66,9 +66,9 @@ _**The Royal Decree.**_ Among the secrets you keep is a deep-seated authority gr
 
 _**Musical Mind.**_ You can cast spells you have prepared, including Rhythmancy songs, by spending a number of Focus Points equal to the spell's level. The maximum amount of Focus Points you can spend for casting a spell, including casting it at a higher level, equals your Monk level divided by 3 (round down).
 
-_**Prepared Level 1 Spells.**_ You prepare the list of level 1 spells that are available for you to cast with this feature. To start, choose one level 1 spell from the Bard spell list.
+_**Prepared Spells of Level 1+.**_ You prepare the list of level 1 spells that are available for you to cast with this feature. To start, choose one level 1 spell from the Bard spell list.
 
-Whenever you gain a level that grants the Ability Score Improvement feature, add another level 1 Bard spell to your list of prepared spells.
+Whenever you gain a level that grants the Ability Score Improvement feature, add another Bard spell to your list of prepared spells. The chosen spell must be of a level for which you have sufficient Focus Points.
 
 If another Warrior of Song feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.
 
