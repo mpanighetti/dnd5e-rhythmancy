@@ -84,9 +84,9 @@ _**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Foc
 
 As part of your training in ancient arts of secret-keeping, you know how to make a quick exit. You always have the _Misty Step_ spell prepared. You can cast it once without spending Focus Points, and you regain the ability to do so when you finish a Long Rest. Additionally, you can choose to cast _Misty Step_ as a Reaction triggered when a creature you can see hits you with an attack, causing the attack to miss.
 
-### Level 11: ?
+### Level 11: Song-Empowered Strikes
 
-Once per turn, when you take the Attack action and make an Unarmed Strike, in place of the normal options for its effect, you can cast a spell you have prepared. The spell must have a casting time of 1 action and a range of either touch or self.
+You have learned how to weave arcane effects into your attacks. Once per turn, when you make an Unarmed Strike, in place of the normal options for its effect, you can cast a spell you have prepared. The spell must have a casting time of an action and a range of either touch or self. You can't cast a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after casting a spell in this way.
 
 ### Level 17: ?
 
