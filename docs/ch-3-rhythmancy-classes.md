@@ -62,17 +62,23 @@ You have been trained to act as a living compendium of ancient knowledge, and ca
 
 You have engaged in the study of magic song and incorporated it into your combat training. You gain the following benefits.
 
-_**Ancient Training.**_ Choose one level 1 Rhythmancy spell. You always have the selected spell prepared. Whenever you gain a Monk level, you can replace this spell with another level 1 Rhythmancy spell.
+_**The Royal Decree.**_ Among the secrets you keep is a deep-seated authority granted to your monk sect by ancient royal families. You know _The Royal Decree_ spell. You can spend one Focus Point to cast it without any Verbal or Material components, bypassing the Musical Instrument requirement by lacing the music's magic seamlessly into your words.
 
-_**Rhythmantic Focus.**_ You can cast spells you know from Warrior of Song features, including Rhythmancy songs, by spending a number of Focus Points equal to the spell's level.
+_**Musical Mind.**_ You can cast spells you have prepared, including Rhythmancy songs, by spending a number of Focus Points equal to the spell's level. You cannot cast a level 4+ spell using Focus Points.
 
-_**Word of the Monarchs.**_ Among the secrets you keep is a deep-seated authority granted to your monk sect by ancient royal families. You know _The Royal Decree_ spell. You can spend one Focus Point to cast it without any Verbal or Material components, bypassing the Musical Instrument requirement by lacing the music's magic seamlessly into your words.
+_**Prepared Level 1 Spells.**_ You prepare the list of level 1 spells that are available for you to cast with this feature. To start, choose one level 1 spell from the Bard spell list.
 
-_**Spellcasting Ability.**_ Wisdom is your spellcasting ability for your Warrior of Song spells.
+Whenever you gain a level that grants the Ability Score Improvement feature, add another level 1 Bard spell to your list of prepared spells.
+
+If another Warrior of Song feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.
+
+_**Changing Your Prepared Spells.**_ Whenever you gain a Monk level, you can replace one spell on your list with another level 1 Bard spell.
+
+_**Spellcasting Ability.**_ Wisdom is your spellcasting ability for your Bard spells.
 
 _**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice.
 
-_**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Warrior of Song spells.
+_**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
 
 ### Level 6: Vanish
 
@@ -80,7 +86,7 @@ As part of your training in ancient arts of secret-keeping, you know how to make
 
 ### Level 11: ?
 
-?
+Once per turn, when you take the Attack action and make an Unarmed Strike, in place of the normal options for its effect, you can cast a spell you have prepared. The spell must have a casting time of 1 action and a range of either touch or self.
 
 ### Level 17: ?
 
