@@ -64,15 +64,38 @@ You have engaged in the study of magic song and incorporated it into your combat
 
 _**The Royal Decree.**_ Among the secrets you keep is a deep-seated authority granted to your monk sect by ancient royal families. You know _The Royal Decree_ spell. You can spend one Focus Point to cast it without any Verbal or Material components, bypassing the Musical Instrument requirement by lacing the music's magic seamlessly into your words.
 
-_**Musical Mind.**_ You can cast spells you have prepared, including Rhythmancy songs, by spending a number of Focus Points equal to the spell's level. The maximum amount of Focus Points you can spend for casting a spell, including casting it at a higher level, equals your Monk level divided by 3 (round down).
+_**Musical Mind.**_ You can cast spells you have prepared, including Rhythmancy songs, by spending a number of Focus Points equal to the spell's level. To determine the maximum number of Focus Points you can spend at once to cast a spell, including casting a spell at a higher level, see the Focus Point Spell Level column of the Warrior of Song Rhythmancy table.
 
-_**Prepared Spells of Level 1+.**_ You prepare the list of level 1 spells that are available for you to cast with this feature. To start, choose one level 1 spell from the Bard spell list.
+#### Warrior of Song Rhythmancy
 
-Whenever you gain a level that grants the Ability Score Improvement feature, add another Bard spell to your list of prepared spells. The chosen spell must be of a level for which you have sufficient Focus Points.
+| Monk Level | Prepared Spells | Focus Point Spell Level |
+|:----------:|:---------------:|:-----------------------:|
+| 3  | 3  | 1 |
+| 4  | 4  | 1 |
+| 5  | 4  | 1 |
+| 6  | 4  | 2 |
+| 7  | 5  | 2 |
+| 8  | 6  | 2 |
+| 9  | 6  | 2 |
+| 10 | 7  | 2 |
+| 11 | 8  | 2 |
+| 12 | 8  | 2 |
+| 13 | 9  | 3 |
+| 14 | 10 | 3 |
+| 15 | 10 | 3 |
+| 16 | 11 | 3 |
+| 17 | 11 | 3 |
+| 18 | 11 | 3 |
+| 19 | 12 | 3 |
+| 20 | 13 | 3 |
+
+_**Prepared Spells of Level 1+.**_ You prepare the list of level 1 spells that are available for you to cast with this feature. To start, choose three level 1 Bard spells.
+
+The number of spells on your list increases as you gain Monk levels, as shown in the Prepared Spells column of the Warrior of Song Rhythmancy table. Whenever that number increases, choose additional Bard spells until the number of spells on your list matches the number in the Warrior of Song Rhythmancy table. The chosen spells must be of a level no higher than what's shown in the table's Focus Point Spell Level column for your level. For example, if you're a level 7 Monk, your list of prepared spells can include five Bard spells of level 1 or 2 in any combination.
 
 If another Warrior of Song feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.
 
-_**Changing Your Prepared Spells.**_ Whenever you gain a Monk level, you can replace one spell on your list with another level 1 Bard spell.
+_**Changing Your Prepared Spells.**_ Whenever you gain a Monk level, you can replace one spell on your list with another Bard spell of an eligible level.
 
 _**Spellcasting Ability.**_ Wisdom is your spellcasting ability for your Bard spells.
 
