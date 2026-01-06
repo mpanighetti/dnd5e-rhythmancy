@@ -76,7 +76,7 @@ _**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Foc
 
 ### Level 6: Vanish
 
-You always have the _Misty Step_ spell prepared. You can cast it once without spending Focus Points, and you regain the ability to do so when you finish a Long Rest. Additionally, you can choose to cast _Misty Step_ as a Reaction triggered when a creature you can see hits you with an attack, causing the attack to miss.
+As part of your training in ancient arts of secret-keeping, you know how to make a quick exit. You always have the _Misty Step_ spell prepared. You can cast it once without spending Focus Points, and you regain the ability to do so when you finish a Long Rest. Additionally, you can choose to cast _Misty Step_ as a Reaction triggered when a creature you can see hits you with an attack, causing the attack to miss.
 
 ### Level 11: ?
 
