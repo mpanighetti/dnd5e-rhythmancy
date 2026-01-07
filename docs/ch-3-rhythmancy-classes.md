@@ -64,38 +64,13 @@ You have engaged in the study of magic song and incorporated it into your combat
 
 _**The Royal Decree.**_ Among the secrets you keep is a deep-seated authority granted to your monk sect by ancient royal families. You know _The Royal Decree_ spell. You can spend one Focus Point to cast it without any Verbal or Material components, bypassing the Musical Instrument requirement by lacing the music's magic seamlessly into your words.
 
-_**Musical Mind.**_ You can cast spells you have prepared, including Rhythmancy songs, by spending a number of Focus Points equal to the spell's level. To determine the maximum number of Focus Points you can spend at once to cast a spell, including casting a spell at a higher level, see the Focus Point Spell Level column of the Warrior of Song Rhythmancy table.
-
-#### Warrior of Song Rhythmancy
-
-| Monk Level | Prepared Spells | Focus Point Spell Level |
-|:----------:|:---------------:|:-----------------------:|
-| 3  | 3  | 1 |
-| 4  | 4  | 1 |
-| 5  | 4  | 1 |
-| 6  | 4  | 2 |
-| 7  | 5  | 2 |
-| 8  | 6  | 2 |
-| 9  | 6  | 2 |
-| 10 | 7  | 2 |
-| 11 | 8  | 2 |
-| 12 | 8  | 2 |
-| 13 | 9  | 3 |
-| 14 | 10 | 3 |
-| 15 | 10 | 3 |
-| 16 | 11 | 3 |
-| 17 | 11 | 3 |
-| 18 | 11 | 3 |
-| 19 | 12 | 3 |
-| 20 | 13 | 3 |
+_**Musical Mind.**_ You can cast level 1 Bard spells you have prepared, including Rhythmancy songs, by spending 1 Focus Point.
 
 _**Prepared Spells of Level 1+.**_ You prepare the list of level 1 spells that are available for you to cast with this feature. To start, choose three level 1 Bard spells.
 
-The number of spells on your list increases as you gain Monk levels, as shown in the Prepared Spells column of the Warrior of Song Rhythmancy table. Whenever that number increases, choose additional Bard spells until the number of spells on your list matches the number in the Warrior of Song Rhythmancy table. The chosen spells must be of a level no higher than what's shown in the table's Focus Point Spell Level column for your level. For example, if you're a level 7 Monk, your list of prepared spells can include five Bard spells of level 1 or 2 in any combination.
-
 If another Warrior of Song feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.
 
-_**Changing Your Prepared Spells.**_ Whenever you gain a Monk level, you can replace one spell on your list with another Bard spell of an eligible level.
+_**Changing Your Prepared Spells.**_ Whenever you gain a Monk level, you can replace one spell on your list with another level 1 Bard spell.
 
 _**Spellcasting Ability.**_ Wisdom is your spellcasting ability for your Bard spells.
 
@@ -105,7 +80,7 @@ _**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Foc
 
 ### Level 6: Vanish
 
-As part of your training in ancient arts of secret-keeping, you know how to make a quick exit. You always have the _Misty Step_ spell prepared. You can cast it once without spending Focus Points, and you regain the ability to do so when you finish a Long Rest. Additionally, you can choose to cast _Misty Step_ as a Reaction triggered when a creature you can see hits you with an attack, causing the attack to miss.
+As part of your training in ancient arts of secret-keeping, you know how to make a quick exit. You always have the _Misty Step_ spell prepared and can cast it for 1 Focus Point. Additionally, you can choose to cast _Misty Step_ as a Reaction triggered when a creature you can see hits you with an attack, causing the attack to miss.
 
 ### Level 11: Song-Empowered Strikes
 
@@ -113,7 +88,8 @@ You have learned how to weave arcane effects into your attacks. Once per turn, w
 
 ### Level 17: ?
 
-?
+You always have the _Dimension Door_ and _Teleportation Circle_ spells prepared.
+You can spend 5 Focus Points to cast either spell without any Material components. Once you cast either spell using Focus Points, you regain the ability to do so when you finish a Long Rest. You can also cast these spells normally using a spell slot of the appropriate level.
 
 ## Wild Composer (Ranger)
 
