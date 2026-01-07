@@ -52,7 +52,7 @@ _Impart Wisdom through Ancient Melody_
 >
 > — Sheik, _The Legend of Zelda: Ocarina of Time_
 
-Within most monasteries, one Monk chooses to train as a Warrior of Song, acting as the keeper of the organization's sacred techniques and communal knowledge. This individual knows when to keep such information—often encoded within rhythmantic compositions and poems—under their careful watch, and when to share this knowledge with heroes who would use it to strike down the great evils threatening the order of the world.
+Within most monasteries, one Monk chooses to train as a Warrior of Song, acting as the keeper of the organization's sacred techniques and communal knowledge. This individual knows when to keep such information—often encoded within rhythmantic compositions and poems—under their careful watch, and when to share this knowledge with heroes who would use it to strike down the great evils threatening the order of the world. Eventually this includes the knowledge of magical teleportation.
 
 ### Level 3: Keeper of Secrets
 
