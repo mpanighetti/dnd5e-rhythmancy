@@ -35,7 +35,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 4 | _[The Sage of Earth's Calling](#the-sage-of-earths-calling)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | M |
 | 4 | _[The Sage of Wind's Beckoning](#the-sage-of-winds-beckoning)_ | Evocation/Rhythmancy | Bard | M |
 | 4 | _[Soulful Croak](#soulful-croak)_ | Necromancy/Rhythmancy | Bard | M |
-| 4 | _[Space Warp](#space-warp)_ | Conjuration/Rhythmancy | Bard | R, M |
+| 4 | _[Space Warp](#space-warp)_ | Conjuration/Rhythmancy | Bard, Monk (Warrior of Song) | R, M |
 | 5 | _[Concerto No. 2 in G minor, "Ripples of the Current"](#concerto-no-2-in-g-minor-ripples-of-the-current)_ | Abjuration/Rhythmancy | Bard | M |
 | 5 | _[Healing Balm](#healing-balm)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | — |
 | 5 | _[Inverted Song of Time](#inverted-song-of-time)_ | Abjuration/Rhythmancy | Bard | — |
@@ -349,7 +349,7 @@ _**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 7 or hi
 
 ### _The Royal Decree_
 
-_Enchantment/Rhythmancy Cantrip (Bard)_
+_Enchantment/Rhythmancy Cantrip (Bard, Monk (Warrior of Song))_
 
 **Casting Time:** Action\
 **Range:** 10 feet\
@@ -476,7 +476,7 @@ On a successful save, or if the Charmed condition on the undead creature ends, t
 
 ### _Space Warp_
 
-_Level 4 Conjuration/Rhythmancy (Bard)_
+_Level 4 Conjuration/Rhythmancy (Bard, Monk (Warrior of Song))_
 
 **Casting Time:** 10 minutes or Ritual\
 **Range:** 10 feet\
