@@ -197,13 +197,13 @@ _Level 5 Evocation/Rhythmancy (Bard, Ranger (Wild Composer))_
 **Components:** V, S, M (a Musical Instrument worth 1+ GP)\
 **Duration:** Instantaneous
 
-You channel healing energies through soothing music. All creatures that remain within 30 feet of you for the entire casting time, except for undead or constructs, regain 5d10 Hit Points and are cured of being Blinded, Deafened, and Diseased.
+You channel healing energies through soothing music. All creatures that remain within 30 feet of you for the entire casting time, except for Constructs and Undead, regain 5d10 Hit Points, and the following conditions end on each target: Blinded, Deafened, Paralyzed, and Poisoned.
 
-The healing energy attempts to soothe the restless undead and allow them to move on from this world. Each undead creature within the spell's area of effect when it is finished casting must make a Wisdom saving throw (they can choose to fail this save). On a failed save, the creature is reduced to 0 Hit Points, their spirit moves on to the afterlife, and their remains are destroyed in a burst of radiant fire. Creatures that are immune to being Turned are not affected by this spell.
+The healing energy attempts to soothe restless spirits and allow them to move on from this world. Each Undead creature within the spell's area of effect when it is finished casting must make a Wisdom saving throw. On a failed save, the creature is reduced to 0 Hit Points, their spirit moves on to the afterlife, and their remains are destroyed in a burst of radiant fire. Creatures that are immune to Turn Undead are not affected by this spell.
 
 _**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 6 or higher, the healing increases by 1d10 for each additional spell level.
 
-When you cast this spell at level 7 or higher, the spell also ends the cursed condition for all creatures healed by this spell. If any of those creatures are Attuned to a cursed magic item, the spell breaks its owner's Attunement to the object so it can be removed or discarded.
+When you cast this spell at level 7 or higher, the spell also ends all curses affecting the targets of this spell, as if they were all the targets of the _Remove Curse_ spell.
 
 ### _Hold Back the Skies_
 
