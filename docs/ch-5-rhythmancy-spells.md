@@ -356,7 +356,7 @@ _Enchantment/Rhythmancy Cantrip (Bard)_
 **Components:** V, M (a petal from a silent princess flower; a Musical Instrument worth 1+ GP)\
 **Duration:** 1 minute
 
-Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to have temporary Expertise in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
+Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to have temporary Proficiency and Expertise in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
 
 _**Cantrip Upgrade.**_ The spell's duration increases when you reach levels 5 (10 minutes), 11 (1 hour), and 17 (8 hours).
 
