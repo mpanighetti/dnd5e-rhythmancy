@@ -79,7 +79,7 @@ _**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Foc
 Thanks to your practice at performing in front of audiences, you gain the following benefits.
 
 - You gain Proficiency in the Performance skill.
-- You can channel the raw charisma of your performance when you attempt certain tasks; when you make an ability check using one of the following skills, you can expend 1 Rhythmancy Point to make it as a Charisma check even if it normally uses a different ability: Animal Handling, Deception, Intimidation, Persuasion, Sleight of Hand, or Stealth. When you use this ability, your Charisma represents your command over others, honing your ability to be seen or unseen to achieve your goals.
+- You can channel the raw charisma of your performance when you attempt certain tasks; when you make an ability check using one of the following skills, you can expend 1 Rhythmancy Point to make it as a Charisma check even if it normally uses a different ability: Animal Handling, Insight, Sleight of Hand, or Stealth. When you use this ability, your Charisma represents your command over others, honing your ability to be seen or unseen to achieve your goals.
 
 ### Level 7: Blade Staccato
 
