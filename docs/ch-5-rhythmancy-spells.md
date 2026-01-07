@@ -113,7 +113,7 @@ _Level 1 Abjuration/Rhythmancy (Bard)_
 **Components:** V, S, M (a Musical Instrument worth 1+ GP)\
 **Duration:** Instantaneous
 
-You touch a creature that was cursed within the last hour. One eligible curse affecting the target ends. This spell can't end a curse placed using a spell of level 2 or higher, or by a creature of CR 2 or higher.
+At your touch, one curse affecting one creature ends. This spell can't end a curse placed using a spell of level 2 or higher, by a creature of CR 2 or higher, or a curse that afflicted that creature more than an hour ago. If multiple eligible curses afflict the target, you choose which curse ends.
 
 _**Using a Higher-Level Spell Slot.**_ You automatically end an eligible curse affecting the target if it was placed by either a spell of a level equal to or less than, or a creature of CR equal to or less than, the level of the spell slot you use.
 
