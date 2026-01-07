@@ -89,9 +89,9 @@ You fight to the rhythm of your song, attempting to overwhelm your foes with mul
 
 You draw energy from the music that churns through your veins. When you expend a use of either your Action Surge or Second Wind, in addition to the feature's normal effects, you regain two expended Rhythmancy Points.
 
-### Level 15: Shared Song
+### Level 15: Duet Maestro
 
-When you cast a Bard spell targeting yourself, you can also affect one willing ally with the spell if the ally is within 10 feet of you. Additionally, you can cast a Duet spell even if you do not have the spell prepared, as long as the other participant in the duet has the spell prepared and does not also have this class feature.
+When you cast a Bard spell targeting only yourself, you can also affect one willing ally with the spell if the ally is within 10 feet of you. Additionally, you can cast a Duet spell even if you do not have the spell prepared, as long as the other participant in the duet has the spell prepared and does not also have this class feature.
 
 ### Level 18: Pitch Perfect
 
