@@ -78,6 +78,12 @@ _**Instrument Training.**_ You gain Proficiency with a Musical Instrument of you
 
 _**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
 
+### Level 6: Shared Story
+
+When you find a worthy ally, you can impart a portion of your wisdom to aid them on their quest. As a Magic action, you can expend one Focus Point and touch a willing creature to grant it the ability to cast one Rhythmancy spell of your choice that you have prepared. It can cast this spell by expending the required number of your Focus Points, or by using a spell slot of the appropriate level or sufficient Rhythmancy Points it possesses. The creature must be on the same plane of existence as you to cast one of your spells in this manner. The spell uses your spellcasting ability and Proficiency Bonus when the target casts it.
+
+This effect lasts until the creature either casts your spell or finishes a Long Rest. You can also end the effect at any time (no action required).
+
 ### Level 6: Vanish
 
 As part of your training in ancient arts of secret-keeping, you know how to make a quick exit. You always have the _Misty Step_ spell prepared and can cast it by spending 1 Focus Point. Additionally, you can choose to cast _Misty Step_ as a Reaction triggered when a creature you can see hits you with an attack, causing the attack to miss.
@@ -92,8 +98,7 @@ You have learned a secret song that enables instantaneous long-distance travel. 
 
 ### Level 17: ?
 
-You always have the _Dimension Door_ and _Teleportation Circle_ spells prepared.
-You can spend 5 Focus Points to cast either spell without any Material components. Once you cast either spell using Focus Points, you regain the ability to do so when you finish a Long Rest. You can also cast these spells normally using a spell slot of the appropriate level.
+You always have the _Dimension Door_ and _Teleportation Circle_ spells prepared. You can spend 5 Focus Points to cast either spell once without any Material components. Once you cast each spell using Focus Points, you regain the ability to do so when you finish a Long Rest.
 
 ## Wild Composer (Ranger)
 
