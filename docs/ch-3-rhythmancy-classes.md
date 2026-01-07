@@ -64,7 +64,7 @@ You have engaged in the study of magic song and incorporated it into your combat
 
 _**The Royal Decree.**_ Among the secrets you keep is a deep-seated authority granted to your monk sect by ancient royal families. You know _The Royal Decree_ spell. You can spend one Focus Point to cast it without any Verbal or Material components, bypassing the Musical Instrument requirement by lacing the music's magic seamlessly into your words.
 
-_**Musical Mind.**_ You can cast level 1 Bard spells you have prepared, including Rhythmancy songs, by spending 1 Focus Point.
+_**Musical Mind.**_ You can cast level 1 Bard spells you have prepared, including Rhythmancy songs, by spending 1 Focus Point. You can cast your Bard spells at higher levels at a cost of 1 Focus Point per level increase, but the maximum number of Focus Points you spend on casting a spell cannot exceed half your Monk level (round down).
 
 _**Prepared Spells of Level 1+.**_ You prepare the list of level 1 spells that are available for you to cast with this feature. To start, choose three level 1 Bard spells.
 
@@ -80,11 +80,15 @@ _**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Foc
 
 ### Level 6: Vanish
 
-As part of your training in ancient arts of secret-keeping, you know how to make a quick exit. You always have the _Misty Step_ spell prepared and can cast it for 1 Focus Point. Additionally, you can choose to cast _Misty Step_ as a Reaction triggered when a creature you can see hits you with an attack, causing the attack to miss.
+As part of your training in ancient arts of secret-keeping, you know how to make a quick exit. You always have the _Misty Step_ spell prepared and can cast it by spending 1 Focus Point. Additionally, you can choose to cast _Misty Step_ as a Reaction triggered when a creature you can see hits you with an attack, causing the attack to miss.
 
 ### Level 11: Song-Empowered Strikes
 
 You have learned how to weave arcane effects into your attacks. Once per turn, when you make an Unarmed Strike, in place of the normal options for its effect, you can cast a spell you have prepared. The spell must have a casting time of an action and a range of either touch or self. You can't cast a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after casting a spell in this way.
+
+### Level 11: Space Warp
+
+You have learned a secret song that enables instantaneous long-distance travel. You always have the _Space Warp_ spell prepared and can cast it by spending 3 Focus Points.
 
 ### Level 17: ?
 
