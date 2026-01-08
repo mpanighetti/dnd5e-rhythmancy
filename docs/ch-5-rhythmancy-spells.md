@@ -1,6 +1,6 @@
 # Chapter 5: Rhythmancy Spells
 
-This section contains new spells developed through the musical study of rhythmancy. These spells are available to the Bard class, as well as other spellcasting classes with the Dungeon Master's consent (see "Rhythmancy Spells for Other Classes"). The **Rhythmancy Spells** table lists the new spells, organized by spell level and then alphabetized, and each spell's schools of magic are listed along with which classes have access to it. In the Special column, _C_ means the spell requires Concentration, _R_ means it's a Ritual, _M_ means it requires a specific Material component (in addition to the normal requirement of a Musical Instrument worth 1+ GP), and _D_ means it's a Duet.
+This section contains new spells developed through the musical study of rhythmancy. These spells are available to the Bard class, [specialized subclasses](ch-3-rhythmancy-classes.md), and by selecting [some feats](ch-4-rhythmancy-feats.md), as well as other spellcasting classes with the Dungeon Master's consent (see "Rhythmancy Spells for Other Classes"). The **Rhythmancy Spells** table lists the new spells, organized by spell level and then alphabetized, and each spell's schools of magic are listed along with which classes have access to it. In the Special column, _C_ means the spell requires Concentration, _R_ means it's a Ritual, _M_ means it requires a specific Material component (in addition to the normal requirement of a Musical Instrument worth 1+ GP), and _D_ means it's a Duet.
 
 In some cases, multiple rhythmancy spells are learned as a single song, existing as alternate versions of a composition and applying their unique effects only when cast at a higher level. Such spells are labeled with shared footnote markers on this list for reference; see the description for the lowest-level version of the spell for all the other spells' effects.
 
@@ -40,7 +40,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 5 | _[Healing Balm](#healing-balm)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | — |
 | 5 | _[Inverted Song of Time](#inverted-song-of-time)_ | Abjuration/Rhythmancy | Bard | — |
 | 5 | _[Melody of Darkness](#melody-of-darkness)_ | Necromancy/Rhythmancy | Bard | C |
-| 5 | _[Ballet of the Moon and Sun](#ballet-of-the-moon-and-sun)_ | Illusion/Rhythmancy | Bard | C |
+| 5 | _[Ballet of the Moon and Sun](#ballet-of-the-moon-and-sun)_ | Enchantment/Rhythmancy | Bard | C |
 | 6 | _[The River Devil's Lament](#the-river-devils-lament)_ | Enchantment/Rhythmancy | Bard | M |
 | 7 | _[Concerto No. 3 in F minor, "Master of the Ages"](#concerto-no-3-in-f-minor-master-of-the-ages)_ | Conjuration/Rhythmancy | Bard | M |
 | 8 | _[Cast Upon the Seas](#cast-upon-the-seas)_ | Conjuration/Rhythmancy | Bard | M |
@@ -63,16 +63,16 @@ You play a soothing melody that conjures strange memories of a dream-like world.
 
 ### _Ballet of the Moon and Sun_
 
-_Level 5 Illusion/Rhythmancy (Bard)_
+_Level 5 Enchantment/Rhythmancy (Bard)_
 
 **Casting Time:** Action\
 **Range:** 30 feet\
 **Components:** V, S, M (a Musical Instrument worth 1+ GP)\
 **Duration:** Concentration, up to 1 hour
 
-You attempt to manipulate the apparent flow of time for a creature you target in range that can hear you. The target must make an Intelligence saving throw, and if you are fighting the target, they have advantage on the saving throw. On a failed save, until the spell ends, the target believes that time has passed such that it is either just after sunrise or just after sunset (whichever is the sooner of the two events).
+You attempt to manipulate the apparent flow of time for a creature you target in range that can hear you. The target must make an Wisdom saving throw, and if you are fighting the target, they have Advantage on the saving throw. On a failed save, until the spell ends, the target believes that time has passed such that it is either just after sunrise or just after sunset (whichever is the sooner of the two events).
 
-While under the effects of this spell, the creature's senses are modified to convince them of the false time of day. The target's vision makes it appear as if environments are lit by sunlight for a false daytime, or darkened by night for a false nighttime. Any other time-sensitive visuals and sounds (such as a clock's face or a rooster's morning crow) are overlaid with appropriate illusory replacements. The creature is able to see within their illusory environment based on their existing senses as if the illusions are real; for example, a creature with sunlight sensitivity suffers disadvantage on checks that rely on sight while under false daylight conditions of this spell, and a creature with darkvision similarly would be able to see in false nighttime conditions as if it were actually dark. Creatures without darkvision are granted the feature temporarily to allow them to see in dark spaces as if they were lit by illusory daylight.
+While under the effects of this spell, the creature's senses are modified to convince them of the false time of day. The target's vision makes it appear as if environments are lit by sunlight for a false daytime, or darkened by night for a false nighttime. Any other time-sensitive visuals and sounds (such as a clock's face or a rooster's morning crow) are overlaid with appropriate illusory replacements. The creature is able to see within their illusory environment based on their existing senses as if the illusions are real; for example, a creature with sunlight sensitivity suffers Disadvantage on checks that rely on sight while under false daylight conditions of this spell, and a creature with Darkvision similarly would be able to see in false nighttime conditions as if it were actually dark. Creatures without Darkvision are granted the feature temporarily to allow them to see in dark spaces as if they were lit by illusory daylight.
 
 False memories are implanted in the creature's mind, such that they believe time and events have passed normally. Modified senses and memories don't necessarily affect how a creature behaves, but the creature will make normal efforts to proceed with activities that would make sense for the given time of day. Such activities might include leaving home to work a farm, closing a business for the night, departing for a formal occasion, preparing for bed, or any other time-specific activity.
 
@@ -113,7 +113,7 @@ _Level 1 Abjuration/Rhythmancy (Bard), Monk (Warrior of Song)_
 **Components:** V, S, M (a Musical Instrument worth 1+ GP)\
 **Duration:** Instantaneous
 
-You touch a creature that was cursed within the last hour. One eligible curse affecting the target ends. This spell can't end a curse placed using a spell of level 2 or higher, or by a creature of CR 2 or higher.
+At your touch, one curse affecting one creature ends. This spell can't end a curse placed using a spell of level 2 or higher, by a creature of CR 2 or higher, or a curse that afflicted that creature more than an hour ago. If multiple eligible curses afflict the target, you choose which curse ends.
 
 _**Using a Higher-Level Spell Slot.**_ You automatically end an eligible curse affecting the target if it was placed by either a spell of a level equal to or less than, or a creature of CR equal to or less than, the level of the spell slot you use.
 
@@ -126,7 +126,7 @@ _Level 4 Abjuration/Rhythmancy (Bard)_
 **Components:** V, S, M (a Musical Instrument worth 1+ GP)\
 **Duration:** Concentration, up to 1 minute
 
-You perform a melody that repels the walking dead from your immediate vicinity. When an undead creature enters the spell's area of effect for the first time on a turn or starts their turn there, they must make a Wisdom saving throw. On a failed save, a creature is Frightened of you for the duration of the spell, or until they leave the spell's area of effect. Creatures that are normally immune to being Frightened have advantage on this saving throw but are otherwise not immune to the Frightened condition caused by this spell. Creatures that are immune to being Turned are not affected by this spell.
+You perform a melody that repels the walking dead from your immediate vicinity. When an undead creature enters the spell's area of effect for the first time on a turn or starts their turn there, they must make a Wisdom saving throw. On a failed save, a creature is Frightened of you for the duration of the spell, or until they leave the spell's area of effect. Creatures that are normally immune to being Frightened have Advantage on this saving throw but are otherwise not immune to the Frightened condition caused by this spell. Creatures that are immune to Turn Undead are not affected by this spell.
 
 On each of your turns, you must use a Magic action to continue playing the song. The spell ends if you don't take this Magic action by the end of your turn.
 
@@ -173,7 +173,7 @@ When you cast this spell and already have a companion, instead of making a new c
 
 If your companion is mistreated or harmed by you or any of your allies, or at their own discretion, they can choose to end their companionship to you, and you can similarly end this companionship at any time. If you already have a companion and target a new creature with this spell, the previous companionship ends. Otherwise, the companionship lasts until you or your companion dies.
 
-_**Using a Higher-Level Spell Slot.**_ When you cast this spell to summon your companion using a Spell Slot of 2nd-level or higher, they gain a number of Temporary Hit Points equal to five times the Spell Slot level.
+_**Using a Higher-Level Spell Slot.**_ When you cast this spell to summon your companion, it gains a number of Temporary Hit Points equal to five times the spell slot level.
 
 ### _The Hawk's Call_
 
@@ -184,9 +184,9 @@ _Evocation/Rhythmancy Cantrip (Bard, Ranger (Wild Composer))_
 **Components:** V, S, M (a sprig of hawk grass; a Musical Instrument worth 1+ GP)\
 **Duration:** 1 round
 
-You play a series of sharp tones evoking the shriek of a bird of prey, summoning a spectral bird to slash its talons at a creature of your choice that you can see within range. The bird can take whatever form you choose, then makes a melee spell attack against the target. On a hit, the bird deals 1d4 Piercing damage, and the target has disadvantage on Perception checks and Dexterity saving throws they make before the end of their next turn as the bird flies in their face to distract them. On a miss, or at the start of your next turn, the bird disappears, ending the spell.
+You play a series of sharp tones evoking the shriek of a bird of prey, summoning a spectral bird to slash its talons at a creature of your choice that you can see within range. The bird can take whatever form you choose, then makes a melee spell attack against the target. On a hit, the bird deals 1d4 Piercing damage, and the target has Disadvantage on Perception checks and Dexterity saving throws they make before the end of their next turn as the bird flies in their face to distract them. On a miss, or at the start of your next turn, the bird disappears, ending the spell.
 
-The spell creates more than one bird when you reach higher levels: two birds at 5th level, three birds at 11th level, and four birds at 17th level. You can direct the birds at the same target or at different ones. Make a separate attack roll for each bird. The spell ends at the start of your next turn or if all the birds disappear.
+_**Cantrip Upgrade.**_ The spell creates two birds at level 5, three birds at level 11, and four birds at level 17. You can direct the birds at the same target or at different ones. Make a separate attack roll for each bird. The spell ends at the start of your next turn or if all the birds disappear.
 
 ### _Healing Balm_
 
@@ -197,13 +197,13 @@ _Level 5 Evocation/Rhythmancy (Bard, Ranger (Wild Composer))_
 **Components:** V, S, M (a Musical Instrument worth 1+ GP)\
 **Duration:** Instantaneous
 
-You channel healing energies through soothing music. All creatures that remain within 30 feet of you for the entire casting time, except for undead or constructs, regain 5d10 Hit Points and are cured of being Blinded, Deafened, and Diseased.
+You channel healing energies through soothing music. All creatures that remain within 30 feet of you for the entire casting time, except for Constructs and Undead, regain 5d10 Hit Points, and the following conditions end on each target: Blinded, Deafened, Paralyzed, and Poisoned.
 
-The healing energy attempts to soothe the restless undead and allow them to move on from this world. Each undead creature within the spell's area of effect when it is finished casting must make a Wisdom saving throw (they can choose to fail this save). On a failed save, the creature is reduced to 0 Hit Points, their spirit moves on to the afterlife, and their remains are destroyed in a burst of radiant fire. Creatures that are immune to being Turned are not affected by this spell.
+The healing energy attempts to soothe restless spirits and allow them to move on from this world. Each Undead creature within the spell's area of effect when it is finished casting must make a Wisdom saving throw. On a failed save, the creature is reduced to 0 Hit Points, their spirit moves on to the afterlife, and their remains are destroyed in a burst of radiant fire. Creatures that are immune to Turn Undead are not affected by this spell.
 
 _**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 6 or higher, the healing increases by 1d10 for each additional spell level.
 
-When you cast this spell at level 7 or higher, the spell also ends the cursed condition for all creatures healed by this spell. If any of those creatures are Attuned to a cursed magic item, the spell breaks its owner's Attunement to the object so it can be removed or discarded.
+When you cast this spell at level 7 or higher, the spell also ends all curses affecting the targets of this spell, as if they were all the targets of the _Remove Curse_ spell.
 
 ### _Hold Back the Skies_
 
@@ -231,7 +231,7 @@ _Level 1 Divination/Rhythmancy (Bard, Monk (Warrior of Song), Ranger (Wild Compo
 
 You play a song to yourself that stirs old memories of a childhood friend. Until the spell ends, while you are traveling or exploring within the same environment you were in when casting the spell, you can't become lost except by magical means.
 
-_**Using a Higher-Level Spell Slot.**_ When you cast this spell using a spell slot of 2nd-level or higher, the duration increases to a number of hours equal to the spell slot level. Additionally, until the spell ends, if magical effects cause you to become lost, as a Magic action, you can attempt to identify a valid route to take for a specific intended destination on the same plane of existence as you. Make a spellcasting ability check contested by a DC equal to 10 + the other spell's level (or DC 15 if caused by another magical effect). On a success, the magical effects obfuscating your travel are suppressed for the duration of the spell, during which time the shortest and most direct route to your destination (but not necessarily the safest route) is drawn out as a spectral golden wire on the ground. On a failed check, the spell ends immediately.
+_**Using a Higher-Level Spell Slot.**_ The duration increases to a number of hours equal to the spell slot level. Additionally, until the spell ends, if magical effects cause you to become lost, as a Magic action, you can attempt to identify a valid route to take for a specific intended destination on the same plane of existence as you. Make a spellcasting ability check contested by a DC equal to 10 + the other spell's level (or DC 15 if caused by another magical effect). On a success, the magical effects obfuscating your travel are suppressed for the duration of the spell, during which time the shortest and most direct route to your destination (but not necessarily the safest route) is drawn out as a spectral golden wire on the ground. On a failed check, the spell ends immediately.
 
 ### _Mambo Marino_
 
@@ -274,7 +274,7 @@ You attempt to diminish a creature you can see within range that can hear you. T
 
 Everything the creature is wearing and carrying changes size with them. Any item dropped by an affected creature returns to normal size at once.
 
-While reduced in this manner, the target's speed is halved; they have disadvantage on Strength checks and Strength saving throws; they lose any Resistance or Immunity they have to nonmagical damage; and all of their attacks using either natural weapons or any reduced weapons deal 3d6 less damage (this can't reduce the damage below 1).
+While reduced in this manner, the target's speed is halved; they have Disadvantage on Strength checks and Strength saving throws; they lose any Resistance or Immunity they have to nonmagical damage; and all of their attacks using either natural weapons or any reduced weapons deal 3d6 less damage (this can't reduce the damage below 1).
 
 The spell ends if you are unable to see the target.
 
@@ -300,9 +300,9 @@ _Level 1 Evocation/Rhythmancy (Bard, Monk (Warrior of Song))_
 
 You summon a storm cloud that is 10 feet tall with a 20-foot radius, centered on a point you can see within range directly above you. The spell fails if you can't see a point in the air where the storm cloud could appear (for example, if you are in a room that can't accommodate the cloud).
 
-Until the spell ends, light rain falls in the area underneath the cloud. Invisible creatures under the cloud have disadvantage on attempts to hide as the rain patters on their bodies and reveals their locations as an outline of raindrops. The cloud moves with you.
+Until the spell ends, light rain falls in the area underneath the cloud. Invisible creatures under the cloud have Disadvantage on attempts to hide as the rain patters on their bodies and reveals their locations as an outline of raindrops. The cloud moves with you.
 
-If you are outdoors in a light rain when you cast this spell, the spell affects the existing storm instead of creating a new cloud. Under such conditions, the storm becomes a heavy rain, causing the area to be lightly obscured, extinguishing open flames, and imposing disadvantage on Wisdom (Perception) checks that rely on sight or hearing. When the spell ends, the weather gradually returns to normal.
+If you are outdoors in a light rain when you cast this spell, the spell affects the existing storm instead of creating a new cloud. Under such conditions, the storm becomes a heavy rain, causing the area to be lightly obscured, extinguishing open flames, and imposing Disadvantage on Wisdom (Perception) checks that rely on sight or hearing. When the spell ends, the weather gradually returns to normal.
 
 ### _Peaceful Lullaby_
 
@@ -315,7 +315,7 @@ _Level 3 Enchantment/Rhythmancy (Bard)_
 
 You play a gentle melody in an attempt to lull a creature that can hear you in range. The target must succeed on a Wisdom saving throw or fall asleep and remain Unconscious until the spell ends, the target takes damage, or another creature takes an Action to wake them. Constructs and undead automatically succeed on this saving throw.
 
-_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 4 or higher, for each spell slot above 3rd, the duration increases by 1 hour, and you can target an additional creature.
+_**Using a Higher-Level Spell Slot.**_ For each spell slot level above 3, the duration increases by 1 hour, and you can target an additional creature.
 
 ### _Repel the Dark_
 
@@ -341,9 +341,9 @@ _Level 6 Enchantment/Rhythmancy (Bard)_
 **Components:** V, S, M (a Musical Instrument worth 1+ GP; water from a river that flows backward which the spell consumes)\
 **Duration:** 8 hours
 
-You recite the tale of an ancient hero who drove away a great evil, in order to instill lasting terror in a creature you can see within range that can hear you. That creature must make a Wisdom saving throw. On a failed save, the target is cursed for the duration of the spell. While cursed in this manner, the creature is Frightened of you, and if the creature can see you at the start of their turn, they take 3d10 Psychic damage. Creatures that are normally immune to being Frightened are not immune to the Frightened condition caused by this spell's curse. While the cursed creature cannot see you, they are Frightened of your last known location.
+You recite the tale of an ancient hero who drove away a great evil, in order to instill lasting terror in a creature you can see within range that can hear you. That creature must make a Wisdom saving throw. On a failed save, the target is cursed for the duration of the spell. Until the curse ends, the creature is Frightened of you, and if the creature can see you at the start of their turn, they take 3d10 Psychic damage. Creatures that are normally immune to being Frightened are not immune to the Frightened condition caused by this spell's curse. While the cursed creature cannot see you, they are Frightened of your last known location.
 
-Each time the creature takes damage (except from this spell's effects), they can repeat their saving throw, ending the cursed condition on a success. You can additionally choose to end the curse by using a Magic action to dismiss the spell.
+Each time the creature takes damage (except from this spell's effects), they can repeat their saving throw, ending the curse on a success. You can additionally choose to end the curse by using a Magic action to dismiss the spell.
 
 _**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 7 or higher, the duration increases to 1 day at level 7, 30 days at level 8, or 1 year at level 9, and the Psychic damage dealt when the creature can see you increases by 1d10 for each additional spell level. Additionally, when you cast this spell at level 8 or higher, the creature can no longer repeat their saving throws when they take damage.
 
@@ -356,7 +356,7 @@ _Enchantment/Rhythmancy Cantrip (Bard, Monk (Warrior of Song))_
 **Components:** V, M (a petal from a silent princess flower; a Musical Instrument worth 1+ GP)\
 **Duration:** 1 minute
 
-Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to have temporary Expertise in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
+Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to have temporary Proficiency and Expertise in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
 
 _**Cantrip Upgrade.**_ The spell's duration increases when you reach levels 5 (10 minutes), 11 (1 hour), and 17 (8 hours).
 
@@ -369,9 +369,9 @@ _Level 3 Evocation/Rhythmancy (Bard)_
 **Components:** V, S, M (a Musical Instrument worth 1+ GP)\
 **Duration:** 8 hours
 
-You and a partner play an empowering Duet, targeting a shared location within range. When the spell finishes casting, any creatures who remained within the spells' area of effect for the entire casting and were able to hear the entire composition have Advantage on a single d20 test of their choice that they make within the spells' duration.
+You and a partner play an empowering Duet, targeting a shared location within range. When the spell finishes casting, any creatures who remained within the spells' area of effect for the entire casting and were able to hear the entire composition have Advantage on a single D20 Test of their choice that they make within the spells' duration.
 
-_**Using a Higher-Level Spell Slot.**_ When you and your partner both cast this spell at level 4 or higher, for each additional spell level, all creatures who gained Advantage on a d20 test also gain a +1 to the roll. If the spells are cast at different levels, use the lower of the two levels. For example, if the spell is cast using a level 5 and a level 6 spell slot, creatures would gain the bonus from the level 5 casting, which would be a +2 to their roll.
+_**Using a Higher-Level Spell Slot.**_ When you and your partner both cast this spell at level 4 or higher, for each additional spell level, all creatures who gained Advantage on a D20 Test also gain a +1 to the roll. If the spells are cast at different levels, use the lower of the two levels. For example, if the spell is cast using a level 5 and a level 6 spell slot, creatures would gain the bonus from the level 5 casting, which would be a +2 to their roll.
 
 ### _The Sage of Earth's Calling_
 
@@ -386,7 +386,7 @@ The notes you play resonate with the world under your feet, strengthening your b
 
 Once you finish casting, until the spell ends, as long as you touch the ground, you cannot be unwillingly or forcibly removed from your location, as a magical gravitational pull holds you firm. This does not prevent you from being Grappled, but a creature Grappling you cannot separate you from the ground you stand on by any nonmagical means.
 
-Magical effects that would lift or relocate you as forced movement, such as the _levitate_ spell, end immediately and cannot target you, unless they are cast as spells at a higher level than you cast this spell. Magical effects that manipulate you into moving yourself, such as being Charmed and compelled to use your own movement, function normally.
+Magical effects that would lift or relocate you as forced movement, such as the _Levitate_ spell, end immediately and cannot target you, unless they are cast as spells at a higher level than you cast this spell. Magical effects that manipulate you into moving yourself, such as being Charmed and compelled to use your own movement, function normally.
 
 If a creature attempts to teleport or planeshift you against your will and they are not using a spell cast at a higher level than this spell, they must first succeed on a spellcasting ability check (or a Wisdom check if they do not have the ability to cast spells) contested by your Spell Save DC, or the teleport or planeshift fails to include you as a target.
 
@@ -405,7 +405,7 @@ The notes you play resonate with the air around you, lifting you upward and gran
 
 Until the spell ends, you gain a flying speed equal to your movement speed, or if you already have a flying speed, it is increased by 30 feet. You hover in place when you are not flying.
 
-As long as you are not touching the ground, the air pulses around your body, granting you advantage on checks you make to resist being Grappled or to escape the Grappled condition. If you succeed on such a check, as a Reaction, you can immediately move up to half your flying speed away with a burst of wind, and the creature that was Grappling you must succeed on a Strength saving throw against your Spell Save DC or they are knocked Prone. This movement doesn't provoke opportunity attacks.
+As long as you are not touching the ground, the air pulses around your body, granting you Advantage on D20 Tests to resist the Grappled condition. If you succeed on such a D20 Test, as a Reaction, you can immediately move up to half your flying speed away with a burst of wind, and the creature that was Grappling you must succeed on a Strength saving throw against your Spell Save DC or they are knocked Prone. This movement doesn't provoke opportunity attacks.
 
 If you are successfully forced to the ground against your will for 1 minute or longer, the spell ends.
 
@@ -418,19 +418,19 @@ _Level 1 Abjuration/Rhythmancy (Bard, Monk (Warrior of Song))_
 **Components:** V, S, M (a Musical Instrument worth 1+ GP)\
 **Duration:** 10 minutes
 
-You adjust the flow of time around you, granting you the ability to correct a recent mistake. Until this spell ends, if you fail on an attack roll, ability check, or saving throw, as a Reaction, you can immediately roll a d20 and take the greater of the two results. The first time you fail a check using this spell effect, the spell ends.
+You adjust the flow of time around you, granting you the ability to correct a recent mistake. Until this spell ends, if you fail a D20 Test, as a Reaction, you can immediately roll a d20 and take the greater of the two results. The first time you fail a check using this spell effect, the spell ends.
 
-_**Using a Higher-Level Spell Slot.**_ When you cast this spell using a spell slot of 2nd-level or higher, the duration increases to a number of hours equal to half the spell's level.
+_**Using a Higher-Level Spell Slot.**_ The duration increases to a number of hours equal to half the spell's level.
 
-If desired, you can alter the performance of the Song of Time to a related composition to create one of the following effects, which replace the spell's normal 1st-level effects:
+If desired, you can alter the performance of the Song of Time to a related composition to create one of the following effects, which replace the spell's normal level 1 effects:
 
 #### _Song of Double Time_
 
-**Song of Double Time (3rd-level or higher).** By playing the Song of Time twice as fast, you move yourself to a moment in the near future, bypassing current events. Select any moment in time in the future up to the end of the spell's duration. You temporarily vanish from existence. At the moment in time you selected when casting the spell, you reappear in the same space from where you vanished, or in the nearest location if that space is occupied. From your perspective, no time has passed. When you reappear, the spell ends.
+**Song of Double Time (Level 3+).** By playing the Song of Time twice as fast, you move yourself to a moment in the near future, bypassing current events. Select any moment in time in the future up to the end of the spell's duration. You temporarily vanish from existence. At the moment in time you selected when casting the spell, you reappear in the same space from where you vanished, or in the nearest location if that space is occupied. From your perspective, no time has passed. When you reappear, the spell ends.
 
 #### _Inverted Song of Time_
 
-**Inverted Song of Time (5th-level or higher).** By playing the Song of Time in reverse, you anchor yourself to a moment in time, allowing yourself to complete more tasks in a short time period. Until the spell ends, your speed is doubled, you gain +2 to your AC, you have advantage on Dexterity saving throws, and you gain an additional Action on each of your turns.
+**Inverted Song of Time (Level 5+).** By playing the Song of Time in reverse, you anchor yourself to a moment in time, allowing yourself to complete more tasks in a short time period. Until the spell ends, your speed is doubled, you gain +2 to your AC, you have Advantage on Dexterity saving throws, and you gain an additional action on each of your turns.
 
 ### _Souls Entwined_
 
@@ -455,16 +455,14 @@ _Level 4 Necromancy/Rhythmancy (Bard)_
 
 **Casting Time:** 1 hour\
 **Range:** 20 feet\
-**Components:** V, S, M (a recently deceased frog; a Musical Instrument worth 1+ GP; a gold crown worth 300+ GP which the spell consumes unless the spell targeted or raised an undead creature)\
+**Components:** V, S, M (a recently deceased frog; a Musical Instrument worth 1+ GP; a gold crown worth 300+ GP which the spell consumes unless the spell targeted or raised an Undead creature)\
 **Duration:** Instantaneous
 
 You attempt to influence the life energy of a corpse or undead creature you can see within range. Make a spellcasting ability check. The target regains all of their Hit Points, then undergoes additional effects depending on the nature of the target and the result of your check:
 
-- **If the target is a corpse that has been dead up to 1 year; the creature's soul is willing and able to rejoin the body; and the creature is not undead:** your spellcasting ability check is contested by a DC equal to the target creature's Challenge or Level (minimum DC 10). If the check succeeds, the creature returns to life, they are no longer Diseased or Poisoned by nonmagical effects, and their mortal wounds are closed (but missing body parts are not restored).
+- **If the target is a corpse that has been dead up to 1 year; the creature's soul is willing and able to rejoin the body; and the creature is not undead:** your spellcasting ability check is contested by a DC equal to the target creature's Challenge or Level (minimum DC 10). If the check succeeds, the creature returns to life with 1 Hit Point. This spell also neutralizes any poisons that affected the creature at the time of death. The spell closes all mortal wounds, but it doesn't restore missing body parts. If the creature is lacking body parts or organs integral for its survival—its head, for instance—the spell automatically fails.
 
-   If the creature was magically cursed, Diseased, or Poisoned when they died, and these conditions weren't removed prior to casting this spell, they take effect when the creature returns to life. Furthermore, the target takes a −4 penalty to all attack rolls, saving throws, and ability checks. This penalty is reduced by 1 every time the target finishes a Long Rest, after which the penalty disappears.
-
-   Until you finish a Long Rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.
+   Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0.
 
 - **If the target is a corpse that has been dead for longer than 1 year; the soul was not returned to the body; the corpse is lacking body parts or organs integral for the creature's survival; or you fail on your spellcasting ability check (you can choose to fail this check):** the spell imbues the target with a foul mimicry of life, rejecting the corpse's original soul. A corpse targeted by this spell is raised using all of their original statistics except for the following changes: their creature type becomes Undead; their alignment changes to evil; they gain Immunity to Exhaustion, Frightened, Necrotic, Paralyzed, and Poison. The spell magically substitutes any missing senses and abilities due to lacking body parts or organs, providing spectral replacements.
 
@@ -498,7 +496,7 @@ _Level 2 Abjuration/Rhythmancy (Bard)_
 
 You stir slumbering creatures with rousing music. When you cast this spell, choose up to three creatures within range under the effect of magical sleep that can hear you. The targets, as well as all other naturally Unconscious creatures within range that can hear you, immediately regain consciousness. Until the spell ends, magic can't put creatures within range to sleep, as long as they can still hear you.
 
-_**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 3 or higher, you can target one additional creature for each slot level above 2nd.
+_**Using a Higher-Level Spell Slot.**_ You can target one additional creature for each slot level above 2.
 
 ### _Summoning of the Scarecrow_
 
