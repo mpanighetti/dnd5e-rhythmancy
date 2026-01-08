@@ -185,7 +185,7 @@ _Level 1 Evocation/Rhythmancy (Bard)_
 **Components:** V, S, M (a Musical Instrument worth 1+ GP)\
 **Duration:** Instantaneous
 
-You call the natural forces of the universe to your aid, summoning a mote of elemental energy from a distant realm and throwing it at a creature you can see within range. The target makes a Dexterity saving throw, taking damage and undergoing a secondary effect based on the plane of existence from which the mote originates on a failed save (you pick each time you cast this spell). On a successful save, it takes half the damage only and isn't subjected to the secondary effect.
+You call the natural forces of the universe to your aid, summoning a mote of elemental energy from a distant realm and throwing it at a creature you can see within range. The target makes a Dexterity saving throw. On a failed save, the target takes damage and is subjected to a secondary effect based on the plane of existence from which the mote originates (you pick each time you cast this spell). On a successful save, it takes half the damage only and isn't subjected to the secondary effect.
 
 **Cloak of Night (Lower Planes).** The target takes 2d6 Necrotic damage and has Disadvantage on Wisdom saving throws until the end of its next turn.
 
