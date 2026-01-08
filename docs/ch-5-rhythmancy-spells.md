@@ -1,6 +1,6 @@
 # Chapter 5: Rhythmancy Spells
 
-This section contains new spells developed through the musical study of rhythmancy. These spells are available to the Bard class, as well as other spellcasting classes with the Dungeon Master's consent (see "Rhythmancy Spells for Other Classes"). The **Rhythmancy Spells** table lists the new spells, organized by spell level and then alphabetized, and each spell's schools of magic are listed along with which classes have access to it. In the Special column, _C_ means the spell requires Concentration, _R_ means it's a Ritual, _M_ means it requires a specific Material component (in addition to the normal requirement of a Musical Instrument worth 1+ GP), and _D_ means it's a Duet.
+This section contains new spells developed through the musical study of rhythmancy. These spells are available to the Bard class, [specialized subclasses](ch-3-rhythmancy-classes.md), and by selecting [some feats](ch-4-rhythmancy-feats.md), as well as other spellcasting classes with the Dungeon Master's consent (see "Rhythmancy Spells for Other Classes"). The **Rhythmancy Spells** table lists the new spells, organized by spell level and then alphabetized, and each spell's schools of magic are listed along with which classes have access to it. In the Special column, _C_ means the spell requires Concentration, _R_ means it's a Ritual, _M_ means it requires a specific Material component (in addition to the normal requirement of a Musical Instrument worth 1+ GP), and _D_ means it's a Duet.
 
 In some cases, multiple rhythmancy spells are learned as a single song, existing as alternate versions of a composition and applying their unique effects only when cast at a higher level. Such spells are labeled with shared footnote markers on this list for reference; see the description for the lowest-level version of the spell for all the other spells' effects.
 
@@ -113,7 +113,7 @@ _Level 1 Abjuration/Rhythmancy (Bard)_
 **Components:** V, S, M (a Musical Instrument worth 1+ GP)\
 **Duration:** Instantaneous
 
-You touch a creature that was cursed within the last hour. One eligible curse affecting the target ends. This spell can't end a curse placed using a spell of level 2 or higher, or by a creature of CR 2 or higher.
+At your touch, one curse affecting one creature ends. This spell can't end a curse placed using a spell of level 2 or higher, by a creature of CR 2 or higher, or a curse that afflicted that creature more than an hour ago. If multiple eligible curses afflict the target, you choose which curse ends.
 
 _**Using a Higher-Level Spell Slot.**_ You automatically end an eligible curse affecting the target if it was placed by either a spell of a level equal to or less than, or a creature of CR equal to or less than, the level of the spell slot you use.
 
@@ -197,13 +197,13 @@ _Level 5 Evocation/Rhythmancy (Bard, Ranger (Wild Composer))_
 **Components:** V, S, M (a Musical Instrument worth 1+ GP)\
 **Duration:** Instantaneous
 
-You channel healing energies through soothing music. All creatures that remain within 30 feet of you for the entire casting time, except for undead or constructs, regain 5d10 Hit Points and are cured of being Blinded, Deafened, and Diseased.
+You channel healing energies through soothing music. All creatures that remain within 30 feet of you for the entire casting time, except for Constructs and Undead, regain 5d10 Hit Points, and the following conditions end on each target: Blinded, Deafened, Paralyzed, and Poisoned.
 
-The healing energy attempts to soothe the restless undead and allow them to move on from this world. Each undead creature within the spell's area of effect when it is finished casting must make a Wisdom saving throw (they can choose to fail this save). On a failed save, the creature is reduced to 0 Hit Points, their spirit moves on to the afterlife, and their remains are destroyed in a burst of radiant fire. Creatures that are immune to being Turned are not affected by this spell.
+The healing energy attempts to soothe restless spirits and allow them to move on from this world. Each Undead creature within the spell's area of effect when it is finished casting must make a Wisdom saving throw. On a failed save, the creature is reduced to 0 Hit Points, their spirit moves on to the afterlife, and their remains are destroyed in a burst of radiant fire. Creatures that are immune to Turn Undead are not affected by this spell.
 
 _**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 6 or higher, the healing increases by 1d10 for each additional spell level.
 
-When you cast this spell at level 7 or higher, the spell also ends the cursed condition for all creatures healed by this spell. If any of those creatures are Attuned to a cursed magic item, the spell breaks its owner's Attunement to the object so it can be removed or discarded.
+When you cast this spell at level 7 or higher, the spell also ends all curses affecting the targets of this spell, as if they were all the targets of the _Remove Curse_ spell.
 
 ### _Hold Back the Skies_
 
@@ -341,9 +341,9 @@ _Level 6 Enchantment/Rhythmancy (Bard)_
 **Components:** V, S, M (a Musical Instrument worth 1+ GP; water from a river that flows backward which the spell consumes)\
 **Duration:** 8 hours
 
-You recite the tale of an ancient hero who drove away a great evil, in order to instill lasting terror in a creature you can see within range that can hear you. That creature must make a Wisdom saving throw. On a failed save, the target is cursed for the duration of the spell. While cursed in this manner, the creature is Frightened of you, and if the creature can see you at the start of their turn, they take 3d10 Psychic damage. Creatures that are normally immune to being Frightened are not immune to the Frightened condition caused by this spell's curse. While the cursed creature cannot see you, they are Frightened of your last known location.
+You recite the tale of an ancient hero who drove away a great evil, in order to instill lasting terror in a creature you can see within range that can hear you. That creature must make a Wisdom saving throw. On a failed save, the target is cursed for the duration of the spell. Until the curse ends, the creature is Frightened of you, and if the creature can see you at the start of their turn, they take 3d10 Psychic damage. Creatures that are normally immune to being Frightened are not immune to the Frightened condition caused by this spell's curse. While the cursed creature cannot see you, they are Frightened of your last known location.
 
-Each time the creature takes damage (except from this spell's effects), they can repeat their saving throw, ending the cursed condition on a success. You can additionally choose to end the curse by using a Magic action to dismiss the spell.
+Each time the creature takes damage (except from this spell's effects), they can repeat their saving throw, ending the curse on a success. You can additionally choose to end the curse by using a Magic action to dismiss the spell.
 
 _**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 7 or higher, the duration increases to 1 day at level 7, 30 days at level 8, or 1 year at level 9, and the Psychic damage dealt when the creature can see you increases by 1d10 for each additional spell level. Additionally, when you cast this spell at level 8 or higher, the creature can no longer repeat their saving throws when they take damage.
 
@@ -356,7 +356,7 @@ _Enchantment/Rhythmancy Cantrip (Bard)_
 **Components:** V, M (a petal from a silent princess flower; a Musical Instrument worth 1+ GP)\
 **Duration:** 1 minute
 
-Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to have temporary Expertise in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
+Playing this soothing melody historically indicated a connection to the royal family. Until this spell ends, you are considered to have temporary Proficiency and Expertise in all Charisma checks used to socially interact with creatures within range that heard you cast the spell.
 
 _**Cantrip Upgrade.**_ The spell's duration increases when you reach levels 5 (10 minutes), 11 (1 hour), and 17 (8 hours).
 
@@ -455,16 +455,14 @@ _Level 4 Necromancy/Rhythmancy (Bard)_
 
 **Casting Time:** 1 hour\
 **Range:** 20 feet\
-**Components:** V, S, M (a recently deceased frog; a Musical Instrument worth 1+ GP; a gold crown worth 300+ GP which the spell consumes unless the spell targeted or raised an undead creature)\
+**Components:** V, S, M (a recently deceased frog; a Musical Instrument worth 1+ GP; a gold crown worth 300+ GP which the spell consumes unless the spell targeted or raised an Undead creature)\
 **Duration:** Instantaneous
 
 You attempt to influence the life energy of a corpse or undead creature you can see within range. Make a spellcasting ability check. The target regains all of their Hit Points, then undergoes additional effects depending on the nature of the target and the result of your check:
 
-- **If the target is a corpse that has been dead up to 1 year; the creature's soul is willing and able to rejoin the body; and the creature is not undead:** your spellcasting ability check is contested by a DC equal to the target creature's Challenge or Level (minimum DC 10). If the check succeeds, the creature returns to life, they are no longer Diseased or Poisoned by nonmagical effects, and their mortal wounds are closed (but missing body parts are not restored).
+- **If the target is a corpse that has been dead up to 1 year; the creature's soul is willing and able to rejoin the body; and the creature is not undead:** your spellcasting ability check is contested by a DC equal to the target creature's Challenge or Level (minimum DC 10). If the check succeeds, the creature returns to life with 1 Hit Point. This spell also neutralizes any poisons that affected the creature at the time of death. The spell closes all mortal wounds, but it doesn't restore missing body parts. If the creature is lacking body parts or organs integral for its survival—its head, for instance—the spell automatically fails.
 
-   If the creature was magically cursed, Diseased, or Poisoned when they died, and these conditions weren't removed prior to casting this spell, they take effect when the creature returns to life. Furthermore, the target takes a −4 penalty to all attack rolls, saving throws, and ability checks. This penalty is reduced by 1 every time the target finishes a Long Rest, after which the penalty disappears.
-
-   Until you finish a Long Rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.
+   Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0.
 
 - **If the target is a corpse that has been dead for longer than 1 year; the soul was not returned to the body; the corpse is lacking body parts or organs integral for the creature's survival; or you fail on your spellcasting ability check (you can choose to fail this check):** the spell imbues the target with a foul mimicry of life, rejecting the corpse's original soul. A corpse targeted by this spell is raised using all of their original statistics except for the following changes: their creature type becomes Undead; their alignment changes to evil; they gain Immunity to Exhaustion, Frightened, Necrotic, Paralyzed, and Poison. The spell magically substitutes any missing senses and abilities due to lacking body parts or organs, providing spectral replacements.
 
