@@ -55,4 +55,4 @@ You must use the first option available to you based on your class levels, featu
 
 ---
 
-[Chapter 2: Casting Rhythmancy Spells ➡️](ch-2-casting-rhythmancy-spells.md) | [Home ⬆️](index.md)
+[Home ⬆️](index.md) | [Chapter 2: Casting Rhythmancy Spells ➡️](ch-2-casting-rhythmancy-spells.md)
