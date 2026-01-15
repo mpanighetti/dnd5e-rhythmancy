@@ -13,6 +13,7 @@ This document includes a list of class options, feats, spells, and magic items u
 ### [Chapter 3: Rhythmancy Classes](ch-3-rhythmancy-classes.md)
 
 - [College of Legends (Bard)](ch-3-rhythmancy-classes.md#college-of-legends-bard)
+- [Reveler (Fighter)](ch-3-rhythmancy-classes.md#reveler-fighter)
 - [Wild Composer (Ranger)](ch-3-rhythmancy-classes.md#wild-composer-ranger)
 
 ### [Chapter 4: Rhythmancy Feats](ch-4-rhythmancy-feats.md)

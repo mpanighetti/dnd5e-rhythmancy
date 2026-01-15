@@ -4,6 +4,8 @@ This chapter presents new subclasses with abilities centered around the use of r
 
 - **College of Legends:** A Bard who enhances magic with musical performance
 
+- **Reveler:** A Fighter who dances to the rhythm of magical song
+
 - **Wild Composer:** A Ranger who crafts magical instruments to share the music of nature
 
 ## College of Legends (Bard)
@@ -41,6 +43,63 @@ Whenever you learn a new song through rhythmantic training, you bypass all train
 ### Level 14: Legendary Secrets
 
 You have mastered unlocking hidden or lost ancient secrets. You always have the _Legend Lore_ spell prepared. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a Long Rest. When you cast _Legend Lore_ using this feature, you can cast it as an action rather than its normal casting time, and you ignore its Material component requirements. You can also cast _Legend Lore_ normally using a spell slot of the appropriate level.
+
+## Reveler (Fighter)
+
+_Fuel Attacks with Musical Energy_
+
+Though skilled in the art of martial combat, Revelers also engage in studies of musical composition and kinetic performance, aided by channeling rhythmantic magic. Rather than dividing their focus, these shared disciplines complement each other, leading to Fighters gifted with fluent movement on the battlefield and equal command of the dance floor.
+
+### Level 3: Rhythmancy Champion
+
+You have studied magical songs and learned how to call upon them in the heat of battle. You gain the following benefits.
+
+_**Cantrips.**_ You know three cantrips: _True Strike_ and two other cantrips of your choice from the Bard spell list.
+
+Whenever you gain a Fighter level, you can replace one of your cantrips, except _True Strike_, with another Bard cantrip of your choice.
+
+When you reach Fighter level 10, you learn another Bard cantrip of your choice.
+
+_**Rhythmancy Points.**_ You gain 2 Rhythmancy Points to spend on casting Rhythmancy spells. You can cast Bard spells using Rhythmancy Points even if they aren't Rhythmancy spells.
+
+_**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Bard spells.
+
+If another Reveler feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.
+
+_**Changing Your Prepared Spells.**_ Whenever you gain a Fighter level, you can replace one spell on your list with a level 1 or level 2 Bard spell.
+
+_**Spellcasting Ability.**_ Charisma is your spellcasting ability for your Bard spells.
+
+_**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice.
+
+_**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
+
+### Level 3: Bravado
+
+Thanks to your practice at performing in front of audiences, you gain the following benefits.
+
+- You gain Proficiency in the Performance skill.
+- You can channel the raw charisma of your performance when you attempt certain tasks; when you make an ability check using one of the following skills, you can expend 1 Rhythmancy Point to make it as a Charisma check even if it normally uses a different ability: Animal Handling, Insight, Sleight of Hand, or Stealth. When you use this ability, your Charisma represents your command over others, honing your ability to be seen or unseen to achieve your goals.
+
+### Level 7: Blade Staccato
+
+You fight to the rhythm of your song, attempting to overwhelm your foes with multiple attacks. When you cast _True Strike_, its duration changes to 1 minute, and its benefits are applied to all weapon attacks you make for the duration. The spell ends early if you miss an attack.
+
+### Level 10: Diagetic Surge
+
+You draw energy from the music that churns through your veins. When you expend a use of either your Action Surge or Second Wind, in addition to the feature's normal effects, you regain two expended Rhythmancy Points.
+
+### Level 15: Duet Maestro
+
+When you cast a Bard spell targeting only yourself, you can also affect one willing ally with the spell if the ally is within 10 feet of you. Additionally, you can cast a Duet spell even if you do not have the spell prepared, as long as the other participant in the duet has the spell prepared and does not also have this class feature.
+
+### Level 18: Pitch Perfect
+
+Through intensive rehearsal, you have perfected your favorite compositions and can readily perform them with no preparation. Choose one of the level 1 Bard spells you have prepared that has a casting time of an action. You can cast this spell at its lowest level without expending Rhythmancy Points.
+
+Additionally, when you take the Attack action on your turn, you can replace one of the attacks with a casting of the spell you chose for this feature.
+
+Whenever you finish a Long Rest, you can replace the spell you chose for this feature with a different level 1 Bard spell you have prepared with a casting time of an action.
 
 ## Wild Composer (Ranger)
 

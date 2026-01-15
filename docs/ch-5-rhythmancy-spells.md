@@ -8,22 +8,22 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 
 | Level | Spell | School | Class | Special |
 |:-----:|:------|:-------|:------|:--------|
-| cantrip | _[Ballad of the Dreamer](#ballad-of-the-dreamer)_ | Abjuration/Rhythmancy | Bard | — |
-| cantrip | _[The Hawk's Call](#the-hawks-call)_ | Evocation/Rhythmancy | Bard, Ranger (Wild Composer) | — |
-| cantrip | _[The Royal Decree](#the-royal-decree)_ | Enchantment/Rhythmancy | Bard | — |
-| 1 | _[The Curse, Reversed](#the-curse-reversed)_ | Abjuration/Rhythmancy | Bard | |
-| 1 | _[Equine Tribute](#equine-tribute)_ | Conjuration/Rhythmancy | Bard | — |
-| 1 | _[Gathering of the Elements](#gathering-of-the-elements)_ | Evocation/Rhythmancy | Bard | — |
-| 1 | _[The Lost is Found](#the-lost-is-found)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | C, R |
-| 1 | _[The Oncoming Storm](#the-oncoming-storm)_ | Evocation/Rhythmancy | Bard | Concentration |
-| 1 | _[Song of Time](#song-of-time)_ | Abjuration/Rhythmancy | Bard | — |
-| 1 | _[Summoning of the Scarecrow](#summoning-of-the-scarecrow)_ | Conjuration/Rhythmancy | Bard | — |
-| 2 | _[Duet of Restoration](#duet-of-restoration)_ | Evocation/Rhythmancy | Bard | D |
-| 2 | _[An Empty Shell](#an-empty-shell)_ | Conjuration/Rhythmancy | Bard | — |
-| 2 | _[No Stone Unturned](#no-stone-unturned)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | C, R, M |
-| 2 | _[Repel the Dark](#repel-the-dark)_ | Evocation/Rhythmancy | Bard | C |
-| 2 | _[Stirring Sonata](#stirring-sonata)_ | Abjuration/Rhythmancy | Bard | C, M |
-| 2 | _[Souls Entwined](#souls-entwined)_ | Conjuration/Rhythmancy | Bard | C, R, M |
+| cantrip | _[Ballad of the Dreamer](#ballad-of-the-dreamer)_ | Abjuration/Rhythmancy | Bard, Fighter (Reveler) | — |
+| cantrip | _[The Hawk's Call](#the-hawks-call)_ | Evocation/Rhythmancy | Bard, Fighter (Reveler), Ranger (Wild Composer) | — |
+| cantrip | _[The Royal Decree](#the-royal-decree)_ | Enchantment/Rhythmancy | Bard, Fighter (Reveler) | — |
+| 1 | _[The Curse, Reversed](#the-curse-reversed)_ | Abjuration/Rhythmancy | Bard, Fighter (Reveler) | |
+| 1 | _[Equine Tribute](#equine-tribute)_ | Conjuration/Rhythmancy | Bard, Fighter (Reveler) | — |
+| 1 | _[Gathering of the Elements](#gathering-of-the-elements)_ | Evocation/Rhythmancy | Bard, Fighter (Reveler) | — |
+| 1 | _[The Lost is Found](#the-lost-is-found)_ | Divination/Rhythmancy | Bard, Fighter (Reveler), Ranger (Wild Composer) | C, R |
+| 1 | _[The Oncoming Storm](#the-oncoming-storm)_ | Evocation/Rhythmancy | Bard, Fighter (Reveler) | Concentration |
+| 1 | _[Song of Time](#song-of-time)_ | Abjuration/Rhythmancy | Bard, Fighter (Reveler) | — |
+| 1 | _[Summoning of the Scarecrow](#summoning-of-the-scarecrow)_ | Conjuration/Rhythmancy | Bard, Fighter (Reveler) | — |
+| 2 | _[Duet of Restoration](#duet-of-restoration)_ | Evocation/Rhythmancy | Bard, Fighter (Reveler) | D |
+| 2 | _[An Empty Shell](#an-empty-shell)_ | Conjuration/Rhythmancy | Bard, Fighter (Reveler) | — |
+| 2 | _[No Stone Unturned](#no-stone-unturned)_ | Divination/Rhythmancy | Bard, Fighter (Reveler), Ranger (Wild Composer) | C, R, M |
+| 2 | _[Repel the Dark](#repel-the-dark)_ | Evocation/Rhythmancy | Bard, Fighter (Reveler) | C |
+| 2 | _[Stirring Sonata](#stirring-sonata)_ | Abjuration/Rhythmancy | Bard, Fighter (Reveler) | C, M |
+| 2 | _[Souls Entwined](#souls-entwined)_ | Conjuration/Rhythmancy | Bard, Fighter (Reveler) | C, R, M |
 | 3 | _[The Cleansing Waves](#the-cleansing-waves)_ | Abjuration/Rhythmancy | Bard | C |
 | 3 | _[Concerto No. 1 in E major, "Echoes of the Past"](#concerto-no-1-in-e-major-echoes-of-the-past)_ | Divination/Rhythmancy | Bard | C, R, M |
 | 3 | _[Mambo Marino](#mambo-marino)_ | Conjuration/Rhythmancy | Bard | C, R |
@@ -53,7 +53,7 @@ The spells are presented in alphabetical order.
 
 ### _Ballad of the Dreamer_
 
-_Abjuration/Rhythmancy Cantrip (Bard)_
+_Abjuration/Rhythmancy Cantrip (Bard, Fighter (Reveler))_
 
 **Casting Time:** Action\
 **Range:** Self\
@@ -107,7 +107,7 @@ Until the spell ends, an aura of spectral water and healing energy surrounds you
 
 ### _The Curse, Reversed_
 
-_Level 1 Abjuration/Rhythmancy (Bard)_
+_Level 1 Abjuration/Rhythmancy (Bard, Fighter (Reveler))_
 
 **Casting Time:** 1 minute\
 **Range:** Touch\
@@ -133,7 +133,7 @@ On each of your turns, you must use a Magic action to continue playing the song.
 
 ### _Duet of Restoration_
 
-_Level 2 Evocation/Rhythmancy (Bard)_
+_Level 2 Evocation/Rhythmancy (Bard, Fighter (Reveler))_
 
 **Casting Time:** 1 minute Duet\
 **Range:** 10 feet (30-foot sphere)\
@@ -146,7 +146,7 @@ _**Using a Higher-Level Spell Slot.**_ When you and your partner both cast this 
 
 ### _An Empty Shell_
 
-_Level 2 Conjuration/Rhythmancy (Bard)_
+_Level 2 Conjuration/Rhythmancy (Bard, Fighter (Reveler))_
 
 **Casting Time:** 1 minute\
 **Range:** 5 feet\
@@ -159,7 +159,7 @@ A shell based on your form vanishes the next time you cast this spell, unless yo
 
 ### _Equine Tribute_
 
-_Level 1 Conjuration/Rhythmancy (Bard)_
+_Level 1 Conjuration/Rhythmancy (Bard, Fighter (Reveler))_
 
 **Casting Time:** 1 minute\
 **Range:** 30 feet\
@@ -178,7 +178,7 @@ _**Using a Higher-Level Spell Slot.**_ When you cast this spell to summon your c
 
 ### _Gathering of the Elements_
 
-_Level 1 Evocation/Rhythmancy (Bard)_
+_Level 1 Evocation/Rhythmancy (Bard, Fighter (Reveler))_
 
 **Casting Time:** Action\
 **Range:** 30 feet\
@@ -203,7 +203,7 @@ _**Using a Higher-Level Spell Slot.**_ You summon another mote for each spell sl
 
 ### _The Hawk's Call_
 
-_Evocation/Rhythmancy Cantrip (Bard, Ranger (Wild Composer))_
+_Evocation/Rhythmancy Cantrip (Bard, Fighter (Reveler), Ranger (Wild Composer))_
 
 **Casting Time:** Action\
 **Range:** 30 feet\
@@ -248,7 +248,7 @@ Manipulating gravity and mass in this manner takes a physical toll on your body.
 
 ### _The Lost is Found_
 
-_Level 1 Divination/Rhythmancy (Bard, Ranger (Wild Composer))_
+_Level 1 Divination/Rhythmancy (Bard, Fighter (Reveler), Ranger (Wild Composer))_
 
 **Casting Time:** 1 minute or Ritual\
 **Range:** Self\
@@ -306,7 +306,7 @@ The spell ends if you are unable to see the target.
 
 ### _No Stone Unturned_
 
-_Level 2 Divination/Rhythmancy (Bard, Ranger (Wild Composer))_
+_Level 2 Divination/Rhythmancy (Bard, Fighter (Reveler), Ranger (Wild Composer))_
 
 **Casting Time:** 1 minute or Ritual\
 **Range:** Self (20-foot sphere)\
@@ -317,7 +317,7 @@ You perform a tune that disrupts any concealing magic in the vicinity. Until the
 
 ### _The Oncoming Storm_
 
-_Level 1 Evocation/Rhythmancy (Bard)_
+_Level 1 Evocation/Rhythmancy (Bard, Fighter (Reveler))_
 
 **Casting Time:** 1 minute\
 **Range:** 120 feet (1 mile if cast outdoors)\
@@ -345,7 +345,7 @@ _**Using a Higher-Level Spell Slot.**_ For each spell slot level above 3, the du
 
 ### _Repel the Dark_
 
-_Level 2 Evocation/Rhythmancy (Bard)_
+_Level 2 Evocation/Rhythmancy (Bard, Fighter (Reveler))_
 
 **Casting Time:** Action\
 **Range:** 30 feet\
@@ -375,7 +375,7 @@ _**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 7 or hi
 
 ### _The Royal Decree_
 
-_Enchantment/Rhythmancy Cantrip (Bard)_
+_Enchantment/Rhythmancy Cantrip (Bard, Fighter (Reveler))_
 
 **Casting Time:** Action\
 **Range:** 10 feet\
@@ -437,7 +437,7 @@ If you are successfully forced to the ground against your will for 1 minute or l
 
 ### _Song of Time_
 
-_Level 1 Abjuration/Rhythmancy (Bard)_
+_Level 1 Abjuration/Rhythmancy (Bard, Fighter (Reveler))_
 
 **Casting Time:** Action\
 **Range:** Self\
@@ -460,7 +460,7 @@ If desired, you can alter the performance of the Song of Time to a related compo
 
 ### _Souls Entwined_
 
-_Level 2 Conjuration/Rhythmancy (Bard)_
+_Level 2 Conjuration/Rhythmancy (Bard, Fighter (Reveler))_
 
 **Casting Time:** 1 minute or Ritual\
 **Range:** 10 feet\
@@ -513,7 +513,7 @@ _**Using a Higher-Level Spell Slot.**_ When you cast this spell at level 5 or hi
 
 ### _Stirring Sonata_
 
-_Level 2 Abjuration/Rhythmancy (Bard)_
+_Level 2 Abjuration/Rhythmancy (Bard, Fighter (Reveler))_
 
 **Casting Time:** Action\
 **Range:** 30 feet\
@@ -526,7 +526,7 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 ### _Summoning of the Scarecrow_
 
-_Level 1 Conjuration/Rhythmancy (Bard)_
+_Level 1 Conjuration/Rhythmancy (Bard, Fighter (Reveler))_
 
 **Casting Time:** 1 minute\
 **Range:** 120 feet\
