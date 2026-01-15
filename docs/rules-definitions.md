@@ -13,3 +13,7 @@ This document makes the following modifications from the _SRD_:
 - Resistance, vulnerability, and immunity to Poison apply to both the damage type and the Poisoned condition.
 - This document adds a new **Rhythmancy** school of magic.
 - This document adds a new **Instruments** category of magic items.
+
+---
+
+[⬅️ Chapter 6: Rhythmancy Magic Items](ch-6-rhythmancy-magic-items.md) | [Home ⬆️](index.md) | [Credits ➡️](credits.md)

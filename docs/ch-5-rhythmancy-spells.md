@@ -13,6 +13,7 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | cantrip | _[The Royal Decree](#the-royal-decree)_ | Enchantment/Rhythmancy | Bard, Monk (Warrior of Song) | — |
 | 1 | _[The Curse, Reversed](#the-curse-reversed)_ | Abjuration/Rhythmancy | Bard, Monk (Warrior of Song) | |
 | 1 | _[Equine Tribute](#equine-tribute)_ | Conjuration/Rhythmancy | Bard, Monk (Warrior of Song) | — |
+| 1 | _[Gathering of the Elements](#gathering-of-the-elements)_ | Evocation/Rhythmancy | Bard, Monk (Warrior of Song) | — |
 | 1 | _[The Lost is Found](#the-lost-is-found)_ | Divination/Rhythmancy | Bard, Monk (Warrior of Song), Ranger (Wild Composer) | C, R |
 | 1 | _[The Oncoming Storm](#the-oncoming-storm)_ | Evocation/Rhythmancy | Bard, Monk (Warrior of Song) | Concentration |
 | 1 | _[Song of Time](#song-of-time)_ | Abjuration/Rhythmancy | Bard, Monk (Warrior of Song) | — |
@@ -174,6 +175,31 @@ When you cast this spell and already have a companion, instead of making a new c
 If your companion is mistreated or harmed by you or any of your allies, or at their own discretion, they can choose to end their companionship to you, and you can similarly end this companionship at any time. If you already have a companion and target a new creature with this spell, the previous companionship ends. Otherwise, the companionship lasts until you or your companion dies.
 
 _**Using a Higher-Level Spell Slot.**_ When you cast this spell to summon your companion, it gains a number of Temporary Hit Points equal to five times the spell slot level.
+
+### _Gathering of the Elements_
+
+_Level 1 Evocation/Rhythmancy (Bard, Monk (Warrior of Song))_
+
+**Casting Time:** Action\
+**Range:** 30 feet\
+**Components:** V, S, M (a Musical Instrument worth 1+ GP)\
+**Duration:** Instantaneous
+
+You call the natural forces of the universe to your aid, summoning a mote of elemental energy from a distant realm and throwing it at a creature you can see within range. The target makes a Dexterity saving throw. On a failed save, the target takes damage and is subjected to a secondary effect based on the plane of existence from which the mote originates (you pick each time you cast this spell). On a successful save, it takes half the damage only and isn't subjected to the secondary effect.
+
+**Cloak of Night (Lower Planes).** The target takes 2d6 Necrotic damage and has Disadvantage on Wisdom saving throws until the end of its next turn.
+
+**The Forest for the Trees (Elemental Plane of Earth).** The target takes 2d6 Acid damage and has Disadvantage on ranged attacks until the end of its next turn.
+
+**The Icy Depths (Elemental Plane of Water).** The target takes 2d6 Cold damage and has Disadvantage on Strength saving throws until the end of its next turn.
+
+**Morning's Light (Upper Planes).** The target takes 2d6 Radiant damage and has Disadvantage on melee attacks until the end of its next turn.
+
+**Sabor de Fuego (Elemental Plane of Fire).** The target takes 2d6 Fire damage and starts burning.
+
+**The Spirit of the Wind (Elemental Plane of Air).** The target takes 2d6 Lightning damage and has Disadvantage on Dexterity saving throws until the end of its next turn.
+
+_**Using a Higher-Level Spell Slot.**_ You summon another mote for each spell slot level above 1. Each mote can originate from a different plane of existence you pick. A creature can be targeted only once by each casting of this spell.
 
 ### _The Hawk's Call_
 
