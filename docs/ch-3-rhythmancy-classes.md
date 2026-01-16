@@ -121,7 +121,7 @@ You have been trained to act as a living compendium of ancient knowledge, and ca
 
 You have engaged in the study of magic song and incorporated it into your combat training. You gain the following benefits.
 
-_**The Royal Decree.**_ Among the secrets you keep is a deep-seated authority granted to your monk sect by ancient royal families. You know _The Royal Decree_ spell. You can spend one Focus Point to cast it without any Verbal or Material components, bypassing the Musical Instrument requirement by lacing the music's magic seamlessly into your words.
+_**The Royal Decree.**_ Among the secrets you keep is a deep-seated authority granted to your monk sect by ancient royal families. You know _[The Royal Decree](ch-5-rhythmancy-spells.md#the-royal-decree)_ spell. You can spend one Focus Point to cast it without any Verbal or Material components, bypassing the Musical Instrument requirement by lacing the music's magic seamlessly into your words.
 
 _**Musical Mind.**_ You can cast level 1 Bard spells you have prepared, including Rhythmancy songs, by spending 1 Focus Point. You can cast Bard spells you have prepared at higher levels at a cost of 1 Focus Point per level increase (in addition to the initial Focus Point cost of casting the spell). The maximum number of Focus Points you can spend on casting a spell equals half your Monk level (round down).
 
@@ -149,7 +149,7 @@ As part of your training in ancient arts of secret-keeping, you know how to make
 
 ### Level 11: Songs of Travel
 
-You have learned secret songs that enable instantaneous long-distance travel. You always have the _Dimension Door_ and _Space Warp_ spells prepared. You can spend 5 Focus Points to cast either spell once without any Material components. Once you cast each spell using Focus Points, you regain the ability to do so when you finish a Long Rest.
+You have learned secret songs that enable instantaneous long-distance travel. You always have the _Dimension Door_ and _[Space Warp](ch-5-rhythmancy-spells.md#space-warp)_ spells prepared. You can spend 5 Focus Points to cast either spell once without any Material components. Once you cast each spell using Focus Points, you regain the ability to do so when you finish a Long Rest.
 
 ### Level 17: Music-Empowered Strikes
 
@@ -173,11 +173,11 @@ When you reach a Ranger level specified in the Wild Composer Spells table, you t
 
 | Ranger Level | Spells |
 |:------------:|:-------|
-| 3  | _The Hawk's Call_, _The Lost is Found_ |
-| 5  | _Song of Discovery_ |
-| 9  | _Wind's Requiem_ |
-| 13 | _Earth God's Lyric_ |
-| 17 | _Song of Healing_ |
+| 3  | _[The Hawk's Call](ch-5-rhythmancy-spells.md#the-hawks-call)_, _[The Lost is Found](ch-5-rhythmancy-spells.md#the-lost-is-found)_ |
+| 5  | _[No Stone Unturned](ch-5-rhythmancy-spells.md#no-stone-unturned)_ |
+| 9  | _[The Wind in My Sails](ch-5-rhythmancy-spells.md#the-wind-in-my-sails)_ |
+| 13 | _[The Sage of Earth's Calling](ch-5-rhythmancy-spells.md#the-sage-of-earths-calling)_ |
+| 17 | _[Healing Balm](ch-5-rhythmancy-spells.md#healing-balm)_ |
 
 ### Level 3: Music-Maker
 
