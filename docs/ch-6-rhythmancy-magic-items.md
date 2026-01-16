@@ -8,9 +8,9 @@ This document introduces a new category of magic items: instruments.
 
 ### Instruments
 
-Magic instruments function as regular musical instruments, but are imbued with additional arcane properties. Often such instruments provide access to rhythmantic songs, or enhance a rhythmancer's existing abilities.
+Magic Instruments function as regular musical instruments, but are imbued with additional arcane properties. Often such instruments provide access to rhythmantic songs, or enhance a rhythmancer's existing abilities.
 
-When used in worlds and settings where "instrument" does not exist as a magic item category, such magic items also count as wondrous items. Similarly, a wondrous item that can function as a musical instrument, such as the **Pipes of the Sewers**, also counts as an instrument magic item, as long as the wielder meets the item's proficiency requirements to play it.
+When used in worlds and settings where "Instrument" does not exist as a magic item category, such magic items also count as Wondrous Items. Similarly, a Wondrous Item that can function as a musical instrument, such as the **Pipes of the Sewers**, also counts as an Instrument magic item, as long as the wielder meets the item's proficiency requirements to play it.
 
 ##### Rhythmancy Magic Items
 
@@ -33,13 +33,13 @@ An Instrument of the Wild contains one or more spells based on its number of cha
 
 ##### Instrument of the Wild Rarity
 
-| Charges | Rhythmancy Spell    | Rarity    |
-|:-------:|:--------------------|:----------|
-| 1       | _The Lost is Found_ | Common    |
-| 2       | _Song of Discovery_ | Uncommon  |
-| 3       | _Wind's Requiem_    | Rare      |
-| 4       | _Earth God's Lyric_ | Very Rare |
-| 5       | _Song of Healing_   | Legendary |
+| Charges | Rhythmancy Spell    | Rarity |
+|:-------:|:--------------------|:-------|
+| 1       | _[The Lost is Found](ch-5-rhythmancy-spells.md#the-lost-is-found)_ | Common |
+| 2       | _[No Stone Unturned](ch-5-rhythmancy-spells.md#no-stone-unturned)_ | Uncommon |
+| 3       | _[The Wind in My Sails](ch-5-rhythmancy-spells.md#the-wind-in-my-sails)_ | Rare |
+| 4       | _[The Sage of Earth's Calling](ch-5-rhythmancy-spells.md#the-sage-of-earths-calling)_ | Very Rare |
+| 5       | _[Healing Balm](ch-5-rhythmancy-spells.md#healing-balm)_   | Legendary |
 
 ### Maracas of Holding
 
