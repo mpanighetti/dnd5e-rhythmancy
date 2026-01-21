@@ -47,6 +47,12 @@ In some cases, multiple rhythmancy spells are learned as a single song, existing
 | 8 | _[Cast Upon the Seas](#cast-upon-the-seas)_ | Conjuration/Rhythmancy | Bard | M |
 | 8 | _[Hold Back the Skies](#hold-back-the-skies)_ | Abjuration/Rhythmancy | Bard | M |
 
+### Optional: SRD Rhythmancy Spells
+
+At the GM's discretion, the following spells from the _SRD_ can be treated as Rhythmancy spells for the purpose of learning and preparing, casting using Rhythmancy Points, and any other mechanic that references Rhythmancy as a school of magic: _Animal Friendship_, _Animal Messenger_, _Calm Emotions_, _Charm Monster_, _Charm Person_, _Command_, _Color Spray_, _Dancing Lights_, _Dissonant Whispers_, _Dominate Beast_, _Dominate Monster_, _Dominate Person_, _Geas_, _Healing Word_, _Hideous Laughter_, _Hypnotic Pattern_, _Irresistible Dance_, _Mass Healing Word_, _Power Word Heal_, _Power Word Kill_, _Power Word Stun_, _Speak with Animals_, _Speak with Plants_, _Tongues_, and _Vicious Mockery_.
+
+This adds the same [component requirements](ch-2-casting-rhythmancy-spells.md#component-requirements) as other Rhythmancy spells, even if the spell normally has no such components.
+
 ## Spell Descriptions
 
 The spells are presented in alphabetical order.
