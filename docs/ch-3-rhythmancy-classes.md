@@ -2,13 +2,13 @@
 
 This chapter presents new subclasses with abilities centered around the use of rhythmancy magic:
 
-- **College of Legends:** A Bard who enhances magic with musical performance
+- **[College of Legends](#college-of-legends-bard):** A Bard who enhances magic with musical performance
 
-- **Reveler:** A Fighter who dances to the rhythm of magical song
+- **[Reveler](#reveler-fighter):** A Fighter who dances to the rhythm of magical song
 
-- **Warrior of Song:** A Monk imparting ancient knowledge through oral tradition
+- **[Warrior of Song](#warrior-of-song-monk):** A Monk imparting ancient knowledge through oral tradition
 
-- **Wild Composer:** A Ranger who crafts magical instruments to share the music of nature
+- **[Wild Composer](#wild-composer-ranger):** A Ranger who crafts magical instruments to share the music of nature
 
 ## College of Legends (Bard)
 
