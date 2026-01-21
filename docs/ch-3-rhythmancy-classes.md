@@ -153,7 +153,7 @@ You have learned secret songs that enable instantaneous long-distance travel. Yo
 
 ### Level 17: Music-Empowered Strikes
 
-You have learned how to weave arcane effects into your attacks. Once per turn, when you make an Unarmed Strike, in place of the normal options for its effect, you can cast a spell you have prepared. The spell must have a casting time of an action and a range of either touch or self. You can't cast a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after casting a spell in this way.
+You have learned how to weave arcane effects into your attacks. Once per turn, when you make an Unarmed Strike, in place of the normal options for its effect, you can cast a spell you have prepared. The spell must have a casting time of an action and a range of either touch or self.
 
 ## Wild Composer (Ranger)
 
