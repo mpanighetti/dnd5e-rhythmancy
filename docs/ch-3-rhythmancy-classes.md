@@ -123,7 +123,9 @@ You have engaged in the study of magic song and incorporated it into your combat
 
 _**The Royal Decree.**_ Among the secrets you keep is a deep-seated authority granted to your monk sect by ancient royal families. You know _[The Royal Decree](ch-5-rhythmancy-spells.md#the-royal-decree)_ spell. You can spend one Focus Point to cast it without any Verbal or Material components, bypassing the Musical Instrument requirement by lacing the music's magic seamlessly into your words.
 
-_**Musical Mind.**_ You can cast level 1 Bard spells you have prepared, including Rhythmancy songs, by spending 1 Focus Point. You can cast Bard spells you have prepared at higher levels at a cost of 1 Focus Point per level increase (in addition to the initial Focus Point cost of casting the spell). The maximum number of Focus Points you can spend on casting a spell equals half your Monk level (round down).
+_**Musical Mind.**_ You can cast level 1 Bard spells you have prepared, including Rhythmancy songs, by spending 1 Focus Point. You can spend additional Focus Points to increase the level of a Bard spell that you cast, provided that the spell has an enhanced effect at a higher level. The spell's level increases by 1 for each additional Focus Point you spend.
+
+The maximum number of Focus Points you can spend to cast a spell in this way (including its base Focus Point cost and any additional points you spend to increase its level) equals half your Monk level (round down).
 
 _**Prepared Level 1 Spells.**_ You prepare the list of level 1 spells that are available for you to cast with this feature. To start, choose three level 1 Bard spells.
 
