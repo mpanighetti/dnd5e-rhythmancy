@@ -30,7 +30,7 @@ If the casting of a spell using such features is subject to special rules and li
 
 ### Focus Points
 
-If a Monk feature allows spending Focus Points to cast a level 1+ spell, casting a Rhythmancy spell costs the same as that feature's spell of the same level. For example, casting _The Oncoming Storm_ using the Warrior of Shadows Monk's Shadow Arts feature would require spending 1 Focus Point.
+If a Monk feature allows spending Focus Points to cast a level 1+ spell, casting a Rhythmancy spell costs the same as that feature's spell of the same level. For example, casting _[The Oncoming Storm](ch-5-rhythmancy-spells.md#the-oncoming-storm)_ using the Warrior of Shadows Monk's Shadow Arts feature would require spending 1 Focus Point.
 
 Additional Focus Points can be spent to cast the spell at a higher level at a cost of 1 Focus Point per level increase, as long as the Monk already has the ability to cast a spell at that higher level using Focus Points.
 
