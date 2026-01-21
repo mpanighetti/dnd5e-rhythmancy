@@ -147,7 +147,7 @@ Additionally, you gain the ability to tap into the music of an unfamiliar enviro
 
 ### Level 11: Song of Leaf and Claw
 
-Your ear for the songs of the natural world allows you to channel your magic through that musical structure. If you prepare any of the following Ranger spells, they are also considered to be Rhythmancy spells: _Animal Friendship_, _Beast Bond_, _Locate Animals or Plants_, _Speak with Animals_, and _Speak with Plants_. If you cast one of these spells using Rhythmancy Points or **Instrument of the Wild** charges, the Rhythmancy Point and instrument charge cost is reduced by 1.
+Your ear for the songs of the natural world allows you to channel your magic through that musical structure. If you prepare any of the following Ranger spells, they are also considered to be Rhythmancy spells: _Animal Friendship_, _Locate Animals or Plants_, _Speak with Animals_, and _Speak with Plants_. If you cast one of these spells using Rhythmancy Points or **Instrument of the Wild** charges, the Rhythmancy Point and instrument charge cost is reduced by 1.
 
 In addition, when you cast a Rhythmancy spell with a casting time of 1 action, you can make a weapon attack as a Bonus Action.
 
