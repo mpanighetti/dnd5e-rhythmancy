@@ -111,7 +111,7 @@ _Impart Wisdom through Ancient Melody_
 >
 > — Sheik, _The Legend of Zelda: Ocarina of Time_
 
-Within most monasteries, one Monk chooses to train as a Warrior of Song, acting as the keeper of the organization's sacred techniques and communal knowledge. This individual knows when to keep such information—often encoded within rhythmantic compositions and poems—under their careful watch, and when to share this knowledge with heroes who would use it to strike down the great evils threatening the order of the world. Eventually this includes the knowledge of magical teleportation.
+In some monasteries, a single Monk will choose to train as a Warrior of Song, acting as the keeper of the organization's sacred techniques and communal knowledge. This individual knows when to keep such information—often encoded within rhythmantic compositions and poems—under their careful watch, and when to share this knowledge with heroes who would use it to strike down the great evils threatening the order of the world.
 
 ### Level 3: Keeper of Secrets
 
@@ -143,7 +143,7 @@ _**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Foc
 
 When you find a worthy ally, you can impart a portion of your wisdom to aid them on their quest. As a Magic action, you can expend one Focus Point and touch a willing creature to grant it the ability to cast one Rhythmancy spell of your choice that you have prepared. It can cast this spell by expending the required number of your Focus Points, or by using a spell slot of the appropriate level or sufficient Rhythmancy Points it possesses. The creature must be on the same plane of existence as you to cast one of your spells in this manner. The spell uses your spellcasting ability and Proficiency Bonus when the target casts it.
 
-This effect lasts until the creature casts your spell. You can also end the effect at any time (no action required).
+This effect lasts until either the creature casts your spell or you finish a Long Rest. You can also end the effect at any time (no action required).
 
 ### Level 6: Vanish
 
