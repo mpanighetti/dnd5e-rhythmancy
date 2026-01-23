@@ -30,23 +30,21 @@ If the casting of a spell using such features is subject to special rules and li
 
 ### Focus Points
 
-If a monk feature requires spending Focus Points to cast a spell of level 1 or higher, the cost of casting a rhythmancy spell is a number of Focus Points equal to 1 + the spell's level. For example, casting _Song of Storms_ using the Empty Body feature would require spending 3 Focus Points.
+If a Monk feature allows spending Focus Points to cast a level 1+ spell, casting a Rhythmancy spell costs the same as that feature's spell of the same level. For example, casting _[The Oncoming Storm](ch-5-rhythmancy-spells.md#the-oncoming-storm)_ using the Warrior of Shadows Monk's Shadow Arts feature would require spending 1 Focus Point.
 
-Additional Focus Points can be spent to cast the spell at a higher level at a cost of 1 Focus Point per level increase, as long as you already have the ability to cast a spell at that level using Focus Points.
+Additional Focus Points can be spent to cast the spell at a higher level at a cost of 1 Focus Point per level increase, as long as the Monk already has the ability to cast a spell at that higher level using Focus Points.
 
 ### Limited Uses
 
 If the feature or trait requires spending from a limited number of charges to cast spells, casting a rhythmancy spell costs the same as another spell of the same level or higher.
 
-If the feature or trait allows casting spells of level 1 or higher once before requiring a rest to recharge (such as the Infernal Legacy trait), the rhythmancy spell can be selected in place of the existing spell options, expending the spell use as if it were the existing spell.
+If the feature or trait allows casting spells of level 1 or higher once before requiring a rest to recharge (such as the Tiefling's Infernal Legacy trait), the rhythmancy spell can be selected in place of the existing spell options, expending the spell use as if it were the existing spell.
 
 If the feature or trait allows casting a spell of level 1 or higher an unlimited number of times, you can choose to cast a rhythmancy spell of the same spell level or lower once with this trait. Once you cast it, you can't do so again until you finish a Long Rest, but you can continue to use the default spell from this trait as normal.
 
 ### Spell Limitations
 
-If a feature or trait imposes any other limitations on casting its existing spells, the rhythmancy spell must follow those same limitations. For example, the Empty Body feature doesn't allow taking creatures with you when casting _Astral Projection_, so a rhythmancy spell cast in this manner also cannot take creatures with you if it normally has this ability.
-
-If the spell cannot be used with the feature's limitations, it cannot be learned in this manner. For example, the Ascendant Step eldritch invocation only allows casting _Levitate_ on yourself, so if a rhythmancy spell is unable to target yourself, you cannot learn it using Ascendant Step.
+If a feature or trait imposes any limitations on casting its existing spells, the Rhythmancy spell must follow those same limitations. For example, the Warlock's Ascendant Step feature only allows casting _Levitate_ on yourself, so a Rhythmancy spell cast using this feature similarly must be cast targeting yourself. If the Rhythmancy spell is unable to follow these limitations, it cannot be learned using this feature.
 
 ## Duets
 

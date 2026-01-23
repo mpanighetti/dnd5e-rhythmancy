@@ -2,11 +2,13 @@
 
 This chapter presents new subclasses with abilities centered around the use of rhythmancy magic:
 
-- **College of Legends:** A Bard who enhances magic with musical performance
+- **[College of Legends](#college-of-legends-bard):** A Bard who enhances magic with musical performance
 
-- **Reveler:** A Fighter who dances to the rhythm of magical song
+- **[Reveler](#reveler-fighter):** A Fighter who dances to the rhythm of magical song
 
-- **Wild Composer:** A Ranger who crafts magical instruments to share the music of nature
+- **[Warrior of Song](#warrior-of-song-monk):** A Monk imparting ancient knowledge through oral tradition
+
+- **[Wild Composer](#wild-composer-ranger):** A Ranger who crafts magical instruments to share the music of nature
 
 ## College of Legends (Bard)
 
@@ -101,6 +103,60 @@ Additionally, when you take the Attack action on your turn, you can replace one 
 
 Whenever you finish a Long Rest, you can replace the spell you chose for this feature with a different level 1 Bard spell you have prepared with a casting time of an action.
 
+## Warrior of Song (Monk)
+
+_Impart Wisdom through Ancient Melody_
+
+> Time passes, people move, like a river's flow, it never ends. A childish mind will turn to noble ambition. Young love will become deep affection. The clear water's surface reflects growth. Now listen to the serenade of water and reflect upon yourself.
+>
+> — Sheik, _The Legend of Zelda: Ocarina of Time_
+
+In some monasteries, a single Monk will choose to train as a Warrior of Song, acting as the keeper of the organization's sacred techniques and communal knowledge. This individual knows when to keep such information—often encoded within rhythmantic compositions and poems—under their careful watch, and when to share this knowledge with heroes who would use it to strike down the great evils threatening the order of the world.
+
+### Level 3: Keeper of Secrets
+
+You have been trained to act as a living compendium of ancient knowledge, and can recite it on command. You gain Proficiency in a skill of your choice from the following list: Arcana, History, Nature, or Religion. You also have Expertise in the chosen skill. Whenever you finish a Long Rest, you can replace the selected skill with another skill of your choice from the above list, as you study your long memory and resurface other ancient secrets of song.
+
+### Level 3: Rhythmancy Warrior
+
+You have engaged in the study of magic song and incorporated it into your combat training. You gain the following benefits.
+
+_**The Royal Decree.**_ Among the secrets you keep is a deep-seated authority granted to your monk sect by ancient royal families. You know _[The Royal Decree](ch-5-rhythmancy-spells.md#the-royal-decree)_ spell. You can spend one Focus Point to cast it without any Verbal or Material components, bypassing the Musical Instrument requirement by lacing the music's magic seamlessly into your words.
+
+_**Musical Mind.**_ You can cast level 1 Bard spells you have prepared, including Rhythmancy songs, by spending 1 Focus Point. You can spend additional Focus Points to increase the level of a Bard spell that you cast, provided that the spell has an enhanced effect at a higher level. The spell's level increases by 1 for each additional Focus Point you spend.
+
+The maximum number of Focus Points you can spend to cast a spell in this way (including its base Focus Point cost and any additional points you spend to increase its level) equals half your Monk level (round down).
+
+_**Prepared Level 1 Spells.**_ You prepare the list of level 1 spells that are available for you to cast with this feature. To start, choose three level 1 Bard spells.
+
+If another Warrior of Song feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you.
+
+_**Changing Your Prepared Spells.**_ Whenever you gain a Monk level, you can replace one spell on your list with another level 1 Bard spell.
+
+_**Spellcasting Ability.**_ Wisdom is your spellcasting ability for your Bard spells.
+
+_**Instrument Training.**_ You gain Proficiency with a Musical Instrument of your choice.
+
+_**Spellcasting Focus.**_ You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
+
+### Level 6: Shared Story
+
+When you find a worthy ally, you can impart a portion of your wisdom to aid them on their quest. As a Magic action, you can expend one Focus Point and touch a willing creature to grant it the ability to cast one Rhythmancy spell of your choice that you have prepared. It can cast this spell by expending the required number of your Focus Points, or by using a spell slot of the appropriate level or sufficient Rhythmancy Points it possesses. The creature must be on the same plane of existence as you to cast one of your spells in this manner. The spell uses your spellcasting ability and Proficiency Bonus when the target casts it.
+
+This effect lasts until either the creature casts your spell or you finish a Long Rest. You can also end the effect at any time (no action required).
+
+### Level 6: Vanish
+
+As part of your training in ancient arts of secret-keeping, you know how to make a quick exit. You always have the _Misty Step_ spell prepared and can cast it by spending 1 Focus Point. Additionally, you can choose to cast _Misty Step_ as a Reaction triggered when a creature you can see hits you with an attack, causing the attack to miss.
+
+### Level 11: Songs of Travel
+
+You have learned secret songs that enable instantaneous long-distance travel. You always have the _Dimension Door_ and _[Space Warp](ch-5-rhythmancy-spells.md#space-warp)_ spells prepared. You can spend 5 Focus Points to cast either spell once without any Material components. Once you cast each spell using Focus Points, you regain the ability to do so when you finish a Long Rest.
+
+### Level 17: Music-Empowered Strikes
+
+You have learned how to weave arcane effects into your attacks. Once per turn, when you make an Unarmed Strike, in place of the normal options for its effect, you can cast a spell you have prepared. The spell must have a casting time of an action and a range of either touch or self.
+
 ## Wild Composer (Ranger)
 
 _Share Nature's Song in Magic Instruments_
@@ -119,11 +175,11 @@ When you reach a Ranger level specified in the Wild Composer Spells table, you t
 
 | Ranger Level | Spells |
 |:------------:|:-------|
-| 3  | _The Hawk's Call_, _The Lost is Found_ |
-| 5  | _Song of Discovery_ |
-| 9  | _Wind's Requiem_ |
-| 13 | _Earth God's Lyric_ |
-| 17 | _Song of Healing_ |
+| 3  | _[The Hawk's Call](ch-5-rhythmancy-spells.md#the-hawks-call)_, _[The Lost is Found](ch-5-rhythmancy-spells.md#the-lost-is-found)_ |
+| 5  | _[No Stone Unturned](ch-5-rhythmancy-spells.md#no-stone-unturned)_ |
+| 9  | _[The Wind in My Sails](ch-5-rhythmancy-spells.md#the-wind-in-my-sails)_ |
+| 13 | _[The Sage of Earth's Calling](ch-5-rhythmancy-spells.md#the-sage-of-earths-calling)_ |
+| 17 | _[Healing Balm](ch-5-rhythmancy-spells.md#healing-balm)_ |
 
 ### Level 3: Music-Maker
 
